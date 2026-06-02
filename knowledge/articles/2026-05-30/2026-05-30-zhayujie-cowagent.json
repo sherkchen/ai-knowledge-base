@@ -1,0 +1,21 @@
+{
+  "id": "github-20260530-012",
+  "title": "zhayujie/CowAgent",
+  "source": "github_trending",
+  "source_url": "https://github.com/zhayujie/CowAgent",
+  "summary": "开源超级AI助手，三级记忆架构+任务规划+技能市场，9大IM通道全覆盖",
+  "highlights": [
+    "三级记忆架构(上下文/日/核心)，个人知识库，技能市场",
+    "任务规划与MCP集成，多模型支持",
+    "9大IM通道(微信/飞书/钉钉等)，Python实现"
+  ],
+  "tags": ["agent", "multi-channel", "memory", "mcp", "assistant"],
+  "relevance_score": 7,
+  "score_reason": "最全面的开源AI助手框架之一，IM多通道覆盖和三级记忆架构实用性极强。",
+  "author": null,
+  "published_at": "2022-08-07T08:33:41Z",
+  "fetched_at": "2026-05-30T12:00:00Z",
+  "status": "draft",
+  "category": "tool",
+  "channels": ["telegram", "feishu"]
+}

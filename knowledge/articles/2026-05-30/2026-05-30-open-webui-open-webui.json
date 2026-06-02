@@ -1,0 +1,21 @@
+{
+  "id": "github-20260530-003",
+  "title": "open-webui/open-webui",
+  "source": "github_trending",
+  "source_url": "https://github.com/open-webui/open-webui",
+  "summary": "自托管AI对话界面，支持Ollama/OpenAI等多模型后端，内置RAG引擎和插件框架",
+  "highlights": [
+    "完全离线自托管，支持Ollama和OpenAI兼容API",
+    "内置RAG推理引擎，9种向量数据库，15+搜索提供商",
+    "PWA移动端、Pipelines插件框架、音视频通话"
+  ],
+  "tags": ["self-hosted", "webui", "rag", "ollama", "multi-modal"],
+  "relevance_score": 7,
+  "score_reason": "最成熟的自托管AI界面平台，丰富的插件和集成生态，隐私友好，实用价值突出。",
+  "author": null,
+  "published_at": "2023-10-06T22:08:27Z",
+  "fetched_at": "2026-05-30T12:00:00Z",
+  "status": "draft",
+  "category": "tool",
+  "channels": ["telegram", "feishu"]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "github-20260530-001",
+  "title": "NousResearch/hermes-agent",
+  "source": "github_trending",
+  "source_url": "https://github.com/NousResearch/hermes-agent",
+  "summary": "自适应成长型AI智能体框架，内置学习闭环使Agent从经验中自我改进，支持技能系统和多通道通讯",
+  "highlights": [
+    "内置学习闭环，从经验中创建技能并自我改进",
+    "FTS5自主记忆搜索，跨平台多通道即时通讯(Telegram/Discord/Slack等)",
+    "agentskills.io开放标准，cron定时自动化，6种终端后端"
+  ],
+  "tags": ["agent", "self-evolving", "multi-channel", "skills", "memory"],
+  "relevance_score": 10,
+  "score_reason": "自进化Agent范式级创新，闭合学习循环使Agent能从经验中自主成长，开创了AI Agent自我改进的新路径。",
+  "author": null,
+  "published_at": "2025-07-22T22:22:28Z",
+  "fetched_at": "2026-05-30T12:00:00Z",
+  "status": "draft",
+  "category": "tool",
+  "channels": ["telegram", "feishu"]
+}

@@ -1,0 +1,320 @@
+{
+  "meta": {
+    "source_file": "knowledge/raw/github-trending-2026-05-30.json",
+    "analyzed_at": "2026-05-30T12:00:00Z",
+    "total_items": 15,
+    "score_distribution": {
+      "9-10": 2,
+      "7-8": 8,
+      "5-6": 5,
+      "1-4": 0
+    }
+  },
+  "trends": {
+    "common_themes": [
+      {
+        "theme": "超级智能体框架 (Super Agent Harness)",
+        "evidence": [
+          "NousResearch/hermes-agent",
+          "zhayujie/CowAgent",
+          "bytedance/deer-flow",
+          "HKUDS/nanobot"
+        ],
+        "description": "集自进化学习、记忆管理、技能系统、多通道通讯于一体的完整智能体运行时，超越了传统框架的定义"
+      },
+      {
+        "theme": "AI开发平台与低代码 (AI Dev Platform & Low-Code)",
+        "evidence": [
+          "langgenius/dify",
+          "langchain-ai/langchain",
+          "jeecgboot/JeecgBoot"
+        ],
+        "description": "通过可视化编排、低代码/零代码方式降低AI应用开发门槛，覆盖从构建到部署的全流程"
+      },
+      {
+        "theme": "RAG与知识增强 (RAG & Knowledge Augmentation)",
+        "evidence": [
+          "mem0ai/mem0",
+          "run-llama/llama_index",
+          "Mintplex-Labs/anything-llm",
+          "pathwaycom/llm-app",
+          "open-webui/open-webui",
+          "milvus-io/milvus"
+        ],
+        "description": "检索增强生成已从功能特性演进为独立产品层，涵盖记忆管理、文档解析、向量检索、实时数据同步全链路"
+      },
+      {
+        "theme": "LLM微调与推理加速 (LLM Fine-tuning)",
+        "evidence": [
+          "hiyouga/LlamaFactory"
+        ],
+        "description": "高效微调框架持续降低模型定制门槛，从LoRA到Unsloth，覆盖上百种模型和多种训练范式"
+      }
+    ],
+    "new_concepts": [
+      {
+        "concept": "自进化Agent (Self-Evolving Agent)",
+        "description": "Agent闭合学习循环：从交互经验中自动提炼技能、在使用中自我改进、通过自主记忆蒸馏持续成长。hermes-agent是首个将此理念产品化的项目，标志着AI Agent从被动工具向主动成长体的范式转变。",
+        "related_items": [
+          "NousResearch/hermes-agent"
+        ]
+      },
+      {
+        "concept": "超级智能体线束 (Super Agent Harness)",
+        "description": "deer-flow定义了超越传统Agent框架的新品类：开箱即用的全栈运行时，统一编排子智能体、沙箱执行环境、长期记忆和技能系统，将Agent从\"需要组装的零件\"升级为\"直接可用的完整系统\"。",
+        "related_items": [
+          "bytedance/deer-flow"
+        ]
+      },
+      {
+        "concept": "智能体通用记忆层 (Universal Memory Layer)",
+        "description": "mem0将记忆从Agent的内嵌功能抽象为独立的通用基础设施层，任何AI Agent均可接入。多信号检索（语义+BM25+实体匹配）和时态推理能力使其不仅仅是存储，更是智能化的上下文管理引擎。",
+        "related_items": [
+          "mem0ai/mem0"
+        ]
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "github-trending-NousResearch-hermes-agent",
+      "title": "NousResearch/hermes-agent",
+      "source": "github_trending",
+      "source_url": "https://github.com/NousResearch/hermes-agent",
+      "summary": "自适应成长型AI智能体框架，开源社区最热Agent项目",
+      "highlights": [
+        "内置学习闭环，从经验中创建技能并自我改进",
+        "FTS5自主记忆搜索，跨平台多通道即时通讯(Telegram/Discord/Slack等)",
+        "agentskills.io开放标准，cron定时自动化，6种终端后端"
+      ],
+      "relevance_score": 10,
+      "score_reason": "自进化Agent范式级创新，闭合学习循环使Agent能从经验中自主成长，开创了AI Agent自我改进的新路径。",
+      "tags": ["agent", "self-evolving", "multi-channel", "skills", "memory"],
+      "category": "tool"
+    },
+    {
+      "id": "github-trending-langgenius-dify",
+      "title": "langgenius/dify",
+      "source": "github_trending",
+      "source_url": "https://github.com/langgenius/dify",
+      "summary": "生产级智能体工作流平台，可视化编排AI应用全流程",
+      "highlights": [
+        "可视化画布编排AI工作流，内置50+工具和数百种LLM支持",
+        "RAG管道与提示词IDE，LLMOps可观测性",
+        "BaaS API支持Docker Compose部署"
+      ],
+      "relevance_score": 9,
+      "score_reason": "最全面的生产级智能体平台，从可视化构建到部署运维一站式覆盖，实用性和完整性行业领先。",
+      "tags": ["workflow", "low-code", "rag", "llmops", "platform"],
+      "category": "tool"
+    },
+    {
+      "id": "github-trending-open-webui-open-webui",
+      "title": "open-webui/open-webui",
+      "source": "github_trending",
+      "source_url": "https://github.com/open-webui/open-webui",
+      "summary": "自托管AI对话界面，支持Ollama/OpenAI等多模型后端",
+      "highlights": [
+        "完全离线自托管，支持Ollama和OpenAI兼容API",
+        "内置RAG推理引擎，9种向量数据库，15+搜索提供商",
+        "PWA移动端、Pipelines插件框架、音视频通话"
+      ],
+      "relevance_score": 7,
+      "score_reason": "最成熟的自托管AI界面平台，丰富的插件和集成生态，隐私友好，实用价值突出。",
+      "tags": ["self-hosted", "webui", "rag", "ollama", "multi-modal"],
+      "category": "tool"
+    },
+    {
+      "id": "github-trending-langchain-ai-langchain",
+      "title": "langchain-ai/langchain",
+      "source": "github_trending",
+      "source_url": "https://github.com/langchain-ai/langchain",
+      "summary": "智能体工程化平台，LLM应用开发的事实标准框架",
+      "highlights": [
+        "LLM应用开发事实标准框架，统一模型/嵌入/向量存储接口",
+        "Deep Agents、LangGraph、LangSmith全生态覆盖",
+        "Python与TypeScript双语言支持，MIT开源"
+      ],
+      "relevance_score": 7,
+      "score_reason": "LLM应用开发的基础设施级框架，生态完善且持续演进，实用价值稳固但创新速度放缓。",
+      "tags": ["framework", "llm", "agents", "langgraph", "rag"],
+      "category": "tool"
+    },
+    {
+      "id": "github-trending-hiyouga-LlamaFactory",
+      "title": "hiyouga/LlamaFactory",
+      "source": "github_trending",
+      "source_url": "https://github.com/hiyouga/LlamaFactory",
+      "summary": "统一高效微调框架，一键微调上百种大语言及视觉模型",
+      "highlights": [
+        "支持100+LLM与VLM，覆盖预训练/SFT/RLHF/DPO全流程",
+        "LoRA/QLoRA/GaLore/FlashAttention-2/Unsloth高效方法",
+        "零代码CLI和Web UI，ACL 2024论文，Apache 2.0"
+      ],
+      "relevance_score": 7,
+      "score_reason": "最全面的一站式微调框架，上百模型支持与零代码体验兼备，对模型定制需求实用价值极高。",
+      "tags": ["fine-tuning", "lora", "llm", "training", "rlhf"],
+      "category": "tool"
+    },
+    {
+      "id": "github-trending-bytedance-deer-flow",
+      "title": "bytedance/deer-flow",
+      "source": "github_trending",
+      "source_url": "https://github.com/bytedance/deer-flow",
+      "summary": "字节开源长程超级智能体，可自主研究编码与内容创作",
+      "highlights": [
+        "字节跳动开源超级智能体线束，v2版本基于LangGraph/LangChain全面重写",
+        "子智能体编排、沙箱执行(Docker/K8s/本地)、上下文工程、长期记忆",
+        "6大IM通道、Claude Code集成、技能系统，MIT开源"
+      ],
+      "relevance_score": 8,
+      "score_reason": "定义了超级智能体线束新品类，完备的子智能体、沙箱和记忆体系，实用性和创新性兼备。",
+      "tags": ["agent", "super-agent", "orchestration", "sandbox", "multi-channel"],
+      "category": "tool"
+    },
+    {
+      "id": "github-trending-Mintplex-Labs-anything-llm",
+      "title": "Mintplex-Labs/anything-llm",
+      "source": "github_trending",
+      "source_url": "https://github.com/Mintplex-Labs/anything-llm",
+      "summary": "全能AI加速器，本地部署隐私优先的多模型桌面工具",
+      "highlights": [
+        "动态模型路由与智能技能选择，多模态支持",
+        "无代码Agent构建器，MCP兼容，自动记忆与定时任务",
+        "支持数十种LLM/嵌入器/向量数据库，多用户管理"
+      ],
+      "relevance_score": 7,
+      "score_reason": "功能齐全的本地AI工作空间，无代码构建降低门槛，多用户支持适合团队使用。",
+      "tags": ["local-llm", "rag", "no-code", "mcp", "multi-modal"],
+      "category": "tool"
+    },
+    {
+      "id": "github-trending-pathwaycom-llm-app",
+      "title": "pathwaycom/llm-app",
+      "source": "github_trending",
+      "source_url": "https://github.com/pathwaycom/llm-app",
+      "summary": "开箱即用RAG云模板，实时流数据驱动的AI管道框架",
+      "highlights": [
+        "Docker即开即用的RAG与AI管道模板",
+        "实时数据同步：SharePoint/Google Drive/S3/Kafka/PostgreSQL",
+        "Pathway Live Data框架(Python+Rust引擎)，内置向量与全文索引"
+      ],
+      "relevance_score": 6,
+      "score_reason": "实用的RAG快速部署方案，实时数据同步能力突出，适合企业级实时AI应用快速起步。",
+      "tags": ["rag", "real-time", "docker", "data-pipeline", "vector"],
+      "category": "tool"
+    },
+    {
+      "id": "github-trending-mem0ai-mem0",
+      "title": "mem0ai/mem0",
+      "source": "github_trending",
+      "source_url": "https://github.com/mem0ai/mem0",
+      "summary": "AI智能体通用记忆层，赋予Agent持久化上下文能力",
+      "highlights": [
+        "2026年4月新算法：LoCoMo 91.6分，LongMemEval 94.8分",
+        "多级记忆(用户/会话/智能体)，单次ADD提取，实体链接",
+        "多信号检索(语义+BM25+实体匹配)，时态推理，Apache 2.0"
+      ],
+      "relevance_score": 8,
+      "score_reason": "将记忆从Agent功能提升为独立通用基础设施层，新算法性能领先，对构建持久化智能体至关重要。",
+      "tags": ["memory", "agents", "rag", "long-term", "retrieval"],
+      "category": "tool"
+    },
+    {
+      "id": "github-trending-run-llama-llama_index",
+      "title": "run-llama/llama_index",
+      "source": "github_trending",
+      "source_url": "https://github.com/run-llama/llama_index",
+      "summary": "文档智能体与OCR平台，RAG数据领域领导者",
+      "highlights": [
+        "开源文档Agent与OCR框架，Parse支持130+格式",
+        "LlamaHub 300+数据连接器/索引/检索集成",
+        "企业平台含Parse/Extract/Index/Agents全链路"
+      ],
+      "relevance_score": 5,
+      "score_reason": "RAG领域的成熟框架和文档解析领导者，生态丰富但核心架构趋于稳定，创新力减弱。",
+      "tags": ["rag", "framework", "ocr", "data-connectors", "indexing"],
+      "category": "tool"
+    },
+    {
+      "id": "github-trending-jeecgboot-JeecgBoot",
+      "title": "jeecgboot/JeecgBoot",
+      "source": "github_trending",
+      "source_url": "https://github.com/jeecgboot/JeecgBoot",
+      "summary": "AI低代码/零代码双驱动平台，一句话生成完整业务系统",
+      "highlights": [
+        "一句话生成代码/工作流/表单/报表，AI对话+知识库+工作流编排",
+        "Spring Boot 3 + Vue3 + MyBatisPlus技术栈，MCP插件",
+        "ChatGPT/DeepSeek/Ollama多模型支持，Apache 2.0"
+      ],
+      "relevance_score": 6,
+      "score_reason": "AI+低代码的实用融合方案，尤其适合企业快速构建业务系统，技术栈传统但落地性强。",
+      "tags": ["low-code", "spring-boot", "vue", "code-generation", "mcp"],
+      "category": "tool"
+    },
+    {
+      "id": "github-trending-zhayujie-CowAgent",
+      "title": "zhayujie/CowAgent",
+      "source": "github_trending",
+      "source_url": "https://github.com/zhayujie/CowAgent",
+      "summary": "开源超级AI助手，任务规划+工具调用+自主记忆成长",
+      "highlights": [
+        "三级记忆架构(上下文/日/核心)，个人知识库，技能市场",
+        "任务规划与MCP集成，多模型支持",
+        "9大IM通道(微信/飞书/钉钉等)，Python实现"
+      ],
+      "relevance_score": 7,
+      "score_reason": "最全面的开源AI助手框架之一，IM多通道覆盖和三级记忆架构实用性极强。",
+      "tags": ["agent", "multi-channel", "memory", "mcp", "assistant"],
+      "category": "tool"
+    },
+    {
+      "id": "github-trending-milvus-io-milvus",
+      "title": "milvus-io/milvus",
+      "source": "github_trending",
+      "source_url": "https://github.com/milvus-io/milvus",
+      "summary": "高性能云原生向量数据库，AI检索增强核心基础设施",
+      "highlights": [
+        "Go+C++编写，云原生分布式架构，CPU/GPU硬件加速",
+        "多种向量索引(HNSW/IVF/DiskANN)，全文搜索BM25，混合搜索",
+        "LF AI & Data基金会项目，RBAC与TLS加密"
+      ],
+      "relevance_score": 7,
+      "score_reason": "RAG基础设施的核心组件，高性能向量检索和混合搜索能力是AI应用的必要支撑。",
+      "tags": ["vector-database", "cloud-native", "rag", "search", "infrastructure"],
+      "category": "tool"
+    },
+    {
+      "id": "github-trending-HKUDS-nanobot",
+      "title": "HKUDS/nanobot",
+      "source": "github_trending",
+      "source_url": "https://github.com/HKUDS/nanobot",
+      "summary": "港大开源轻量AI智能体，无缝集成工具对话与工作流",
+      "highlights": [
+        "极简可读核心Agent循环，受OpenClaw和Claude Code启发",
+        "多聊天通道(Telegram/Discord/飞书等)，WebUI",
+        "记忆/MCP/OpenAI兼容API/Python SDK/Docker部署"
+      ],
+      "relevance_score": 6,
+      "score_reason": "轻量级Agent入门良品，代码可读性强适合学习研究，但功能深度和成熟度不及其他项目。",
+      "tags": ["agent", "lightweight", "multi-channel", "mcp", "openai-api"],
+      "category": "tool"
+    },
+    {
+      "id": "github-trending-ZhuLinsen-daily_stock_analysis",
+      "title": "ZhuLinsen/daily_stock_analysis",
+      "source": "github_trending",
+      "source_url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "summary": "LLM驱动A/H/美股智能分析，零成本多源自动决策",
+      "highlights": [
+        "AI决策仪表盘(评分+风险预警)，多市场数据聚合",
+        "15+Agent策略问答，GitHub Actions零成本自动部署",
+        "微信/飞书/Telegram等多通道推送"
+      ],
+      "relevance_score": 5,
+      "score_reason": "LLM在量化金融领域的精良应用，零成本部署策略值得借鉴，但领域过于垂直。",
+      "tags": ["finance", "stock", "agent", "quantitative", "multi-channel"],
+      "category": "tool"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "github-20260530-004",
+  "title": "langchain-ai/langchain",
+  "source": "github_trending",
+  "source_url": "https://github.com/langchain-ai/langchain",
+  "summary": "LLM应用开发事实标准框架，统一模型接口，Deep Agents+LangGraph+LangSmith全生态覆盖",
+  "highlights": [
+    "LLM应用开发事实标准框架，统一模型/嵌入/向量存储接口",
+    "Deep Agents、LangGraph、LangSmith全生态覆盖",
+    "Python与TypeScript双语言支持，MIT开源"
+  ],
+  "tags": ["framework", "llm", "agents", "langgraph", "rag"],
+  "relevance_score": 7,
+  "score_reason": "LLM应用开发的基础设施级框架，生态完善且持续演进，实用价值稳固但创新速度放缓。",
+  "author": null,
+  "published_at": "2022-10-17T02:58:36Z",
+  "fetched_at": "2026-05-30T12:00:00Z",
+  "status": "draft",
+  "category": "tool",
+  "channels": ["telegram", "feishu"]
+}
