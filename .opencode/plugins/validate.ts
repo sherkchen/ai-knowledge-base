@@ -1,6 +1,7 @@
 import type { Plugin } from "@opencode-ai/plugin";
+import { resolve } from "path";
 
-export const ValidatePlugin: Plugin = async ({ $ }) => {
+export const ValidatePlugin: Plugin = async ({ directory, $ }) => {
   return {
     "tool.execute.after": async (ctx, _output) => {
       if (ctx.tool !== "write" && ctx.tool !== "edit") return;
@@ -18,16 +19,15 @@ export const ValidatePlugin: Plugin = async ({ $ }) => {
 
       if (!isArticle) return;
 
-      try {
-        const result =
-          await $`python3 hooks/validate_json.py ${filePath}`.nothrow();
-        if (result.exitCode !== 0) {
-          console.warn(
-            `[validate] validation failed for ${filePath} (exit ${result.exitCode})\n${result.text()}`
-          );
-        }
-      } catch (err) {
-        console.warn(`[validate] unexpected error for ${filePath}:`, err);
+      const absoluteFilePath = resolve(directory, filePath);
+      const scriptPath = resolve(directory, "hooks/validate_json.py");
+      const result =
+        await $`python3 ${scriptPath} ${absoluteFilePath}`.nothrow();
+
+      if (result.exitCode !== 0) {
+        throw new Error(
+          `[validate] validation failed for ${filePath}\n${result.stdout}\n${result.stderr}`
+        );
       }
     },
   };
