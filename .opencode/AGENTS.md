@@ -58,6 +58,11 @@ ai-knowledge-base/
   "source_url": "https://github.com/example/project",
   "collected_at": "2026-03-01T10:00:00Z",
   "summary": "一句话中文摘要（不超过 100 字）",
+  "highlights": [
+    "开源文档Agent与OCR框架，Parse支持130+格式",
+    "LlamaHub 300+数据连接器/索引/检索集成",
+    "企业平台含Parse/Extract/Index/Agents全链路"
+  ],
   "analysis": {
     "tech_highlights": ["多 Agent 路由", "50+ 平台支持"],
     "relevance_score": 9
