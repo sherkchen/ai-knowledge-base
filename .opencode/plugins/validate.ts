@@ -10,9 +10,13 @@ export const ValidatePlugin: Plugin = async ({ $ }) => {
 
       if (!filePath || typeof filePath !== "string") return;
 
-      if (!filePath.startsWith("knowledge/articles/") || !filePath.endsWith(".json")) {
-        return;
-      }
+      if (!filePath.endsWith(".json")) return;
+
+      const isArticle =
+        filePath.startsWith("knowledge/articles/") ||
+        filePath.includes("/knowledge/articles/");
+
+      if (!isArticle) return;
 
       try {
         const result =

@@ -1,15 +1,20 @@
 {
   "id": "harness-20260603-001",
-  "title": "Harness: 企业级 CI/CD 与 AI 驱动的软件交付平台",
-  "source": "manual",
+  "title": "Harness: 一站式软件交付平台",
+  "source": "github-trending",
   "source_url": "https://github.com/harness/harness",
   "collected_at": "2026-06-03T10:00:00Z",
-  "summary": "Harness 是企业级软件交付平台，通过 AI/ML 实现 CI/CD、Feature Flags、云成本管理等功能的全流程自动化。",
+  "summary": "Harness 是开源软件交付平台，提供 CI/CD、Feature Flags、云成本管理、混沌工程等全链路工具链。",
+  "highlights": [
+    "内置 AI 驱动的 CI/CD 流水线优化",
+    "Feature Flags 支持渐进式发布和 A/B 测试",
+    "Cloud Cost Management 实时追踪多云成本",
+    "混沌工程模块支持生产环境故障注入验证"
+  ],
   "analysis": {
-    "tech_highlights": ["AI 驱动的 CI/CD 流水线", "Feature Flags 管理", "云成本优化", "GitOps 持续部署"],
-    "relevance_score": 7
+    "tech_highlights": ["AI 流水线优化", "渐进式发布", "多云成本管理", "混沌工程"],
+    "relevance_score": 8
   },
-  "highlights": ["AI 驱动的 CI/CD 流水线", "Feature Flags 管理", "云成本优化", "GitOps 持续部署"],
-  "tags": ["harness", "cicd", "devops", "ai", "cloud"],
+  "tags": ["devops", "ci-cd", "platform-engineering", "harness"],
   "status": "draft"
 }
