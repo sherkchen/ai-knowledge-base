@@ -1,0 +1,19 @@
+{
+  "id": "harness-20260603-001",
+  "title": "Harness Engineering: AI 驱动的现代软件交付平台",
+  "source": "harness",
+  "source_url": "https://github.com/harness/harness",
+  "collected_at": "2026-06-03T10:00:00Z",
+  "summary": "Harness 是 AI 驱动的 CI/CD 平台，提供持续交付、特性开关、云成本管理等功能，简化端到端软件交付流程。",
+  "highlights": [
+    "AI 驱动的持续交付与部署自动化",
+    "内置特性开关与渐进式发布能力",
+    "云成本管理与 FinOps 集成"
+  ],
+  "analysis": {
+    "tech_highlights": ["AI 驱动 CI/CD", "特性开关", "云成本优化"],
+    "relevance_score": 8
+  },
+  "tags": ["cicd", "devops", "ai", "harness"],
+  "status": "draft"
+}
