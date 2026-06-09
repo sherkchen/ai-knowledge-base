@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-01T00:00:00Z",
-  "total_count": 15,
+  "updated_at": "2026-06-09T09:24:53.719394+00:00",
+  "total_count": 28,
   "items": [
     {
       "id": "github-20260530-001",
@@ -12,6 +12,42 @@
       "fetched_at": "2026-05-30T12:00:00Z"
     },
     {
+      "id": "github-20260609-001",
+      "title": "tianlinxu312/Everything-about-LLMs",
+      "category": "other",
+      "slug": "tianlinxu312-everything-about-llms",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-06-09T06:59:55.707396+00:00"
+    },
+    {
+      "id": "github-20260609-003",
+      "title": "ruankie/ecrivai",
+      "category": "tool",
+      "slug": "ruankie-ecrivai",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-06-09T06:59:55.709604+00:00"
+    },
+    {
+      "id": "github-20260609-007",
+      "title": "kael-bit/engram-rs",
+      "category": "tool",
+      "slug": "kael-bit-engram-rs",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-06-09T06:59:55.709663+00:00"
+    },
+    {
+      "id": "rss-20260609-003",
+      "title": "Apple reveals new AI architecture built around Google Gemini models",
+      "category": "news",
+      "slug": "apple-reveals-new-ai-architecture-built-around-google-gemini-models",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-06-09T09:24:53.715845+00:00"
+    },
+    {
       "id": "github-20260530-002",
       "title": "langgenius/dify",
       "category": "tool",
@@ -19,6 +55,69 @@
       "relevance_score": 9,
       "status": "draft",
       "fetched_at": "2026-05-30T12:00:00Z"
+    },
+    {
+      "id": "github-20260609-002",
+      "title": "nitefood/ai-bash",
+      "category": "tool",
+      "slug": "nitefood-ai-bash",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-06-09T06:59:55.709588+00:00"
+    },
+    {
+      "id": "github-20260609-004",
+      "title": "SpreadSheets600/TidyTabs",
+      "category": "tool",
+      "slug": "spreadsheets600-tidytabs",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-06-09T06:59:55.709612+00:00"
+    },
+    {
+      "id": "github-20260609-005",
+      "title": "rokbenko/crew-news",
+      "category": "tool",
+      "slug": "rokbenko-crew-news",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-06-09T06:59:55.709638+00:00"
+    },
+    {
+      "id": "github-20260609-006",
+      "title": "shibing624/ai-paper-analysis",
+      "category": "research",
+      "slug": "shibing624-ai-paper-analysis",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-06-09T06:59:55.709656+00:00"
+    },
+    {
+      "id": "rss-20260609-002",
+      "title": "Apple bets cheaper AI will woo small developers",
+      "category": "news",
+      "slug": "apple-bets-cheaper-ai-will-woo-small-developers",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-06-09T09:24:53.715824+00:00"
+    },
+    {
+      "id": "rss-20260609-004",
+      "title": "Apple Core AI Framework",
+      "category": "framework",
+      "slug": "apple-core-ai-framework",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-06-09T09:24:53.715859+00:00"
+    },
+    {
+      "id": "rss-20260609-005",
+      "title": "Ask HN: What are tools you have made for yourself since the advent of AI?",
+      "category": "news",
+      "slug": "ask-hn-what-are-tools-you-have-made-for-yourself-since-the-advent-of-ai",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-06-09T09:24:53.715869+00:00"
     },
     {
       "id": "github-20260530-006",
@@ -37,6 +136,24 @@
       "relevance_score": 8,
       "status": "draft",
       "fetched_at": "2026-05-30T12:00:00Z"
+    },
+    {
+      "id": "github-20260609-008",
+      "title": "mh-ka/ai-stuff",
+      "category": "other",
+      "slug": "mh-ka-ai-stuff",
+      "relevance_score": 8,
+      "status": "draft",
+      "fetched_at": "2026-06-09T06:59:55.709671+00:00"
+    },
+    {
+      "id": "rss-20260609-001",
+      "title": "Microsoft's open source tools were hacked to steal passwords of AI developers",
+      "category": "news",
+      "slug": "microsoft-s-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers",
+      "relevance_score": 8,
+      "status": "draft",
+      "fetched_at": "2026-06-09T09:24:53.713521+00:00"
     },
     {
       "id": "github-20260530-003",

@@ -9,6 +9,7 @@
 - 部署: OpenClaw
 - 依赖管理: pip + requirements.txt
 - 版本控制: Git
+-  项目使用python的虚拟环境位置：`/Users/yuguo/PycharmProjects/ai-knowledge-base/.ai/bin/python`
 
 ## 编码规范
 - 遵循 PEP 8 规范
