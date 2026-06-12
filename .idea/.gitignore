@@ -10,3 +10,8 @@
 refer/*
 .ai/*
 .opencode/*
+refer
+.ai
+.opencode
+.idea
+.venv
