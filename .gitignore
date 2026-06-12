@@ -4,7 +4,6 @@ package-lock.json
 bun.lock
 refer
 .ai
-.opencode
 .idea
 .venv
 test
