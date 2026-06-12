@@ -1,4 +1,11 @@
 {
   "$schema": "https://opencode.ai/config.json",
-  "plugin": [".opencode/plugins/validate.ts"]
+  "plugin": [".opencode/plugins/validate.ts"],
+  "mcp": {
+    "knowledge": {
+      "type": "local",
+      "command": ["python3", "/Users/yuguo/PycharmProjects/ai-knowledge-base/mcp_knowledge_server.py"],
+      "enabled": true
+    }
+  }
 }

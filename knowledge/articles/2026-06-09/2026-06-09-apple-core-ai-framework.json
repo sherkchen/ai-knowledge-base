@@ -1,0 +1,33 @@
+{
+  "id": "rss-20260609-004",
+  "title": "Apple Core AI Framework",
+  "source": "rss_feed",
+  "source_url": "https://developer.apple.com/documentation/coreai/",
+  "summary": "苹果Core AI框架，提供设备端机器学习能力，保护隐私，深度整合Apple生态。",
+  "highlights": [
+    "设备端AI处理，保障数据隐私",
+    "与Apple硬件和软件深度集成",
+    "为开发者提供高效机器学习工具"
+  ],
+  "tags": [
+    "apple",
+    "machine-learning",
+    "framework",
+    "coreai",
+    "on-device",
+    "ios",
+    "privacy"
+  ],
+  "relevance_score": 9,
+  "score_reason": "苹果核心AI框架，对AI开发者极具价值",
+  "author": "hmokiguess",
+  "published_at": "Mon, 08 Jun 2026 18:47:38 +0000",
+  "fetched_at": "2026-06-09T09:24:53.715859+00:00",
+  "status": "draft",
+  "category": "framework",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "apple-core-ai-framework"
+}

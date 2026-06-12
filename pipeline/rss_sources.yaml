@@ -1,0 +1,77 @@
+# RSS 数据源配置
+# enabled: true → 采集时自动拉取；false → 跳过
+# category 用于文章分类标记
+
+sources:
+
+  # =========================================================================
+  # 综合技术
+  # =========================================================================
+  - name: Hacker News Best (AI)
+    url: https://hnrss.org/best?q=ai+OR+llm+OR+agent+OR+ml
+    category: news
+    enabled: true
+
+  - name: Lobsters AI/ML
+    url: https://lobste.rs/t/ai.rss
+    category: news
+    enabled: true
+
+  # =========================================================================
+  # AI 研究
+  # =========================================================================
+  - name: arXiv cs.AI
+    url: https://rss.arxiv.org/rss/cs.AI
+    category: paper
+    enabled: true
+
+  - name: arXiv cs.CL
+    url: https://rss.arxiv.org/rss/cs.CL
+    category: paper
+    enabled: false
+
+  - name: arXiv cs.LG
+    url: https://rss.arxiv.org/rss/cs.LG
+    category: paper
+    enabled: false
+
+  # =========================================================================
+  # 公司博客
+  # =========================================================================
+  - name: OpenAI Blog
+    url: https://openai.com/blog/rss.xml
+    category: research
+    enabled: true
+
+  - name: Anthropic Research
+    url: https://www.anthropic.com/research/feed
+    category: research
+    enabled: true
+
+  - name: Hugging Face Blog
+    url: https://huggingface.co/blog/feed.xml
+    category: research
+    enabled: true
+
+  - name: DeepMind Blog
+    url: https://deepmind.google/blog/rss.xml
+    category: research
+    enabled: false
+
+  - name: Meta AI Blog
+    url: https://ai.meta.com/blog/rss/
+    category: research
+    enabled: false
+
+  # =========================================================================
+  # 中文社区（默认 disabled：RSS 可用性待确认）
+  # =========================================================================
+  - name: 机器之心
+    url: https://www.jiqizhixin.com/rss
+    category: news
+    enabled: false
+
+  - name: 量子位
+    url: https://www.qbitai.com/feed
+    category: news
+    enabled: false

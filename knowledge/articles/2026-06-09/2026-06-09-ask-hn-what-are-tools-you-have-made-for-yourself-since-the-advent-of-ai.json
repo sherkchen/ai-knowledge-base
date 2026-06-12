@@ -1,0 +1,33 @@
+{
+  "id": "rss-20260609-005",
+  "title": "Ask HN: What are tools you have made for yourself since the advent of AI?",
+  "source": "rss_feed",
+  "source_url": "https://news.ycombinator.com/item?id=48449187",
+  "summary": "AI时代自创工具大讨论：开发者分享个人AI应用心得",
+  "highlights": [
+    "社区热议AI赋能个人开发",
+    "分享各类实用AI小工具",
+    "激发创新思维与DIY精神"
+  ],
+  "tags": [
+    "ai-tools",
+    "personal-projects",
+    "hacker-news",
+    "discussion",
+    "diy",
+    "automation",
+    "productivity"
+  ],
+  "relevance_score": 9,
+  "score_reason": "直接讨论AI工具开发，应用性强，高度相关",
+  "author": "aryamaan",
+  "published_at": "Mon, 08 Jun 2026 18:22:39 +0000",
+  "fetched_at": "2026-06-09T09:24:53.715869+00:00",
+  "status": "draft",
+  "category": "news",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "ask-hn-what-are-tools-you-have-made-for-yourself-since-the-advent-of-ai"
+}
