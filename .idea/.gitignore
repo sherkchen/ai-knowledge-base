@@ -7,8 +7,8 @@
 /dataSources/
 /dataSources.local.xml
 .gitignore
-refer/*
-.ai/*
+../refer/*
+../.ai/*
 .opencode/*
 refer
 .ai
