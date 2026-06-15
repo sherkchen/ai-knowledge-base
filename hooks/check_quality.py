@@ -487,11 +487,17 @@ def main(argv: list[str] | None = None) -> int:
     if argv is None:
         argv = sys.argv
 
-    if len(argv) < 2:
-        print(f"Usage: python {argv[0]} <json_file> [json_file2 ...]")
+    list_c_only = False
+    args = argv[1:]
+    if args and args[0] == "--list-c-files":
+        list_c_only = True
+        args = args[1:]
+
+    if len(args) < 1:
+        print(f"Usage: python {argv[0]} [--list-c-files] <json_file> [json_file2 ...]")
         return 1
 
-    files = collect_files(argv[1:])
+    files = collect_files(args)
     if not files:
         print("No JSON files found matching the given arguments.")
         return 1
@@ -513,8 +519,9 @@ def main(argv: list[str] | None = None) -> int:
 
     print()  # final newline after progress bar
 
-    for report in reports:
-        print_report(report)
+    if not list_c_only:
+        for report in reports:
+            print_report(report)
 
     # Summary
     print(f"\n{'=' * 56}")
@@ -537,6 +544,11 @@ def main(argv: list[str] | None = None) -> int:
         print(f"\n  ⚠ 存在 {counts['C']} 个 C 级条目，需改进")
 
     print(f"{'=' * 56}\n")
+
+    if list_c_only:
+        for report in reports:
+            if report.parse_error or report.grade == "C":
+                print(report.filepath)
 
     return 0 if counts["C"] == 0 and errors == 0 else 1
 

@@ -53,6 +53,11 @@ jobs:
           FILES=$(find knowledge/articles -name "*.json" ! -name "*test*" 2>/dev/null)
           if [ -n "$FILES" ]; then
             python hooks/check_quality.py $FILES
+            C_FILES=$(python hooks/check_quality.py --list-c-files $FILES 2>/dev/null || true)
+            if [ -n "$C_FILES" ]; then
+              echo "Removing C‑grade / unparseable articles..."
+              echo "$C_FILES" | xargs rm -f
+            fi
           else
             echo "No article JSON files found, skipping quality check."
           fi
