@@ -33,8 +33,9 @@ jobs:
 
       - name: Validate articles
         run: |
-          if compgen -G "knowledge/articles/**/*.json" > /dev/null; then
-            python hooks/validate_json.py knowledge/articles/**/*.json
+          FILES=$(find knowledge/articles -name "*.json" ! -name "*test*" 2>/dev/null)
+          if [ -n "$FILES" ]; then
+            python hooks/validate_json.py $FILES
           else
             echo "No article JSON files found, skipping validation."
           fi
@@ -42,8 +43,9 @@ jobs:
 
       - name: Check quality
         run: |
-          if compgen -G "knowledge/articles/**/*.json" > /dev/null; then
-            python hooks/check_quality.py knowledge/articles/**/*.json
+          FILES=$(find knowledge/articles -name "*.json" ! -name "*test*" 2>/dev/null)
+          if [ -n "$FILES" ]; then
+            python hooks/check_quality.py $FILES
           else
             echo "No article JSON files found, skipping quality check."
           fi
