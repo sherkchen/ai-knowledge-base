@@ -226,11 +226,17 @@ def main(argv: list[str] | None = None) -> int:
     if argv is None:
         argv = sys.argv
 
-    if len(argv) < 2:
-        print(f"Usage: python {argv[0]} <json_file> [json_file2 ...]")
+    list_failed_only = False
+    args = argv[1:]
+    if args and args[0] == "--list-failed":
+        list_failed_only = True
+        args = args[1:]
+
+    if len(args) < 1:
+        print(f"Usage: python {argv[0]} [--list-failed] <json_file> [json_file2 ...]")
         return 1
 
-    files = collect_files(argv[1:])
+    files = collect_files(args)
     if not files:
         print("No JSON files found matching the given arguments.")
         return 1
@@ -249,22 +255,25 @@ def main(argv: list[str] | None = None) -> int:
             failed += 1
             total_errors += len(report.errors)
 
-    # Print error details
-    for report in reports:
-        if not report.is_valid:
-            print(f"\n{'=' * 60}")
-            print(f"FAIL  {report.filepath}")
-            print(f"{'-' * 60}")
-            for idx, error in enumerate(report.errors, 1):
-                print(f"  [{idx}] {error}")
+    if not list_failed_only:
+        for report in reports:
+            if not report.is_valid:
+                print(f"\n{'=' * 60}")
+                print(f"FAIL  {report.filepath}")
+                print(f"{'-' * 60}")
+                for idx, error in enumerate(report.errors, 1):
+                    print(f"  [{idx}] {error}")
 
-    # Print summary
-    print(f"\n{'=' * 60}")
-    print(f"Summary: {len(files)} file(s) checked")
-    print(f"  Passed: {passed}")
-    print(f"  Failed: {failed}")
-    print(f"  Errors: {total_errors}")
-    print(f"{'=' * 60}")
+        print(f"\n{'=' * 60}")
+        print(f"Summary: {len(files)} file(s) checked")
+        print(f"  Passed: {passed}")
+        print(f"  Failed: {failed}")
+        print(f"  Errors: {total_errors}")
+        print(f"{'=' * 60}")
+    else:
+        for report in reports:
+            if not report.is_valid:
+                print(report.filepath)
 
     return 0 if failed == 0 else 1
 

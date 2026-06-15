@@ -80,7 +80,6 @@ def get_provider(provider_name: str | None = None) -> LLMProvider:
 
     if provider_name is None:
         provider_name = os.getenv("LLM_PROVIDER", "").strip().lower() or "deepseek"
-        print(f"provider_name is {provider_name} ")
 
     if _default_provider is not None:
         return _default_provider
