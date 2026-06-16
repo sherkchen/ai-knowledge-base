@@ -1,0 +1,34 @@
+{
+  "id": "github-20260616-009",
+  "title": "SukritiC/ai-mastery-hub",
+  "source": "github_trending",
+  "source_url": "https://github.com/SukritiC/ai-mastery-hub",
+  "summary": "个人AI学习笔记，涵盖LLM、Transformer、扩散模型等主题笔记和资源。",
+  "highlights": [
+    "涵盖LLM、Transformer、扩散模型等主题",
+    "提供结构化笔记和关键资源",
+    "包含Prompt Engineering简化解释"
+  ],
+  "tags": [
+    "ai",
+    "generative-ai",
+    "llm",
+    "transformers",
+    "diffusion-models",
+    "prompt-engineering",
+    "notes",
+    "learning"
+  ],
+  "relevance_score": 8,
+  "score_reason": "个人AI学习笔记，涵盖多种生成式AI主题",
+  "author": "SukritiC",
+  "published_at": "2025-04-09T06:27:28Z",
+  "fetched_at": "2026-06-16T03:28:36.509185+00:00",
+  "status": "draft",
+  "category": "other",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "sukritic-ai-mastery-hub"
+}

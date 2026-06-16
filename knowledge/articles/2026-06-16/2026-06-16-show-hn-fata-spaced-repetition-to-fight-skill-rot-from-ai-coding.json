@@ -1,0 +1,33 @@
+{
+  "id": "rss-20260616-013",
+  "title": "Show HN: Fata – Spaced repetition to fight skill rot from AI coding",
+  "source": "rss_feed",
+  "source_url": "https://fata.dev",
+  "summary": "Fata通过间隔重复练习，帮助开发者保持因AI编码而衰退的编程技能。",
+  "highlights": [
+    "用间隔重复法对抗AI编程带来的技能退化",
+    "提供Rust、CSS、React等编程技能的每日短练习",
+    "离线优先移动应用，AI生成课程并通过编译、测试等多重验证"
+  ],
+  "tags": [
+    "spaced-repetition",
+    "ai-coding",
+    "skill-rot",
+    "education",
+    "llm",
+    "mobile-app",
+    "offline-first"
+  ],
+  "relevance_score": 9,
+  "score_reason": "直接应对AI编程技能退化，并用AI生成课程",
+  "author": "djoume",
+  "published_at": "Thu, 11 Jun 2026 11:57:03 +0000",
+  "fetched_at": "2026-06-16T03:28:36.509224+00:00",
+  "status": "draft",
+  "category": "tool",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "show-hn-fata-spaced-repetition-to-fight-skill-rot-from-ai-coding"
+}

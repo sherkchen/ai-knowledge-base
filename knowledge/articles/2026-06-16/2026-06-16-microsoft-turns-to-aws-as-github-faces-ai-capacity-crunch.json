@@ -1,0 +1,34 @@
+{
+  "id": "rss-20260616-011",
+  "title": "Microsoft turns to AWS as GitHub faces AI capacity crunch",
+  "source": "rss_feed",
+  "source_url": "https://runtimewire.com/article/microsoft-github-aws-ai-capacity-crunch",
+  "summary": "微软因GitHub AI计算力不足转向AWS，应对AI容量紧张。",
+  "highlights": [
+    "GitHub Copilot等AI服务遭遇容量瓶颈",
+    "微软首次大规模使用AWS云资源补充AI算力",
+    "凸显AI时代云服务商竞合新格局"
+  ],
+  "tags": [
+    "microsoft",
+    "github",
+    "aws",
+    "ai capacity",
+    "copilot",
+    "cloud",
+    "infrastructure",
+    "partnership"
+  ],
+  "relevance_score": 9,
+  "score_reason": "直接涉及AI算力供需与头部云商合作，关联LLM与开发工具",
+  "author": "ilreb",
+  "published_at": "Tue, 16 Jun 2026 02:47:57 +0000",
+  "fetched_at": "2026-06-16T03:28:36.509203+00:00",
+  "status": "draft",
+  "category": "news",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "microsoft-turns-to-aws-as-github-faces-ai-capacity-crunch"
+}

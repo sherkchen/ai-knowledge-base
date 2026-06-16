@@ -1,0 +1,34 @@
+{
+  "id": "rss-20260616-022",
+  "title": "Poker Arena: Multi-Axis Profiling of Strategic Reasoning and Memory in LLMs",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2606.13815",
+  "summary": "Poker Arena通过多轴认知剖析评估LLM的策略推理与记忆，发现标量排行榜会错误排名模型能力。",
+  "highlights": [
+    "提出Poker Arena平台，结合三层记忆架构与九轴认知剖析",
+    "七个前沿模型在50个会话中测试，排名结果与筹码得分不一致",
+    "跨维度一致性比单轴峰值更重要，持久记忆对不同模型影响各异"
+  ],
+  "tags": [
+    "strategic reasoning",
+    "memory",
+    "llm evaluation",
+    "poker",
+    "multi-axis profiling",
+    "benchmark",
+    "cognitive profiling",
+    "agent"
+  ],
+  "relevance_score": 10,
+  "score_reason": "针对LLM策略推理和记忆的多维度评估研究，高度相关。",
+  "author": "Pratham Singla, Shivank Garg, Vihan Singh",
+  "published_at": "Mon, 15 Jun 2026 00:00:00 -0400",
+  "fetched_at": "2026-06-16T03:28:36.509320+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "poker-arena-multi-axis-profiling-of-strategic-reasoning-and-memory-in-llms"
+}

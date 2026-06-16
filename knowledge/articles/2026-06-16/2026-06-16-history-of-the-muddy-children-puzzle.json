@@ -1,0 +1,34 @@
+{
+  "id": "rss-20260616-015",
+  "title": "History of the Muddy Children Puzzle",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2606.13703",
+  "summary": "泥巴儿童谜题的历史追溯，探讨其在认知逻辑发展中的起源与变体，并引入新自指帽子谜题。",
+  "highlights": [
+    "泥巴儿童谜题源于19世纪以来的逻辑与文学著作，具体首创作者不详。",
+    "谜题启发无数变体，如数字泥巴和彩色帽子问题，推动认知逻辑研究。",
+    "论文提出一种新颖的自指涉帽子谜题，扩展了经典谜题范畴。"
+  ],
+  "tags": [
+    "muddy children",
+    "epistemic logic",
+    "puzzle",
+    "knowledge reasoning",
+    "self-reference",
+    "history",
+    "logical puzzle",
+    "hats puzzle"
+  ],
+  "relevance_score": 5,
+  "score_reason": "认知逻辑基础研究，对AI智能体推理有理论启发，但非直接AI技术。",
+  "author": "Hans van Ditmarsch",
+  "published_at": "Mon, 15 Jun 2026 00:00:00 -0400",
+  "fetched_at": "2026-06-16T03:28:36.509251+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "history-of-the-muddy-children-puzzle"
+}
