@@ -15,13 +15,19 @@ from __future__ import annotations
 import logging
 import os
 import random
+import sys
 import time
+from pathlib import Path
 from typing import Any
+
+_PROJECT_ROOT = Path(__file__).resolve().parent.parent
+if str(_PROJECT_ROOT) not in sys.path:
+    sys.path.insert(0, str(_PROJECT_ROOT))
 
 import httpx
 
 from pipeline.deepseek_model import DeepSeekProvider
-from pipeline.llm_provider import LLMProvider, LLMResponse, OpenAICompatibleProvider
+from pipeline.llm_provider import LLMProvider, LLMResponse, OpenAICompatibleProvider, Usage
 from pipeline.openai_model import OpenAIProvider
 from pipeline.qwen_model import QwenProvider
 
@@ -38,6 +44,8 @@ __all__ = [
     "quick_chat",
     "get_provider",
     "reset_default_provider",
+    "CostTracker",
+    "cost_tracker",
 ]
 
 
@@ -104,6 +112,120 @@ def reset_default_provider() -> None:
 
 
 # ---------------------------------------------------------------------------
+# Cost tracking
+# ---------------------------------------------------------------------------
+
+
+class CostTracker:
+    """Track token usage and estimated cost across LLM API calls.
+
+    Accumulates token usage per provider and calculates estimated cost
+    in CNY (元) based on configurable pricing tables.
+
+    Attributes:
+        _records: Per-provider accumulated Usage statistics.
+
+    Example::
+
+        tracker = CostTracker()
+        tracker.record(usage, "deepseek")
+        print(f"Cost: ¥{tracker.estimated_cost('deepseek'):.4f}")
+        tracker.report()
+    """
+
+    PRICING_CNY: dict[str, dict[str, float]] = {
+        "deepseek": {"input": 3, "output": 6},
+        "qwen": {"input": 4, "output": 12},
+        "openai": {"input": 150, "output": 600},
+    }
+    """Pricing in CNY (元) per million tokens per provider."""
+
+    def __init__(self) -> None:
+        """Initialize an empty CostTracker."""
+        self._records: dict[str, Usage] = {}
+
+    def record(self, usage: Usage, provider: str) -> None:
+        """Record token usage from a single API call.
+
+        Args:
+            usage: Token usage statistics for the call.
+            provider: Lowercase provider name (e.g. ``deepseek``, ``qwen``,
+                ``openai``).
+        """
+        if provider not in self._records:
+            self._records[provider] = Usage()
+        rec = self._records[provider]
+        rec.prompt_tokens += usage.prompt_tokens
+        rec.completion_tokens += usage.completion_tokens
+        rec.total_tokens += usage.total_tokens
+
+    def estimated_cost(self, provider: str) -> float:
+        """Calculate total estimated cost in CNY for a provider.
+
+        Args:
+            provider: Lowercase provider name.
+
+        Returns:
+            Estimated total cost in CNY (元). Returns 0.0 if no pricing
+            data or no records exist for the provider.
+        """
+        rec = self._records.get(provider)
+        if rec is None:
+            return 0.0
+        pricing = self.PRICING_CNY.get(provider)
+        if pricing is None:
+            logger.warning(
+                "No CNY pricing data for provider=%s", provider
+            )
+            return 0.0
+        input_cost = (rec.prompt_tokens / 1_000_000) * pricing["input"]
+        output_cost = (rec.completion_tokens / 1_000_000) * pricing["output"]
+        return input_cost + output_cost
+
+    def report(self, provider: str | None = None) -> None:
+        """Print a human-readable cost report.
+
+        Args:
+            provider: If given, report only for that provider. If *None*,
+                report for all recorded providers.
+        """
+        if not self._records:
+            logger.info("CostTracker: No records yet.")
+            return
+
+        providers = (
+            [provider] if provider else sorted(self._records.keys())
+        )
+        total_cost = 0.0
+
+        header = f"{'Provider':<12} {'Prompt Tokens':>14} {'Comp Tokens':>14} {'Total Tokens':>14} {'Cost (¥)':>12}"
+        sep = "-" * len(header)
+
+        lines = [sep, header, sep]
+        for prov in providers:
+            rec = self._records.get(prov)
+            if rec is None:
+                continue
+            cost = self.estimated_cost(prov)
+            total_cost += cost
+            lines.append(
+                f"{prov:<12} {rec.prompt_tokens:>14,} "
+                f"{rec.completion_tokens:>14,} {rec.total_tokens:>14,} "
+                f"{cost:>12.4f}"
+            )
+        lines.append(sep)
+        lines.append(f"{'TOTAL':<12} {'':>14} {'':>14} {'':>14} {total_cost:>12.4f}")
+        lines.append(sep)
+
+        for line in lines:
+            logger.info(line)
+
+
+# Global tracker instance for use across the pipeline.
+cost_tracker = CostTracker()
+
+
+# ---------------------------------------------------------------------------
 # Retry logic
 # ---------------------------------------------------------------------------
 
@@ -140,13 +262,16 @@ def chat_with_retry(
 
     for attempt in range(max_retries + 1):
         try:
-            return provider.chat(
+            response = provider.chat(
                 messages=messages,
                 model=model,
                 temperature=temperature,
                 max_tokens=max_tokens,
                 **kwargs,
             )
+            provider_name = getattr(provider, "PROVIDER_NAME", "unknown")
+            cost_tracker.record(response.usage, provider_name)
+            return response
         except (httpx.HTTPError, httpx.TimeoutException) as exc:
             last_exception = exc
             if attempt < max_retries:

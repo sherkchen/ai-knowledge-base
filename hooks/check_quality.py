@@ -502,14 +502,16 @@ def main(argv: list[str] | None = None) -> int:
         print("No JSON files found matching the given arguments.")
         return 1
 
-    print(f"\n  开始评测 {len(files)} 个知识条目\n")
+    if not list_c_only:
+        print(f"\n  开始评测 {len(files)} 个知识条目\n")
 
     reports: list[QualityReport] = []
     counts: dict[str, int] = {"A": 0, "B": 0, "C": 0}
     errors = 0
 
     for idx, filepath in enumerate(files, 1):
-        print_progress(idx, len(files))
+        if not list_c_only:
+            print_progress(idx, len(files))
         report = score_file(filepath)
         reports.append(report)
         if report.parse_error:
@@ -517,19 +519,27 @@ def main(argv: list[str] | None = None) -> int:
         else:
             counts[report.grade] += 1
 
-    print()  # final newline after progress bar
+    if not list_c_only:
+        print()  # final newline after progress bar
 
     if not list_c_only:
         for report in reports:
             print_report(report)
 
     # Summary
-    print(f"\n{'=' * 56}")
-    print(f"  评测汇总")
-    print(f"  {'─' * 50}")
-    print(f"  文件总数: {len(files)}")
-    print(f"  解析失败: {errors}")
-    print(f"  等级分布: A={counts['A']}  B={counts['B']}  C={counts['C']}")
+    if not list_c_only:
+        print(f"\n{'=' * 56}")
+        print(f"  评测汇总")
+        print(f"  {'─' * 50}")
+        print(f"  文件总数: {len(files)}")
+        print(f"  解析失败: {errors}")
+        print(f"  等级分布: A={counts['A']}  B={counts['B']}  C={counts['C']}")
+
+    if list_c_only:
+        for report in reports:
+            if report.parse_error or report.grade == "C":
+                print(report.filepath)
+        return 0 if counts["C"] == 0 and errors == 0 else 1
 
     if reports and counts["C"] == 0 and errors == 0:
         all_scores = [r.total_score for r in reports if r.dimensions]
@@ -544,11 +554,6 @@ def main(argv: list[str] | None = None) -> int:
         print(f"\n  ⚠ 存在 {counts['C']} 个 C 级条目，需改进")
 
     print(f"{'=' * 56}\n")
-
-    if list_c_only:
-        for report in reports:
-            if report.parse_error or report.grade == "C":
-                print(report.filepath)
 
     return 0 if counts["C"] == 0 and errors == 0 else 1
 

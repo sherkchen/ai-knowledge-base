@@ -28,7 +28,7 @@ if str(_PROJECT_ROOT) not in sys.path:
 
 import httpx
 
-from pipeline.model_client import chat_with_retry, get_provider
+from pipeline.model_client import chat_with_retry, cost_tracker, get_provider
 
 logger = logging.getLogger(__name__)
 
@@ -800,6 +800,10 @@ def run_pipeline(
         len(organized),
         len(saved),
     )
+
+    if not dry_run:
+        cost_tracker.report()
+
     return 0
 
 

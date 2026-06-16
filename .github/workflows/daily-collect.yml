@@ -34,7 +34,7 @@ jobs:
       - name: Validate articles
         continue-on-error: true
         run: |
-          FILES=$(find knowledge/articles -name "*.json" ! -name "*test*" 2>/dev/null)
+          FILES=$(find knowledge/articles -name "*.json" ! -name "*test*" ! -name "index.json" 2>/dev/null)
           if [ -n "$FILES" ]; then
             python hooks/validate_json.py $FILES || true
             FAILED=$(python hooks/validate_json.py --list-failed $FILES || true)
@@ -50,7 +50,7 @@ jobs:
       - name: Check quality
         continue-on-error: true
         run: |
-          FILES=$(find knowledge/articles -name "*.json" ! -name "*test*" 2>/dev/null)
+          FILES=$(find knowledge/articles -name "*.json" ! -name "*test*" ! -name "index.json" 2>/dev/null)
           if [ -n "$FILES" ]; then
             python hooks/check_quality.py $FILES || true
             C_FILES=$(python hooks/check_quality.py --list-c-files $FILES 2>/dev/null || true)
@@ -70,7 +70,7 @@ jobs:
           git config user.name github-actions[bot]
           git config user.email 41898282+github-actions[bot]@users.noreply.github.com
 
-          git add knowledge/raw/ knowledge/articles/ knowledge/index.json 2>/dev/null || true
+          git add knowledge/raw/ knowledge/articles/ 2>/dev/null || true
 
           if git diff --cached --quiet; then
             echo "No new data to commit."
