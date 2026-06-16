@@ -27,7 +27,7 @@ class DeepSeekProvider(OpenAICompatibleProvider):
 
     PRICING: ClassVar[dict[str, dict[str, float]]] = {
         "deepseek-chat": {"input": 1, "output": 3},
-        "deepseek-reasoner": {"input": 2, "output": 6},
+        "deepseek-v4-pro": {"input": 2, "output": 6},
     }
 
     def __init__(

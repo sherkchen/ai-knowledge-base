@@ -196,6 +196,7 @@ class OpenAICompatibleProvider(LLMProvider):
         payload.update(kwargs)
         return payload
 
+
     def chat(
         self,
         messages: list[dict[str, str]],
@@ -245,6 +246,10 @@ class OpenAICompatibleProvider(LLMProvider):
             usage.prompt_tokens,
             usage.completion_tokens,
         )
+
+        from pipeline.cost_tracker import cost_tracker  # noqa: E402
+
+        cost_tracker.record(usage, self.PROVIDER_NAME)
 
         return LLMResponse(content=content, usage=usage)
 

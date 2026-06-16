@@ -28,7 +28,8 @@ if str(_PROJECT_ROOT) not in sys.path:
 
 import httpx
 
-from pipeline.model_client import chat_with_retry, cost_tracker, get_provider
+from pipeline.model_client import chat_with_retry, get_provider
+from pipeline.cost_tracker import cost_tracker
 
 logger = logging.getLogger(__name__)
 
