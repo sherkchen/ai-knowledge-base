@@ -1,0 +1,34 @@
+{
+  "id": "rss-20260616-018",
+  "title": "Refusal Beyond a Single Direction: A Preliminary Comparison of Diff-in-Means and INLP",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2606.13720",
+  "summary": "对比DiM与INLP在模型拒绝行为干预的效果，发现INLP反事实翻转与DiM方向消融相当，且更可调。",
+  "highlights": [
+    "INLP反事实翻转的拒绝抑制效果与DiM方向消融相当",
+    "零空间投影效果持续较弱",
+    "两种INLP干预在激活空间中定位不同概念区域"
+  ],
+  "tags": [
+    "refusal",
+    "safety",
+    "steering",
+    "linear direction",
+    "inlp",
+    "dim",
+    "activation",
+    "llm"
+  ],
+  "relevance_score": 10,
+  "score_reason": "直接研究LLM安全拒绝机制，涉及表示工程与行为操纵",
+  "author": "Elisabetta Rocchetti, Alfio Ferrara",
+  "published_at": "Mon, 15 Jun 2026 00:00:00 -0400",
+  "fetched_at": "2026-06-16T03:28:36.509278+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "refusal-beyond-a-single-direction-a-preliminary-comparison-of-diff-in-means-and-inlp"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "rss-20260616-019",
+  "title": "YeasierAgent: Agentic Social Sandbox as a Canvas for Intent-Driven Creation of Platform-Agnostic Symbiotic Agent-Native Applications",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2606.13722",
+  "summary": "基于共生智能体的应用构建范式，通过社交沙箱实现跨平台意图驱动的智能体原生应用创建。",
+  "highlights": [
+    "利用平台无关交互单元快速构建跨平台智能体原生应用",
+    "在同一体验沙箱中统一情感陪伴与实用工具执行",
+    "形式化共生智能体原生应用类别，推动社交化计算环境"
+  ],
+  "tags": [
+    "agent",
+    "symbiotic-agents",
+    "sandbox",
+    "social-simulation",
+    "agent-native",
+    "multi-agent",
+    "cross-platform",
+    "application-building"
+  ],
+  "relevance_score": 10,
+  "score_reason": "直接提出共生智能体原生应用新范式，高度相关",
+  "author": "Jory He",
+  "published_at": "Mon, 15 Jun 2026 00:00:00 -0400",
+  "fetched_at": "2026-06-16T03:28:36.509289+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "yeasieragent-agentic-social-sandbox-as-a-canvas-for-intent-driven-creation-of-platform-agnostic-symbiotic-agent-native-applications"
+}

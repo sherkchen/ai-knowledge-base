@@ -1,0 +1,34 @@
+{
+  "id": "rss-20260616-023",
+  "title": "Hyperdimensional computing for structured querying on tabular data embeddings",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2606.13871",
+  "summary": "超维计算用于表格嵌入的结构化查询，推导可解释相似度，实现零匹配检测，性能优于基线",
+  "highlights": [
+    "利用超维计算为表格嵌入提供可解释相似度阈值",
+    "推导出封闭形式的期望相似度公式，用于相等和非相等谓词",
+    "实现属性投影完美准确，并能可靠检测零匹配"
+  ],
+  "tags": [
+    "hyperdimensional-computing",
+    "tabular-data",
+    "embeddings",
+    "similarity-thresholds",
+    "structured-querying",
+    "holographic-reduced-representations",
+    "data-integration",
+    "zero-match-detection"
+  ],
+  "relevance_score": 7,
+  "score_reason": "利用超维计算改进表格嵌入，新颖但非LLM/Agent核心",
+  "author": "Sebasti\\'an Bugedo, Stijn Vansummeren",
+  "published_at": "Mon, 15 Jun 2026 00:00:00 -0400",
+  "fetched_at": "2026-06-16T03:28:36.509334+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "hyperdimensional-computing-for-structured-querying-on-tabular-data-embeddings"
+}

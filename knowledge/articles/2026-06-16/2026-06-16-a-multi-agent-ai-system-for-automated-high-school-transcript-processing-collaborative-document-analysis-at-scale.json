@@ -1,0 +1,34 @@
+{
+  "id": "rss-20260616-025",
+  "title": "A Multi-Agent AI System for Automated High School Transcript Processing: Collaborative Document Analysis at Scale",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2606.13916",
+  "summary": "多智能体AI系统自动处理高中成绩单，三代理协作解析，准确率达96.7%",
+  "highlights": [
+    "多智能体协作处理多样格式成绩单",
+    "通过GPA提取实现代理间质量协调",
+    "在40份真实成绩单上准确率达96.7%"
+  ],
+  "tags": [
+    "multi-agent",
+    "document-processing",
+    "transcript-analysis",
+    "collaboration",
+    "orchestration",
+    "gpa-extraction",
+    "ocr",
+    "nlp"
+  ],
+  "relevance_score": 9,
+  "score_reason": "多智能体与文档自动化高度相关",
+  "author": "Ben Torkian, Jun Zhou",
+  "published_at": "Mon, 15 Jun 2026 00:00:00 -0400",
+  "fetched_at": "2026-06-16T03:28:36.509357+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "a-multi-agent-ai-system-for-automated-high-school-transcript-processing-collaborative-document-analysis-at-scale"
+}

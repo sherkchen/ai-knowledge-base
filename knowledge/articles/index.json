@@ -1,0 +1,231 @@
+{
+  "items": [
+    {
+      "id": "github-20260616-008",
+      "title": "richer-richard/socratic-council",
+      "category": "tool",
+      "slug": "richer-richard-socratic-council",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-06-16T03:28:36.509172+00:00"
+    },
+    {
+      "id": "rss-20260616-016",
+      "title": "Orchestra-o1: Omnimodal Agent Orchestration",
+      "category": "paper",
+      "slug": "orchestra-o1-omnimodal-agent-orchestration",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-06-16T03:28:36.509260+00:00"
+    },
+    {
+      "id": "rss-20260616-017",
+      "title": "Hybrid Open-Ended Tri-Evolution Makes Better Deep Researcher",
+      "category": "paper",
+      "slug": "hybrid-open-ended-tri-evolution-makes-better-deep-researcher",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-06-16T03:28:36.509269+00:00"
+    },
+    {
+      "id": "rss-20260616-018",
+      "title": "Refusal Beyond a Single Direction: A Preliminary Comparison of Diff-in-Means and INLP",
+      "category": "paper",
+      "slug": "refusal-beyond-a-single-direction-a-preliminary-comparison-of-diff-in-means-and-inlp",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-06-16T03:28:36.509278+00:00"
+    },
+    {
+      "id": "rss-20260616-019",
+      "title": "YeasierAgent: Agentic Social Sandbox as a Canvas for Intent-Driven Creation of Platform-Agnostic Symbiotic Agent-Native Applications",
+      "category": "paper",
+      "slug": "yeasieragent-agentic-social-sandbox-as-a-canvas-for-intent-driven-creation-of-platform-agnostic-symbiotic-agent-native-applications",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-06-16T03:28:36.509289+00:00"
+    },
+    {
+      "id": "rss-20260616-021",
+      "title": "When Sample Selection Bias Precipitates Model Collapse",
+      "category": "paper",
+      "slug": "when-sample-selection-bias-precipitates-model-collapse",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-06-16T03:28:36.509311+00:00"
+    },
+    {
+      "id": "rss-20260616-022",
+      "title": "Poker Arena: Multi-Axis Profiling of Strategic Reasoning and Memory in LLMs",
+      "category": "paper",
+      "slug": "poker-arena-multi-axis-profiling-of-strategic-reasoning-and-memory-in-llms",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-06-16T03:28:36.509320+00:00"
+    },
+    {
+      "id": "rss-20260616-024",
+      "title": "Capability Minimization as a Safety Primitive: Risk-Aware Causal Gating for Least-Privilege LLM Agents",
+      "category": "paper",
+      "slug": "capability-minimization-as-a-safety-primitive-risk-aware-causal-gating-for-least-privilege-llm-agents",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-06-16T03:28:36.509346+00:00"
+    },
+    {
+      "id": "github-20260616-001",
+      "title": "nitefood/ai-bash",
+      "category": "tool",
+      "slug": "nitefood-ai-bash",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-06-16T03:28:36.506945+00:00"
+    },
+    {
+      "id": "github-20260616-002",
+      "title": "mh-ka/ai-stuff",
+      "category": "other",
+      "slug": "mh-ka-ai-stuff",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-06-16T03:28:36.509103+00:00"
+    },
+    {
+      "id": "github-20260616-003",
+      "title": "akshaymittal143/CloudyBot-DevOps-AI",
+      "category": "tool",
+      "slug": "akshaymittal143-cloudybot-devops-ai",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-06-16T03:28:36.509122+00:00"
+    },
+    {
+      "id": "github-20260616-004",
+      "title": "rasmurtech/DeepSeekDeepResearch",
+      "category": "tool",
+      "slug": "rasmurtech-deepseekdeepresearch",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-06-16T03:28:36.509134+00:00"
+    },
+    {
+      "id": "github-20260616-005",
+      "title": "JacKaL37/TheHardProblem",
+      "category": "research",
+      "slug": "jackal37-thehardproblem",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-06-16T03:28:36.509144+00:00"
+    },
+    {
+      "id": "github-20260616-006",
+      "title": "billy-enrizky/crewai-research-assistant",
+      "category": "tool",
+      "slug": "billy-enrizky-crewai-research-assistant",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-06-16T03:28:36.509152+00:00"
+    },
+    {
+      "id": "github-20260616-007",
+      "title": "yushengzh/awesome-ML-for-quantum",
+      "category": "other",
+      "slug": "yushengzh-awesome-ml-for-quantum",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-06-16T03:28:36.509161+00:00"
+    },
+    {
+      "id": "github-20260616-010",
+      "title": "mattvideoproductions/brightdata-ai-research-agent",
+      "category": "tool",
+      "slug": "mattvideoproductions-brightdata-ai-research-agent",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-06-16T03:28:36.509194+00:00"
+    },
+    {
+      "id": "rss-20260616-011",
+      "title": "Microsoft turns to AWS as GitHub faces AI capacity crunch",
+      "category": "news",
+      "slug": "microsoft-turns-to-aws-as-github-faces-ai-capacity-crunch",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-06-16T03:28:36.509203+00:00"
+    },
+    {
+      "id": "rss-20260616-012",
+      "title": "My Homelab AI Dev Platform",
+      "category": "other",
+      "slug": "my-homelab-ai-dev-platform",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-06-16T03:28:36.509215+00:00"
+    },
+    {
+      "id": "rss-20260616-013",
+      "title": "Show HN: Fata – Spaced repetition to fight skill rot from AI coding",
+      "category": "tool",
+      "slug": "show-hn-fata-spaced-repetition-to-fight-skill-rot-from-ai-coding",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-06-16T03:28:36.509224+00:00"
+    },
+    {
+      "id": "rss-20260616-014",
+      "title": "UP-NRPA: User Portrait based Nested Rollout Policy Adaptation for Planning with Large Language Models in Goal-oriented Dialogue Systems",
+      "category": "paper",
+      "slug": "up-nrpa-user-portrait-based-nested-rollout-policy-adaptation-for-planning-with-large-language-models-in-goal-oriented-dialogue-systems",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-06-16T03:28:36.509239+00:00"
+    },
+    {
+      "id": "rss-20260616-020",
+      "title": "TwinBI: An Agentic Digital Twin for Efficient Augmented Interactions with Business Intelligence Dashboards",
+      "category": "paper",
+      "slug": "twinbi-an-agentic-digital-twin-for-efficient-augmented-interactions-with-business-intelligence-dashboards",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-06-16T03:28:36.509301+00:00"
+    },
+    {
+      "id": "rss-20260616-025",
+      "title": "A Multi-Agent AI System for Automated High School Transcript Processing: Collaborative Document Analysis at Scale",
+      "category": "paper",
+      "slug": "a-multi-agent-ai-system-for-automated-high-school-transcript-processing-collaborative-document-analysis-at-scale",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-06-16T03:28:36.509357+00:00"
+    },
+    {
+      "id": "github-20260616-009",
+      "title": "SukritiC/ai-mastery-hub",
+      "category": "other",
+      "slug": "sukritic-ai-mastery-hub",
+      "relevance_score": 8,
+      "status": "draft",
+      "fetched_at": "2026-06-16T03:28:36.509185+00:00"
+    },
+    {
+      "id": "rss-20260616-023",
+      "title": "Hyperdimensional computing for structured querying on tabular data embeddings",
+      "category": "paper",
+      "slug": "hyperdimensional-computing-for-structured-querying-on-tabular-data-embeddings",
+      "relevance_score": 7,
+      "status": "draft",
+      "fetched_at": "2026-06-16T03:28:36.509334+00:00"
+    },
+    {
+      "id": "rss-20260616-015",
+      "title": "History of the Muddy Children Puzzle",
+      "category": "paper",
+      "slug": "history-of-the-muddy-children-puzzle",
+      "relevance_score": 5,
+      "status": "draft",
+      "fetched_at": "2026-06-16T03:28:36.509251+00:00"
+    }
+  ],
+  "total_count": 25,
+  "updated_at": "2026-06-16T03:28:36.514129+00:00"
+}

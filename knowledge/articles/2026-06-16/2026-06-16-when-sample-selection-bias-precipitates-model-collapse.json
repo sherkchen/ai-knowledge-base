@@ -1,0 +1,34 @@
+{
+  "id": "rss-20260616-021",
+  "title": "When Sample Selection Bias Precipitates Model Collapse",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2606.13732",
+  "summary": "样本选择偏差导致模型崩溃，孤立数据验证下局部参考偏差加速尾端消失，提出跨节点Wasserstein代理缓解。",
+  "highlights": [
+    "低资源验证环境中的选择偏差会加速模型崩溃。",
+    "孤立数据节点中的局部参考偏好导致分布尾端多样性衰减。",
+    "多节点Wasserstein代理参考可缓解多样性退化。"
+  ],
+  "tags": [
+    "model collapse",
+    "sample selection bias",
+    "synthetic data",
+    "data silos",
+    "verification bias",
+    "wasserstein proxy",
+    "diversity decay",
+    "recursive training"
+  ],
+  "relevance_score": 10,
+  "score_reason": "直接研究LLM合成数据训练中的模型崩溃与数据选择偏差。",
+  "author": "Xinbao Qiao, Xianglong Du, Wei Liu, Jingqi Zhang, Peihua Mai, Meng Zhang, Yan Pang",
+  "published_at": "Mon, 15 Jun 2026 00:00:00 -0400",
+  "fetched_at": "2026-06-16T03:28:36.509311+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "when-sample-selection-bias-precipitates-model-collapse"
+}

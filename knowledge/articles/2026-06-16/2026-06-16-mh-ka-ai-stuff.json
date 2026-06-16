@@ -1,0 +1,33 @@
+{
+  "id": "github-20260616-002",
+  "title": "mh-ka/ai-stuff",
+  "source": "github_trending",
+  "source_url": "https://github.com/mh-ka/ai-stuff",
+  "summary": "生成式AI资源精选列表，覆盖大语言模型、图像、音频、视频等领域。",
+  "highlights": [
+    "生成式AI多模态资源合集",
+    "涵盖LLM、图像、音频、视频生成",
+    "收录Flux、Stable Diffusion、TTS等工具"
+  ],
+  "tags": [
+    "ai",
+    "genai",
+    "llms",
+    "stable-diffusion",
+    "tts",
+    "flux",
+    "resources"
+  ],
+  "relevance_score": 9,
+  "score_reason": "直接聚焦生成式AI全栈资源",
+  "author": "mh-ka",
+  "published_at": "2023-12-30T14:07:50Z",
+  "fetched_at": "2026-06-16T03:28:36.509103+00:00",
+  "status": "draft",
+  "category": "other",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "mh-ka-ai-stuff"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "rss-20260616-014",
+  "title": "UP-NRPA: User Portrait based Nested Rollout Policy Adaptation for Planning with Large Language Models in Goal-oriented Dialogue Systems",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2606.13683",
+  "summary": "提出UP-NRPA框架，利用LLM和用户画像实现动态对话策略自适应，无需离线强化学习训练。",
+  "highlights": [
+    "基于用户画像的嵌套回滚策略适应(UP-NRPA)在线框架",
+    "无需离线强化学习，实时适应用户特征",
+    "协商任务中销售挂牌比提升56.41%，多任务100%成功率"
+  ],
+  "tags": [
+    "dialogue systems",
+    "policy adaptation",
+    "user portrait",
+    "nested rollout",
+    "large language models",
+    "goal-oriented dialogue",
+    "online adaptation",
+    "negotiation"
+  ],
+  "relevance_score": 9,
+  "score_reason": "直接涉及LLM对话策略自适应，高度相关",
+  "author": "Hui Wang, Fafa Zhang, Meng Liu, Xiangyu Chen, Chaoxu Mu",
+  "published_at": "Mon, 15 Jun 2026 00:00:00 -0400",
+  "fetched_at": "2026-06-16T03:28:36.509239+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "up-nrpa-user-portrait-based-nested-rollout-policy-adaptation-for-planning-with-large-language-models-in-goal-oriented-dialogue-systems"
+}

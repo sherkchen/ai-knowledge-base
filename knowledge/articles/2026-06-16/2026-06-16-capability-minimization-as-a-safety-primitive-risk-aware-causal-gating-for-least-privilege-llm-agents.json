@@ -1,0 +1,34 @@
+{
+  "id": "rss-20260616-024",
+  "title": "Capability Minimization as a Safety Primitive: Risk-Aware Causal Gating for Least-Privilege LLM Agents",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2606.13884",
+  "summary": "提出风险感知因果门控框架，结合因果效应估计与校准风险控制，实现LLM代理的最小权限安全决策。",
+  "highlights": [
+    "结合因果效应估计与校准风险控制，实现可靠的门控决策",
+    "通过建模因果路径，估计反事实风险而非仅依赖预测置信度",
+    "在保持效用同时大幅减少高代价错误，超越置信度基线和选择性预测方法"
+  ],
+  "tags": [
+    "llm agents",
+    "safety",
+    "causal reasoning",
+    "risk-aware",
+    "gating",
+    "trustworthy ai",
+    "automation",
+    "selective prediction"
+  ],
+  "relevance_score": 10,
+  "score_reason": "直接提出LLM代理安全原语，因果门控风险控制",
+  "author": "Laxmipriya Ganesh Iyer, Rahul Suresh Babu",
+  "published_at": "Mon, 15 Jun 2026 00:00:00 -0400",
+  "fetched_at": "2026-06-16T03:28:36.509346+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "capability-minimization-as-a-safety-primitive-risk-aware-causal-gating-for-least-privilege-llm-agents"
+}

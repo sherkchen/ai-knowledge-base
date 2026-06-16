@@ -1,0 +1,33 @@
+{
+  "id": "rss-20260616-020",
+  "title": "TwinBI: An Agentic Digital Twin for Efficient Augmented Interactions with Business Intelligence Dashboards",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2606.13731",
+  "summary": "TwinBI: 面向BI仪表板的代理数字孪生框架，整合LLM代理与仪表板状态，提升分析交互一致性和效率。",
+  "highlights": [
+    "结合LLM代理与仪表板状态，实现双模分析协同",
+    "通过统一交互日志重建共享分析状态，确保上下文一致",
+    "基准评测准确率显著提升，超时率大幅降低"
+  ],
+  "tags": [
+    "agent",
+    "digital-twin",
+    "business-intelligence",
+    "dashboard",
+    "llm",
+    "interaction",
+    "framework"
+  ],
+  "relevance_score": 9,
+  "score_reason": "直接涉及LLM代理、状态保持与BI交互，核心为AI增强分析",
+  "author": "Jisoo Jang Wen-Syan Li",
+  "published_at": "Mon, 15 Jun 2026 00:00:00 -0400",
+  "fetched_at": "2026-06-16T03:28:36.509301+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "twinbi-an-agentic-digital-twin-for-efficient-augmented-interactions-with-business-intelligence-dashboards"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "rss-20260616-016",
+  "title": "Orchestra-o1: Omnimodal Agent Orchestration",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2606.13707",
+  "summary": "提出多模态智能体编排框架Orchestra-o1，支持跨文本图像音频视频协同，比次优方法准确率高10.3%。",
+  "highlights": [
+    "统一编排机制支持多模态任务分解与子代理协作",
+    "引入决策对齐组相对策略优化(DA-GRPO)进行训练",
+    "在OmniGAIA基准上超越最佳方法10.3%准确率，达到SOTA"
+  ],
+  "tags": [
+    "agent orchestration",
+    "omnimodal",
+    "multi-modal",
+    "reinforcement learning",
+    "large language models",
+    "agent swarm",
+    "research paper",
+    "arxiv"
+  ],
+  "relevance_score": 10,
+  "score_reason": "直接涉及LLM多智能体编排与强化学习，核心AI topic",
+  "author": "Fan Zhang, Vireo Zhang, Shengju Qian, Haoxuan Li, Hao Wu, Jinyang Wu, Donghao Zhou, Zhihong Zhu, Zheng Lian, Xin Wang, Pheng-Ann Heng",
+  "published_at": "Mon, 15 Jun 2026 00:00:00 -0400",
+  "fetched_at": "2026-06-16T03:28:36.509260+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "orchestra-o1-omnimodal-agent-orchestration"
+}

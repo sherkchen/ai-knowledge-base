@@ -1,0 +1,33 @@
+{
+  "id": "rss-20260616-017",
+  "title": "Hybrid Open-Ended Tri-Evolution Makes Better Deep Researcher",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2606.13710",
+  "summary": "HOTE框架通过混合模式强化学习协同进化提出者、求解者和评判者，提升深度研究智能体。",
+  "highlights": [
+    "提出混合开放三进化（HOTE）框架，联合进化提议者、求解者和评判者。",
+    "基于网络规模知识，利用混合模式强化学习促进智能体在开放任务中的自主进化。",
+    "8B模型超越现有最强静态8-32B模型及最先进深度研究训练方法。"
+  ],
+  "tags": [
+    "deep research",
+    "agent evolution",
+    "reinforcement learning",
+    "open-ended tasks",
+    "hybrid tri-evolution",
+    "llm training",
+    "arxiv"
+  ],
+  "relevance_score": 10,
+  "score_reason": "直接针对深度研究智能体进化，与AI/LLM/Agent高度相关。",
+  "author": "Hongming Piao, Chi Liu, Mengzhuo Chen, Yan Shu, Derek Li, Ying Wei, Bryan Dai",
+  "published_at": "Mon, 15 Jun 2026 00:00:00 -0400",
+  "fetched_at": "2026-06-16T03:28:36.509269+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "hybrid-open-ended-tri-evolution-makes-better-deep-researcher"
+}
