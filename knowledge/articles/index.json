@@ -73,6 +73,78 @@
       "fetched_at": "2026-06-16T03:28:36.509346+00:00"
     },
     {
+      "id": "github-20260619-003",
+      "title": "sinanuozdemir/oreilly-llm-rl-alignment",
+      "category": "other",
+      "slug": "sinanuozdemir-oreilly-llm-rl-alignment",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-06-19T12:10:14.272245+00:00"
+    },
+    {
+      "id": "github-20260619-005",
+      "title": "mh-ka/ai-stuff",
+      "category": "other",
+      "slug": "mh-ka-ai-stuff",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-06-19T12:10:14.272265+00:00"
+    },
+    {
+      "id": "github-20260619-007",
+      "title": "JacKaL37/TheHardProblem",
+      "category": "research",
+      "slug": "jackal37-thehardproblem",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-06-19T12:10:14.272282+00:00"
+    },
+    {
+      "id": "github-20260619-008",
+      "title": "billy-enrizky/crewai-research-assistant",
+      "category": "tool",
+      "slug": "billy-enrizky-crewai-research-assistant",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-06-19T12:10:14.272294+00:00"
+    },
+    {
+      "id": "github-20260619-011",
+      "title": "richer-richard/socratic-council",
+      "category": "tool",
+      "slug": "richer-richard-socratic-council",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-06-19T12:10:14.272324+00:00"
+    },
+    {
+      "id": "rss-20260619-013",
+      "title": "Deontic Policies for Runtime Governance of Agentic AI Systems",
+      "category": "paper",
+      "slug": "deontic-policies-for-runtime-governance-of-agentic-ai-systems",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-06-19T12:10:14.272341+00:00"
+    },
+    {
+      "id": "rss-20260619-016",
+      "title": "Emergent Alignment",
+      "category": "paper",
+      "slug": "emergent-alignment",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-06-19T12:10:14.272382+00:00"
+    },
+    {
+      "id": "rss-20260619-018",
+      "title": "Which Pairs to Compare for LLM Post-Training?",
+      "category": "paper",
+      "slug": "which-pairs-to-compare-for-llm-post-training",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-06-19T12:10:14.272400+00:00"
+    },
+    {
       "id": "github-20260616-001",
       "title": "nitefood/ai-bash",
       "category": "tool",
@@ -199,6 +271,87 @@
       "fetched_at": "2026-06-16T03:28:36.509357+00:00"
     },
     {
+      "id": "github-20260619-001",
+      "title": "tianlinxu312/Everything-about-LLMs",
+      "category": "other",
+      "slug": "tianlinxu312-everything-about-llms",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-06-19T12:10:14.269988+00:00"
+    },
+    {
+      "id": "github-20260619-002",
+      "title": "nitefood/ai-bash",
+      "category": "tool",
+      "slug": "nitefood-ai-bash",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-06-19T12:10:14.272223+00:00"
+    },
+    {
+      "id": "github-20260619-006",
+      "title": "BjornMelin/polyagent-research-intelligence",
+      "category": "tool",
+      "slug": "bjornmelin-polyagent-research-intelligence",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-06-19T12:10:14.272274+00:00"
+    },
+    {
+      "id": "github-20260619-009",
+      "title": "yushengzh/awesome-ML-for-quantum",
+      "category": "research",
+      "slug": "yushengzh-awesome-ml-for-quantum",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-06-19T12:10:14.272306+00:00"
+    },
+    {
+      "id": "github-20260619-010",
+      "title": "jolovicdev/shandu",
+      "category": "tool",
+      "slug": "jolovicdev-shandu",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-06-19T12:10:14.272316+00:00"
+    },
+    {
+      "id": "github-20260619-012",
+      "title": "mattvideoproductions/brightdata-ai-research-agent",
+      "category": "tool",
+      "slug": "mattvideoproductions-brightdata-ai-research-agent",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-06-19T12:10:14.272333+00:00"
+    },
+    {
+      "id": "rss-20260619-015",
+      "title": "LLM Doesn't Know What It Doesn't Know: Detecting Epistemic Blind Spots via Cross-Model Attribution Divergence on Clinical Tabular Data",
+      "category": "research",
+      "slug": "llm-doesn-t-know-what-it-doesn-t-know-detecting-epistemic-blind-spots-via-cross-model-attribution-divergence-on-clinical-tabular-data",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-06-19T12:10:14.272367+00:00"
+    },
+    {
+      "id": "rss-20260619-017",
+      "title": "Uncertainty Decomposition for Clarification Seeking in LLM Agents",
+      "category": "paper",
+      "slug": "uncertainty-decomposition-for-clarification-seeking-in-llm-agents",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-06-19T12:10:14.272390+00:00"
+    },
+    {
+      "id": "rss-20260619-019",
+      "title": "Toten: Knowledge-Based Ontological Tokenization Of Physical Quantities And Technical Notation In Brazilian Portuguese",
+      "category": "paper",
+      "slug": "toten-knowledge-based-ontological-tokenization-of-physical-quantities-and-technical-notation-in-brazilian-portuguese",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-06-19T12:10:14.272411+00:00"
+    },
+    {
       "id": "github-20260616-009",
       "title": "SukritiC/ai-mastery-hub",
       "category": "other",
@@ -206,6 +359,24 @@
       "relevance_score": 8,
       "status": "draft",
       "fetched_at": "2026-06-16T03:28:36.509185+00:00"
+    },
+    {
+      "id": "github-20260619-004",
+      "title": "SpreadSheets600/TidyTabs",
+      "category": "tool",
+      "slug": "spreadsheets600-tidytabs",
+      "relevance_score": 8,
+      "status": "draft",
+      "fetched_at": "2026-06-19T12:10:14.272256+00:00"
+    },
+    {
+      "id": "rss-20260619-020",
+      "title": "Denoising Implicit Feedback for Cold-start Recommendation",
+      "category": "paper",
+      "slug": "denoising-implicit-feedback-for-cold-start-recommendation",
+      "relevance_score": 8,
+      "status": "draft",
+      "fetched_at": "2026-06-19T12:10:14.272423+00:00"
     },
     {
       "id": "rss-20260616-023",
@@ -224,8 +395,17 @@
       "relevance_score": 5,
       "status": "draft",
       "fetched_at": "2026-06-16T03:28:36.509251+00:00"
+    },
+    {
+      "id": "rss-20260619-014",
+      "title": "Measuring Curriculum Alignment across Topical Coverage, Competency, and Cognitive Depth: A Longitudinal Framework Applied to CS2013 and CS2023",
+      "category": "paper",
+      "slug": "measuring-curriculum-alignment-across-topical-coverage-competency-and-cognitive-depth-a-longitudinal-framework-applied-to-cs2013-and-cs2023",
+      "relevance_score": 5,
+      "status": "draft",
+      "fetched_at": "2026-06-19T12:10:14.272351+00:00"
     }
   ],
-  "total_count": 25,
-  "updated_at": "2026-06-16T03:28:36.514129+00:00"
+  "total_count": 45,
+  "updated_at": "2026-06-19T12:10:14.276310+00:00"
 }

@@ -1,0 +1,34 @@
+{
+  "id": "rss-20260619-016",
+  "title": "Emergent Alignment",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2606.19527",
+  "summary": "大型语言模型通过内省步骤和DPO实现自我伦理对齐，无需外部评判。",
+  "highlights": [
+    "LLM能内省自身输出是否违背伦理并自我纠正",
+    "扩展训练损失加入DPO对齐组件，远离非伦理输出",
+    "在代码黑客场景中，一个高层自省问题即可引导模型对齐"
+  ],
+  "tags": [
+    "alignment",
+    "llm",
+    "self-correction",
+    "ethics",
+    "dpo",
+    "introspection",
+    "emergent-alignment",
+    "fine-tuning"
+  ],
+  "relevance_score": 10,
+  "score_reason": "直接研究LLM伦理自纠与对齐技术，高度相关",
+  "author": "Martin Kol\\'a\\v{r}",
+  "published_at": "Fri, 19 Jun 2026 00:00:00 -0400",
+  "fetched_at": "2026-06-19T12:10:14.272382+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "emergent-alignment"
+}

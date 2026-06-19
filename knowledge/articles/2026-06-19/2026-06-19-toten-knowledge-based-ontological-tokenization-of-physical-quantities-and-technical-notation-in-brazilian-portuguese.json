@@ -1,0 +1,33 @@
+{
+  "id": "rss-20260619-019",
+  "title": "Toten: Knowledge-Based Ontological Tokenization Of Physical Quantities And Technical Notation In Brazilian Portuguese",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2606.19626",
+  "summary": "基于本体的分词法TOTEN，用分类与实例化取代BPE，提升物理量和技术符号语义完整性。",
+  "highlights": [
+    "TOTEN将分词从统计推导转为基于本体的声明式分类，保留物理量和单位的原子性。",
+    "耦合Pint、Unicode和RSLP三个oracle，确保维度等价、字符鲁棒和形态正确。",
+    "在巴西葡语语料上实现单位原子性和数值重建显著优于Quantulum3等基线。"
+  ],
+  "tags": [
+    "tokenization",
+    "ontology",
+    "byte-pair-encoding",
+    "nlp",
+    "portuguese",
+    "physical-quantities",
+    "technical-notation"
+  ],
+  "relevance_score": 9,
+  "score_reason": "分词是LLM核心组件，TOTEN直接解决BPE对技术实体语义碎片化问题。",
+  "author": "Antonio de Sousa Leit\\~ao Filho; Allan Kardec Duailibe Barros Filho; Fabr\\'icio Saul Lima; Selby Mykael Lima dos Santos; Rejani Bandeira Vieira Sousa",
+  "published_at": "Fri, 19 Jun 2026 00:00:00 -0400",
+  "fetched_at": "2026-06-19T12:10:14.272411+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "toten-knowledge-based-ontological-tokenization-of-physical-quantities-and-technical-notation-in-brazilian-portuguese"
+}

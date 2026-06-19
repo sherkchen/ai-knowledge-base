@@ -1,0 +1,34 @@
+{
+  "id": "rss-20260619-020",
+  "title": "Denoising Implicit Feedback for Cold-start Recommendation",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2606.19658",
+  "summary": "提出DIF方法，通过内容相似的热门物品推断伪标签并校正冷启动场景下的噪声反馈，已在快手部署。",
+  "highlights": [
+    "首次关注冷启动场景下隐式反馈去噪问题",
+    "利用内容相似热物品生成带置信度的伪标签",
+    "自适应估计噪声不确定性以校正样本标签"
+  ],
+  "tags": [
+    "recommendation",
+    "denoising",
+    "cold-start",
+    "implicit feedback",
+    "pseudo-label",
+    "clickbias",
+    "collaborative filtering",
+    "content-based"
+  ],
+  "relevance_score": 8,
+  "score_reason": "提出冷启动推荐去噪方法，AI推荐系统核心研究",
+  "author": "Gaode Chen, Shicheng Wang, Shikun Li, Rui Huang, Xinghua Zhang, Yunze Luo, Shipeng Li, Shiming Ge, Ruina Sun, Yinjie Jiang, Jun Zhang",
+  "published_at": "Fri, 19 Jun 2026 00:00:00 -0400",
+  "fetched_at": "2026-06-19T12:10:14.272423+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "denoising-implicit-feedback-for-cold-start-recommendation"
+}

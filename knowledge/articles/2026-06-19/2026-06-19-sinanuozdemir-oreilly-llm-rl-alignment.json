@@ -1,0 +1,34 @@
+{
+  "id": "github-20260619-003",
+  "title": "sinanuozdemir/oreilly-llm-rl-alignment",
+  "source": "github_trending",
+  "source_url": "https://github.com/sinanuozdemir/oreilly-llm-rl-alignment",
+  "summary": "本训练深入探索LLM强化学习对齐技术，涵盖RLHF、RLAIF、推理LLM等，并演示微调等实践。",
+  "highlights": [
+    "深入探索大模型强化学习技术前沿",
+    "涵盖RLHF、RLAIF与推理LLM等高级主题",
+    "提供实际微调等应用示例"
+  ],
+  "tags": [
+    "reinforcement-learning",
+    "llm",
+    "alignment",
+    "rlhf",
+    "rlaif",
+    "agents",
+    "fine-tuning",
+    "reward-modeling"
+  ],
+  "relevance_score": 10,
+  "score_reason": "涵盖LLM强化学习与对齐前沿技术，直接相关",
+  "author": "sinanuozdemir",
+  "published_at": "2023-08-10T16:41:46Z",
+  "fetched_at": "2026-06-19T12:10:14.272245+00:00",
+  "status": "draft",
+  "category": "other",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "sinanuozdemir-oreilly-llm-rl-alignment"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "rss-20260619-014",
+  "title": "Measuring Curriculum Alignment across Topical Coverage, Competency, and Cognitive Depth: A Longitudinal Framework Applied to CS2013 and CS2023",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2606.19469",
+  "summary": "本文提出一种人机协同管道，通过语义检索和人工确认来衡量计算机科学课程与国际指南的对齐程度，并纵向对比CS2013与CS2023。",
+  "highlights": [
+    "利用语义检索和人工确认匹配课程与知识单元",
+    "对比CS2013和CS2023发现覆盖率接近50%，但认知深度达标率下降",
+    "识别出并行分布式计算等持久性结构差距"
+  ],
+  "tags": [
+    "curriculum alignment",
+    "semantic retrieval",
+    "computer science education",
+    "human-in-the-loop",
+    "longitudinal analysis",
+    "benchmarking",
+    "knowledge units",
+    "cognitive depth"
+  ],
+  "relevance_score": 5,
+  "score_reason": "运用语义检索但非AI核心研究",
+  "author": "Sherzod Turaev, Mary John, Saja Aldabet, Mamoun Awad, Nazar Zaki, Khaled Shuaib",
+  "published_at": "Fri, 19 Jun 2026 00:00:00 -0400",
+  "fetched_at": "2026-06-19T12:10:14.272351+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "measuring-curriculum-alignment-across-topical-coverage-competency-and-cognitive-depth-a-longitudinal-framework-applied-to-cs2013-and-cs2023"
+}
