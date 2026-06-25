@@ -1,0 +1,34 @@
+{
+  "id": "rss-20260619-018",
+  "title": "Which Pairs to Compare for LLM Post-Training?",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2606.19607",
+  "summary": "研究如何为LLM后训练选择偏好对比对，通过采样设计提升DPO样本效率。",
+  "highlights": [
+    "将对比选择形式化为采样设计问题",
+    "推导出DPO训练下界与上界的匹配边界",
+    "提出实际采样设计显著提升样本效率"
+  ],
+  "tags": [
+    "dpo",
+    "preference optimization",
+    "comparison selection",
+    "sampling design",
+    "llm post-training",
+    "sample efficiency",
+    "information matrix",
+    "policy performance"
+  ],
+  "relevance_score": 10,
+  "score_reason": "直接研究LLM偏好训练的效率提升",
+  "author": "Jiangze Han, Vineet Goyal, Will Ma",
+  "published_at": "Fri, 19 Jun 2026 00:00:00 -0400",
+  "fetched_at": "2026-06-19T12:10:14.272400+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "which-pairs-to-compare-for-llm-post-training"
+}

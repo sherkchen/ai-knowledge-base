@@ -1,0 +1,33 @@
+{
+  "id": "github-20260619-010",
+  "title": "jolovicdev/shandu",
+  "source": "github_trending",
+  "source_url": "https://github.com/jolovicdev/shandu",
+  "summary": "本地DeepResearch，AI驱动的研究系统，支持任意LLM进行迭代深度研究",
+  "highlights": [
+    "支持多种大语言模型，可本地运行",
+    "实现迭代式深度研究，自动综合信息",
+    "AI驱动，用于任意主题的全面调研"
+  ],
+  "tags": [
+    "deepresearch",
+    "ai",
+    "llm",
+    "python",
+    "research-tool",
+    "openai",
+    "deepsearch"
+  ],
+  "relevance_score": 9,
+  "score_reason": "直接利用LLM进行迭代深度研究，高度相关",
+  "author": "jolovicdev",
+  "published_at": "2025-02-25T22:04:10Z",
+  "fetched_at": "2026-06-19T12:10:14.272316+00:00",
+  "status": "draft",
+  "category": "tool",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "jolovicdev-shandu"
+}

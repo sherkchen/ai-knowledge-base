@@ -1,0 +1,34 @@
+{
+  "id": "github-20260619-011",
+  "title": "richer-richard/socratic-council",
+  "source": "github_trending",
+  "source_url": "https://github.com/richer-richard/socratic-council",
+  "summary": "本地桌面应用，集成了8家LLM提供商的16个AI代理，就任意话题进行辩论，提供实时论证映射、事实核查和冲突检测。",
+  "highlights": [
+    "16个AI代理来自8家LLM提供商",
+    "实时论证映射与事实核查徽章",
+    "冲突检测功能增强辩论质量"
+  ],
+  "tags": [
+    "agents",
+    "ai-agents",
+    "debate",
+    "argument-mapping",
+    "llm",
+    "desktop-app",
+    "fact-checking",
+    "multi-agent"
+  ],
+  "relevance_score": 10,
+  "score_reason": "多AI代理辩论应用，直接涉及LLM与Agent技术",
+  "author": "richer-richard",
+  "published_at": "2026-02-02T11:52:12Z",
+  "fetched_at": "2026-06-19T12:10:14.272324+00:00",
+  "status": "draft",
+  "category": "tool",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "richer-richard-socratic-council"
+}

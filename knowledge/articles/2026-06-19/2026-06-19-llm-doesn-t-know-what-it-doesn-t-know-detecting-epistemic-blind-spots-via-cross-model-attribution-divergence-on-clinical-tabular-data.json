@@ -1,0 +1,34 @@
+{
+  "id": "rss-20260619-015",
+  "title": "LLM Doesn't Know What It Doesn't Know: Detecting Epistemic Blind Spots via Cross-Model Attribution Divergence on Clinical Tabular Data",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2606.19509",
+  "summary": "论文研究LLM在临床表格数据中的认知盲点，通过跨模型归因分歧检测其知识边界。",
+  "highlights": [
+    "LLM口头置信度与准确性无关，仅反映提示格式而非预测质量。",
+    "当XGBoost准确率高达99%时，LLM准确率骤降至64.8%，呈现逆难度效应。",
+    "基于归因分歧的校准器将期望校准误差从0.254降至0.080。"
+  ],
+  "tags": [
+    "llm",
+    "epistemic-uncertainty",
+    "attribution-divergence",
+    "tabular-data",
+    "model-calibration",
+    "xai",
+    "structured-data",
+    "reliability"
+  ],
+  "relevance_score": 9,
+  "score_reason": "直接探讨LLM认知盲点检测与校准，高度相关",
+  "author": "Akshat Dasula, Prasanna Desikan, Jaideep Srivastava",
+  "published_at": "Fri, 19 Jun 2026 00:00:00 -0400",
+  "fetched_at": "2026-06-19T12:10:14.272367+00:00",
+  "status": "draft",
+  "category": "research",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "llm-doesn-t-know-what-it-doesn-t-know-detecting-epistemic-blind-spots-via-cross-model-attribution-divergence-on-clinical-tabular-data"
+}

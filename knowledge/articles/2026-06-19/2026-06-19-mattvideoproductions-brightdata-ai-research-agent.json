@@ -1,0 +1,34 @@
+{
+  "id": "github-20260619-012",
+  "title": "mattvideoproductions/brightdata-ai-research-agent",
+  "source": "github_trending",
+  "source_url": "https://github.com/mattvideoproductions/brightdata-ai-research-agent",
+  "summary": "自主AI研究代理，结合网络搜索、网页抓取与LLM答案合成，提供基础与深度模式。",
+  "highlights": [
+    "集成SERP搜索与网页内容抓取",
+    "利用LLM对抓取信息进行答案合成",
+    "提供基础快速与深度发现两种研究模式"
+  ],
+  "tags": [
+    "ai",
+    "agent",
+    "web-scraping",
+    "llm",
+    "research",
+    "autonomous",
+    "serp",
+    "python"
+  ],
+  "relevance_score": 9,
+  "score_reason": "自主AI代理工具，直接整合LLM与网络研究能力",
+  "author": "mattvideoproductions",
+  "published_at": "2025-12-17T20:24:28Z",
+  "fetched_at": "2026-06-19T12:10:14.272333+00:00",
+  "status": "draft",
+  "category": "tool",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "mattvideoproductions-brightdata-ai-research-agent"
+}

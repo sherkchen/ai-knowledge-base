@@ -1,0 +1,34 @@
+{
+  "id": "rss-20260619-017",
+  "title": "Uncertainty Decomposition for Clarification Seeking in LLM Agents",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2606.19559",
+  "summary": "提出基于提示的不确定性分解方法，使LLM代理在任务模糊时主动寻求澄清，提升基准表现。",
+  "highlights": [
+    "论证经典不确定性框架不足以支持交互式LLM代理，需可分解、可沟通的表示。",
+    "设计将动作置信度与请求不确定性(u)分离的提示分解，实现主动澄清请求。",
+    "在两个澄清增强基准上，方法在多个LLM骨干上显著优于ReAct+UE和UAM。"
+  ],
+  "tags": [
+    "uncertainty",
+    "llm-agents",
+    "prompting",
+    "clarification",
+    "benchmark",
+    "underspecification",
+    "decomposition",
+    "interactive-agents"
+  ],
+  "relevance_score": 9,
+  "score_reason": "直接研究LLM代理的不确定性分解与主动澄清，高度契合主题。",
+  "author": "Gregory Matsnev",
+  "published_at": "Fri, 19 Jun 2026 00:00:00 -0400",
+  "fetched_at": "2026-06-19T12:10:14.272390+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "uncertainty-decomposition-for-clarification-seeking-in-llm-agents"
+}
