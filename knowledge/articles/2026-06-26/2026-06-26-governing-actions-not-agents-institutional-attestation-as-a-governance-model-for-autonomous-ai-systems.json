@@ -1,0 +1,34 @@
+{
+  "id": "rss-20260626-017",
+  "title": "Governing Actions, Not Agents: Institutional Attestation as a Governance Model for Autonomous AI Systems",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2606.26298",
+  "summary": "提出机构验证治理模型，AI代理自主规划但高风险操作需独立验证，确保可问责。",
+  "highlights": [
+    "将人类机构治理模式转化为AI代理计算模型",
+    "代理保留规划自主权，但无高风险行动执行权",
+    "执行需独立来源验证前置条件，加密绑定意图，记录防篡改日志"
+  ],
+  "tags": [
+    "governance",
+    "autonomous-agents",
+    "ai-safety",
+    "attestation",
+    "cryptography",
+    "institutional-design",
+    "high-risk-actions",
+    "tamper-proof-logs"
+  ],
+  "relevance_score": 9,
+  "score_reason": "直接探讨自主AI代理治理，提出新模型",
+  "author": "Jakob Salfeld-Nebgen",
+  "published_at": "Fri, 26 Jun 2026 00:00:00 -0400",
+  "fetched_at": "2026-06-26T10:55:22.327715+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "governing-actions-not-agents-institutional-attestation-as-a-governance-model-for-autonomous-ai-systems"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "rss-20260626-015",
+  "title": "Detecting and Controlling Sycophancy with Cascading Linear Features",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2606.26155",
+  "summary": "提出通过级联线性特征迭代生成数据，检测并控制语言模型的谄媚行为。",
+  "highlights": [
+    "迭代生成级联样本以分离谄媚行为的线性特征。",
+    "发现的子空间可线性分离，优于基线方法。",
+    "实现谄媚检测、评分与稳健控制，计算成本低解释性强。"
+  ],
+  "tags": [
+    "sycophancy",
+    "activation-steering",
+    "interpretability",
+    "linear-features",
+    "language-models",
+    "alignment",
+    "feature-disentanglement",
+    "data-generation"
+  ],
+  "relevance_score": 10,
+  "score_reason": "研究LLM谄媚行为的检测与控制，方法新颖，高度相关。",
+  "author": "Maty Bohacek, Rishub Jain, Nicholas Dufour, Thomas Leung, Chris Bregler, Roma Patel",
+  "published_at": "Fri, 26 Jun 2026 00:00:00 -0400",
+  "fetched_at": "2026-06-26T10:55:22.327701+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "detecting-and-controlling-sycophancy-with-cascading-linear-features"
+}

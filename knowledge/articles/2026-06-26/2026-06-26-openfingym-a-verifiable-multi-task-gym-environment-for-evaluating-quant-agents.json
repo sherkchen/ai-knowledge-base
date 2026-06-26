@@ -1,0 +1,34 @@
+{
+  "id": "rss-20260626-020",
+  "title": "OpenFinGym: A Verifiable Multi-Task Gym Environment for Evaluating Quant Agents",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2606.26350",
+  "summary": "统一量化金融智能体评估环境，覆盖预测、交易、欺诈检测等任务，支持可验证多任务测试与自动化构建。",
+  "highlights": [
+    "提供统一的多任务量化金融智能体评估环境",
+    "从学术论文自动构建可执行任务包",
+    "容器化运行时防止训练-测试泄露，支持大规模智能体评估"
+  ],
+  "tags": [
+    "quantitative-finance",
+    "agent-evaluation",
+    "reinforcement-learning",
+    "gym",
+    "llm-agents",
+    "trading",
+    "benchmark",
+    "fintech"
+  ],
+  "relevance_score": 9,
+  "score_reason": "金融领域LLM智能体评估新基准，直接推动Agent能力研究",
+  "author": "Kaicheng Zhang, Wen Ge, Lei Jiang, Weixin Yang, Jordan Langham-Lopez, Jialin Yu, Lukasz Szpruch, Hao Ni",
+  "published_at": "Fri, 26 Jun 2026 00:00:00 -0400",
+  "fetched_at": "2026-06-26T10:55:22.327739+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "openfingym-a-verifiable-multi-task-gym-environment-for-evaluating-quant-agents"
+}

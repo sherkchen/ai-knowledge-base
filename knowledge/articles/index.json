@@ -145,6 +145,69 @@
       "fetched_at": "2026-06-19T12:10:14.272400+00:00"
     },
     {
+      "id": "github-20260626-001",
+      "title": "tianlinxu312/Everything-about-LLMs",
+      "category": "other",
+      "slug": "tianlinxu312-everything-about-llms",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-06-26T10:55:22.326583+00:00"
+    },
+    {
+      "id": "github-20260626-009",
+      "title": "BjornMelin/polyagent-research-intelligence",
+      "category": "tool",
+      "slug": "bjornmelin-polyagent-research-intelligence",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-06-26T10:55:22.327658+00:00"
+    },
+    {
+      "id": "github-20260626-010",
+      "title": "jolovicdev/shandu",
+      "category": "tool",
+      "slug": "jolovicdev-shandu",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-06-26T10:55:22.327666+00:00"
+    },
+    {
+      "id": "github-20260626-012",
+      "title": "mattvideoproductions/brightdata-ai-research-agent",
+      "category": "tool",
+      "slug": "mattvideoproductions-brightdata-ai-research-agent",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-06-26T10:55:22.327678+00:00"
+    },
+    {
+      "id": "rss-20260626-015",
+      "title": "Detecting and Controlling Sycophancy with Cascading Linear Features",
+      "category": "paper",
+      "slug": "detecting-and-controlling-sycophancy-with-cascading-linear-features",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-06-26T10:55:22.327701+00:00"
+    },
+    {
+      "id": "rss-20260626-016",
+      "title": "Knowledge-augmented Agentic AI for Mental Health Medication Information Seeking",
+      "category": "paper",
+      "slug": "knowledge-augmented-agentic-ai-for-mental-health-medication-information-seeking",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-06-26T10:55:22.327708+00:00"
+    },
+    {
+      "id": "rss-20260626-019",
+      "title": "How Do Tool-Augmented LLM Agents Perform on Real-World Energy Analytics Tasks?",
+      "category": "research",
+      "slug": "how-do-tool-augmented-llm-agents-perform-on-real-world-energy-analytics-tasks",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-06-26T10:55:22.327731+00:00"
+    },
+    {
       "id": "github-20260616-001",
       "title": "nitefood/ai-bash",
       "category": "tool",
@@ -352,6 +415,96 @@
       "fetched_at": "2026-06-19T12:10:14.272411+00:00"
     },
     {
+      "id": "github-20260626-002",
+      "title": "nitefood/ai-bash",
+      "category": "tool",
+      "slug": "nitefood-ai-bash",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-06-26T10:55:22.327603+00:00"
+    },
+    {
+      "id": "github-20260626-003",
+      "title": "ruankie/ecrivai",
+      "category": "tool",
+      "slug": "ruankie-ecrivai",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-06-26T10:55:22.327615+00:00"
+    },
+    {
+      "id": "github-20260626-004",
+      "title": "sinanuozdemir/oreilly-llm-rl-alignment",
+      "category": "other",
+      "slug": "sinanuozdemir-oreilly-llm-rl-alignment",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-06-26T10:55:22.327623+00:00"
+    },
+    {
+      "id": "github-20260626-005",
+      "title": "shibing624/ai-paper-analysis",
+      "category": "paper",
+      "slug": "shibing624-ai-paper-analysis",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-06-26T10:55:22.327630+00:00"
+    },
+    {
+      "id": "github-20260626-006",
+      "title": "SpreadSheets600/TidyTabs",
+      "category": "tool",
+      "slug": "spreadsheets600-tidytabs",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-06-26T10:55:22.327636+00:00"
+    },
+    {
+      "id": "github-20260626-007",
+      "title": "rokbenko/crew-news",
+      "category": "tool",
+      "slug": "rokbenko-crew-news",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-06-26T10:55:22.327641+00:00"
+    },
+    {
+      "id": "rss-20260626-017",
+      "title": "Governing Actions, Not Agents: Institutional Attestation as a Governance Model for Autonomous AI Systems",
+      "category": "paper",
+      "slug": "governing-actions-not-agents-institutional-attestation-as-a-governance-model-for-autonomous-ai-systems",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-06-26T10:55:22.327715+00:00"
+    },
+    {
+      "id": "rss-20260626-018",
+      "title": "COrigami: An AI Pipeline for Co-Designing Flat-Foldable Visually Recognisable Origami",
+      "category": "paper",
+      "slug": "corigami-an-ai-pipeline-for-co-designing-flat-foldable-visually-recognisable-origami",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-06-26T10:55:22.327724+00:00"
+    },
+    {
+      "id": "rss-20260626-020",
+      "title": "OpenFinGym: A Verifiable Multi-Task Gym Environment for Evaluating Quant Agents",
+      "category": "paper",
+      "slug": "openfingym-a-verifiable-multi-task-gym-environment-for-evaluating-quant-agents",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-06-26T10:55:22.327739+00:00"
+    },
+    {
+      "id": "rss-20260626-021",
+      "title": "Accelerating Returns and the Qualitative Engine for Science",
+      "category": "paper",
+      "slug": "accelerating-returns-and-the-qualitative-engine-for-science",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-06-26T10:55:22.327746+00:00"
+    },
+    {
       "id": "github-20260616-009",
       "title": "SukritiC/ai-mastery-hub",
       "category": "other",
@@ -379,6 +532,24 @@
       "fetched_at": "2026-06-19T12:10:14.272423+00:00"
     },
     {
+      "id": "github-20260626-008",
+      "title": "akshaymittal143/CloudyBot-DevOps-AI",
+      "category": "tool",
+      "slug": "akshaymittal143-cloudybot-devops-ai",
+      "relevance_score": 8,
+      "status": "draft",
+      "fetched_at": "2026-06-26T10:55:22.327650+00:00"
+    },
+    {
+      "id": "rss-20260626-013",
+      "title": "Apple to skip high-end M6 Mac chips in favor of AI-focused M7 line",
+      "category": "news",
+      "slug": "apple-to-skip-high-end-m6-mac-chips-in-favor-of-ai-focused-m7-line",
+      "relevance_score": 8,
+      "status": "draft",
+      "fetched_at": "2026-06-26T10:55:22.327684+00:00"
+    },
+    {
       "id": "rss-20260616-023",
       "title": "Hyperdimensional computing for structured querying on tabular data embeddings",
       "category": "paper",
@@ -386,6 +557,15 @@
       "relevance_score": 7,
       "status": "draft",
       "fetched_at": "2026-06-16T03:28:36.509334+00:00"
+    },
+    {
+      "id": "github-20260626-011",
+      "title": "SukritiC/ai-mastery-hub",
+      "category": "other",
+      "slug": "sukritic-ai-mastery-hub",
+      "relevance_score": 7,
+      "status": "draft",
+      "fetched_at": "2026-06-26T10:55:22.327672+00:00"
     },
     {
       "id": "rss-20260616-015",
@@ -404,8 +584,17 @@
       "relevance_score": 5,
       "status": "draft",
       "fetched_at": "2026-06-19T12:10:14.272351+00:00"
+    },
+    {
+      "id": "rss-20260626-014",
+      "title": "Besimple AI (YC P25) Is Hiring",
+      "category": "other",
+      "slug": "besimple-ai-yc-p25-is-hiring",
+      "relevance_score": 3,
+      "status": "draft",
+      "fetched_at": "2026-06-26T10:55:22.327694+00:00"
     }
   ],
-  "total_count": 45,
-  "updated_at": "2026-06-19T12:10:14.276310+00:00"
+  "total_count": 66,
+  "updated_at": "2026-06-26T10:55:22.330234+00:00"
 }

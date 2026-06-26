@@ -1,0 +1,34 @@
+{
+  "id": "rss-20260626-019",
+  "title": "How Do Tool-Augmented LLM Agents Perform on Real-World Energy Analytics Tasks?",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2606.26346",
+  "summary": "研究工具增强型LLM代理在真实能源市场分析任务上的表现，包括243个专家策划问题。",
+  "highlights": [
+    "对工具增强LLM代理在能源领域任务进行实证研究。",
+    "243个问题覆盖市场数据检索、知识解读和量化建模与分析。",
+    "多维评估协议：方法正确性、答案准确性、属性对齐和来源有效性。"
+  ],
+  "tags": [
+    "tool-augmented",
+    "llm-agents",
+    "energy-analytics",
+    "benchmark",
+    "rag",
+    "domain-specific",
+    "evaluation",
+    "real-world-tasks"
+  ],
+  "relevance_score": 10,
+  "score_reason": "直接研究工具增强LLM代理在专业能源领域的评估，核心AI主题",
+  "author": "David Akinpelu, Akintonde Abbas, Rereloluwa Alimi, Ayodeji Lana",
+  "published_at": "Fri, 26 Jun 2026 00:00:00 -0400",
+  "fetched_at": "2026-06-26T10:55:22.327731+00:00",
+  "status": "draft",
+  "category": "research",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "how-do-tool-augmented-llm-agents-perform-on-real-world-energy-analytics-tasks"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "rss-20260626-016",
+  "title": "Knowledge-augmented Agentic AI for Mental Health Medication Information Seeking",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2606.26205",
+  "summary": "知识图谱多代理系统整合社媒与监管数据，提供可溯源的抗抑郁药信息",
+  "highlights": [
+    "LLM实体识别F1达0.969(药物)和0.973(病症)",
+    "患者社区数据与FDA报告重叠度低(Jaccard≤0.905)",
+    "知识图谱保留来源，确保每项声明可追溯和审计"
+  ],
+  "tags": [
+    "llm",
+    "agents",
+    "knowledge-graph",
+    "mental-health",
+    "pharmacovigilance",
+    "social-media",
+    "provenance",
+    "multi-agent"
+  ],
+  "relevance_score": 10,
+  "score_reason": "多代理LLM结合知识图谱解决精神健康用药安全，高度相关",
+  "author": "Huizi Yu, Jian Liu, Wenkong Wang, Lingyao Li, Jiayan Zhou, Zhaoqian Xue, Xiang Li, Xinxin Lin, Zhiying Liang, Zhuoru Wu, Siyuan Ma, Xin Ma, Lizhou Fan",
+  "published_at": "Fri, 26 Jun 2026 00:00:00 -0400",
+  "fetched_at": "2026-06-26T10:55:22.327708+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "knowledge-augmented-agentic-ai-for-mental-health-medication-information-seeking"
+}

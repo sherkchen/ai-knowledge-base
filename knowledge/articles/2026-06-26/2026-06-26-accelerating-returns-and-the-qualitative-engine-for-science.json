@@ -1,0 +1,34 @@
+{
+  "id": "rss-20260626-021",
+  "title": "Accelerating Returns and the Qualitative Engine for Science",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2606.26359",
+  "summary": "论文探讨库兹韦尔加速回报论，指出AI在定性推理上仍远逊人类，提出科学定性引擎应对科学发现核心挑战。",
+  "highlights": [
+    "加速回报论适用于基础设施能力，未解决科学发现中定性推理需求",
+    "ARC-AGI-3测试显示前沿AI灵活推理能力远低于人类",
+    "提出科学定性引擎（QES）以保存和利用科学发现中的人类智慧"
+  ],
+  "tags": [
+    "accelerating returns",
+    "agi",
+    "scientific discovery",
+    "qualitative reasoning",
+    "arc-agi",
+    "kurzweil",
+    "ai progress",
+    "quantitative engine"
+  ],
+  "relevance_score": 9,
+  "score_reason": "直接探讨AI加速与科学发现中定性推理的缺失，与AI/AGI高度相关",
+  "author": "Guojun Liao (Department of Mathematics, The University of Texas at Arlington)",
+  "published_at": "Fri, 26 Jun 2026 00:00:00 -0400",
+  "fetched_at": "2026-06-26T10:55:22.327746+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "accelerating-returns-and-the-qualitative-engine-for-science"
+}

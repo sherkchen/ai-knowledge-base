@@ -1,0 +1,34 @@
+{
+  "id": "rss-20260626-013",
+  "title": "Apple to skip high-end M6 Mac chips in favor of AI-focused M7 line",
+  "source": "rss_feed",
+  "source_url": "https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead?embedded-checkout=true",
+  "summary": "苹果放弃高端M6 Mac芯片，直接推出AI聚焦的M7系列，包括Pro/Max/Ultra",
+  "highlights": [
+    "苹果跳过M6芯片，直接发布AI优化的M7 Pro/Max/Ultra",
+    "M7系列芯片强化设备端AI能力，加速Mac智能体验",
+    "此举表明苹果优先布局AI硬件，提升Mac竞争力"
+  ],
+  "tags": [
+    "apple",
+    "m7",
+    "mac",
+    "processor",
+    "ai",
+    "hardware",
+    "news",
+    "on-device-ai"
+  ],
+  "relevance_score": 8,
+  "score_reason": "苹果转向AI芯片，与设备端AI紧密相关",
+  "author": "scrlk",
+  "published_at": "Thu, 25 Jun 2026 17:38:44 +0000",
+  "fetched_at": "2026-06-26T10:55:22.327684+00:00",
+  "status": "draft",
+  "category": "news",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "apple-to-skip-high-end-m6-mac-chips-in-favor-of-ai-focused-m7-line"
+}
