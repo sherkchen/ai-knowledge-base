@@ -1,0 +1,33 @@
+{
+  "id": "rss-20260703-027",
+  "title": "OPINE-World: Programmatic World Modeling with Ontology-error-Prioritized Interactive Exploration",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2607.01531",
+  "summary": "OPINE-World：LLM智能体通过本体错误优先交互探索，学习程序化世界模型，高效解决ARC-AGI-3任务。",
+  "highlights": [
+    "将LLM代码合成与交互探索结合，构建对象中心的程序化世界模型。",
+    "提出本体错误度量，引导智能体优先探索不明确的对象类型。",
+    "在ARC-AGI-3基准上解决80%游戏，动作效率达78.4，逼近人类水平。"
+  ],
+  "tags": [
+    "llm agent",
+    "world model",
+    "program synthesis",
+    "ontology error",
+    "arc-agi",
+    "interactive exploration",
+    "skill acquisition"
+  ],
+  "relevance_score": 10,
+  "score_reason": "论文提出LLM智能体进行程序化世界建模，直接相关。",
+  "author": "David Courtis, Wenhao Li, Scott Sanner",
+  "published_at": "Fri, 03 Jul 2026 00:00:00 -0400",
+  "fetched_at": "2026-07-03T10:39:08.234420+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "opine-world-programmatic-world-modeling-with-ontology-error-prioritized-interactive-exploration"
+}

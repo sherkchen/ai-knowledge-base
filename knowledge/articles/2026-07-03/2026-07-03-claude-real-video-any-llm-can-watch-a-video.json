@@ -1,0 +1,34 @@
+{
+  "id": "rss-20260703-015",
+  "title": "Claude-real-video － any LLM can watch a video",
+  "source": "rss_feed",
+  "source_url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
+  "summary": "让任意LLM观看视频的开源工具，提取帧调用视觉模型",
+  "highlights": [
+    "支持Claude等多种LLM进行视频理解",
+    "通过提取关键帧实现视频分析",
+    "开源实现，易于集成和扩展"
+  ],
+  "tags": [
+    "video-analysis",
+    "llm",
+    "claude",
+    "multimodal",
+    "frame-extraction",
+    "vision-model",
+    "github",
+    "open-source"
+  ],
+  "relevance_score": 10,
+  "score_reason": "直接实现LLM视频理解，高度相关",
+  "author": "cortexosmain",
+  "published_at": "Thu, 02 Jul 2026 19:10:12 +0000",
+  "fetched_at": "2026-07-03T10:39:08.234298+00:00",
+  "status": "draft",
+  "category": "tool",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "claude-real-video-any-llm-can-watch-a-video"
+}

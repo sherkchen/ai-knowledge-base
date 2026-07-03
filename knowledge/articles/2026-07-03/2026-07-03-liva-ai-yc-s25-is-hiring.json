@@ -1,0 +1,32 @@
+{
+  "id": "rss-20260703-016",
+  "title": "Liva AI (YC S25) Is Hiring",
+  "source": "rss_feed",
+  "source_url": "https://www.ycombinator.com/companies/liva-ai/jobs/gvtc3Ep-founding-operations-lead",
+  "summary": "AI创业公司Liva AI (YC S25) 招聘创始运营主管",
+  "highlights": [
+    "YC S25批次的AI初创公司",
+    "招聘创始运营主管一职",
+    "职位发布于Y Combinator平台"
+  ],
+  "tags": [
+    "ai",
+    "ycombinator",
+    "hiring",
+    "operations",
+    "startup",
+    "job"
+  ],
+  "relevance_score": 6,
+  "score_reason": "AI初创公司招聘信息，间接相关",
+  "author": "ashlleymo",
+  "published_at": "Fri, 26 Jun 2026 17:00:43 +0000",
+  "fetched_at": "2026-07-03T10:39:08.234311+00:00",
+  "status": "draft",
+  "category": "other",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "liva-ai-yc-s25-is-hiring"
+}

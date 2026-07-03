@@ -1,0 +1,34 @@
+{
+  "id": "rss-20260703-020",
+  "title": "When Should Service Agents Reconsider? Difficulty-Routed Control in Customer-Service Operations",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2607.01426",
+  "summary": "提出难度路由控制架构，将复杂客服会话转至升级流程，在关键操作前增加深思熟虑。",
+  "highlights": [
+    "提出基于难度的服务控制架构，区分常规与复杂请求。",
+    "升级路径采用冲突感知沟通和写操作触发再考虑机制。",
+    "在零售和航空任务中验证，可靠性提升来自针对性控制而非广泛增加交互。"
+  ],
+  "tags": [
+    "agents",
+    "customer-service",
+    "routing",
+    "llm",
+    "autonomous-agents",
+    "difficulty-routing",
+    "service-control",
+    "operational-ai"
+  ],
+  "relevance_score": 10,
+  "score_reason": "论文直接研究LLM客服代理的操作安全与控制，高度相关Agent应用",
+  "author": "Qian Chen, Chengyuan Liu, Xin Yu",
+  "published_at": "Fri, 03 Jul 2026 00:00:00 -0400",
+  "fetched_at": "2026-07-03T10:39:08.234351+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "when-should-service-agents-reconsider-difficulty-routed-control-in-customer-service-operations"
+}

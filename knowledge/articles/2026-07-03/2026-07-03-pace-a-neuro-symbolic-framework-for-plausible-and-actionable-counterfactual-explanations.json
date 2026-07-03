@@ -1,0 +1,34 @@
+{
+  "id": "rss-20260703-017",
+  "title": "PACE: A Neuro-Symbolic Framework for Plausible and Actionable Counterfactual Explanations",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2607.01306",
+  "summary": "提出神经符号框架PACE，结合神经网络与符号推理，生成可行且可解释的反事实解释。",
+  "highlights": [
+    "利用神经符号AI确保反事实解释符合域知识约束",
+    "模块化设计分离预测与推理，适应不同模型",
+    "在Adult Income数据集验证，展示有效性与可行性的平衡"
+  ],
+  "tags": [
+    "neuro-symbolic",
+    "counterfactual-explanations",
+    "explainable-ai",
+    "answer-set-programming",
+    "framework",
+    "plausibility",
+    "symbolic-reasoning",
+    "domain-knowledge"
+  ],
+  "relevance_score": 9,
+  "score_reason": "聚焦可解释AI的神经符号方法，高度相关",
+  "author": "Pavel Iakovets, Liyanapathiranage Sudeepika Wajirakumari Samarathunga, Martin Thomas Horsch, Fadi Al Machot",
+  "published_at": "Fri, 03 Jul 2026 00:00:00 -0400",
+  "fetched_at": "2026-07-03T10:39:08.234321+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "pace-a-neuro-symbolic-framework-for-plausible-and-actionable-counterfactual-explanations"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "rss-20260703-030",
+  "title": "Hawk: Harnessing Hardware-Aware Knowledge for High-Performance NPU Kernel Generation",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2607.01590",
+  "summary": "Hawk框架利用硬件感知知识提升NPU内核生成，准确率从49.4%提高到80.0%，加速达2.2倍。",
+  "highlights": [
+    "无需训练的硬件感知知识框架",
+    "三模块：运行时知识合成、瓶颈感知检索、效果驱动蒸馏",
+    "真实NPU上准确率提升至80%，最高2.2倍加速"
+  ],
+  "tags": [
+    "npu",
+    "kernel generation",
+    "hardware-aware",
+    "large language models",
+    "code generation",
+    "retrieval",
+    "knowledge distillation",
+    "framework"
+  ],
+  "relevance_score": 9,
+  "score_reason": "LLM驱动的硬件内核生成，高度契合AI应用与系统研究。",
+  "author": "Junyi Wen, Ruiyan Zhuang, Yongjia Xu, Pengtu Li, Rui Zou, Hongyi Chen, Chingman Wan, Puxu Yang, Wuhui Chen, Yanlin Wang",
+  "published_at": "Fri, 03 Jul 2026 00:00:00 -0400",
+  "fetched_at": "2026-07-03T10:39:08.234454+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "hawk-harnessing-hardware-aware-knowledge-for-high-performance-npu-kernel-generation"
+}

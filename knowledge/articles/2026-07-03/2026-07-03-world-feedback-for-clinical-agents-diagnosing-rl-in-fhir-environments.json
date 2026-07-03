@@ -1,0 +1,34 @@
+{
+  "id": "rss-20260703-023",
+  "title": "World Feedback for Clinical Agents: Diagnosing RL in FHIR Environments",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2607.01470",
+  "summary": "论文诊断临床FHIR环境中强化学习的结构障碍，提出SFT加RL的修复方案",
+  "highlights": [
+    "发现MedAgentBench v1/v2有41.7%静默完成天花板，使无为成为RL主导策略",
+    "构建MAB-v3（508任务，8.9%天花板）训练Qwen3-8B，暴露能力和格式知识障碍",
+    "纯RL达18.2% pass@1，SFT达34.1%，差距归因于障碍，提出SFT注入代码、RL学习条件"
+  ],
+  "tags": [
+    "reinforcement learning",
+    "fhir",
+    "clinical agents",
+    "medagentbench",
+    "qwen",
+    "sft",
+    "capability ceiling",
+    "format-knowledge barrier"
+  ],
+  "relevance_score": 9,
+  "score_reason": "研究LLM临床代理的RL训练障碍与解决，高度相关",
+  "author": "Ananya Mantravadi, Harshit Rajgarhia, Prasanna Desikan, Abhishek Mukherji",
+  "published_at": "Fri, 03 Jul 2026 00:00:00 -0400",
+  "fetched_at": "2026-07-03T10:39:08.234380+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "world-feedback-for-clinical-agents-diagnosing-rl-in-fhir-environments"
+}

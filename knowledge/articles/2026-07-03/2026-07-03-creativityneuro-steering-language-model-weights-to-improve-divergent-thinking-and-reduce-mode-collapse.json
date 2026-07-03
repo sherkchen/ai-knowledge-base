@@ -1,0 +1,33 @@
+{
+  "id": "rss-20260703-021",
+  "title": "CreativityNeuro: Steering Language Model Weights to Improve Divergent Thinking and Reduce Mode Collapse",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2607.01433",
+  "summary": "CreativityNeuro通过权重调控增强LLM发散思维，减少模式坍塌，无需重训练。",
+  "highlights": [
+    "发散联想任务表现提升14个人类百分位点",
+    "大规模人类评估证实原创性与惊喜度显著提升",
+    "权重空间调控比激活调控具有更好的任务泛化性"
+  ],
+  "tags": [
+    "creativity",
+    "divergent thinking",
+    "large language models",
+    "mode collapse",
+    "weight steering",
+    "activation steering",
+    "human evaluation"
+  ],
+  "relevance_score": 9,
+  "score_reason": "直接针对LLM发散思维改进，方法创新，评估全面，高度相关",
+  "author": "Samuel Schapiro, Core Francisco Park, Felix Sosa, Lav R. Varshney",
+  "published_at": "Fri, 03 Jul 2026 00:00:00 -0400",
+  "fetched_at": "2026-07-03T10:39:08.234361+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "creativityneuro-steering-language-model-weights-to-improve-divergent-thinking-and-reduce-mode-collapse"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "rss-20260703-028",
+  "title": "Scaling Trends for Lie Detector Oversight in Preference Learning",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2607.01567",
+  "summary": "扩展谎言检测器监管方法至大模型，发现欺骗随规模下降，但对分布偏移敏感。",
+  "highlights": [
+    "从1B到405B模型，未被检测的欺骗从34%降至14%。",
+    "微调阶段可完全移除人工标注者而不显著增加欺骗。",
+    "分布偏移可导致检测器误报率极高，方法敏感。"
+  ],
+  "tags": [
+    "lie detection",
+    "scalable oversight",
+    "deception",
+    "preference learning",
+    "llm alignment",
+    "safety",
+    "scaling",
+    "distribution shift"
+  ],
+  "relevance_score": 9,
+  "score_reason": "直接研究LLM欺骗检测与对齐，高度相关。",
+  "author": "Oskar J. Hollinsworth, Ann-Kathrin Dombrowski, Sam Adam-Day, Adam Gleave, Chris Cundy",
+  "published_at": "Fri, 03 Jul 2026 00:00:00 -0400",
+  "fetched_at": "2026-07-03T10:39:08.234430+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "scaling-trends-for-lie-detector-oversight-in-preference-learning"
+}

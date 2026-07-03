@@ -1,0 +1,32 @@
+{
+  "id": "rss-20260703-026",
+  "title": "Revisiting Chain-of-Thought Reasoning under Limited Supervision: Semi-supervised Chain-of-Thought Learning",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2607.01511",
+  "summary": "提出Semi-CoT框架，利用未标注问题构建伪思维链，通过熵门控选择可靠伪标签，实现半监督思维链学习。",
+  "highlights": [
+    "定义半监督思维链学习并提出Semi-CoT框架",
+    "熵门控筛选伪思维链精度达91.36%-100%",
+    "实验在SVAMP和GSM8K有小幅提升，但负迁移与天花板效应并存"
+  ],
+  "tags": [
+    "chain-of-thought",
+    "semi-supervised-learning",
+    "reasoning",
+    "language-models",
+    "pseudo-labeling",
+    "entropy"
+  ],
+  "relevance_score": 9,
+  "score_reason": "直接研究大模型思维链推理与半监督学习",
+  "author": "Hongyang He, Jiuming Liu, Victor Sanchez",
+  "published_at": "Fri, 03 Jul 2026 00:00:00 -0400",
+  "fetched_at": "2026-07-03T10:39:08.234409+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "revisiting-chain-of-thought-reasoning-under-limited-supervision-semi-supervised-chain-of-thought-learning"
+}

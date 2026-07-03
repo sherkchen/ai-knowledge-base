@@ -1,0 +1,33 @@
+{
+  "id": "rss-20260703-022",
+  "title": "Discrete Diffusion Language Models for Interactive Radiology Report Drafting",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2607.01436",
+  "summary": "扩散语言模型应用于交互式放射报告撰写，支持任意顺序文本填充，性能媲美自回归模型且速度更快。",
+  "highlights": [
+    "扩散语言模型在医疗视觉问答中匹配或超越同尺寸自回归模型，解码速度提升3.5-4.4倍。",
+    "支持任意顺序的文本填充，允许放射科医生局部修正报告后由模型自动补全上下文。",
+    "基于Mixture-of-Experts的26B模型微调后仅3.8B活跃参数，媲美前沿视觉语言模型。"
+  ],
+  "tags": [
+    "diffusion",
+    "language-model",
+    "radiology",
+    "report-generation",
+    "infill",
+    "mixture-of-experts",
+    "medical-ai"
+  ],
+  "relevance_score": 10,
+  "score_reason": "扩散语言模型在医疗交互生成中的创新应用，直接涉及LLM、交互式Agent能力。",
+  "author": "Max Van Puyvelde, Halil Ibrahim Gulluk, Wim Van Criekinge, Olivier Gevaert",
+  "published_at": "Fri, 03 Jul 2026 00:00:00 -0400",
+  "fetched_at": "2026-07-03T10:39:08.234371+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "discrete-diffusion-language-models-for-interactive-radiology-report-drafting"
+}

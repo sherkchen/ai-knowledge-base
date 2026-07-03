@@ -1,0 +1,33 @@
+{
+  "id": "rss-20260703-019",
+  "title": "Agent4cs: A Multi-agent System for Code Summarization in Large Hierarchical Codebases",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2607.01425",
+  "summary": "Agent4cs: 多智能体框架用于大规模层级代码库的摘要生成",
+  "highlights": [
+    "提出自底向上的多智能体代码摘要框架Agent4cs",
+    "包含摘要、关键词提取和质量保证三个协同代理",
+    "在语义一致性和关键词覆盖率上显著超越基线"
+  ],
+  "tags": [
+    "multi-agent system",
+    "code summarization",
+    "large codebases",
+    "llm",
+    "agent framework",
+    "hierarchical",
+    "paper"
+  ],
+  "relevance_score": 9,
+  "score_reason": "多智能体代码摘要框架，直接应用LLM智能体技术",
+  "author": "Yongjian Tang, Ezgi Sarikayak, Doruk Tuncel, Jie M. Zhang, Thomas Runkler",
+  "published_at": "Fri, 03 Jul 2026 00:00:00 -0400",
+  "fetched_at": "2026-07-03T10:39:08.234341+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "agent4cs-a-multi-agent-system-for-code-summarization-in-large-hierarchical-codebases"
+}

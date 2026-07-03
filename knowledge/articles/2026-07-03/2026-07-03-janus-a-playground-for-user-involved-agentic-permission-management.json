@@ -1,0 +1,34 @@
+{
+  "id": "rss-20260703-025",
+  "title": "Janus: a Playground for User-Involved Agentic Permission Management",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2607.01510",
+  "summary": "Janus：一个用于用户参与的智能体权限管理的实验平台，探索用户角色并评估不同设计。",
+  "highlights": [
+    "用户参与对增强智能体隐私和安全至关重要",
+    "AI辅助决策可降低用户认知负荷",
+    "需考虑现实用户行为如权限疲劳，没有万能设计"
+  ],
+  "tags": [
+    "agents",
+    "permission management",
+    "user involvement",
+    "safety",
+    "evaluation",
+    "playground",
+    "privacy",
+    "human-ai interaction"
+  ],
+  "relevance_score": 9,
+  "score_reason": "直接探讨LLM智能体的权限管理，对Agent安全至关重要",
+  "author": "Natalie Grace Brigham, Eugene Bagdasarian, Tadayoshi Kohno, Franziska Roesner",
+  "published_at": "Fri, 03 Jul 2026 00:00:00 -0400",
+  "fetched_at": "2026-07-03T10:39:08.234399+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "janus-a-playground-for-user-involved-agentic-permission-management"
+}

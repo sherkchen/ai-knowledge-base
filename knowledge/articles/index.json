@@ -208,6 +208,96 @@
       "fetched_at": "2026-06-26T10:55:22.327731+00:00"
     },
     {
+      "id": "github-20260703-002",
+      "title": "ruankie/ecrivai",
+      "category": "tool",
+      "slug": "ruankie-ecrivai",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-07-03T10:39:08.234155+00:00"
+    },
+    {
+      "id": "github-20260703-003",
+      "title": "sinanuozdemir/oreilly-llm-rl-alignment",
+      "category": "other",
+      "slug": "sinanuozdemir-oreilly-llm-rl-alignment",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-07-03T10:39:08.234182+00:00"
+    },
+    {
+      "id": "github-20260703-004",
+      "title": "kael-bit/engram-rs",
+      "category": "tool",
+      "slug": "kael-bit-engram-rs",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-07-03T10:39:08.234194+00:00"
+    },
+    {
+      "id": "github-20260703-008",
+      "title": "billy-enrizky/crewai-research-assistant",
+      "category": "tool",
+      "slug": "billy-enrizky-crewai-research-assistant",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-07-03T10:39:08.234232+00:00"
+    },
+    {
+      "id": "github-20260703-011",
+      "title": "richer-richard/socratic-council",
+      "category": "tool",
+      "slug": "richer-richard-socratic-council",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-07-03T10:39:08.234263+00:00"
+    },
+    {
+      "id": "rss-20260703-015",
+      "title": "Claude-real-video － any LLM can watch a video",
+      "category": "tool",
+      "slug": "claude-real-video-any-llm-can-watch-a-video",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-07-03T10:39:08.234298+00:00"
+    },
+    {
+      "id": "rss-20260703-020",
+      "title": "When Should Service Agents Reconsider? Difficulty-Routed Control in Customer-Service Operations",
+      "category": "paper",
+      "slug": "when-should-service-agents-reconsider-difficulty-routed-control-in-customer-service-operations",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-07-03T10:39:08.234351+00:00"
+    },
+    {
+      "id": "rss-20260703-022",
+      "title": "Discrete Diffusion Language Models for Interactive Radiology Report Drafting",
+      "category": "paper",
+      "slug": "discrete-diffusion-language-models-for-interactive-radiology-report-drafting",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-07-03T10:39:08.234371+00:00"
+    },
+    {
+      "id": "rss-20260703-024",
+      "title": "The Agentic Garden of Forking Paths",
+      "category": "paper",
+      "slug": "the-agentic-garden-of-forking-paths",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-07-03T10:39:08.234391+00:00"
+    },
+    {
+      "id": "rss-20260703-027",
+      "title": "OPINE-World: Programmatic World Modeling with Ontology-error-Prioritized Interactive Exploration",
+      "category": "paper",
+      "slug": "opine-world-programmatic-world-modeling-with-ontology-error-prioritized-interactive-exploration",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-07-03T10:39:08.234420+00:00"
+    },
+    {
       "id": "github-20260616-001",
       "title": "nitefood/ai-bash",
       "category": "tool",
@@ -505,6 +595,168 @@
       "fetched_at": "2026-06-26T10:55:22.327746+00:00"
     },
     {
+      "id": "github-20260703-001",
+      "title": "nitefood/ai-bash",
+      "category": "tool",
+      "slug": "nitefood-ai-bash",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-07-03T10:39:08.232277+00:00"
+    },
+    {
+      "id": "github-20260703-006",
+      "title": "rasmurtech/DeepSeekDeepResearch",
+      "category": "tool",
+      "slug": "rasmurtech-deepseekdeepresearch",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-07-03T10:39:08.234212+00:00"
+    },
+    {
+      "id": "github-20260703-007",
+      "title": "JacKaL37/TheHardProblem",
+      "category": "research",
+      "slug": "jackal37-thehardproblem",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-07-03T10:39:08.234221+00:00"
+    },
+    {
+      "id": "github-20260703-009",
+      "title": "yushengzh/awesome-ML-for-quantum",
+      "category": "other",
+      "slug": "yushengzh-awesome-ml-for-quantum",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-07-03T10:39:08.234245+00:00"
+    },
+    {
+      "id": "github-20260703-010",
+      "title": "jolovicdev/shandu",
+      "category": "tool",
+      "slug": "jolovicdev-shandu",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-07-03T10:39:08.234255+00:00"
+    },
+    {
+      "id": "github-20260703-012",
+      "title": "SukritiC/ai-mastery-hub",
+      "category": "other",
+      "slug": "sukritic-ai-mastery-hub",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-07-03T10:39:08.234270+00:00"
+    },
+    {
+      "id": "github-20260703-013",
+      "title": "mattvideoproductions/brightdata-ai-research-agent",
+      "category": "tool",
+      "slug": "mattvideoproductions-brightdata-ai-research-agent",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-07-03T10:39:08.234279+00:00"
+    },
+    {
+      "id": "rss-20260703-014",
+      "title": "The short leash AI coding method for beating Fable",
+      "category": "other",
+      "slug": "the-short-leash-ai-coding-method-for-beating-fable",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-07-03T10:39:08.234287+00:00"
+    },
+    {
+      "id": "rss-20260703-017",
+      "title": "PACE: A Neuro-Symbolic Framework for Plausible and Actionable Counterfactual Explanations",
+      "category": "paper",
+      "slug": "pace-a-neuro-symbolic-framework-for-plausible-and-actionable-counterfactual-explanations",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-07-03T10:39:08.234321+00:00"
+    },
+    {
+      "id": "rss-20260703-018",
+      "title": "Auto-FL-Research: Agentic Search for Federated Learning Algorithms",
+      "category": "paper",
+      "slug": "auto-fl-research-agentic-search-for-federated-learning-algorithms",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-07-03T10:39:08.234332+00:00"
+    },
+    {
+      "id": "rss-20260703-019",
+      "title": "Agent4cs: A Multi-agent System for Code Summarization in Large Hierarchical Codebases",
+      "category": "paper",
+      "slug": "agent4cs-a-multi-agent-system-for-code-summarization-in-large-hierarchical-codebases",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-07-03T10:39:08.234341+00:00"
+    },
+    {
+      "id": "rss-20260703-021",
+      "title": "CreativityNeuro: Steering Language Model Weights to Improve Divergent Thinking and Reduce Mode Collapse",
+      "category": "paper",
+      "slug": "creativityneuro-steering-language-model-weights-to-improve-divergent-thinking-and-reduce-mode-collapse",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-07-03T10:39:08.234361+00:00"
+    },
+    {
+      "id": "rss-20260703-023",
+      "title": "World Feedback for Clinical Agents: Diagnosing RL in FHIR Environments",
+      "category": "paper",
+      "slug": "world-feedback-for-clinical-agents-diagnosing-rl-in-fhir-environments",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-07-03T10:39:08.234380+00:00"
+    },
+    {
+      "id": "rss-20260703-025",
+      "title": "Janus: a Playground for User-Involved Agentic Permission Management",
+      "category": "paper",
+      "slug": "janus-a-playground-for-user-involved-agentic-permission-management",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-07-03T10:39:08.234399+00:00"
+    },
+    {
+      "id": "rss-20260703-026",
+      "title": "Revisiting Chain-of-Thought Reasoning under Limited Supervision: Semi-supervised Chain-of-Thought Learning",
+      "category": "paper",
+      "slug": "revisiting-chain-of-thought-reasoning-under-limited-supervision-semi-supervised-chain-of-thought-learning",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-07-03T10:39:08.234409+00:00"
+    },
+    {
+      "id": "rss-20260703-028",
+      "title": "Scaling Trends for Lie Detector Oversight in Preference Learning",
+      "category": "paper",
+      "slug": "scaling-trends-for-lie-detector-oversight-in-preference-learning",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-07-03T10:39:08.234430+00:00"
+    },
+    {
+      "id": "rss-20260703-029",
+      "title": "EO-Agents: A Three-Agent LLM Pipeline for Earth Observation Hypothesis Generation",
+      "category": "paper",
+      "slug": "eo-agents-a-three-agent-llm-pipeline-for-earth-observation-hypothesis-generation",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-07-03T10:39:08.234440+00:00"
+    },
+    {
+      "id": "rss-20260703-030",
+      "title": "Hawk: Harnessing Hardware-Aware Knowledge for High-Performance NPU Kernel Generation",
+      "category": "paper",
+      "slug": "hawk-harnessing-hardware-aware-knowledge-for-high-performance-npu-kernel-generation",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-07-03T10:39:08.234454+00:00"
+    },
+    {
       "id": "github-20260616-009",
       "title": "SukritiC/ai-mastery-hub",
       "category": "other",
@@ -550,6 +802,15 @@
       "fetched_at": "2026-06-26T10:55:22.327684+00:00"
     },
     {
+      "id": "github-20260703-005",
+      "title": "akshaymittal143/CloudyBot-DevOps-AI",
+      "category": "tool",
+      "slug": "akshaymittal143-cloudybot-devops-ai",
+      "relevance_score": 8,
+      "status": "draft",
+      "fetched_at": "2026-07-03T10:39:08.234203+00:00"
+    },
+    {
       "id": "rss-20260616-023",
       "title": "Hyperdimensional computing for structured querying on tabular data embeddings",
       "category": "paper",
@@ -566,6 +827,15 @@
       "relevance_score": 7,
       "status": "draft",
       "fetched_at": "2026-06-26T10:55:22.327672+00:00"
+    },
+    {
+      "id": "rss-20260703-016",
+      "title": "Liva AI (YC S25) Is Hiring",
+      "category": "other",
+      "slug": "liva-ai-yc-s25-is-hiring",
+      "relevance_score": 6,
+      "status": "draft",
+      "fetched_at": "2026-07-03T10:39:08.234311+00:00"
     },
     {
       "id": "rss-20260616-015",
@@ -595,6 +865,6 @@
       "fetched_at": "2026-06-26T10:55:22.327694+00:00"
     }
   ],
-  "total_count": 66,
-  "updated_at": "2026-06-26T10:55:22.330234+00:00"
+  "total_count": 96,
+  "updated_at": "2026-07-03T10:39:08.240543+00:00"
 }

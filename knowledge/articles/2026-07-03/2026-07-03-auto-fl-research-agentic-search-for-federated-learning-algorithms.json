@@ -1,0 +1,33 @@
+{
+  "id": "rss-20260703-018",
+  "title": "Auto-FL-Research: Agentic Search for Federated Learning Algorithms",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2607.01366",
+  "summary": "Auto-FL-Research：基于编码代理的工作流，自动搜索联邦学习算法组合，在医疗和LEAF数据上评估混合效果。",
+  "highlights": [
+    "提出受约束的编码代理工作流，自动提出并实现FL训练算法",
+    "在五个医疗跨节点FLamby任务和六个LEAF分组配置上验证",
+    "分离真正的FL配方改进与固定表面调优和单次选择产物"
+  ],
+  "tags": [
+    "federated-learning",
+    "agentic-search",
+    "algorithm-discovery",
+    "auto-fl-research",
+    "healthcare-fl",
+    "leaf-dataset",
+    "reproducibility"
+  ],
+  "relevance_score": 9,
+  "score_reason": "代理驱动FL算法自动设计，紧密关联AI代理与联邦学习前沿。",
+  "author": "Holger R. Roth, Ziyue Xu, Chester Chen, Daguang Xu, Peter Cnudde, Andrew Feng",
+  "published_at": "Fri, 03 Jul 2026 00:00:00 -0400",
+  "fetched_at": "2026-07-03T10:39:08.234332+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "auto-fl-research-agentic-search-for-federated-learning-algorithms"
+}

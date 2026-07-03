@@ -1,0 +1,33 @@
+{
+  "id": "rss-20260703-024",
+  "title": "The Agentic Garden of Forking Paths",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2607.01507",
+  "summary": "研究显示AI代理可复现人类分析变异，提出m值和代理自助法评估科学可信度。",
+  "highlights": [
+    "AI代理能通过不同人设得出对立结论，复现72%的人类意识形态差异。",
+    "对立结论的分析很难被发现缺陷，86%通过AI评审，78%通过人类专家。",
+    "提出m值量化分析路径极端性，并用代理自助法评估科学证据可信度。"
+  ],
+  "tags": [
+    "ai agents",
+    "forking paths",
+    "reproducibility",
+    "multiverse analysis",
+    "m-value",
+    "agentic bootstrap",
+    "scientific credibility"
+  ],
+  "relevance_score": 10,
+  "score_reason": "直接研究AI代理在科研分析中的作用，提出新方法。",
+  "author": "Jiacheng Miao, Jonathan K Pritchard, James Zou",
+  "published_at": "Fri, 03 Jul 2026 00:00:00 -0400",
+  "fetched_at": "2026-07-03T10:39:08.234391+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "the-agentic-garden-of-forking-paths"
+}

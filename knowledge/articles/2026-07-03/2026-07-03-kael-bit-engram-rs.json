@@ -1,0 +1,33 @@
+{
+  "id": "github-20260703-004",
+  "title": "kael-bit/engram-rs",
+  "source": "github_trending",
+  "source_url": "https://github.com/kael-bit/engram-rs",
+  "summary": "AI智能体记忆引擎，结合时间轴与空间轴，提供混合搜索和LLM整合",
+  "highlights": [
+    "多层时间衰减/晋升记忆机制",
+    "自组织主题树空间索引",
+    "混合搜索与LLM记忆整合"
+  ],
+  "tags": [
+    "memory-engine",
+    "ai-agents",
+    "hybrid-search",
+    "topic-tree",
+    "rust",
+    "sqlite",
+    "mcp"
+  ],
+  "relevance_score": 10,
+  "score_reason": "专为AI智能体设计的记忆引擎，集成LLM",
+  "author": "kael-bit",
+  "published_at": "2026-02-24T12:48:56Z",
+  "fetched_at": "2026-07-03T10:39:08.234194+00:00",
+  "status": "draft",
+  "category": "tool",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "kael-bit-engram-rs"
+}

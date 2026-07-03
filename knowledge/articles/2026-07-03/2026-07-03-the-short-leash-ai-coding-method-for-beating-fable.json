@@ -1,0 +1,33 @@
+{
+  "id": "rss-20260703-014",
+  "title": "The short leash AI coding method for beating Fable",
+  "source": "rss_feed",
+  "source_url": "https://blog.okturtles.org/2026/07/short-leash-ai-method/",
+  "summary": "博客文章介绍一种“短绳牵引”AI编码方法以击败Fable，获Hacker News热议。",
+  "highlights": [
+    "提出“短绳牵引”AI编码控制策略",
+    "旨在解决AI编码中的错误与幻觉问题",
+    "在Hacker News上引发137分、169条评论的深入讨论"
+  ],
+  "tags": [
+    "ai-coding",
+    "method",
+    "short-leash",
+    "fable",
+    "developer-tools",
+    "llm",
+    "hackernews"
+  ],
+  "relevance_score": 9,
+  "score_reason": "直接探讨AI编码方法论，与LLM应用高度相关",
+  "author": "Riseed",
+  "published_at": "Thu, 02 Jul 2026 19:11:57 +0000",
+  "fetched_at": "2026-07-03T10:39:08.234287+00:00",
+  "status": "draft",
+  "category": "other",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "the-short-leash-ai-coding-method-for-beating-fable"
+}

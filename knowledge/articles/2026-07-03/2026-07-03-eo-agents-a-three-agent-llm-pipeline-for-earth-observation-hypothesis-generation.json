@@ -1,0 +1,33 @@
+{
+  "id": "rss-20260703-029",
+  "title": "EO-Agents: A Three-Agent LLM Pipeline for Earth Observation Hypothesis Generation",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2607.01584",
+  "summary": "利用三智能体LLM管道和NASA知识图谱生成地球观测假设",
+  "highlights": [
+    "使用NASA地球观测知识图谱的三智能体LLM管道",
+    "生成覆盖多个地球科学领域的160个假设",
+    "模型发现的新数据集配对与真实文献中未探索组合同样合理"
+  ],
+  "tags": [
+    "llm",
+    "agents",
+    "earth-observation",
+    "hypothesis-generation",
+    "knowledge-graph",
+    "nasa",
+    "pipeline"
+  ],
+  "relevance_score": 9,
+  "score_reason": "直接涉及LLM智能体管道及科学假设生成，高度相关",
+  "author": "Mahyar Ghazanfari, Amin Tabrizian, Armin Mehrabian, Peng Wei",
+  "published_at": "Fri, 03 Jul 2026 00:00:00 -0400",
+  "fetched_at": "2026-07-03T10:39:08.234440+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "eo-agents-a-three-agent-llm-pipeline-for-earth-observation-hypothesis-generation"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "github-20260703-010",
+  "title": "jolovicdev/shandu",
+  "source": "github_trending",
+  "source_url": "https://github.com/jolovicdev/shandu",
+  "summary": "本地深度研究系统，支持任意LLM，AI驱动迭代研究。",
+  "highlights": [
+    "本地部署的深度研究系统，可迭代研究任意主题",
+    "支持自定义LLM后端（如OpenAI）",
+    "完全由AI驱动的自动化研究流程"
+  ],
+  "tags": [
+    "ai",
+    "deep-research",
+    "openai",
+    "python",
+    "local",
+    "llm",
+    "agent",
+    "research"
+  ],
+  "relevance_score": 9,
+  "score_reason": "直接涉及LLM和AI Agent研究",
+  "author": "jolovicdev",
+  "published_at": "2025-02-25T22:04:10Z",
+  "fetched_at": "2026-07-03T10:39:08.234255+00:00",
+  "status": "draft",
+  "category": "tool",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "jolovicdev-shandu"
+}
