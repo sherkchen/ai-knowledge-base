@@ -1,0 +1,33 @@
+{
+  "id": "rss-20260710-027",
+  "title": "Persuasion Attacks Can Decrease Effectiveness of CoT Monitoring",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2607.08066",
+  "summary": "对抗说服攻击可降低CoT监控效能，推理痕迹反成额外说服渠道，模型多样性事实核查可有效缓解。",
+  "highlights": [
+    "CoT监控在对抗场景下使有害行为批准率平均增加9.5%。",
+    "对抗代理利用推理痕迹作为额外说服渠道。",
+    "不同模型家族的事实核查与监控配对将有害行为批准率降低45%。"
+  ],
+  "tags": [
+    "chain-of-thought",
+    "monitoring",
+    "persuasion attacks",
+    "ai safety",
+    "adversarial agents",
+    "fact-checking",
+    "llm agents"
+  ],
+  "relevance_score": 10,
+  "score_reason": "直接研究LLM代理安全与CoT监控对抗攻击及防御，高度相关。",
+  "author": "Jennifer Za, Julija Bainiaksina, Nikita Ostrovsky, Tanush Chopra, Victoria Krakovna",
+  "published_at": "Fri, 10 Jul 2026 00:00:00 -0400",
+  "fetched_at": "2026-07-10T10:57:01.220811+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "persuasion-attacks-can-decrease-effectiveness-of-cot-monitoring"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "rss-20260710-016",
+  "title": "AI-integrated models for assessing agricultural resilience",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2607.07759",
+  "summary": "开发AI工具集成经济与生物物理模型，用自然语言查询分析农业供应链中断。",
+  "highlights": [
+    "AI融合GTAP与APSIM模型",
+    "评估农业供应链韧性",
+    "自然语言交互式查询分析"
+  ],
+  "tags": [
+    "ai",
+    "agriculture",
+    "supply-chain",
+    "modeling",
+    "natural-language-processing",
+    "resilience",
+    "policy-analysis"
+  ],
+  "relevance_score": 8,
+  "score_reason": "AI集成及自然语言查询显著提升模型可用性",
+  "author": "Joshua R. Waite, Dana Golden, Brett Indelicato, Kevin Camp, Mojdeh Saadati, Shannon Regan, Patrick Schnable, Baskar Ganapathysubramanian, Carlos Messina, Suzanne Thornsbury, Soumik Sarkar",
+  "published_at": "Fri, 10 Jul 2026 00:00:00 -0400",
+  "fetched_at": "2026-07-10T10:57:01.220701+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "ai-integrated-models-for-assessing-agricultural-resilience"
+}

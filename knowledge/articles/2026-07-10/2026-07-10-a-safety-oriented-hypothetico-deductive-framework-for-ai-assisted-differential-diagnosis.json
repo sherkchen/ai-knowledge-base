@@ -1,0 +1,33 @@
+{
+  "id": "rss-20260710-025",
+  "title": "A safety-oriented hypothetico-deductive framework for AI-assisted differential diagnosis",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2607.08038",
+  "summary": "AegisDx安全框架利用LLM进行假设演绎推理，提升诊断准确性并强制筛查高危病症，避免漏诊。",
+  "highlights": [
+    "采用假设演绎推理与角色合约协调LLM，生成广泛鉴别诊断",
+    "强制筛查‘不可漏诊’病症，在急诊病例中捕获率提升至78%",
+    "在NEJM/JAMA病例中，顶级诊断准确率比单独LLM提升近10%"
+  ],
+  "tags": [
+    "llm",
+    "clinical-reasoning",
+    "patient-safety",
+    "differential-diagnosis",
+    "aegisdx",
+    "medical-ai",
+    "safety-framework"
+  ],
+  "relevance_score": 10,
+  "score_reason": "直接涉及LLM在医疗诊断中的安全框架与假设演绎推理，高度契合AI/Agent主题",
+  "author": "Fan Ma, Mauro Giuffr\\`e, Donald Wright, Kent McCann, Mark Iscoe, Lingfei Qian, Mingyang Jiang, Chi Wing Ng, Na Hong, Huan He, Cathy Shyr, Qingyu Chen, Lee Schwamm, Lucila Ohno-Machado, Hua Xu",
+  "published_at": "Fri, 10 Jul 2026 00:00:00 -0400",
+  "fetched_at": "2026-07-10T10:57:01.220791+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "a-safety-oriented-hypothetico-deductive-framework-for-ai-assisted-differential-diagnosis"
+}

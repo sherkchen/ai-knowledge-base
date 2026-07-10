@@ -1,0 +1,33 @@
+{
+  "id": "rss-20260710-020",
+  "title": "Agentic AI and Retrieval-Augmented Models in Straight-Through Underwriting",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2607.07858",
+  "summary": "本文研究代理式AI与检索增强生成在直通式核保中的应用，比较单LLM、朴素RAG和多智能体系统，代理式系统表现最佳。",
+  "highlights": [
+    "探讨了AI架构从规则到LLM、RAG再到多智能体系统的演进",
+    "开发了代理式AI框架用于商业保单直通核保，构建合成实验环境",
+    "比较三种核保流程，代理式RAG在多步骤和缺失信息场景下表现最优"
+  ],
+  "tags": [
+    "agentic ai",
+    "retrieval-augmented generation",
+    "large language models",
+    "underwriting",
+    "actuarial",
+    "multi-agent",
+    "rag"
+  ],
+  "relevance_score": 10,
+  "score_reason": "直接探讨LLM、RAG和Agent在保险核保中的应用",
+  "author": "Robert Richardson, Josh Meyers, Brian Hartman, David Sandberg",
+  "published_at": "Fri, 10 Jul 2026 00:00:00 -0400",
+  "fetched_at": "2026-07-10T10:57:01.220744+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "agentic-ai-and-retrieval-augmented-models-in-straight-through-underwriting"
+}

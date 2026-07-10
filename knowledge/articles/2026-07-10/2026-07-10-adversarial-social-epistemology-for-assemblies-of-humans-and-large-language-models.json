@@ -1,0 +1,33 @@
+{
+  "id": "rss-20260710-017",
+  "title": "Adversarial Social Epistemology for Assemblies of Humans and Large Language Models",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2607.07760",
+  "summary": "本文探讨对抗性社会认识论，分析人类与大型语言模型在沟通中如何利用信任机制进行信息扭曲与操纵。",
+  "highlights": [
+    "提出对抗性社会认识论框架，解释沟通中的信息失真与信任破坏。",
+    "分析人类与LLM如何利用承诺与权利颠覆可信的断言链条。",
+    "提供审计与修复信任违规的机制，结合推理主义语义学。"
+  ],
+  "tags": [
+    "adversarial-social-epistemology",
+    "large-language-models",
+    "trust",
+    "communication",
+    "epistemic-networks",
+    "scaffolding",
+    "inferential-chain"
+  ],
+  "relevance_score": 9,
+  "score_reason": "直接研究LLM与人类互动中的信任操纵与修复，高度相关。",
+  "author": "Mihnea C. Moldoveanu, Joel A. C. Baum",
+  "published_at": "Fri, 10 Jul 2026 00:00:00 -0400",
+  "fetched_at": "2026-07-10T10:57:01.220713+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "adversarial-social-epistemology-for-assemblies-of-humans-and-large-language-models"
+}

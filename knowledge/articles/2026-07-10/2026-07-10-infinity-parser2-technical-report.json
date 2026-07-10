@@ -1,0 +1,33 @@
+{
+  "id": "rss-20260710-019",
+  "title": "Infinity-Parser2 Technical Report",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2607.07836",
+  "summary": "Infinity-Parser2多模态文档解析模型，结合可控合成与多任务强化学习，开源数据集并达SOTA。",
+  "highlights": [
+    "构建可控渲染合成引擎，开源500万中英文文档数据集Infinity-Doc2-5M",
+    "提出可验证多任务奖励系统，实现8项联合强化学习优化",
+    "发布Flash和Pro两个版本，Pro在多项基准上超越DeepSeek-OCR-2等模型"
+  ],
+  "tags": [
+    "multimodal",
+    "document-parsing",
+    "reinforcement-learning",
+    "data-synthesis",
+    "large-language-model",
+    "ocr",
+    "benchmark"
+  ],
+  "relevance_score": 10,
+  "score_reason": "前沿AI文档解析模型，结合RL与合成数据",
+  "author": "Zuming Huang, Jun Huang, Kexuan Ren, Baode Wang, Weizhen Li, Jianming Feng, Yu Wang, Yichen Yao, Shijun Lin, Yige Tang, Cheng Peng, Weidi Xu, Wei Chu, Yinghui Xu, Yuan Qi",
+  "published_at": "Fri, 10 Jul 2026 00:00:00 -0400",
+  "fetched_at": "2026-07-10T10:57:01.220736+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "infinity-parser2-technical-report"
+}

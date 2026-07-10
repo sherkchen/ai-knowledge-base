@@ -1,0 +1,33 @@
+{
+  "id": "rss-20260710-021",
+  "title": "Feedback Manipulation Regularization: Enabling Offline Agent Alignment for Imitation Learning",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2607.07859",
+  "summary": "提出反馈操控正则化方法，让离线模仿学习策略通过评估反馈信号实现对齐，提高安全性并减少失准。",
+  "highlights": [
+    "反馈操控正则化利用评估反馈校正模仿学习策略",
+    "在Safety Gymnasium中实现最高98%失准减少",
+    "在有限数据与噪声示范下仍保持鲁棒性"
+  ],
+  "tags": [
+    "feedback manipulation regularization",
+    "imitation learning",
+    "alignment",
+    "offline rl",
+    "safety",
+    "human feedback",
+    "agent alignment"
+  ],
+  "relevance_score": 9,
+  "score_reason": "直接针对智能体对齐问题，利用反馈强化离线模仿学习，高度相关",
+  "author": "Benjamin Poole, Minwoo Lee",
+  "published_at": "Fri, 10 Jul 2026 00:00:00 -0400",
+  "fetched_at": "2026-07-10T10:57:01.220752+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "feedback-manipulation-regularization-enabling-offline-agent-alignment-for-imitation-learning"
+}

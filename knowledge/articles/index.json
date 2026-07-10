@@ -298,6 +298,114 @@
       "fetched_at": "2026-07-03T10:39:08.234420+00:00"
     },
     {
+      "id": "github-20260710-002",
+      "title": "sinanuozdemir/oreilly-llm-rl-alignment",
+      "category": "other",
+      "slug": "sinanuozdemir-oreilly-llm-rl-alignment",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-07-10T10:57:01.220560+00:00"
+    },
+    {
+      "id": "github-20260710-003",
+      "title": "shibing624/ai-paper-analysis",
+      "category": "research",
+      "slug": "shibing624-ai-paper-analysis",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-07-10T10:57:01.220581+00:00"
+    },
+    {
+      "id": "github-20260710-006",
+      "title": "rokbenko/crew-news",
+      "category": "tool",
+      "slug": "rokbenko-crew-news",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-07-10T10:57:01.220611+00:00"
+    },
+    {
+      "id": "github-20260710-007",
+      "title": "ankitsharma-tech/Polyagent-Research-Intelligence",
+      "category": "tool",
+      "slug": "ankitsharma-tech-polyagent-research-intelligence",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-07-10T10:57:01.220619+00:00"
+    },
+    {
+      "id": "github-20260710-009",
+      "title": "BjornMelin/polyagent-research-intelligence",
+      "category": "tool",
+      "slug": "bjornmelin-polyagent-research-intelligence",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-07-10T10:57:01.220643+00:00"
+    },
+    {
+      "id": "rss-20260710-018",
+      "title": "Aligning Clinical Needs and AI Capabilities: A Survey on LLMs for Medical Reasoning",
+      "category": "paper",
+      "slug": "aligning-clinical-needs-and-ai-capabilities-a-survey-on-llms-for-medical-reasoning",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-07-10T10:57:01.220724+00:00"
+    },
+    {
+      "id": "rss-20260710-019",
+      "title": "Infinity-Parser2 Technical Report",
+      "category": "paper",
+      "slug": "infinity-parser2-technical-report",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-07-10T10:57:01.220736+00:00"
+    },
+    {
+      "id": "rss-20260710-020",
+      "title": "Agentic AI and Retrieval-Augmented Models in Straight-Through Underwriting",
+      "category": "paper",
+      "slug": "agentic-ai-and-retrieval-augmented-models-in-straight-through-underwriting",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-07-10T10:57:01.220744+00:00"
+    },
+    {
+      "id": "rss-20260710-022",
+      "title": "Persona Cartography: Charting Language Model Personality Traits in Weight Space",
+      "category": "paper",
+      "slug": "persona-cartography-charting-language-model-personality-traits-in-weight-space",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-07-10T10:57:01.220762+00:00"
+    },
+    {
+      "id": "rss-20260710-025",
+      "title": "A safety-oriented hypothetico-deductive framework for AI-assisted differential diagnosis",
+      "category": "paper",
+      "slug": "a-safety-oriented-hypothetico-deductive-framework-for-ai-assisted-differential-diagnosis",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-07-10T10:57:01.220791+00:00"
+    },
+    {
+      "id": "rss-20260710-026",
+      "title": "When LLMs Agree, Are They Right? Auditing Self-Consistency and Cross-Model Agreement as Confidence Signals",
+      "category": "paper",
+      "slug": "when-llms-agree-are-they-right-auditing-self-consistency-and-cross-model-agreement-as-confidence-signals",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-07-10T10:57:01.220800+00:00"
+    },
+    {
+      "id": "rss-20260710-027",
+      "title": "Persuasion Attacks Can Decrease Effectiveness of CoT Monitoring",
+      "category": "paper",
+      "slug": "persuasion-attacks-can-decrease-effectiveness-of-cot-monitoring",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-07-10T10:57:01.220811+00:00"
+    },
+    {
       "id": "github-20260616-001",
       "title": "nitefood/ai-bash",
       "category": "tool",
@@ -757,6 +865,114 @@
       "fetched_at": "2026-07-03T10:39:08.234454+00:00"
     },
     {
+      "id": "github-20260710-001",
+      "title": "nitefood/ai-bash",
+      "category": "tool",
+      "slug": "nitefood-ai-bash",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-07-10T10:57:01.218444+00:00"
+    },
+    {
+      "id": "github-20260710-004",
+      "title": "MADEVAL/AngleCraft",
+      "category": "tool",
+      "slug": "madeval-anglecraft",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-07-10T10:57:01.220593+00:00"
+    },
+    {
+      "id": "github-20260710-005",
+      "title": "SpreadSheets600/TidyTabs",
+      "category": "tool",
+      "slug": "spreadsheets600-tidytabs",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-07-10T10:57:01.220603+00:00"
+    },
+    {
+      "id": "github-20260710-010",
+      "title": "rasmurtech/DeepSeekDeepResearch",
+      "category": "tool",
+      "slug": "rasmurtech-deepseekdeepresearch",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-07-10T10:57:01.220653+00:00"
+    },
+    {
+      "id": "github-20260710-011",
+      "title": "JacKaL37/TheHardProblem",
+      "category": "research",
+      "slug": "jackal37-thehardproblem",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-07-10T10:57:01.220661+00:00"
+    },
+    {
+      "id": "github-20260710-013",
+      "title": "jolovicdev/shandu",
+      "category": "tool",
+      "slug": "jolovicdev-shandu",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-07-10T10:57:01.220678+00:00"
+    },
+    {
+      "id": "github-20260710-014",
+      "title": "crabfeather/PaperLens-AI",
+      "category": "tool",
+      "slug": "crabfeather-paperlens-ai",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-07-10T10:57:01.220685+00:00"
+    },
+    {
+      "id": "github-20260710-015",
+      "title": "SukritiC/ai-mastery-hub",
+      "category": "other",
+      "slug": "sukritic-ai-mastery-hub",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-07-10T10:57:01.220693+00:00"
+    },
+    {
+      "id": "rss-20260710-017",
+      "title": "Adversarial Social Epistemology for Assemblies of Humans and Large Language Models",
+      "category": "paper",
+      "slug": "adversarial-social-epistemology-for-assemblies-of-humans-and-large-language-models",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-07-10T10:57:01.220713+00:00"
+    },
+    {
+      "id": "rss-20260710-021",
+      "title": "Feedback Manipulation Regularization: Enabling Offline Agent Alignment for Imitation Learning",
+      "category": "paper",
+      "slug": "feedback-manipulation-regularization-enabling-offline-agent-alignment-for-imitation-learning",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-07-10T10:57:01.220752+00:00"
+    },
+    {
+      "id": "rss-20260710-023",
+      "title": "Concretized Proposition Prompting Resolves Composition-Knowledge Dichotomy in Large Language Models",
+      "category": "paper",
+      "slug": "concretized-proposition-prompting-resolves-composition-knowledge-dichotomy-in-large-language-models",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-07-10T10:57:01.220772+00:00"
+    },
+    {
+      "id": "rss-20260710-024",
+      "title": "From Prompts to Contracts: Harness Engineering for Auditable Enterprise LLM Agents",
+      "category": "paper",
+      "slug": "from-prompts-to-contracts-harness-engineering-for-auditable-enterprise-llm-agents",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-07-10T10:57:01.220781+00:00"
+    },
+    {
       "id": "github-20260616-009",
       "title": "SukritiC/ai-mastery-hub",
       "category": "other",
@@ -811,6 +1027,24 @@
       "fetched_at": "2026-07-03T10:39:08.234203+00:00"
     },
     {
+      "id": "github-20260710-012",
+      "title": "yushengzh/awesome-ML-for-quantum",
+      "category": "other",
+      "slug": "yushengzh-awesome-ml-for-quantum",
+      "relevance_score": 8,
+      "status": "draft",
+      "fetched_at": "2026-07-10T10:57:01.220669+00:00"
+    },
+    {
+      "id": "rss-20260710-016",
+      "title": "AI-integrated models for assessing agricultural resilience",
+      "category": "paper",
+      "slug": "ai-integrated-models-for-assessing-agricultural-resilience",
+      "relevance_score": 8,
+      "status": "draft",
+      "fetched_at": "2026-07-10T10:57:01.220701+00:00"
+    },
+    {
       "id": "rss-20260616-023",
       "title": "Hyperdimensional computing for structured querying on tabular data embeddings",
       "category": "paper",
@@ -827,6 +1061,15 @@
       "relevance_score": 7,
       "status": "draft",
       "fetched_at": "2026-06-26T10:55:22.327672+00:00"
+    },
+    {
+      "id": "github-20260710-008",
+      "title": "akshaymittal143/CloudyBot-DevOps-AI",
+      "category": "tool",
+      "slug": "akshaymittal143-cloudybot-devops-ai",
+      "relevance_score": 7,
+      "status": "draft",
+      "fetched_at": "2026-07-10T10:57:01.220631+00:00"
     },
     {
       "id": "rss-20260703-016",
@@ -865,6 +1108,6 @@
       "fetched_at": "2026-06-26T10:55:22.327694+00:00"
     }
   ],
-  "total_count": 96,
-  "updated_at": "2026-07-03T10:39:08.240543+00:00"
+  "total_count": 123,
+  "updated_at": "2026-07-10T10:57:01.226640+00:00"
 }

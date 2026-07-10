@@ -1,0 +1,33 @@
+{
+  "id": "rss-20260710-018",
+  "title": "Aligning Clinical Needs and AI Capabilities: A Survey on LLMs for Medical Reasoning",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2607.07761",
+  "summary": "综述LLM在医学推理中的应用，提出五级能力框架并评估18种模型。",
+  "highlights": [
+    "提出基于Miller金字塔的五级临床能力框架",
+    "连接演绎、归纳、溯因推理与医学任务",
+    "在18个先进模型上评测，发现专科模型诊断更优而通用模型决策支持更强"
+  ],
+  "tags": [
+    "llms",
+    "medical-reasoning",
+    "clinical-ai",
+    "survey",
+    "benchmarking",
+    "reasoning-patterns",
+    "healthcare"
+  ],
+  "relevance_score": 10,
+  "score_reason": "系统综述医学LLM推理，直接关联AI智能体决策",
+  "author": "Qi Peng, Jiatong Li, Sirui Huang, Yiyang Jiang, Kaisong Gong, Ronger Ding, Shijie Ye, Changmeng Zheng, Yi Cai, Xiaobo Yang, Jin Huang, Xiao-Yong Wei, Qing Li",
+  "published_at": "Fri, 10 Jul 2026 00:00:00 -0400",
+  "fetched_at": "2026-07-10T10:57:01.220724+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "aligning-clinical-needs-and-ai-capabilities-a-survey-on-llms-for-medical-reasoning"
+}

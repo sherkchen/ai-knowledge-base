@@ -1,0 +1,34 @@
+{
+  "id": "rss-20260710-026",
+  "title": "When LLMs Agree, Are They Right? Auditing Self-Consistency and Cross-Model Agreement as Confidence Signals",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2607.08065",
+  "summary": "审计LLM自我一致性和跨模型一致性作为置信度信号，发现一致性并非正确性可靠指标，尤其前沿模型过度自信。",
+  "highlights": [
+    "一致性（自我或跨模型）不能可靠地指示正确性，强模型常出现错误一致性。",
+    "在265,000样本的大规模研究中，一致性仅与正确性弱相关（rho 0.20-0.59）。",
+    "前沿模型最一致但过度自信：77%案例一致性≥0.8，其中48%错误。"
+  ],
+  "tags": [
+    "llm",
+    "self-consistency",
+    "agreement",
+    "confidence",
+    "evaluation",
+    "safety",
+    "auditing",
+    "ensemble"
+  ],
+  "relevance_score": 10,
+  "score_reason": "直接评估LLM自信度信号，对AI安全与信任至关重要",
+  "author": "Kaihua Ding",
+  "published_at": "Fri, 10 Jul 2026 00:00:00 -0400",
+  "fetched_at": "2026-07-10T10:57:01.220800+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "when-llms-agree-are-they-right-auditing-self-consistency-and-cross-model-agreement-as-confidence-signals"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "rss-20260710-024",
+  "title": "From Prompts to Contracts: Harness Engineering for Auditable Enterprise LLM Agents",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2607.08028",
+  "summary": "提出可审计的企业LLM代理架构，将确定性行为编码为代码和合约，确保来源追溯与安全合规。",
+  "highlights": [
+    "将提示工程重构为可追溯、可审计的LLM代理架构",
+    "代码拥有的保证确保安全与效用，避免提示直接泄露",
+    "在韩国企业数据上验证，跨模型维持合约，故障注入测试通过"
+  ],
+  "tags": [
+    "agents",
+    "llm",
+    "audit",
+    "enterprise",
+    "prompt-engineering",
+    "safety",
+    "validation",
+    "architecture"
+  ],
+  "relevance_score": 9,
+  "score_reason": "直接针对LLM代理可审计性，工程实践性强",
+  "author": "Joongho Ahn, Moonsoo Kim",
+  "published_at": "Fri, 10 Jul 2026 00:00:00 -0400",
+  "fetched_at": "2026-07-10T10:57:01.220781+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "from-prompts-to-contracts-harness-engineering-for-auditable-enterprise-llm-agents"
+}

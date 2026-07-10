@@ -1,0 +1,34 @@
+{
+  "id": "rss-20260710-023",
+  "title": "Concretized Proposition Prompting Resolves Composition-Knowledge Dichotomy in Large Language Models",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2607.08018",
+  "summary": "提出具体命题提示框架CPP，通过显式具象化命题解决LLM组合性与知识性的二分问题，提升推理表现。",
+  "highlights": [
+    "定义组合-知识二分问题，揭示LLM在平衡组合推理与事实知识时的困境。",
+    "提出CPP框架，通过具体命题显式化与问题相关的知识，增强推理可靠性。",
+    "在医学基准上显著提升，在数学基准上保持竞争力，且可扩展至多种模型规模。"
+  ],
+  "tags": [
+    "llm",
+    "prompting",
+    "reasoning",
+    "compositionality",
+    "knowledge",
+    "framework",
+    "medical",
+    "math"
+  ],
+  "relevance_score": 9,
+  "score_reason": "直接解决LLM推理核心问题，提出新提示框架并验证多领域效果。",
+  "author": "Changhun Lee, Minguk Jeon, Jongkyung Shin, Chiehyeon Lim",
+  "published_at": "Fri, 10 Jul 2026 00:00:00 -0400",
+  "fetched_at": "2026-07-10T10:57:01.220772+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "concretized-proposition-prompting-resolves-composition-knowledge-dichotomy-in-large-language-models"
+}

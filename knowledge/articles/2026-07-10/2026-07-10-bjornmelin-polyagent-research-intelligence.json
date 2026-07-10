@@ -1,0 +1,33 @@
+{
+  "id": "github-20260710-009",
+  "title": "BjornMelin/polyagent-research-intelligence",
+  "source": "github_trending",
+  "source_url": "https://github.com/BjornMelin/polyagent-research-intelligence",
+  "summary": "多智能体AI研究平台，输入主题即可协调多个AI代理完成文献检索、数据分析与报告生成。",
+  "highlights": [
+    "模块化多智能体架构，灵活扩展研究流程",
+    "利用LangChain与高级LLM实现智能体协作",
+    "从文献检索到报告生成的全自动化平台"
+  ],
+  "tags": [
+    "multi-agent-systems",
+    "llms",
+    "langchain",
+    "research-automation",
+    "report-generation",
+    "fastapi",
+    "nextjs"
+  ],
+  "relevance_score": 10,
+  "score_reason": "直接构建多智能体AI研究平台，集成LLM和LangChain",
+  "author": "BjornMelin",
+  "published_at": "2025-01-19T19:06:19Z",
+  "fetched_at": "2026-07-10T10:57:01.220643+00:00",
+  "status": "draft",
+  "category": "tool",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "bjornmelin-polyagent-research-intelligence"
+}

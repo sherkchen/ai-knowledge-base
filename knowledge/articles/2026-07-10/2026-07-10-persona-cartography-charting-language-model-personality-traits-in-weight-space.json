@@ -1,0 +1,34 @@
+{
+  "id": "rss-20260710-022",
+  "title": "Persona Cartography: Charting Language Model Personality Traits in Weight Space",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2607.07916",
+  "summary": "在权重空间利用OCEAN框架绘制并控制语言模型人格特质，连接人格测量与安全",
+  "highlights": [
+    "将LLM人格建模为OCEAN行为特质空间中的位置，实现可测量与可操控",
+    "低秩适配器可单调缩放单一特质，组合叠加构建混合人格，且保持能力基准",
+    "人格轴影响安全行为：神经质影响挫折，宜人性影响谄媚等，推进安全可控"
+  ],
+  "tags": [
+    "persona",
+    "personality",
+    "ocean",
+    "language model",
+    "adapter",
+    "model editing",
+    "safety",
+    "psychometrics"
+  ],
+  "relevance_score": 10,
+  "score_reason": "直接研究LLM人格操控与安全，高度相关",
+  "author": "Luke Baines, Anton Gonzalvez Hawthorne, Mariia Koroliuk, Irakli Shalibashvili, Cl\\'ement Dumas, Konstantinos Voudouris, David Demitri Africa",
+  "published_at": "Fri, 10 Jul 2026 00:00:00 -0400",
+  "fetched_at": "2026-07-10T10:57:01.220762+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "persona-cartography-charting-language-model-personality-traits-in-weight-space"
+}
