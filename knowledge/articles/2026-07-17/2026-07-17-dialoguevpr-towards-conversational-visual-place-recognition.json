@@ -1,0 +1,34 @@
+{
+  "id": "rss-20260717-022",
+  "title": "DialogueVPR: Towards Conversational Visual Place Recognition",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2607.14115",
+  "summary": "提出对话式视觉地点识别，通过交互推理解决自然语言模糊性，发布基准与强化学习框架。",
+  "highlights": [
+    "提出对话地点识别新任务，将定位转化为交互推理过程",
+    "发布首个大规模对话基准DlgQuest-Cities及DQ-pilot提问者",
+    "基于课程学习和GRPO强化学习，显著提升检索性能"
+  ],
+  "tags": [
+    "visual-place-recognition",
+    "dialogue",
+    "geo-localization",
+    "reinforcement-learning",
+    "multimodal",
+    "agent",
+    "reasoning",
+    "benchmark"
+  ],
+  "relevance_score": 9,
+  "score_reason": "对话式推理与强化学习结合，高度相关智能体研究",
+  "author": "Yukun Song, Changwei Wang, Xingtian Pei, Shibiao Xu, Wenhao Xu, Shunpeng Chen, Yu Zhang, Ke Zhang, Rongtao Xu, Xuxiang Feng, Pengyang Wang",
+  "published_at": "Fri, 17 Jul 2026 00:00:00 -0400",
+  "fetched_at": "2026-07-17T10:00:42.438579+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "dialoguevpr-towards-conversational-visual-place-recognition"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "rss-20260717-020",
+  "title": "IMEX Interaction-Based Model Explanation",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2607.14096",
+  "summary": "提出IMEX方法，通过静态相关力和交互相关力解释模型预测，识别重要特征及其交互作用。",
+  "highlights": [
+    "识别变量重要性和高阶交互",
+    "基于PCS和PCI双指标量化特征贡献",
+    "在合成数据集上验证，能处理非线性多重共线性"
+  ],
+  "tags": [
+    "xai",
+    "feature-importance",
+    "interaction-analysis",
+    "model-interpretability",
+    "correlation-power",
+    "synthetic-data"
+  ],
+  "relevance_score": 9,
+  "score_reason": "提出新型模型解释框架，高度相关XAI领域",
+  "author": "Emiliano Massi",
+  "published_at": "Fri, 17 Jul 2026 00:00:00 -0400",
+  "fetched_at": "2026-07-17T10:00:42.438561+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "imex-interaction-based-model-explanation"
+}

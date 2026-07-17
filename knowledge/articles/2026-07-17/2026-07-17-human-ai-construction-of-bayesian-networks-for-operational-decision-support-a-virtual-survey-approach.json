@@ -1,0 +1,33 @@
+{
+  "id": "rss-20260717-023",
+  "title": "Human AI Construction of Bayesian Networks for Operational Decision Support -- A Virtual Survey Approach",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2607.14141",
+  "summary": "提出用LLM构建贝叶斯网络，结合AI代理和裁剪均值法，用于决策支持。",
+  "highlights": [
+    "利用LLM作为AI代理估算概率，替代专家判断",
+    "应用裁剪均值去除噪声",
+    "在替代医疗系统中建模客户意向，发现主观规范影响更大"
+  ],
+  "tags": [
+    "bayesian networks",
+    "large language models",
+    "ai agents",
+    "decision support",
+    "expert systems",
+    "causal inference",
+    "human-ai collaboration"
+  ],
+  "relevance_score": 9,
+  "score_reason": "论文提出用LLM代理构建贝叶斯网络，直接涉及AI和决策支持",
+  "author": "Kumar Rahul (Indian Institute of Management Kozhikode, Kerala, India), Shovan Chowdhury (Indian Institute of Management Kozhikode, Kerala, India)",
+  "published_at": "Fri, 17 Jul 2026 00:00:00 -0400",
+  "fetched_at": "2026-07-17T10:00:42.438588+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "human-ai-construction-of-bayesian-networks-for-operational-decision-support-a-virtual-survey-approach"
+}

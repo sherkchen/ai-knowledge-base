@@ -1,0 +1,33 @@
+{
+  "id": "rss-20260717-028",
+  "title": "ReasFlow: Assisting Reasoning-Centric Scientific Discovery in Applied Mathematics via a Knowledge-Based Multi-Agent System",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2607.14178",
+  "summary": "ReasFlow: 基于知识的多智能体系统，辅助应用数学中推理驱动的科学发现。",
+  "highlights": [
+    "实现端到端自主理论推导与验证，覆盖文献综合、算法设计、定理证明等环节。",
+    "内置验证循环与知识检索机制，减少人工干预。",
+    "在开放基线中取得最高评估分数，已生成五篇完整论文。"
+  ],
+  "tags": [
+    "multi-agent",
+    "scientific-discovery",
+    "reasoning",
+    "theorem-proving",
+    "autonomous-agents",
+    "knowledge-retrieval",
+    "llm"
+  ],
+  "relevance_score": 10,
+  "score_reason": "直接涉及LLM多智能体系统在理论科学发现中的应用，高度相关。",
+  "author": "Yutong He, Daibo Li, Guohong Li, Jiahe Geng, Zhengyang Huang, Can Ren, Zekun Zhang, Yifan Liu, Shuchen Zhu, Hengrui Zhang, Boao Kong, Ming Sun, Shu Li, Chenyi Li, Jiang Hu, Kun Yuan, Zaiwen Wen, Pingwen Zhang",
+  "published_at": "Fri, 17 Jul 2026 00:00:00 -0400",
+  "fetched_at": "2026-07-17T10:00:42.438642+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "reasflow-assisting-reasoning-centric-scientific-discovery-in-applied-mathematics-via-a-knowledge-based-multi-agent-system"
+}

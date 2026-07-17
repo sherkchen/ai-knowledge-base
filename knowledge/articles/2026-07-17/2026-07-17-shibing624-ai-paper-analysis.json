@@ -1,0 +1,34 @@
+{
+  "id": "github-20260717-003",
+  "title": "shibing624/ai-paper-analysis",
+  "source": "github_trending",
+  "source_url": "https://github.com/shibing624/ai-paper-analysis",
+  "summary": "日更新AI前沿论文中文深度解析，涵盖LLM、智能体、RAG、RL等方向。",
+  "highlights": [
+    "每日更新AI前沿论文深度解读",
+    "覆盖大语言模型、智能体、RAG和强化学习",
+    "中文内容，帮开发者快速理解最新研究"
+  ],
+  "tags": [
+    "ai",
+    "paper",
+    "analysis",
+    "llm",
+    "agent",
+    "rag",
+    "reinforcement-learning",
+    "chinese"
+  ],
+  "relevance_score": 10,
+  "score_reason": "专注于AI/LLM/Agent论文分析，高度相关",
+  "author": "shibing624",
+  "published_at": "2026-03-03T03:30:18Z",
+  "fetched_at": "2026-07-17T10:00:42.438393+00:00",
+  "status": "draft",
+  "category": "other",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "shibing624-ai-paper-analysis"
+}

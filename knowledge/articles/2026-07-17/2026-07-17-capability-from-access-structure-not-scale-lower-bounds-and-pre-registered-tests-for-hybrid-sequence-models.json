@@ -1,0 +1,33 @@
+{
+  "id": "rss-20260717-024",
+  "title": "Capability from Access Structure, Not Scale: Lower Bounds and Pre-Registered Tests for Hybrid Sequence Models",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2607.14144",
+  "summary": "提出能力收敛假说，表示收敛不等于能力收敛，混合架构需接入完备性，并通过预注册实验验证。",
+  "highlights": [
+    "提出能力收敛假说（CCH），指出表示收敛不保证能力收敛。",
+    "定义接入完备混合架构需同时具备压缩状态通道和可扩展索引通道。",
+    "预注册实验显示添加全局注意力层使检索错误从0.994骤降至0.000。"
+  ],
+  "tags": [
+    "capability convergence",
+    "hybrid sequence models",
+    "lower bounds",
+    "pre-registered tests",
+    "access structure",
+    "representation convergence",
+    "attention"
+  ],
+  "relevance_score": 10,
+  "score_reason": "直接研究大模型能力收敛与架构，包含理论下界和实验。",
+  "author": "Wenhui Chen, Jianlin Chen, Ziyao Lin, Chi Man Vong",
+  "published_at": "Fri, 17 Jul 2026 00:00:00 -0400",
+  "fetched_at": "2026-07-17T10:00:42.438599+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "capability-from-access-structure-not-scale-lower-bounds-and-pre-registered-tests-for-hybrid-sequence-models"
+}

@@ -406,6 +406,69 @@
       "fetched_at": "2026-07-10T10:57:01.220811+00:00"
     },
     {
+      "id": "github-20260717-003",
+      "title": "shibing624/ai-paper-analysis",
+      "category": "other",
+      "slug": "shibing624-ai-paper-analysis",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-07-17T10:00:42.438393+00:00"
+    },
+    {
+      "id": "github-20260717-010",
+      "title": "billy-enrizky/crewai-research-assistant",
+      "category": "tool",
+      "slug": "billy-enrizky-crewai-research-assistant",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-07-17T10:00:42.438461+00:00"
+    },
+    {
+      "id": "rss-20260717-016",
+      "title": "LM Studio Bionic: the AI agent for open models",
+      "category": "tool",
+      "slug": "lm-studio-bionic-the-ai-agent-for-open-models",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-07-17T10:00:42.438516+00:00"
+    },
+    {
+      "id": "rss-20260717-018",
+      "title": "Detecting LLM-Generated Texts with “Classical” Machine Learning",
+      "category": "research",
+      "slug": "detecting-llm-generated-texts-with-classical-machine-learning",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-07-17T10:00:42.438537+00:00"
+    },
+    {
+      "id": "rss-20260717-024",
+      "title": "Capability from Access Structure, Not Scale: Lower Bounds and Pre-Registered Tests for Hybrid Sequence Models",
+      "category": "paper",
+      "slug": "capability-from-access-structure-not-scale-lower-bounds-and-pre-registered-tests-for-hybrid-sequence-models",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-07-17T10:00:42.438599+00:00"
+    },
+    {
+      "id": "rss-20260717-026",
+      "title": "MemoHarness: Agent Harnesses That Learn from Experience",
+      "category": "paper",
+      "slug": "memoharness-agent-harnesses-that-learn-from-experience",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-07-17T10:00:42.438622+00:00"
+    },
+    {
+      "id": "rss-20260717-028",
+      "title": "ReasFlow: Assisting Reasoning-Centric Scientific Discovery in Applied Mathematics via a Knowledge-Based Multi-Agent System",
+      "category": "paper",
+      "slug": "reasflow-assisting-reasoning-centric-scientific-discovery-in-applied-mathematics-via-a-knowledge-based-multi-agent-system",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-07-17T10:00:42.438642+00:00"
+    },
+    {
       "id": "github-20260616-001",
       "title": "nitefood/ai-bash",
       "category": "tool",
@@ -973,6 +1036,168 @@
       "fetched_at": "2026-07-10T10:57:01.220781+00:00"
     },
     {
+      "id": "github-20260717-001",
+      "title": "tianlinxu312/Everything-about-LLMs",
+      "category": "other",
+      "slug": "tianlinxu312-everything-about-llms",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-07-17T10:00:42.436445+00:00"
+    },
+    {
+      "id": "github-20260717-002",
+      "title": "sinanuozdemir/oreilly-llm-rl-alignment",
+      "category": "other",
+      "slug": "sinanuozdemir-oreilly-llm-rl-alignment",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-07-17T10:00:42.438374+00:00"
+    },
+    {
+      "id": "github-20260717-004",
+      "title": "MADEVAL/AngleCraft",
+      "category": "framework",
+      "slug": "madeval-anglecraft",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-07-17T10:00:42.438404+00:00"
+    },
+    {
+      "id": "github-20260717-005",
+      "title": "SpreadSheets600/TidyTabs",
+      "category": "tool",
+      "slug": "spreadsheets600-tidytabs",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-07-17T10:00:42.438412+00:00"
+    },
+    {
+      "id": "github-20260717-006",
+      "title": "rokbenko/crew-news",
+      "category": "tool",
+      "slug": "rokbenko-crew-news",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-07-17T10:00:42.438420+00:00"
+    },
+    {
+      "id": "github-20260717-007",
+      "title": "akshaymittal143/CloudyBot-DevOps-AI",
+      "category": "tool",
+      "slug": "akshaymittal143-cloudybot-devops-ai",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-07-17T10:00:42.438428+00:00"
+    },
+    {
+      "id": "github-20260717-009",
+      "title": "JacKaL37/TheHardProblem",
+      "category": "research",
+      "slug": "jackal37-thehardproblem",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-07-17T10:00:42.438452+00:00"
+    },
+    {
+      "id": "github-20260717-012",
+      "title": "jolovicdev/shandu",
+      "category": "tool",
+      "slug": "jolovicdev-shandu",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-07-17T10:00:42.438477+00:00"
+    },
+    {
+      "id": "github-20260717-013",
+      "title": "richer-richard/socratic-council",
+      "category": "tool",
+      "slug": "richer-richard-socratic-council",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-07-17T10:00:42.438485+00:00"
+    },
+    {
+      "id": "github-20260717-014",
+      "title": "crabfeather/PaperLens-AI",
+      "category": "tool",
+      "slug": "crabfeather-paperlens-ai",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-07-17T10:00:42.438492+00:00"
+    },
+    {
+      "id": "rss-20260717-015",
+      "title": "UIUC AI Teaching Assistant",
+      "category": "tool",
+      "slug": "uiuc-ai-teaching-assistant",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-07-17T10:00:42.438499+00:00"
+    },
+    {
+      "id": "rss-20260717-017",
+      "title": "$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol",
+      "category": "news",
+      "slug": "100-ai-music-video-claude-fable-5-vs-gpt-5-6-sol",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-07-17T10:00:42.438527+00:00"
+    },
+    {
+      "id": "rss-20260717-020",
+      "title": "IMEX Interaction-Based Model Explanation",
+      "category": "paper",
+      "slug": "imex-interaction-based-model-explanation",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-07-17T10:00:42.438561+00:00"
+    },
+    {
+      "id": "rss-20260717-021",
+      "title": "RegNetAgents: A Multi-Agent Framework for Cross-Network Regulatory Driver Identification in Cancer Genomics",
+      "category": "paper",
+      "slug": "regnetagents-a-multi-agent-framework-for-cross-network-regulatory-driver-identification-in-cancer-genomics",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-07-17T10:00:42.438569+00:00"
+    },
+    {
+      "id": "rss-20260717-022",
+      "title": "DialogueVPR: Towards Conversational Visual Place Recognition",
+      "category": "paper",
+      "slug": "dialoguevpr-towards-conversational-visual-place-recognition",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-07-17T10:00:42.438579+00:00"
+    },
+    {
+      "id": "rss-20260717-023",
+      "title": "Human AI Construction of Bayesian Networks for Operational Decision Support -- A Virtual Survey Approach",
+      "category": "paper",
+      "slug": "human-ai-construction-of-bayesian-networks-for-operational-decision-support-a-virtual-survey-approach",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-07-17T10:00:42.438588+00:00"
+    },
+    {
+      "id": "rss-20260717-025",
+      "title": "Orchestrating Power Grid Studies with Multi-Agent AI and MCP Servers",
+      "category": "paper",
+      "slug": "orchestrating-power-grid-studies-with-multi-agent-ai-and-mcp-servers",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-07-17T10:00:42.438610+00:00"
+    },
+    {
+      "id": "rss-20260717-027",
+      "title": "When a Verified World Model Still Loses: Play-Adequacy vs Prediction-Accuracy in LLM-Synthesized Code World Models",
+      "category": "paper",
+      "slug": "when-a-verified-world-model-still-loses-play-adequacy-vs-prediction-accuracy-in-llm-synthesized-code-world-models",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-07-17T10:00:42.438632+00:00"
+    },
+    {
       "id": "github-20260616-009",
       "title": "SukritiC/ai-mastery-hub",
       "category": "other",
@@ -1045,6 +1270,33 @@
       "fetched_at": "2026-07-10T10:57:01.220701+00:00"
     },
     {
+      "id": "github-20260717-008",
+      "title": "rasmurtech/DeepSeekDeepResearch",
+      "category": "tool",
+      "slug": "rasmurtech-deepseekdeepresearch",
+      "relevance_score": 8,
+      "status": "draft",
+      "fetched_at": "2026-07-17T10:00:42.438439+00:00"
+    },
+    {
+      "id": "github-20260717-011",
+      "title": "yushengzh/awesome-ML-for-quantum",
+      "category": "other",
+      "slug": "yushengzh-awesome-ml-for-quantum",
+      "relevance_score": 8,
+      "status": "draft",
+      "fetched_at": "2026-07-17T10:00:42.438469+00:00"
+    },
+    {
+      "id": "rss-20260717-019",
+      "title": "How to Train a Gen AI Kick Drum Model on Your Old Linux Desktop with 6GB VRAM",
+      "category": "research",
+      "slug": "how-to-train-a-gen-ai-kick-drum-model-on-your-old-linux-desktop-with-6gb-vram",
+      "relevance_score": 8,
+      "status": "draft",
+      "fetched_at": "2026-07-17T10:00:42.438549+00:00"
+    },
+    {
       "id": "rss-20260616-023",
       "title": "Hyperdimensional computing for structured querying on tabular data embeddings",
       "category": "paper",
@@ -1108,6 +1360,6 @@
       "fetched_at": "2026-06-26T10:55:22.327694+00:00"
     }
   ],
-  "total_count": 123,
-  "updated_at": "2026-07-10T10:57:01.226640+00:00"
+  "total_count": 151,
+  "updated_at": "2026-07-17T10:00:42.444609+00:00"
 }

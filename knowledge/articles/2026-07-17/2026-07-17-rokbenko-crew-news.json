@@ -1,0 +1,34 @@
+{
+  "id": "github-20260717-006",
+  "title": "rokbenko/crew-news",
+  "source": "github_trending",
+  "source_url": "https://github.com/rokbenko/crew-news",
+  "summary": "CrewNews: 基于AI代理的无偏见新闻生成器，使用Llama 3.1和CrewAI构建。",
+  "highlights": [
+    "利用CrewAI构建AI代理自动生成新闻",
+    "集成Llama 3.1大语言模型及Exa、Firecrawl工具",
+    "Streamlit提供直观交互界面，AgentOps测试优化"
+  ],
+  "tags": [
+    "crewai",
+    "llama-3-1",
+    "streamlit",
+    "ai-agents",
+    "news-generator",
+    "agentops",
+    "exa",
+    "firecrawl"
+  ],
+  "relevance_score": 9,
+  "score_reason": "直接结合AI代理、LLM和多种工具，实现新闻生成，高度相关",
+  "author": "rokbenko",
+  "published_at": "2024-09-15T23:32:08Z",
+  "fetched_at": "2026-07-17T10:00:42.438420+00:00",
+  "status": "draft",
+  "category": "tool",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "rokbenko-crew-news"
+}

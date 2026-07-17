@@ -1,0 +1,32 @@
+{
+  "id": "github-20260717-001",
+  "title": "tianlinxu312/Everything-about-LLMs",
+  "source": "github_trending",
+  "source_url": "https://github.com/tianlinxu312/Everything-about-LLMs",
+  "summary": "关于LLM和生成式AI的综合知识库，持续更新中。",
+  "highlights": [
+    "涵盖LLM开发的所有关键主题",
+    "以Jupyter Notebook形式呈现",
+    "注重通用人工智能发展"
+  ],
+  "tags": [
+    "llm",
+    "generative-ai",
+    "knowledge-base",
+    "jupyter-notebook",
+    "curated-list",
+    "ai-education"
+  ],
+  "relevance_score": 9,
+  "score_reason": "直接涵盖LLM核心知识，内容全面。",
+  "author": "tianlinxu312",
+  "published_at": "2023-07-26T10:14:46Z",
+  "fetched_at": "2026-07-17T10:00:42.436445+00:00",
+  "status": "draft",
+  "category": "other",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "tianlinxu312-everything-about-llms"
+}

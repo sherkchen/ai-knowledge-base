@@ -1,0 +1,34 @@
+{
+  "id": "rss-20260717-025",
+  "title": "Orchestrating Power Grid Studies with Multi-Agent AI and MCP Servers",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2607.14158",
+  "summary": "探讨智能代理AI与MCP协议协同支持电网研究，集成LLM与仿真工具，实现可交互的电网分析环境。",
+  "highlights": [
+    "多代理AI与模型上下文协议(MCP)应用于电网研究",
+    "开发pypowsybl-mcp接口连接AI代理与电力系统仿真工具",
+    "提出人机协同工作流评估策略，确保可审计和可扩展性"
+  ],
+  "tags": [
+    "multi-agent",
+    "mcp",
+    "power-grid",
+    "transmission-system-operator",
+    "llm",
+    "simulation",
+    "human-in-the-loop",
+    "agentic-ai"
+  ],
+  "relevance_score": 9,
+  "score_reason": "聚焦AI代理与MCP在能源领域的应用，高度相关",
+  "author": "J\\'er\\^ome Picault, Cl\\'ement Goubet",
+  "published_at": "Fri, 17 Jul 2026 00:00:00 -0400",
+  "fetched_at": "2026-07-17T10:00:42.438610+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "orchestrating-power-grid-studies-with-multi-agent-ai-and-mcp-servers"
+}

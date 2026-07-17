@@ -1,0 +1,33 @@
+{
+  "id": "rss-20260717-018",
+  "title": "Detecting LLM-Generated Texts with “Classical” Machine Learning",
+  "source": "rss_feed",
+  "source_url": "https://blog.lyc8503.net/en/post/llm-classifier/",
+  "summary": "利用经典机器学习方法检测大语言模型生成文本的探索",
+  "highlights": [
+    "对比传统机器学习与深度学习在LLM文本检测上的表现",
+    "采用文本特征工程（如词频、n-gram）提升检测能力",
+    "实验评估不同模型在真假文本上的分类准确率"
+  ],
+  "tags": [
+    "llm-detection",
+    "machine-learning",
+    "classical-ml",
+    "text-classification",
+    "ai-generated-text",
+    "blog",
+    "experiment"
+  ],
+  "relevance_score": 10,
+  "score_reason": "直接研究LLM生成文本检测，核心AI话题。",
+  "author": "uneven9434",
+  "published_at": "Thu, 16 Jul 2026 16:41:37 +0000",
+  "fetched_at": "2026-07-17T10:00:42.438537+00:00",
+  "status": "draft",
+  "category": "research",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "detecting-llm-generated-texts-with-classical-machine-learning"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "rss-20260717-026",
+  "title": "MemoHarness: Agent Harnesses That Learn from Experience",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2607.14159",
+  "summary": "MemoHarness通过学习执行经验自适应优化LLM代理控制层，提升代理在多任务上的表现。",
+  "highlights": [
+    "将代理控制层分解为六个可编辑维度",
+    "构建双层经验库存储案例诊断与全局模式",
+    "无需测试标签的自适应调优实现性能提升"
+  ],
+  "tags": [
+    "agent",
+    "harness",
+    "llm",
+    "memory",
+    "self-improvement",
+    "adaptation",
+    "optimization"
+  ],
+  "relevance_score": 10,
+  "score_reason": "直接针对LLM代理的自适应优化框架，高度相关。",
+  "author": "Yue Huang, Wenjie Wang, Han Bao, Yuchen Ma, Xiaonan Luo, Yi Nian, Haomin Zhuang, Zheyuan Liu, Yue Zhao, Xiangliang Zhang",
+  "published_at": "Fri, 17 Jul 2026 00:00:00 -0400",
+  "fetched_at": "2026-07-17T10:00:42.438622+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "memoharness-agent-harnesses-that-learn-from-experience"
+}
