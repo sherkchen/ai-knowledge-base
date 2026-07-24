@@ -1,0 +1,33 @@
+{
+  "id": "rss-20260724-021",
+  "title": "DecodeShare: Tracing the Shared Subspace of LLM Decode-Time Decisions",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2607.20469",
+  "summary": "揭示LLM解码时跨任务共享的低维子空间，并验证其因果角色",
+  "highlights": [
+    "发现LLM解码阶段跨任务共享的低维子空间",
+    "证明该共享子空间是解码决策的关键因果通道",
+    "共享子空间投影提升激活引导的可靠性与功能性"
+  ],
+  "tags": [
+    "llm",
+    "decoding",
+    "subspace",
+    "causality",
+    "activation steering",
+    "interpretability",
+    "shared representations"
+  ],
+  "relevance_score": 10,
+  "score_reason": "直接研究LLM解码机制与因果干预，高度相关",
+  "author": "Zishan Shao, Lixun Zhang, Kangning Cui, Yixiao Wang, Ting Jiang, Hancheng Ye, Qinsi Wang, Zhixu Du, Yuzhe Fu, Fan Yang, Danyang Zhuo, Yiran Chen, Hai Helen Li",
+  "published_at": "Fri, 24 Jul 2026 00:00:00 -0400",
+  "fetched_at": "2026-07-24T10:21:47.826240+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "decodeshare-tracing-the-shared-subspace-of-llm-decode-time-decisions"
+}

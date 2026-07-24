@@ -1,0 +1,33 @@
+{
+  "id": "rss-20260724-015",
+  "title": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
+  "source": "rss_feed",
+  "source_url": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
+  "summary": "初创公司创始人呼吁美国政府不要切断中国开源权重AI",
+  "highlights": [
+    "初创公司创始人联合反对政府禁令",
+    "中国开源AI模型面临美国政策限制",
+    "AI开放与国家安全引发争议"
+  ],
+  "tags": [
+    "ai",
+    "open-weight",
+    "china",
+    "us-policy",
+    "startup",
+    "regulation",
+    "open-source"
+  ],
+  "relevance_score": 9,
+  "score_reason": "中国开源AI模型政策直接影响AI行业生态",
+  "author": "theanonymousone",
+  "published_at": "Thu, 23 Jul 2026 15:18:40 +0000",
+  "fetched_at": "2026-07-24T10:21:47.826161+00:00",
+  "status": "draft",
+  "category": "news",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "startup-founders-urge-u-s-government-not-to-shut-off-chinese-open-weight-ai"
+}

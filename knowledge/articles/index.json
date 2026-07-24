@@ -469,6 +469,132 @@
       "fetched_at": "2026-07-17T10:00:42.438642+00:00"
     },
     {
+      "id": "github-20260724-001",
+      "title": "tianlinxu312/Everything-about-LLMs",
+      "category": "other",
+      "slug": "tianlinxu312-everything-about-llms",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-07-24T10:21:47.824153+00:00"
+    },
+    {
+      "id": "github-20260724-002",
+      "title": "nitefood/ai-bash",
+      "category": "tool",
+      "slug": "nitefood-ai-bash",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-07-24T10:21:47.826008+00:00"
+    },
+    {
+      "id": "github-20260724-003",
+      "title": "sinanuozdemir/oreilly-llm-rl-alignment",
+      "category": "other",
+      "slug": "sinanuozdemir-oreilly-llm-rl-alignment",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-07-24T10:21:47.826028+00:00"
+    },
+    {
+      "id": "github-20260724-004",
+      "title": "shibing624/ai-paper-analysis",
+      "category": "research",
+      "slug": "shibing624-ai-paper-analysis",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-07-24T10:21:47.826040+00:00"
+    },
+    {
+      "id": "github-20260724-007",
+      "title": "ankitsharma-tech/Polyagent-Research-Intelligence",
+      "category": "tool",
+      "slug": "ankitsharma-tech-polyagent-research-intelligence",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-07-24T10:21:47.826066+00:00"
+    },
+    {
+      "id": "github-20260724-011",
+      "title": "yushengzh/awesome-ML-for-quantum",
+      "category": "other",
+      "slug": "yushengzh-awesome-ml-for-quantum",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-07-24T10:21:47.826128+00:00"
+    },
+    {
+      "id": "github-20260724-012",
+      "title": "richer-richard/socratic-council",
+      "category": "tool",
+      "slug": "richer-richard-socratic-council",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-07-24T10:21:47.826137+00:00"
+    },
+    {
+      "id": "github-20260724-013",
+      "title": "crabfeather/PaperLens-AI",
+      "category": "tool",
+      "slug": "crabfeather-paperlens-ai",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-07-24T10:21:47.826145+00:00"
+    },
+    {
+      "id": "rss-20260724-016",
+      "title": "DARPA, U.S. Air Force fly AI-controlled F-16",
+      "category": "news",
+      "slug": "darpa-u-s-air-force-fly-ai-controlled-f-16",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-07-24T10:21:47.826174+00:00"
+    },
+    {
+      "id": "rss-20260724-017",
+      "title": "Stochastic Sampling is Epistemically Shallow: The Dimensionality Gap Between Temperature Variation and Model Diversity in LLMs",
+      "category": "paper",
+      "slug": "stochastic-sampling-is-epistemically-shallow-the-dimensionality-gap-between-temperature-variation-and-model-diversity-in-llms",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-07-24T10:21:47.826185+00:00"
+    },
+    {
+      "id": "rss-20260724-020",
+      "title": "InferenceBench: A Benchmark for Open-Ended LLM Inference Optimization by AI Agents",
+      "category": "paper",
+      "slug": "inferencebench-a-benchmark-for-open-ended-llm-inference-optimization-by-ai-agents",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-07-24T10:21:47.826229+00:00"
+    },
+    {
+      "id": "rss-20260724-021",
+      "title": "DecodeShare: Tracing the Shared Subspace of LLM Decode-Time Decisions",
+      "category": "paper",
+      "slug": "decodeshare-tracing-the-shared-subspace-of-llm-decode-time-decisions",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-07-24T10:21:47.826240+00:00"
+    },
+    {
+      "id": "rss-20260724-023",
+      "title": "Semi-Supervised Text-Attributed Graph Distillation",
+      "category": "paper",
+      "slug": "semi-supervised-text-attributed-graph-distillation",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-07-24T10:21:47.826258+00:00"
+    },
+    {
+      "id": "rss-20260724-024",
+      "title": "Beyond Liars' Bench: The Impact of Lie Typology, Depth, and Sparsity on Deception Detection in LLMs",
+      "category": "paper",
+      "slug": "beyond-liars-bench-the-impact-of-lie-typology-depth-and-sparsity-on-deception-detection-in-llms",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-07-24T10:21:47.826266+00:00"
+    },
+    {
       "id": "github-20260616-001",
       "title": "nitefood/ai-bash",
       "category": "tool",
@@ -1198,6 +1324,69 @@
       "fetched_at": "2026-07-17T10:00:42.438632+00:00"
     },
     {
+      "id": "github-20260724-005",
+      "title": "MADEVAL/AngleCraft",
+      "category": "tool",
+      "slug": "madeval-anglecraft",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-07-24T10:21:47.826049+00:00"
+    },
+    {
+      "id": "github-20260724-009",
+      "title": "BjornMelin/polyagent-research-intelligence",
+      "category": "tool",
+      "slug": "bjornmelin-polyagent-research-intelligence",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-07-24T10:21:47.826109+00:00"
+    },
+    {
+      "id": "github-20260724-010",
+      "title": "JacKaL37/TheHardProblem",
+      "category": "research",
+      "slug": "jackal37-thehardproblem",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-07-24T10:21:47.826120+00:00"
+    },
+    {
+      "id": "rss-20260724-015",
+      "title": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
+      "category": "news",
+      "slug": "startup-founders-urge-u-s-government-not-to-shut-off-chinese-open-weight-ai",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-07-24T10:21:47.826161+00:00"
+    },
+    {
+      "id": "rss-20260724-018",
+      "title": "JAXBench: Benchmarking Autonomous TPU Kernel Optimization",
+      "category": "paper",
+      "slug": "jaxbench-benchmarking-autonomous-tpu-kernel-optimization",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-07-24T10:21:47.826197+00:00"
+    },
+    {
+      "id": "rss-20260724-019",
+      "title": "DC-Leap: Training-Free Acceleration of dLLMs via Draft-Guided Contiguous Leaping Decoding",
+      "category": "paper",
+      "slug": "dc-leap-training-free-acceleration-of-dllms-via-draft-guided-contiguous-leaping-decoding",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-07-24T10:21:47.826207+00:00"
+    },
+    {
+      "id": "rss-20260724-022",
+      "title": "Benchmarking the Personalization Capabilities of Large Language Models",
+      "category": "paper",
+      "slug": "benchmarking-the-personalization-capabilities-of-large-language-models",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-07-24T10:21:47.826249+00:00"
+    },
+    {
       "id": "github-20260616-009",
       "title": "SukritiC/ai-mastery-hub",
       "category": "other",
@@ -1297,6 +1486,24 @@
       "fetched_at": "2026-07-17T10:00:42.438549+00:00"
     },
     {
+      "id": "github-20260724-006",
+      "title": "SpreadSheets600/TidyTabs",
+      "category": "tool",
+      "slug": "spreadsheets600-tidytabs",
+      "relevance_score": 8,
+      "status": "draft",
+      "fetched_at": "2026-07-24T10:21:47.826058+00:00"
+    },
+    {
+      "id": "github-20260724-008",
+      "title": "akshaymittal143/CloudyBot-DevOps-AI",
+      "category": "tool",
+      "slug": "akshaymittal143-cloudybot-devops-ai",
+      "relevance_score": 8,
+      "status": "draft",
+      "fetched_at": "2026-07-24T10:21:47.826095+00:00"
+    },
+    {
       "id": "rss-20260616-023",
       "title": "Hyperdimensional computing for structured querying on tabular data embeddings",
       "category": "paper",
@@ -1333,6 +1540,15 @@
       "fetched_at": "2026-07-03T10:39:08.234311+00:00"
     },
     {
+      "id": "github-20260724-014",
+      "title": "SukritiC/ai-mastery-hub",
+      "category": "other",
+      "slug": "sukritic-ai-mastery-hub",
+      "relevance_score": 6,
+      "status": "draft",
+      "fetched_at": "2026-07-24T10:21:47.826153+00:00"
+    },
+    {
       "id": "rss-20260616-015",
       "title": "History of the Muddy Children Puzzle",
       "category": "paper",
@@ -1360,6 +1576,6 @@
       "fetched_at": "2026-06-26T10:55:22.327694+00:00"
     }
   ],
-  "total_count": 151,
-  "updated_at": "2026-07-17T10:00:42.444609+00:00"
+  "total_count": 175,
+  "updated_at": "2026-07-24T10:21:47.831344+00:00"
 }

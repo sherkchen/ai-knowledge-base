@@ -1,0 +1,34 @@
+{
+  "id": "rss-20260724-016",
+  "title": "DARPA, U.S. Air Force fly AI-controlled F-16",
+  "source": "rss_feed",
+  "source_url": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
+  "summary": "DARPA与美国空军成功试飞AI控制的F-16战斗机，展示先进自主飞行技术。",
+  "highlights": [
+    "DARPA与美空军完成AI操控F-16飞行测试",
+    "验证AI在复杂空战环境中的自主决策能力",
+    "引发关于军用AI伦理与安全的广泛讨论"
+  ],
+  "tags": [
+    "military",
+    "autonomous",
+    "f-16",
+    "darpa",
+    "air-force",
+    "ai-control",
+    "flight",
+    "defense"
+  ],
+  "relevance_score": 10,
+  "score_reason": "AI自主控制战斗机，军事AI前沿应用，高度相关",
+  "author": "r2sk5t",
+  "published_at": "Thu, 23 Jul 2026 13:51:36 +0000",
+  "fetched_at": "2026-07-24T10:21:47.826174+00:00",
+  "status": "draft",
+  "category": "news",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "darpa-u-s-air-force-fly-ai-controlled-f-16"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "rss-20260724-023",
+  "title": "Semi-Supervised Text-Attributed Graph Distillation",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2607.20477",
+  "summary": "提出半监督文本属性图蒸馏框架，利用Wasserstein距离与LLM文本合成提升图学习效率。",
+  "highlights": [
+    "结合图-文本双通路编码器与协同自训练，生成可靠伪标签并融合互补特征。",
+    "基于Wasserstein距离的图素描算法实现理论上可证明的节点压缩。",
+    "利用聚类关键词提取与LLM合成人类可读的压缩节点摘要文本。"
+  ],
+  "tags": [
+    "graph distillation",
+    "semi-supervised learning",
+    "text-attributed graphs",
+    "large language models",
+    "wasserstein distance",
+    "graph neural networks",
+    "knowledge distillation",
+    "data-centric ai"
+  ],
+  "relevance_score": 10,
+  "score_reason": "直接涉及LLM、图学习与知识蒸馏，高度相关。",
+  "author": "Yurui Lai, Samir Moustafa, Renchi Yang, Tsz Nam Chan",
+  "published_at": "Fri, 24 Jul 2026 00:00:00 -0400",
+  "fetched_at": "2026-07-24T10:21:47.826258+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "semi-supervised-text-attributed-graph-distillation"
+}

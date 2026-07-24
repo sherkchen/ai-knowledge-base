@@ -1,0 +1,33 @@
+{
+  "id": "rss-20260724-017",
+  "title": "Stochastic Sampling is Epistemically Shallow: The Dimensionality Gap Between Temperature Variation and Model Diversity in LLMs",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2607.20464",
+  "summary": "随机采样提供有限的跨问题结构信息，LLM集成多样性揭示更深认知维度。",
+  "highlights": [
+    "单一模型多次采样跨问题结构信号仅一维超出噪声",
+    "多样集成模型有四个特征值超出噪声，展现认知多样性",
+    "自一致性无法揭示跨问题结构，集成才能展现模型不知道什么"
+  ],
+  "tags": [
+    "llm",
+    "uncertainty",
+    "ensemble",
+    "epistemic-depth",
+    "self-consistency",
+    "random-matrix",
+    "model-diversity"
+  ],
+  "relevance_score": 10,
+  "score_reason": "直接研究LLM认知不确定性与集成多样性",
+  "author": "Izhar Ali",
+  "published_at": "Fri, 24 Jul 2026 00:00:00 -0400",
+  "fetched_at": "2026-07-24T10:21:47.826185+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "stochastic-sampling-is-epistemically-shallow-the-dimensionality-gap-between-temperature-variation-and-model-diversity-in-llms"
+}

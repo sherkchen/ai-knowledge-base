@@ -1,0 +1,34 @@
+{
+  "id": "rss-20260724-024",
+  "title": "Beyond Liars' Bench: The Impact of Lie Typology, Depth, and Sparsity on Deception Detection in LLMs",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2607.20479",
+  "summary": "研究LLM欺骗检测：谎言类型、表示深度和稀疏性对探测性能的影响",
+  "highlights": [
+    "系统研究谎言类型、表示深度和稀疏性对欺骗检测的影响",
+    "扩充数据集包含伪造、遗漏和夸张等多样化谎言",
+    "揭示欺骗检测高度依赖训练数据与表示选择"
+  ],
+  "tags": [
+    "deception detection",
+    "llm",
+    "safety",
+    "probe",
+    "lie typology",
+    "sparse autoencoder",
+    "representation learning",
+    "out-of-domain"
+  ],
+  "relevance_score": 10,
+  "score_reason": "高度相关，涉及LLM安全性和欺骗检测前沿研究",
+  "author": "Amr Moustafa, Max Feser, Florian Mai",
+  "published_at": "Fri, 24 Jul 2026 00:00:00 -0400",
+  "fetched_at": "2026-07-24T10:21:47.826266+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "beyond-liars-bench-the-impact-of-lie-typology-depth-and-sparsity-on-deception-detection-in-llms"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "rss-20260724-022",
+  "title": "Benchmarking the Personalization Capabilities of Large Language Models",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2607.20471",
+  "summary": "研究发布SDR-Bench基准，评估LLM在销售中的个性化说服能力，发现前沿模型存在瓶颈。",
+  "highlights": [
+    "发布SDR-Bench公开基准，包含6229个成功案例和22个行业数据。",
+    "前沿LLM遭遇个性化瓶颈，无法在Fortune 100科技群组中区分成功与失败。",
+    "12名专业销售代表验证框架，模型生成内容48%立即可用，专家一致性Pearson 0.82。"
+  ],
+  "tags": [
+    "personalization",
+    "benchmarking",
+    "llm",
+    "evaluation",
+    "agents",
+    "persuasion",
+    "sdr-bench"
+  ],
+  "relevance_score": 9,
+  "score_reason": "直接评估LLM个性化能力，发布新基准与实验证据",
+  "author": "Ashutosh Srivastava, Siddharth Yedlapati, Vinay Aggarwal, Yaman Kumar Singla, Shashwat Dixit, Jitendra Ajmera, Balaji Krishnamurthy",
+  "published_at": "Fri, 24 Jul 2026 00:00:00 -0400",
+  "fetched_at": "2026-07-24T10:21:47.826249+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "benchmarking-the-personalization-capabilities-of-large-language-models"
+}

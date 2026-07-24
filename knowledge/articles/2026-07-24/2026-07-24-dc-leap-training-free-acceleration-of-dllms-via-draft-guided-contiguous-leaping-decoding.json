@@ -1,0 +1,34 @@
+{
+  "id": "rss-20260724-019",
+  "title": "DC-Leap: Training-Free Acceleration of dLLMs via Draft-Guided Contiguous Leaping Decoding",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2607.20467",
+  "summary": "DC-Leap：无训练扩散大语言模型加速解码框架，通过草案引导连续跳跃解码，大幅提升推理速度。",
+  "highlights": [
+    "提出Dynamic Contiguous Verification解决联合概率依赖误差，实现可靠加速",
+    "草案引导解码机制通过跳跃式前瞻扩展上下文，保持双向注意力优势",
+    "实验表明在MBPP上实现最高53.19倍加速，结合KV缓存达105.02倍"
+  ],
+  "tags": [
+    "dllms",
+    "training-free",
+    "inference-acceleration",
+    "parallel-decoding",
+    "draft-guided",
+    "diffusion-language-models",
+    "jpde",
+    "speedup"
+  ],
+  "relevance_score": 9,
+  "score_reason": "扩散LLM加速创新方法，无训练，速度提升显著",
+  "author": "Yanhua Jiao, Tianyi Wu, Xiaoxi Sun, Yulin Li, HuiLing Zhen, Libo Qin, Baotian Hu, Zhuotao Tian, Min Zhang",
+  "published_at": "Fri, 24 Jul 2026 00:00:00 -0400",
+  "fetched_at": "2026-07-24T10:21:47.826207+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "dc-leap-training-free-acceleration-of-dllms-via-draft-guided-contiguous-leaping-decoding"
+}

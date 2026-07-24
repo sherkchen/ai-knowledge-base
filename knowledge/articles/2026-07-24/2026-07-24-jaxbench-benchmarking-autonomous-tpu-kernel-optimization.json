@@ -1,0 +1,34 @@
+{
+  "id": "rss-20260724-018",
+  "title": "JAXBench: Benchmarking Autonomous TPU Kernel Optimization",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2607.20466",
+  "summary": "JAXBench 发布用于 TPU 内核优化的基准，评估 AI 生成内核方法，使用 Gemini 3 Flash 提升正确性与加速。",
+  "highlights": [
+    "首个针对 TPU 的 AI 内核优化基准，涵盖 50 个 JAX 工作负载。",
+    "使用 Gemini 3 Flash 结合 TPU 文档，正确率从 5.8% 提升至 37.3%，解决 48/50 基准。",
+    "Autocomp 的 beam-search 管线实现 1.36x 加速，在手调内核上恢复大部分上限性能。"
+  ],
+  "tags": [
+    "benchmark",
+    "tpu",
+    "kernel optimization",
+    "autonomous",
+    "ai",
+    "jax",
+    "gemini",
+    "pallas"
+  ],
+  "relevance_score": 9,
+  "score_reason": "直接研究 AI 生成 TPU 内核优化，与 LLM 在系统领域的应用高度相关。",
+  "author": "Arya Tschand, Charles Hong, Julian Walker, Nina Cai, Shangkun Wang, Suvinay Subramanian, Sundar Dev, Vijay Janapa Reddi, Amir Yazdanbakhsh, Sethu Sankaran",
+  "published_at": "Fri, 24 Jul 2026 00:00:00 -0400",
+  "fetched_at": "2026-07-24T10:21:47.826197+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "jaxbench-benchmarking-autonomous-tpu-kernel-optimization"
+}

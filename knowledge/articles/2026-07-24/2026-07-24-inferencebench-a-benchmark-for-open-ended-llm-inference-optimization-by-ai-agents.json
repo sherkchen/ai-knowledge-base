@@ -1,0 +1,33 @@
+{
+  "id": "rss-20260724-020",
+  "title": "InferenceBench: A Benchmark for Open-Ended LLM Inference Optimization by AI Agents",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2607.20468",
+  "summary": "InferenceBench评估AI智能体在开放LLM推理优化中的表现，发现智能体虽能提升性能但仍不及超参数搜索。",
+  "highlights": [
+    "智能体在2小时内将推理速度提升最高8.08倍",
+    "简单超参数搜索可达11.53倍，优于所有智能体",
+    "智能体缺乏多样性探索，多重复测量而少尝试新策略"
+  ],
+  "tags": [
+    "benchmark",
+    "inference",
+    "optimization",
+    "ai-agents",
+    "llm",
+    "serving",
+    "evaluation"
+  ],
+  "relevance_score": 10,
+  "score_reason": "直接评估AI智能体在LLM推理优化中的表现",
+  "author": "Jehyeok Yeon, Ben Rank, Maksym Andriushchenko",
+  "published_at": "Fri, 24 Jul 2026 00:00:00 -0400",
+  "fetched_at": "2026-07-24T10:21:47.826229+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "inferencebench-a-benchmark-for-open-ended-llm-inference-optimization-by-ai-agents"
+}

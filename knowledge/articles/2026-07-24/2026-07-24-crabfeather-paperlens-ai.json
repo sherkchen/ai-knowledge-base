@@ -1,0 +1,34 @@
+{
+  "id": "github-20260724-013",
+  "title": "crabfeather/PaperLens-AI",
+  "source": "github_trending",
+  "source_url": "https://github.com/crabfeather/PaperLens-AI",
+  "summary": "基于LLM的研究论文PDF摘要与主题建模工具，免费使用Groq API。",
+  "highlights": [
+    "免费使用Groq API，无需付费",
+    "基于LLM自动总结大量论文PDF",
+    "支持主题建模，分析研究方向"
+  ],
+  "tags": [
+    "ai",
+    "llm",
+    "summarization",
+    "topic-modeling",
+    "pdf",
+    "python",
+    "groq",
+    "research-paper"
+  ],
+  "relevance_score": 10,
+  "score_reason": "直接利用LLM处理学术论文，高度相关",
+  "author": "crabfeather",
+  "published_at": "2024-07-19T11:51:30Z",
+  "fetched_at": "2026-07-24T10:21:47.826145+00:00",
+  "status": "draft",
+  "category": "tool",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "crabfeather-paperlens-ai"
+}
