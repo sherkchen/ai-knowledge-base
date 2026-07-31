@@ -1,0 +1,34 @@
+{
+  "id": "rss-20260731-020",
+  "title": "Probing the Origins of Reasoning Performance: Representational Quality for Mathematical Problem-Solving in RL vs. SFT Fine-Tuned Models",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2607.26119",
+  "summary": "研究对比RL与SFT微调大模型的数学推理内部表示差异，发现RL训练能构建更结构化、层次化的表征，提升推理性能。",
+  "highlights": [
+    "线性探测显示RL模型隐藏状态对答案正确性预测准确率更高",
+    "平均消融实验揭示RL模型深层更关键，SFT模型均匀分布",
+    "令牌数变异性分析表明计算分配与训练流程相关而非仅RL/SFT"
+  ],
+  "tags": [
+    "reinforcement learning",
+    "supervised fine-tuning",
+    "representational quality",
+    "mathematical reasoning",
+    "linear probes",
+    "ablation studies",
+    "llm",
+    "interpretability"
+  ],
+  "relevance_score": 10,
+  "score_reason": "深入探究RL与SFT模型内部表征差异，对LLM推理机制理解至关重要",
+  "author": "Antyabha Rahman, Akshaj Gurugubelli, Omar Ankit, Kevin Zhu, Aishwarya Balwani",
+  "published_at": "Fri, 31 Jul 2026 00:00:00 -0400",
+  "fetched_at": "2026-07-31T10:45:57.443438+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "probing-the-origins-of-reasoning-performance-representational-quality-for-mathematical-problem-solving-in-rl-vs-sft-fine-tuned-models"
+}

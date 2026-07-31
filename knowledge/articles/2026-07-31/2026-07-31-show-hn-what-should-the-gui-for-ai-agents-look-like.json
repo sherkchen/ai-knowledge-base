@@ -1,0 +1,33 @@
+{
+  "id": "rss-20260731-017",
+  "title": "Show HN: What should the GUI for AI agents look like?",
+  "source": "rss_feed",
+  "source_url": "https://marbleos.com/demo",
+  "summary": "MarbleOS探索AI代理的图形界面，用卡片工作空间取代聊天框，使工具和操作可视化。",
+  "highlights": [
+    "将AI代理交互从聊天框转变为可视化工作空间",
+    "任务以卡片形式呈现，支持多任务并行运行",
+    "执行前显示预期使用的工具，增强透明度和易用性"
+  ],
+  "tags": [
+    "ai",
+    "gui",
+    "agent",
+    "interface",
+    "workspace",
+    "automation",
+    "human-computer-interaction"
+  ],
+  "relevance_score": 10,
+  "score_reason": "直接探讨AI代理的GUI设计，高度相关。",
+  "author": "akbabu",
+  "published_at": "Fri, 31 Jul 2026 05:17:29 +0000",
+  "fetched_at": "2026-07-31T10:45:57.443408+00:00",
+  "status": "draft",
+  "category": "tool",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "show-hn-what-should-the-gui-for-ai-agents-look-like"
+}

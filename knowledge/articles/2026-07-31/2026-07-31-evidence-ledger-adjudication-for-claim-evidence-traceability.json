@@ -1,0 +1,33 @@
+{
+  "id": "rss-20260731-028",
+  "title": "Evidence-Ledger Adjudication for Claim-Evidence Traceability",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2607.26512",
+  "summary": "提出证据账本裁决工作流，用于AI辅助写作中的声明-证据可追溯性，提升事实核查准确性。",
+  "highlights": [
+    "提出证据账本裁决方法，实现声明与证据的配对和支撑关系判断。",
+    "在2335行盲测基准上，代理方法准确率0.676，优于基线。",
+    "能有效路由矛盾、缺失和混合证据的声明，增强可审计性。"
+  ],
+  "tags": [
+    "evidence-ledger",
+    "claim-traceability",
+    "ai-agents",
+    "fact-verification",
+    "writing-assistant",
+    "benchmark",
+    "auditability"
+  ],
+  "relevance_score": 9,
+  "score_reason": "AI代理在声明证据验证中的应用，高度相关",
+  "author": "Gengyu Chen, Yongjie Yu, Weiling Wang",
+  "published_at": "Fri, 31 Jul 2026 00:00:00 -0400",
+  "fetched_at": "2026-07-31T10:45:57.443519+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "evidence-ledger-adjudication-for-claim-evidence-traceability"
+}

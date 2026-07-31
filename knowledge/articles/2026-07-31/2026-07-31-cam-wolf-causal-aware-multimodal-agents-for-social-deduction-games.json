@@ -1,0 +1,34 @@
+{
+  "id": "rss-20260731-027",
+  "title": "CaM-Wolf: Causal-Aware Multimodal Agents for Social Deduction Games",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2607.26393",
+  "summary": "CaM-Wolf：首个融合多模态感知与生成的狼人杀AI智能体，通过因果推理增强社交推理游戏表现。",
+  "highlights": [
+    "首个集成多模态感知与生成的社交推理游戏智能体",
+    "利用因果感知推理器通过强化学习建立可观察行为与隐藏角色的逻辑链",
+    "在游戏中表现优异，提升人机交互质量"
+  ],
+  "tags": [
+    "multimodal",
+    "causal-reasoning",
+    "reinforcement-learning",
+    "social-deduction-game",
+    "werewolf",
+    "ai-agent",
+    "llm",
+    "human-ai-interaction"
+  ],
+  "relevance_score": 9,
+  "score_reason": "涉及多模态LLM智能体与强化学习推理，高度相关",
+  "author": "Zheng Zhang, Nanjie Yao, Jiarui He, Deheng Ye, Peilin Zhao, Hao Wang",
+  "published_at": "Fri, 31 Jul 2026 00:00:00 -0400",
+  "fetched_at": "2026-07-31T10:45:57.443510+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "cam-wolf-causal-aware-multimodal-agents-for-social-deduction-games"
+}

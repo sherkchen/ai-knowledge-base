@@ -1,0 +1,33 @@
+{
+  "id": "rss-20260731-019",
+  "title": "GCC steering committee announces AI policy",
+  "source": "rss_feed",
+  "source_url": "https://lwn.net/Articles/1086041/",
+  "summary": "GCC指导委员会宣布AI政策，规范AI在编译器开发中的使用与贡献。",
+  "highlights": [
+    "GCC项目发布AI使用政策",
+    "涉及AI生成代码的贡献规范",
+    "政策旨在平衡创新与代码质量"
+  ],
+  "tags": [
+    "gcc",
+    "ai policy",
+    "compiler",
+    "ai-generated code",
+    "open source",
+    "contribution guidelines",
+    "software development"
+  ],
+  "relevance_score": 7,
+  "score_reason": "GCC项目正式制定AI使用政策，直接相关",
+  "author": "arto",
+  "published_at": "Thu, 30 Jul 2026 11:45:44 +0000",
+  "fetched_at": "2026-07-31T10:45:57.443429+00:00",
+  "status": "draft",
+  "category": "news",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "gcc-steering-committee-announces-ai-policy"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "rss-20260731-022",
+  "title": "When benchmark inferences do not compose: Projectibility in AI evaluation",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2607.26159",
+  "summary": "AI基准评估推理链的不可组合性及可投射性审计方法",
+  "highlights": [
+    "基准推理的各步独立有效，但组合后可能出现支持断裂",
+    "提出可投射性概念，考察有限外推的合理性与竞争延伸",
+    "通过法律案例和模拟揭示聚合稳定性可能抹去关键区分"
+  ],
+  "tags": [
+    "ai evaluation",
+    "benchmark validity",
+    "projectibility",
+    "composition",
+    "epistemology",
+    "argument-based validity"
+  ],
+  "relevance_score": 9,
+  "score_reason": "直接探讨AI基准推理的组合有效性问题，高度相关",
+  "author": "Brett Reynolds",
+  "published_at": "Fri, 31 Jul 2026 00:00:00 -0400",
+  "fetched_at": "2026-07-31T10:45:57.443461+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "when-benchmark-inferences-do-not-compose-projectibility-in-ai-evaluation"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "rss-20260731-021",
+  "title": "ClinLens: Towards Long-Horizon Coding Agents for Longitudinal Multimodal Clinical Data Science",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2607.26155",
+  "summary": "提出临床数据科学代理基准CLINLENS，评估长时程多模态分析能力，发现可运行代码与正确分析差距大。",
+  "highlights": [
+    "构建包含200个可执行任务的临床多模态基准CLINLENS",
+    "采用4x5分类法跨越四类时间范围和五种分析能力",
+    "发现可运行代码与正确临床分析之间存在巨大差距"
+  ],
+  "tags": [
+    "clinical",
+    "agent",
+    "benchmark",
+    "multimodal",
+    "longitudinal",
+    "healthcare",
+    "reasoning",
+    "data-science"
+  ],
+  "relevance_score": 9,
+  "score_reason": "针对临床AI代理的长期多模态基准研究",
+  "author": "Yuan Zhu, Ethan B. Liu, Frank Nie, Jindong Han",
+  "published_at": "Fri, 31 Jul 2026 00:00:00 -0400",
+  "fetched_at": "2026-07-31T10:45:57.443450+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "clinlens-towards-long-horizon-coding-agents-for-longitudinal-multimodal-clinical-data-science"
+}

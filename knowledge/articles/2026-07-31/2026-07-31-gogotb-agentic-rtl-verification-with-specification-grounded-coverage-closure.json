@@ -1,0 +1,34 @@
+{
+  "id": "rss-20260731-024",
+  "title": "GoGoTB: Agentic RTL Verification with Specification-Grounded Coverage Closure",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2607.26181",
+  "summary": "GoGoTB: 基于AI agent的RTL验证框架，实现规格驱动的覆盖率收敛。",
+  "highlights": [
+    "通过三个子系统实现端到端验证收敛：Agent执行控制层、可进化知识系统、规格驱动的覆盖率收敛。",
+    "将每个覆盖率bin锚定到规格行为，使得每个缺口有诊断性根源和针对性修复。",
+    "在8个RTL设计上无需人工干预，环境生成成功率100%，平均功能覆盖率83.2%。"
+  ],
+  "tags": [
+    "llm",
+    "agent",
+    "verification",
+    "rtl",
+    "coverage",
+    "specification-grounding",
+    "framework",
+    "paper"
+  ],
+  "relevance_score": 10,
+  "score_reason": "直接提出LLM驱动的Agent框架用于硬件验证，核心AI应用。",
+  "author": "Xin Xin, Jincheng Lou, Junhui Li, Jinglin Yan, Panda Xiao, Di Wu, Haixiao Li, Weicong Lu, Weijian Fan, Xinyu Qu, Yuxiang Zhao, Min Yu, Zhixiong Di, Yibo Lin",
+  "published_at": "Fri, 31 Jul 2026 00:00:00 -0400",
+  "fetched_at": "2026-07-31T10:45:57.443479+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "gogotb-agentic-rtl-verification-with-specification-grounded-coverage-closure"
+}

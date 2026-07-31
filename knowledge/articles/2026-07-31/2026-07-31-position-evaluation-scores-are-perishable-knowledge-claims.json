@@ -1,0 +1,34 @@
+{
+  "id": "rss-20260731-025",
+  "title": "Position: Evaluation Scores Are Perishable Knowledge Claims",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2607.26191",
+  "summary": "论文主张评估分数为易逝的知识声明，存在信任膨胀，需附元数据明确其认知状态。",
+  "highlights": [
+    "平均聚合会引发信任膨胀，弱信号拉低整体可靠性",
+    "评估应标注形式层级、适用范围和有效期限",
+    "HELM排行榜上前五模型按均分与最弱环节排序完全不同"
+  ],
+  "tags": [
+    "evaluation",
+    "llm",
+    "benchmark",
+    "trust",
+    "aggregation",
+    "metadata",
+    "epistemic",
+    "perishable"
+  ],
+  "relevance_score": 9,
+  "score_reason": "直接探讨LLM评估体系的根本缺陷与改进方案",
+  "author": "Sankalp Gilda, Shlok Gilda",
+  "published_at": "Fri, 31 Jul 2026 00:00:00 -0400",
+  "fetched_at": "2026-07-31T10:45:57.443488+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "position-evaluation-scores-are-perishable-knowledge-claims"
+}

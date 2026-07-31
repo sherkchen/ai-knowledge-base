@@ -595,6 +595,78 @@
       "fetched_at": "2026-07-24T10:21:47.826266+00:00"
     },
     {
+      "id": "github-20260731-001",
+      "title": "tianlinxu312/Everything-about-LLMs",
+      "category": "library",
+      "slug": "tianlinxu312-everything-about-llms",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-07-31T10:45:57.441136+00:00"
+    },
+    {
+      "id": "github-20260731-004",
+      "title": "shibing624/ai-paper-analysis",
+      "category": "research",
+      "slug": "shibing624-ai-paper-analysis",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-07-31T10:45:57.443284+00:00"
+    },
+    {
+      "id": "github-20260731-008",
+      "title": "kael-bit/engram-rs",
+      "category": "tool",
+      "slug": "kael-bit-engram-rs",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-07-31T10:45:57.443321+00:00"
+    },
+    {
+      "id": "rss-20260731-017",
+      "title": "Show HN: What should the GUI for AI agents look like?",
+      "category": "tool",
+      "slug": "show-hn-what-should-the-gui-for-ai-agents-look-like",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-07-31T10:45:57.443408+00:00"
+    },
+    {
+      "id": "rss-20260731-020",
+      "title": "Probing the Origins of Reasoning Performance: Representational Quality for Mathematical Problem-Solving in RL vs. SFT Fine-Tuned Models",
+      "category": "paper",
+      "slug": "probing-the-origins-of-reasoning-performance-representational-quality-for-mathematical-problem-solving-in-rl-vs-sft-fine-tuned-models",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-07-31T10:45:57.443438+00:00"
+    },
+    {
+      "id": "rss-20260731-023",
+      "title": "GuideSkill: Evolving Executable LLM Agent Skills for Guideline-Grounded Clinical Reasoning",
+      "category": "paper",
+      "slug": "guideskill-evolving-executable-llm-agent-skills-for-guideline-grounded-clinical-reasoning",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-07-31T10:45:57.443470+00:00"
+    },
+    {
+      "id": "rss-20260731-024",
+      "title": "GoGoTB: Agentic RTL Verification with Specification-Grounded Coverage Closure",
+      "category": "paper",
+      "slug": "gogotb-agentic-rtl-verification-with-specification-grounded-coverage-closure",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-07-31T10:45:57.443479+00:00"
+    },
+    {
+      "id": "rss-20260731-026",
+      "title": "Exploring Structures in Physics Problems: Can AI Agents Discover Statistical Mechanical Mappings?",
+      "category": "paper",
+      "slug": "exploring-structures-in-physics-problems-can-ai-agents-discover-statistical-mechanical-mappings",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-07-31T10:45:57.443499+00:00"
+    },
+    {
       "id": "github-20260616-001",
       "title": "nitefood/ai-bash",
       "category": "tool",
@@ -1387,6 +1459,150 @@
       "fetched_at": "2026-07-24T10:21:47.826249+00:00"
     },
     {
+      "id": "github-20260731-002",
+      "title": "ruankie/ecrivai",
+      "category": "tool",
+      "slug": "ruankie-ecrivai",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-07-31T10:45:57.443254+00:00"
+    },
+    {
+      "id": "github-20260731-003",
+      "title": "sinanuozdemir/oreilly-llm-rl-alignment",
+      "category": "other",
+      "slug": "sinanuozdemir-oreilly-llm-rl-alignment",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-07-31T10:45:57.443273+00:00"
+    },
+    {
+      "id": "github-20260731-005",
+      "title": "SpreadSheets600/TidyTabs",
+      "category": "tool",
+      "slug": "spreadsheets600-tidytabs",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-07-31T10:45:57.443293+00:00"
+    },
+    {
+      "id": "github-20260731-006",
+      "title": "rokbenko/crew-news",
+      "category": "tool",
+      "slug": "rokbenko-crew-news",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-07-31T10:45:57.443302+00:00"
+    },
+    {
+      "id": "github-20260731-009",
+      "title": "akshaymittal143/CloudyBot-DevOps-AI",
+      "category": "tool",
+      "slug": "akshaymittal143-cloudybot-devops-ai",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-07-31T10:45:57.443333+00:00"
+    },
+    {
+      "id": "github-20260731-010",
+      "title": "ankitsharma-tech/Polyagent-Research-Intelligence",
+      "category": "tool",
+      "slug": "ankitsharma-tech-polyagent-research-intelligence",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-07-31T10:45:57.443342+00:00"
+    },
+    {
+      "id": "github-20260731-011",
+      "title": "JacKaL37/TheHardProblem",
+      "category": "research",
+      "slug": "jackal37-thehardproblem",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-07-31T10:45:57.443350+00:00"
+    },
+    {
+      "id": "github-20260731-012",
+      "title": "billy-enrizky/crewai-research-assistant",
+      "category": "tool",
+      "slug": "billy-enrizky-crewai-research-assistant",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-07-31T10:45:57.443359+00:00"
+    },
+    {
+      "id": "github-20260731-013",
+      "title": "yushengzh/awesome-ML-for-quantum",
+      "category": "research",
+      "slug": "yushengzh-awesome-ml-for-quantum",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-07-31T10:45:57.443367+00:00"
+    },
+    {
+      "id": "github-20260731-014",
+      "title": "crabfeather/PaperLens-AI",
+      "category": "tool",
+      "slug": "crabfeather-paperlens-ai",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-07-31T10:45:57.443374+00:00"
+    },
+    {
+      "id": "github-20260731-016",
+      "title": "mattvideoproductions/brightdata-ai-research-agent",
+      "category": "tool",
+      "slug": "mattvideoproductions-brightdata-ai-research-agent",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-07-31T10:45:57.443399+00:00"
+    },
+    {
+      "id": "rss-20260731-021",
+      "title": "ClinLens: Towards Long-Horizon Coding Agents for Longitudinal Multimodal Clinical Data Science",
+      "category": "paper",
+      "slug": "clinlens-towards-long-horizon-coding-agents-for-longitudinal-multimodal-clinical-data-science",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-07-31T10:45:57.443450+00:00"
+    },
+    {
+      "id": "rss-20260731-022",
+      "title": "When benchmark inferences do not compose: Projectibility in AI evaluation",
+      "category": "paper",
+      "slug": "when-benchmark-inferences-do-not-compose-projectibility-in-ai-evaluation",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-07-31T10:45:57.443461+00:00"
+    },
+    {
+      "id": "rss-20260731-025",
+      "title": "Position: Evaluation Scores Are Perishable Knowledge Claims",
+      "category": "paper",
+      "slug": "position-evaluation-scores-are-perishable-knowledge-claims",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-07-31T10:45:57.443488+00:00"
+    },
+    {
+      "id": "rss-20260731-027",
+      "title": "CaM-Wolf: Causal-Aware Multimodal Agents for Social Deduction Games",
+      "category": "paper",
+      "slug": "cam-wolf-causal-aware-multimodal-agents-for-social-deduction-games",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-07-31T10:45:57.443510+00:00"
+    },
+    {
+      "id": "rss-20260731-028",
+      "title": "Evidence-Ledger Adjudication for Claim-Evidence Traceability",
+      "category": "paper",
+      "slug": "evidence-ledger-adjudication-for-claim-evidence-traceability",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-07-31T10:45:57.443519+00:00"
+    },
+    {
       "id": "github-20260616-009",
       "title": "SukritiC/ai-mastery-hub",
       "category": "other",
@@ -1504,6 +1720,33 @@
       "fetched_at": "2026-07-24T10:21:47.826095+00:00"
     },
     {
+      "id": "github-20260731-007",
+      "title": "MADEVAL/AngleCraft",
+      "category": "tool",
+      "slug": "madeval-anglecraft",
+      "relevance_score": 8,
+      "status": "draft",
+      "fetched_at": "2026-07-31T10:45:57.443310+00:00"
+    },
+    {
+      "id": "github-20260731-015",
+      "title": "SukritiC/ai-mastery-hub",
+      "category": "other",
+      "slug": "sukritic-ai-mastery-hub",
+      "relevance_score": 8,
+      "status": "draft",
+      "fetched_at": "2026-07-31T10:45:57.443382+00:00"
+    },
+    {
+      "id": "rss-20260731-018",
+      "title": "The AI Aesthetic",
+      "category": "other",
+      "slug": "the-ai-aesthetic",
+      "relevance_score": 8,
+      "status": "draft",
+      "fetched_at": "2026-07-31T10:45:57.443421+00:00"
+    },
+    {
       "id": "rss-20260616-023",
       "title": "Hyperdimensional computing for structured querying on tabular data embeddings",
       "category": "paper",
@@ -1529,6 +1772,15 @@
       "relevance_score": 7,
       "status": "draft",
       "fetched_at": "2026-07-10T10:57:01.220631+00:00"
+    },
+    {
+      "id": "rss-20260731-019",
+      "title": "GCC steering committee announces AI policy",
+      "category": "news",
+      "slug": "gcc-steering-committee-announces-ai-policy",
+      "relevance_score": 7,
+      "status": "draft",
+      "fetched_at": "2026-07-31T10:45:57.443429+00:00"
     },
     {
       "id": "rss-20260703-016",
@@ -1576,6 +1828,6 @@
       "fetched_at": "2026-06-26T10:55:22.327694+00:00"
     }
   ],
-  "total_count": 175,
-  "updated_at": "2026-07-24T10:21:47.831344+00:00"
+  "total_count": 203,
+  "updated_at": "2026-07-31T10:45:57.448808+00:00"
 }

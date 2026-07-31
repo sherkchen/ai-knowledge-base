@@ -1,0 +1,33 @@
+{
+  "id": "rss-20260731-023",
+  "title": "GuideSkill: Evolving Executable LLM Agent Skills for Guideline-Grounded Clinical Reasoning",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2607.26160",
+  "summary": "GuideSkill将临床指南编译为可执行函数，使LLM能基于规则进行诊断推理，结合技能演化提升准确性和覆盖率。",
+  "highlights": [
+    "将临床指南转化为可执行技能，让LLM执行诊断规则而非简单检索文本。",
+    "通过案例-诊断对演化技能，覆盖新诊断，从56.5%提升至99.5%。",
+    "在四个基准上，GuideSkill-Evo相对直接推理提升18.49%，无需更新模型参数。"
+  ],
+  "tags": [
+    "llmagents",
+    "clinicalreasoning",
+    "guidelineexecution",
+    "skilllearning",
+    "diagnosticsupport",
+    "few-shot",
+    "knowledgegrounding"
+  ],
+  "relevance_score": 10,
+  "score_reason": "AI临床推理，LLM Agent技能演化，高度相关。",
+  "author": "Lang Cao, Yuhao Shen, Tianyang Luo, Simo Du, Hao Peng, Yue Guo",
+  "published_at": "Fri, 31 Jul 2026 00:00:00 -0400",
+  "fetched_at": "2026-07-31T10:45:57.443470+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "guideskill-evolving-executable-llm-agent-skills-for-guideline-grounded-clinical-reasoning"
+}

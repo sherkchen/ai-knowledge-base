@@ -1,0 +1,33 @@
+{
+  "id": "rss-20260731-026",
+  "title": "Exploring Structures in Physics Problems: Can AI Agents Discover Statistical Mechanical Mappings?",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2607.26367",
+  "summary": "研究LLM代理发现统计力学映射的能力，引入StatMechBench-v0基准，揭示当前推理局限。",
+  "highlights": [
+    "提出StatMechBench-v0基准测试，包含六类Ising型问题，检验代理识别可解结构的能力。",
+    "评估建议-验证-修正代理在多个LLM上的表现，发现数值反馈有助于修复代码。",
+    "即使通过数值检查，代理仍可能错误识别可解类别或低估计算复杂度，呼唤更强验证机制。"
+  ],
+  "tags": [
+    "ai-agents",
+    "llm",
+    "physics",
+    "statistical-mechanics",
+    "benchmark",
+    "reasoning",
+    "partition-function"
+  ],
+  "relevance_score": 10,
+  "score_reason": "直接评估LLM代理在科学发现中的推理能力，高度相关。",
+  "author": "Wanyu Zhao, Wanbing Zhao",
+  "published_at": "Fri, 31 Jul 2026 00:00:00 -0400",
+  "fetched_at": "2026-07-31T10:45:57.443499+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "exploring-structures-in-physics-problems-can-ai-agents-discover-statistical-mechanical-mappings"
+}
