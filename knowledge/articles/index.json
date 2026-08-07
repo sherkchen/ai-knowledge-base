@@ -667,6 +667,105 @@
       "fetched_at": "2026-07-31T10:45:57.443499+00:00"
     },
     {
+      "id": "github-20260807-001",
+      "title": "tianlinxu312/Everything-about-LLMs",
+      "category": "other",
+      "slug": "tianlinxu312-everything-about-llms",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-08-07T09:01:31.298148+00:00"
+    },
+    {
+      "id": "github-20260807-004",
+      "title": "shibing624/ai-paper-analysis",
+      "category": "other",
+      "slug": "shibing624-ai-paper-analysis",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-08-07T09:01:31.299245+00:00"
+    },
+    {
+      "id": "github-20260807-011",
+      "title": "BjornMelin/polyagent-research-intelligence",
+      "category": "tool",
+      "slug": "bjornmelin-polyagent-research-intelligence",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-08-07T09:01:31.299290+00:00"
+    },
+    {
+      "id": "github-20260807-015",
+      "title": "richer-richard/socratic-council",
+      "category": "tool",
+      "slug": "richer-richard-socratic-council",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-08-07T09:01:31.299317+00:00"
+    },
+    {
+      "id": "rss-20260807-018",
+      "title": "The Ignition Index: Measuring Global Workspace Dynamics in Language Models",
+      "category": "paper",
+      "slug": "the-ignition-index-measuring-global-workspace-dynamics-in-language-models",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-08-07T09:01:31.299331+00:00"
+    },
+    {
+      "id": "rss-20260807-021",
+      "title": "SkillTrace: Multi-Trace Provenance Auditing for LLM-Agent Skill Reuse",
+      "category": "paper",
+      "slug": "skilltrace-multi-trace-provenance-auditing-for-llm-agent-skill-reuse",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-08-07T09:01:31.299356+00:00"
+    },
+    {
+      "id": "rss-20260807-025",
+      "title": "When Privileged Guidance Misaligns: State-Matched Routing and Contextualized Self-Distillation for Multi-Turn Agents",
+      "category": "paper",
+      "slug": "when-privileged-guidance-misaligns-state-matched-routing-and-contextualized-self-distillation-for-multi-turn-agents",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-08-07T09:01:31.299382+00:00"
+    },
+    {
+      "id": "rss-20260807-027",
+      "title": "Project2Task: Graph-Guided Project-Level Planning for Autonomous Research",
+      "category": "paper",
+      "slug": "project2task-graph-guided-project-level-planning-for-autonomous-research",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-08-07T09:01:31.299394+00:00"
+    },
+    {
+      "id": "rss-20260807-029",
+      "title": "Search2Skill: Skill Distillation Beyond Knowledge Boundaries Via Rubric-Based Reinforcement Learning",
+      "category": "paper",
+      "slug": "search2skill-skill-distillation-beyond-knowledge-boundaries-via-rubric-based-reinforcement-learning",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-08-07T09:01:31.299405+00:00"
+    },
+    {
+      "id": "rss-20260807-030",
+      "title": "LUNAR: Benchmarking Personalized Large Language Models on UNiversal User BehAvioR Logs",
+      "category": "paper",
+      "slug": "lunar-benchmarking-personalized-large-language-models-on-universal-user-behavior-logs",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-08-07T09:01:31.299413+00:00"
+    },
+    {
+      "id": "rss-20260807-032",
+      "title": "OrchestraBench: Evaluating Multi-Agent Orchestration Failure Modes, Recovery, and Decomposition Quality",
+      "category": "paper",
+      "slug": "orchestrabench-evaluating-multi-agent-orchestration-failure-modes-recovery-and-decomposition-quality",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-08-07T09:01:31.299427+00:00"
+    },
+    {
       "id": "github-20260616-001",
       "title": "nitefood/ai-bash",
       "category": "tool",
@@ -1603,6 +1702,114 @@
       "fetched_at": "2026-07-31T10:45:57.443519+00:00"
     },
     {
+      "id": "github-20260807-002",
+      "title": "nitefood/ai-bash",
+      "category": "tool",
+      "slug": "nitefood-ai-bash",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-08-07T09:01:31.299226+00:00"
+    },
+    {
+      "id": "github-20260807-003",
+      "title": "ruankie/ecrivai",
+      "category": "tool",
+      "slug": "ruankie-ecrivai",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-08-07T09:01:31.299238+00:00"
+    },
+    {
+      "id": "github-20260807-005",
+      "title": "sinanuozdemir/oreilly-llm-rl-alignment",
+      "category": "other",
+      "slug": "sinanuozdemir-oreilly-llm-rl-alignment",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-08-07T09:01:31.299251+00:00"
+    },
+    {
+      "id": "github-20260807-006",
+      "title": "Md-Emon-Hasan/MediGenius",
+      "category": "tool",
+      "slug": "md-emon-hasan-medigenius",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-08-07T09:01:31.299256+00:00"
+    },
+    {
+      "id": "github-20260807-007",
+      "title": "rokbenko/crew-news",
+      "category": "tool",
+      "slug": "rokbenko-crew-news",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-08-07T09:01:31.299262+00:00"
+    },
+    {
+      "id": "github-20260807-010",
+      "title": "ankitsharma-tech/Polyagent-Research-Intelligence",
+      "category": "tool",
+      "slug": "ankitsharma-tech-polyagent-research-intelligence",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-08-07T09:01:31.299284+00:00"
+    },
+    {
+      "id": "github-20260807-013",
+      "title": "JacKaL37/TheHardProblem",
+      "category": "research",
+      "slug": "jackal37-thehardproblem",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-08-07T09:01:31.299306+00:00"
+    },
+    {
+      "id": "github-20260807-014",
+      "title": "billy-enrizky/crewai-research-assistant",
+      "category": "tool",
+      "slug": "billy-enrizky-crewai-research-assistant",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-08-07T09:01:31.299311+00:00"
+    },
+    {
+      "id": "rss-20260807-019",
+      "title": "Woodpecker Distillation: Weak Models Diagnose Reasoning Bugs in Strong Models",
+      "category": "paper",
+      "slug": "woodpecker-distillation-weak-models-diagnose-reasoning-bugs-in-strong-models",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-08-07T09:01:31.299340+00:00"
+    },
+    {
+      "id": "rss-20260807-022",
+      "title": "Abstract Event Causal Rules: Induction and Application",
+      "category": "paper",
+      "slug": "abstract-event-causal-rules-induction-and-application",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-08-07T09:01:31.299364+00:00"
+    },
+    {
+      "id": "rss-20260807-024",
+      "title": "PD-GS: Phoneme-Driven 3DGS for Audio-Driven Talking Heads",
+      "category": "paper",
+      "slug": "pd-gs-phoneme-driven-3dgs-for-audio-driven-talking-heads",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-08-07T09:01:31.299376+00:00"
+    },
+    {
+      "id": "rss-20260807-026",
+      "title": "Small Foundation Models of Human Cognition and Behaviour",
+      "category": "paper",
+      "slug": "small-foundation-models-of-human-cognition-and-behaviour",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-08-07T09:01:31.299388+00:00"
+    },
+    {
       "id": "github-20260616-009",
       "title": "SukritiC/ai-mastery-hub",
       "category": "other",
@@ -1747,6 +1954,69 @@
       "fetched_at": "2026-07-31T10:45:57.443421+00:00"
     },
     {
+      "id": "github-20260807-008",
+      "title": "SpreadSheets600/TidyTabs",
+      "category": "tool",
+      "slug": "spreadsheets600-tidytabs",
+      "relevance_score": 8,
+      "status": "draft",
+      "fetched_at": "2026-08-07T09:01:31.299270+00:00"
+    },
+    {
+      "id": "github-20260807-009",
+      "title": "MADEVAL/AngleCraft",
+      "category": "tool",
+      "slug": "madeval-anglecraft",
+      "relevance_score": 8,
+      "status": "draft",
+      "fetched_at": "2026-08-07T09:01:31.299279+00:00"
+    },
+    {
+      "id": "github-20260807-012",
+      "title": "rasmurtech/DeepSeekDeepResearch",
+      "category": "tool",
+      "slug": "rasmurtech-deepseekdeepresearch",
+      "relevance_score": 8,
+      "status": "draft",
+      "fetched_at": "2026-08-07T09:01:31.299301+00:00"
+    },
+    {
+      "id": "github-20260807-016",
+      "title": "yushengzh/awesome-ML-for-quantum",
+      "category": "other",
+      "slug": "yushengzh-awesome-ml-for-quantum",
+      "relevance_score": 8,
+      "status": "draft",
+      "fetched_at": "2026-08-07T09:01:31.299321+00:00"
+    },
+    {
+      "id": "github-20260807-017",
+      "title": "SukritiC/ai-mastery-hub",
+      "category": "other",
+      "slug": "sukritic-ai-mastery-hub",
+      "relevance_score": 8,
+      "status": "draft",
+      "fetched_at": "2026-08-07T09:01:31.299326+00:00"
+    },
+    {
+      "id": "rss-20260807-028",
+      "title": "Coherence-Oriented Dream Scene Visualisation",
+      "category": "paper",
+      "slug": "coherence-oriented-dream-scene-visualisation",
+      "relevance_score": 8,
+      "status": "draft",
+      "fetched_at": "2026-08-07T09:01:31.299400+00:00"
+    },
+    {
+      "id": "rss-20260807-031",
+      "title": "Posture and Sustainment Optimization Under Adversarial Uncertainty",
+      "category": "paper",
+      "slug": "posture-and-sustainment-optimization-under-adversarial-uncertainty",
+      "relevance_score": 8,
+      "status": "draft",
+      "fetched_at": "2026-08-07T09:01:31.299420+00:00"
+    },
+    {
       "id": "rss-20260616-023",
       "title": "Hyperdimensional computing for structured querying on tabular data embeddings",
       "category": "paper",
@@ -1781,6 +2051,24 @@
       "relevance_score": 7,
       "status": "draft",
       "fetched_at": "2026-07-31T10:45:57.443429+00:00"
+    },
+    {
+      "id": "rss-20260807-020",
+      "title": "From Continuous Predictors to Clinical Thresholds: Early Evidence on Performance Trade-offs of Guideline-Based Categorisation for Ischaemic Stroke Outcome Prediction",
+      "category": "paper",
+      "slug": "from-continuous-predictors-to-clinical-thresholds-early-evidence-on-performance-trade-offs-of-guideline-based-categorisation-for-ischaemic-stroke-outcome-prediction",
+      "relevance_score": 7,
+      "status": "draft",
+      "fetched_at": "2026-08-07T09:01:31.299347+00:00"
+    },
+    {
+      "id": "rss-20260807-023",
+      "title": "Otter: A Time-Aware, History-Conditioned Human Chess AI",
+      "category": "paper",
+      "slug": "otter-a-time-aware-history-conditioned-human-chess-ai",
+      "relevance_score": 7,
+      "status": "draft",
+      "fetched_at": "2026-08-07T09:01:31.299370+00:00"
     },
     {
       "id": "rss-20260703-016",
@@ -1828,6 +2116,6 @@
       "fetched_at": "2026-06-26T10:55:22.327694+00:00"
     }
   ],
-  "total_count": 203,
-  "updated_at": "2026-07-31T10:45:57.448808+00:00"
+  "total_count": 235,
+  "updated_at": "2026-08-07T09:01:31.301800+00:00"
 }

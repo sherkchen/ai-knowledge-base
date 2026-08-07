@@ -1,0 +1,33 @@
+{
+  "id": "rss-20260807-029",
+  "title": "Search2Skill: Skill Distillation Beyond Knowledge Boundaries Via Rubric-Based Reinforcement Learning",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2608.05245",
+  "summary": "Search2Skill框架通过检索外部知识弥补LLM技能缺口，用评分强化学习蒸馏可复用技能，超越知识边界。",
+  "highlights": [
+    "自动识别LLM能力缺口，搜索外部源并蒸馏为结构化技能",
+    "基于评分标准的强化学习联合优化搜索策略与技能生成",
+    "在八个专家领域基准上优于基线，技能可跨模型规模迁移"
+  ],
+  "tags": [
+    "skill-distillation",
+    "rubric-based-rl",
+    "llm-agents",
+    "external-knowledge",
+    "search-augmented",
+    "self-evolving-agents",
+    "reinforcement-learning"
+  ],
+  "relevance_score": 10,
+  "score_reason": "直接改进LLM智能体技能学习，融合搜索与强化学习",
+  "author": "Muyang Ye, Tian Lan, Feihu Jiang, Yongshi Ye,  Wuyunsiqin, Bin Zhu, Qianghuai Jia, Zhao Xu, Weihua Luo, Ye Wang, Jinyang Zhang, Longyue Wang, Lingfeng Bao",
+  "published_at": "Fri, 07 Aug 2026 00:00:00 -0400",
+  "fetched_at": "2026-08-07T09:01:31.299405+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "search2skill-skill-distillation-beyond-knowledge-boundaries-via-rubric-based-reinforcement-learning"
+}

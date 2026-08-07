@@ -1,0 +1,33 @@
+{
+  "id": "rss-20260807-020",
+  "title": "From Continuous Predictors to Clinical Thresholds: Early Evidence on Performance Trade-offs of Guideline-Based Categorisation for Ischaemic Stroke Outcome Prediction",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2608.05203",
+  "summary": "研究了将连续预测变量按临床指南分类后对卒中结局预测模型性能的影响，分类模型在多数治疗队列中与连续模型表现相当。",
+  "highlights": [
+    "基于临床指南的分类编码可替代连续变量而不显著损失预测性能",
+    "在三个治疗队列中，分类模型在两个队列中与连续模型统计无显著差异",
+    "特征重要性排序保持一致，指南分类保留了核心预后因素的层次结构"
+  ],
+  "tags": [
+    "machine learning",
+    "stroke prediction",
+    "clinical guidelines",
+    "model interpretability",
+    "healthcare ai",
+    "gradient boosting",
+    "categorical encoding"
+  ],
+  "relevance_score": 7,
+  "score_reason": "关注ML在医疗中的应用与可解释性，而非核心AI技术，但涉及模型设计选择，较相关。",
+  "author": "Esra Zihni, Katryna Cisek, Hamzah Ziadeh, Hendrik Knoche, Robert Mikulik, John D. Kelleher",
+  "published_at": "Fri, 07 Aug 2026 00:00:00 -0400",
+  "fetched_at": "2026-08-07T09:01:31.299347+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "from-continuous-predictors-to-clinical-thresholds-early-evidence-on-performance-trade-offs-of-guideline-based-categorisation-for-ischaemic-stroke-outcome-prediction"
+}

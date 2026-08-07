@@ -1,0 +1,34 @@
+{
+  "id": "rss-20260807-026",
+  "title": "Small Foundation Models of Human Cognition and Behaviour",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2608.05224",
+  "summary": "研究小型基础模型作为人类认知代理，发现分布内任务规模影响小，但泛化需更大模型。",
+  "highlights": [
+    "在心理数据集上训练14个模型，分布内性能对模型规模不敏感。",
+    "分布外任务中，模型规模与泛化能力呈明显正相关。",
+    "诊断实验表明模型依赖任务结构而非统计捷径，移除刺激和反馈信息导致性能崩溃。"
+  ],
+  "tags": [
+    "ai",
+    "llm",
+    "cognitive science",
+    "scaling laws",
+    "generalization",
+    "psych-101",
+    "small language models",
+    "behavioral modeling"
+  ],
+  "relevance_score": 9,
+  "score_reason": "聚焦LLM作为认知代理，直接探讨模型规模、泛化与内部机制。",
+  "author": "Nick Oh, Fernand Gobet",
+  "published_at": "Fri, 07 Aug 2026 00:00:00 -0400",
+  "fetched_at": "2026-08-07T09:01:31.299388+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "small-foundation-models-of-human-cognition-and-behaviour"
+}

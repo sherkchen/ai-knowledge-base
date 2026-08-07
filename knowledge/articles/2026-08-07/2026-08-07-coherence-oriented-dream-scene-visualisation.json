@@ -1,0 +1,32 @@
+{
+  "id": "rss-20260807-028",
+  "title": "Coherence-Oriented Dream Scene Visualisation",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2608.05233",
+  "summary": "使用LLM和文本到图像模型将梦境描述转化为连贯的四格漫画，并评估质量。",
+  "highlights": [
+    "使用大语言模型将梦境文本拆分为四个时间片段",
+    "文本到图像模型生成保持视觉连贯性的序列图像",
+    "使用CLIP等视觉-语言模型客观评估质量"
+  ],
+  "tags": [
+    "dream-visualization",
+    "llm",
+    "text-to-image",
+    "multimodal",
+    "coherence",
+    "evaluation"
+  ],
+  "relevance_score": 8,
+  "score_reason": "结合LLM和图像生成，属于多模态AI应用",
+  "author": "Azra A\\c{c}{\\i}l, Simon Colton",
+  "published_at": "Fri, 07 Aug 2026 00:00:00 -0400",
+  "fetched_at": "2026-08-07T09:01:31.299400+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "coherence-oriented-dream-scene-visualisation"
+}

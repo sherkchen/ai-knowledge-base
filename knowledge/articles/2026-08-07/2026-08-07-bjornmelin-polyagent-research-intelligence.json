@@ -1,0 +1,34 @@
+{
+  "id": "github-20260807-011",
+  "title": "BjornMelin/polyagent-research-intelligence",
+  "source": "github_trending",
+  "source_url": "https://github.com/BjornMelin/polyagent-research-intelligence",
+  "summary": "多智能体AI研究平台，自动检索文献、分析数据并生成报告。",
+  "highlights": [
+    "多智能体协作研究",
+    "利用LangChain和FAISS向量数据库",
+    "全栈技术栈（Next.js+FastAPI）"
+  ],
+  "tags": [
+    "multi-agent-systems",
+    "langchain",
+    "ai-research",
+    "fastapi",
+    "nextjs",
+    "faiss",
+    "llms",
+    "report-generation"
+  ],
+  "relevance_score": 10,
+  "score_reason": "多智能体+LLM研究平台，直接相关核心领域",
+  "author": "BjornMelin",
+  "published_at": "2025-01-19T19:06:19Z",
+  "fetched_at": "2026-08-07T09:01:31.299290+00:00",
+  "status": "draft",
+  "category": "tool",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "bjornmelin-polyagent-research-intelligence"
+}

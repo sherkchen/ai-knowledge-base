@@ -1,0 +1,34 @@
+{
+  "id": "rss-20260807-030",
+  "title": "LUNAR: Benchmarking Personalized Large Language Models on UNiversal User BehAvioR Logs",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2608.05246",
+  "summary": "LUNAR基准评估LLM基于行为日志的个性化能力，发现证据选择、跨域整合与隐私是关键挑战。",
+  "highlights": [
+    "首个基于纵向应用交互日志的跨领域个性化LLM基准。",
+    "精细行为记录检索优于压缩记忆，但强个性化可能牺牲隐私。",
+    "行为日志必要但非充分，有效个性化取决于证据选择与整合。"
+  ],
+  "tags": [
+    "personalization",
+    "llm",
+    "benchmark",
+    "behavior-logs",
+    "cross-domain",
+    "privacy",
+    "evidence-selection",
+    "synthetic-data"
+  ],
+  "relevance_score": 10,
+  "score_reason": "直接评估LLM个性化能力，涉及行为日志与隐私权衡，高度相关。",
+  "author": "Jiahao Zhang, Yongzhi Tong, Zelin Fu, Pengde Zhao, Yanmei Jiang, Jiang Feng, Min Yang",
+  "published_at": "Fri, 07 Aug 2026 00:00:00 -0400",
+  "fetched_at": "2026-08-07T09:01:31.299413+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "lunar-benchmarking-personalized-large-language-models-on-universal-user-behavior-logs"
+}

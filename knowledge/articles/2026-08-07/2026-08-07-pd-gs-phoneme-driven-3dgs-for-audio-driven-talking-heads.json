@@ -1,0 +1,33 @@
+{
+  "id": "rss-20260807-024",
+  "title": "PD-GS: Phoneme-Driven 3DGS for Audio-Driven Talking Heads",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2608.05218",
+  "summary": "PD-GS利用音素驱动3DGS，解决音频驱动说话人头像的唇形闭合问题，提升发音准确度。",
+  "highlights": [
+    "通过音素对齐改善唇形闭合，减少‘漏嘴’伪影",
+    "提出语言融合模块(LFM)自适应融合音频与音素特征",
+    "在HDTF上唇部地标距离(LMD)达2.66，优于基线"
+  ],
+  "tags": [
+    "3d-gaussian-splatting",
+    "talking-head",
+    "audio-driven",
+    "phoneme-driven",
+    "neural-avatar",
+    "lip-sync",
+    "speech-animation"
+  ],
+  "relevance_score": 9,
+  "score_reason": "直接解决AI说话人合成中的唇形准确性问题",
+  "author": "Ao Fu, Yi Zhou",
+  "published_at": "Fri, 07 Aug 2026 00:00:00 -0400",
+  "fetched_at": "2026-08-07T09:01:31.299376+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "pd-gs-phoneme-driven-3dgs-for-audio-driven-talking-heads"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "rss-20260807-023",
+  "title": "Otter: A Time-Aware, History-Conditioned Human Chess AI",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2608.05206",
+  "summary": "Otter是一个1500万参数的人棋AI，通过时序和历史信息预测人类走棋，准确率55.23%超越Maia 2。",
+  "highlights": [
+    "结合走棋历史和时间压力的双条件预测模型",
+    "在117百万对局上训练，参数仅15.3M，准确率55.23%",
+    "公开代码和模型，在1900-1999分段准确率最高达57.38%"
+  ],
+  "tags": [
+    "chess",
+    "human move prediction",
+    "time-aware",
+    "sequential",
+    "transformer",
+    "neural network",
+    "model"
+  ],
+  "relevance_score": 7,
+  "score_reason": "特定领域AI模型，非通用Agent/LLM，但涉及时序预测",
+  "author": "Tarun Kumar S",
+  "published_at": "Fri, 07 Aug 2026 00:00:00 -0400",
+  "fetched_at": "2026-08-07T09:01:31.299370+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "otter-a-time-aware-history-conditioned-human-chess-ai"
+}

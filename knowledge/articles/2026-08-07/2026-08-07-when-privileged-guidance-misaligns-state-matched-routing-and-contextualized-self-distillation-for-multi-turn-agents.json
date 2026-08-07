@@ -1,0 +1,34 @@
+{
+  "id": "rss-20260807-025",
+  "title": "When Privileged Guidance Misaligns: State-Matched Routing and Contextualized Self-Distillation for Multi-Turn Agents",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2608.05219",
+  "summary": "提出SMRC-SD，通过状态匹配路由和上下文自蒸馏解决多轮智能体特权蒸馏的状态不匹配问题。",
+  "highlights": [
+    "识别并解决多轮智能体中特权蒸馏的状态-参考不匹配问题",
+    "提出状态匹配路由和上下文自蒸馏方法，仅在匹配状态蒸馏",
+    "在ALFWorld和WebShop上显著提升任务成功率"
+  ],
+  "tags": [
+    "multi-turn agents",
+    "privileged distillation",
+    "state matching",
+    "self-distillation",
+    "routing",
+    "llm agents",
+    "on-policy learning",
+    "contextualized distillation"
+  ],
+  "relevance_score": 10,
+  "score_reason": "直接改进LLM智能体多轮交互性能，高度相关",
+  "author": "Junzhuo Liu, Weiwei Li, Jun Ling, Peng Wang",
+  "published_at": "Fri, 07 Aug 2026 00:00:00 -0400",
+  "fetched_at": "2026-08-07T09:01:31.299382+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "when-privileged-guidance-misaligns-state-matched-routing-and-contextualized-self-distillation-for-multi-turn-agents"
+}

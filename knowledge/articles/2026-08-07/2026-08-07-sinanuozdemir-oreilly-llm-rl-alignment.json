@@ -1,0 +1,34 @@
+{
+  "id": "github-20260807-005",
+  "title": "sinanuozdemir/oreilly-llm-rl-alignment",
+  "source": "github_trending",
+  "source_url": "https://github.com/sinanuozdemir/oreilly-llm-rl-alignment",
+  "summary": "O'Reilly关于LLM强化学习对齐的训练资料，涵盖RLHF/RLAIF与Reasoning LLM。",
+  "highlights": [
+    "深入讲解RLHF与RLAIF前沿技术",
+    "涵盖DPO、PPO、GRPO等对齐方法",
+    "结合DeepSeek、LLaMA、Qwen等模型实战"
+  ],
+  "tags": [
+    "agents",
+    "reinforcement-learning",
+    "rlhf",
+    "rlaif",
+    "llm",
+    "alignment",
+    "dpo",
+    "reward-modeling"
+  ],
+  "relevance_score": 9,
+  "score_reason": "直接聚焦LLM强化学习对齐与Agent技术",
+  "author": "sinanuozdemir",
+  "published_at": "2023-08-10T16:41:46Z",
+  "fetched_at": "2026-08-07T09:01:31.299251+00:00",
+  "status": "draft",
+  "category": "other",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "sinanuozdemir-oreilly-llm-rl-alignment"
+}

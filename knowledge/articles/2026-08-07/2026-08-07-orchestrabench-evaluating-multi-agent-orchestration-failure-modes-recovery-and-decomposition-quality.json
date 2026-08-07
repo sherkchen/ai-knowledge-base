@@ -1,0 +1,33 @@
+{
+  "id": "rss-20260807-032",
+  "title": "OrchestraBench: Evaluating Multi-Agent Orchestration Failure Modes, Recovery, and Decomposition Quality",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2608.05263",
+  "summary": "评估多智能体编排故障模式、恢复与分解质量的基准OrchestraBench，引入级联半径等指标，揭示路由器差异与故障恢复层级。",
+  "highlights": [
+    "故障注入评估：通过可控故障注入测试编排管道，发现路由器差异（关键字路由对对抗案例0%成功，意图推理路由100%匹配预言机）。",
+    "故障恢复层级：代理在工具故障完全恢复（1.0）、模糊代理部分恢复（0.30）以及三种潜在/语义模式从不恢复（0.0）。",
+    "级联半径与修复：管道深度增加导致级联半径扩大（深度3-7时均值0.9-4.7），可信状态修复主要贡献来自信号而非自主检测。"
+  ],
+  "tags": [
+    "multi-agent",
+    "orchestration",
+    "benchmark",
+    "failure-modes",
+    "recovery",
+    "evaluation",
+    "arxiv"
+  ],
+  "relevance_score": 10,
+  "score_reason": "直接评估LLM多智能体编排故障与恢复，高度相关",
+  "author": "Yidian Chen, Yingzi Gu, Natan Vidra, Spurthi Setty, Sharon Zheng",
+  "published_at": "Fri, 07 Aug 2026 00:00:00 -0400",
+  "fetched_at": "2026-08-07T09:01:31.299427+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "orchestrabench-evaluating-multi-agent-orchestration-failure-modes-recovery-and-decomposition-quality"
+}

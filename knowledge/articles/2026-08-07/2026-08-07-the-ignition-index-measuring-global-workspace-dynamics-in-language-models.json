@@ -1,0 +1,34 @@
+{
+  "id": "rss-20260807-018",
+  "title": "The Ignition Index: Measuring Global Workspace Dynamics in Language Models",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2608.05160",
+  "summary": "提出点火指数，量化语言模型中全局工作空间理论的全或无一过渡现象，验证其在11个模型上的选择性。",
+  "highlights": [
+    "点火指数(I)通过四参数sigmoid拟合量化Transformer中的点火过渡",
+    "前馈Transformer比SSM在点火聚合上高出89%，Mamba缺少全局广播",
+    "Pythia-410M在训练步骤256出现相变，先于归纳头形成"
+  ],
+  "tags": [
+    "global workspace theory",
+    "transformer",
+    "language models",
+    "mechanistic interpretability",
+    "ignition index",
+    "neural scaling",
+    "architecture comparison",
+    "phase transition"
+  ],
+  "relevance_score": 10,
+  "score_reason": "直接量化LLM内部动力学，连接认知理论与机械解释性，极高相关性。",
+  "author": "Saman Rahbar",
+  "published_at": "Fri, 07 Aug 2026 00:00:00 -0400",
+  "fetched_at": "2026-08-07T09:01:31.299331+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "the-ignition-index-measuring-global-workspace-dynamics-in-language-models"
+}

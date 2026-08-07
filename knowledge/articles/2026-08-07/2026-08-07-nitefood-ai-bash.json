@@ -1,0 +1,32 @@
+{
+  "id": "github-20260807-002",
+  "title": "nitefood/ai-bash",
+  "source": "github_trending",
+  "source_url": "https://github.com/nitefood/ai-bash",
+  "summary": "基于Shell的命令行LLM客户端，支持多种API和模型管理",
+  "highlights": [
+    "支持本地和远程OpenAI兼容API",
+    "多对话管理和自动主题识别",
+    "管道输入，可发送文件给LLM分析"
+  ],
+  "tags": [
+    "ai",
+    "bash",
+    "llm",
+    "cli",
+    "openai-api",
+    "chatbot"
+  ],
+  "relevance_score": 9,
+  "score_reason": "直接面向命令行LLM交互，支持多平台",
+  "author": "nitefood",
+  "published_at": "2023-03-13T00:31:40Z",
+  "fetched_at": "2026-08-07T09:01:31.299226+00:00",
+  "status": "draft",
+  "category": "tool",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "nitefood-ai-bash"
+}

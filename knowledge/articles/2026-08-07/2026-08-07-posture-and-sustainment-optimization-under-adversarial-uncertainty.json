@@ -1,0 +1,32 @@
+{
+  "id": "rss-20260807-031",
+  "title": "Posture and Sustainment Optimization Under Adversarial Uncertainty",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2608.05256",
+  "summary": "基于马尔可夫决策过程的军事部署优化引擎，引入对抗鲁棒性应对不确定性，在印太场景中显著提升效率。",
+  "highlights": [
+    "提出CEV和RobustCEV优化器，实现场景加权稳健态势效率。",
+    "对抗贝叶斯对手下，RobustCEV比朴素优化器恢复高达158%效率。",
+    "通过配对的t检验和方差分解验证性能差距的结构性。"
+  ],
+  "tags": [
+    "military planning",
+    "markov decision process",
+    "adversarial robustness",
+    "optimization",
+    "resource allocation",
+    "bayesian adversary"
+  ],
+  "relevance_score": 8,
+  "score_reason": "涉及规划、决策和对抗学习，与AI多智能体系统密切相关。",
+  "author": "Amelie Norris, Alyssa Lee, Natan Vidra, Spurthi Setty",
+  "published_at": "Fri, 07 Aug 2026 00:00:00 -0400",
+  "fetched_at": "2026-08-07T09:01:31.299420+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "posture-and-sustainment-optimization-under-adversarial-uncertainty"
+}

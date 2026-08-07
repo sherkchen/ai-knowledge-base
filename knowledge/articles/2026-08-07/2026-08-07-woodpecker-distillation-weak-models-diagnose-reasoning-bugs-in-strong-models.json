@@ -1,0 +1,33 @@
+{
+  "id": "rss-20260807-019",
+  "title": "Woodpecker Distillation: Weak Models Diagnose Reasoning Bugs in Strong Models",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2608.05168",
+  "summary": "提出Woodpecker Distillation框架，通过弱模型诊断并修复强模型推理中的局部错误，蒸馏纠正信号提升性能。",
+  "highlights": [
+    "大型语言模型的推理失败常源于中间步骤的可修复局部错误",
+    "弱模型可在同一前缀下生成修正补丁，引导强模型走向正确解答",
+    "实验表明Woodpecker蒸馏优于直接模仿基线，提升数学推理基准表现"
+  ],
+  "tags": [
+    "reasoning bugs",
+    "weak-to-strong",
+    "distillation",
+    "contrastive learning",
+    "intervention",
+    "language models",
+    "mathematical reasoning"
+  ],
+  "relevance_score": 9,
+  "score_reason": "直接针对LLM推理弱点的蒸馏方法，紧扣AI核心议题",
+  "author": "Dayu Wang, Jiaye Yang, Weikang Li, Jiahui Liang, Yang Li, Deguo Xia, Jizhou Huang",
+  "published_at": "Fri, 07 Aug 2026 00:00:00 -0400",
+  "fetched_at": "2026-08-07T09:01:31.299340+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "woodpecker-distillation-weak-models-diagnose-reasoning-bugs-in-strong-models"
+}

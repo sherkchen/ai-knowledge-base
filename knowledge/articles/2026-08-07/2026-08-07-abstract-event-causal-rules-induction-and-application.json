@@ -1,0 +1,33 @@
+{
+  "id": "rss-20260807-022",
+  "title": "Abstract Event Causal Rules: Induction and Application",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2608.05205",
+  "summary": "提出抽象事件因果规则，通过多智能体系统归纳通用因果逻辑，增强事件预测尤其是低频事件的泛化能力。",
+  "highlights": [
+    "提出抽象事件因果规则(AECR)范式，将实例因果对抽象为关系级逻辑。",
+    "设计多智能体具体到抽象因果归纳系统(CACI)结合相似度约束聚类构建知识库。",
+    "提出抽象规则引导因果注意力编码器(AR-GCAE)，提升事件预测泛化性，尤其在稀有事件上。"
+  ],
+  "tags": [
+    "causal reasoning",
+    "event prediction",
+    "multi-agent",
+    "abstract rules",
+    "knowledge base",
+    "attention mechanism",
+    "generalization"
+  ],
+  "relevance_score": 9,
+  "score_reason": "多智能体因果归纳与事件预测，直接涉及AI核心研究",
+  "author": "Ziwei Zheng, Peiqiong Chen, Bang Wang",
+  "published_at": "Fri, 07 Aug 2026 00:00:00 -0400",
+  "fetched_at": "2026-08-07T09:01:31.299364+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "abstract-event-causal-rules-induction-and-application"
+}

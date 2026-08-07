@@ -1,0 +1,33 @@
+{
+  "id": "rss-20260807-021",
+  "title": "SkillTrace: Multi-Trace Provenance Auditing for LLM-Agent Skill Reuse",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2608.05204",
+  "summary": "提出SKILLTRACE框架，多维度追踪LLM智能体技能重用证据，含表达式、实现与操作轨迹。",
+  "highlights": [
+    "提出多轨迹溯源审计框架SKILLTRACE",
+    "提取表达式、实现和操作三重轨迹，用SOG图建模操作结构",
+    "基准测试AUROC 0.938、F1 0.898，能发现传统方法遗漏的重用案例"
+  ],
+  "tags": [
+    "llm-agents",
+    "provenance",
+    "skill-reuse",
+    "auditing",
+    "traceability",
+    "operational-graph",
+    "code-clone"
+  ],
+  "relevance_score": 10,
+  "score_reason": "直接针对LLM智能体技能重用审计，高度相关",
+  "author": "Jialuo Chen, Minghe Wang, Lingqi Jiang, Jianan Ma, Xinhao Deng, Xiaohu Du, Ruixiao Lin, Yunhao Feng, Linkang Du, Jingyi Wang",
+  "published_at": "Fri, 07 Aug 2026 00:00:00 -0400",
+  "fetched_at": "2026-08-07T09:01:31.299356+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "skilltrace-multi-trace-provenance-auditing-for-llm-agent-skill-reuse"
+}
