@@ -1,0 +1,34 @@
+{
+  "id": "rss-20260814-030",
+  "title": "Research Assistant: AstraZeneca's Agentic System for R&D",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2608.12395",
+  "summary": "阿斯利康内部LLM系统Research Assistant，整合生物医学数据，支持快速问答和多步研究，答案基于证据溯源。",
+  "highlights": [
+    "AstraZeneca开发LLM驱动的Research Assistant辅助研发",
+    "整合文献、知识图谱、化学、临床试验及内部实验数据",
+    "支持快速问答与多步模式，回答基于证据并可溯源"
+  ],
+  "tags": [
+    "llm",
+    "agentic system",
+    "biomedical research",
+    "retrieval-augmented generation",
+    "pharma",
+    "knowledge graph",
+    "enterprise ai",
+    "research assistant"
+  ],
+  "relevance_score": 9,
+  "score_reason": "LLM驱动的多步智能研究系统，涉及RAG和Agent部署",
+  "author": "Piotr Grabowski, Mohamed Alameen, Jorge Bretones, Sabina Cardell, Miguel Carmona, Gavin Edwards, Ben Grainger, Sameh Hassan, Erik Jansson, Artur Kuziakhmetov, Albert Maristany, Hebatallah Mohamed, Andriy Nikolov, Sebastian Nilsson, Mark O'Donoghue, James Pacileo, Ashiq Sultan, Alex Voegele, Michael Ughetto",
+  "published_at": "Fri, 14 Aug 2026 00:00:00 -0400",
+  "fetched_at": "2026-08-14T09:10:56.524655+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "research-assistant-astrazeneca-s-agentic-system-for-r-d"
+}

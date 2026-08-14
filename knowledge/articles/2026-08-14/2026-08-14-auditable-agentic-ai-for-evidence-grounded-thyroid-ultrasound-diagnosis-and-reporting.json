@@ -1,0 +1,34 @@
+{
+  "id": "rss-20260814-038",
+  "title": "Auditable agentic AI for evidence-grounded thyroid ultrasound diagnosis and reporting",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2608.12590",
+  "summary": "提出可审计智能体AI系统ThyroidXAgent，协调甲状腺超声诊断与报告生成，提高诊断准确性与效率。",
+  "highlights": [
+    "ThyroidXAgent在多中心28,458例测试中结节分割Dice达87.21%，良恶性分类AUROC达0.9466",
+    "证据驱动报告生成优于多模态语言模型基线，医生报告一致性从70.3%提升到86.2%",
+    "系统将分割与报告时间分别减少35.9%和27.4%，支持临床审核与纠正"
+  ],
+  "tags": [
+    "agentic ai",
+    "thyroid ultrasound",
+    "medical imaging",
+    "multimodal",
+    "report generation",
+    "segmentation",
+    "classification",
+    "auditable ai"
+  ],
+  "relevance_score": 9,
+  "score_reason": "提出智能体AI医学影像系统，涉及多模态LLM评估，相关度高",
+  "author": "Haifan Gong, Shiyu Chen, Bodong Wang, Yuqi Wang, Shijie Wang, Guoliang You, Xinyu Xiong, Haowei Wang, Mingzhi Mao, Dexing Kong, Qinghua Liu, Wei Lou, Fei Chen, Guanbin Li",
+  "published_at": "Fri, 14 Aug 2026 00:00:00 -0400",
+  "fetched_at": "2026-08-14T09:10:56.524721+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "auditable-agentic-ai-for-evidence-grounded-thyroid-ultrasound-diagnosis-and-reporting"
+}

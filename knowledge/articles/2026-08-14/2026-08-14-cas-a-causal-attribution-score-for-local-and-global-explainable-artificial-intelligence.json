@@ -1,0 +1,33 @@
+{
+  "id": "rss-20260814-035",
+  "title": "CAS: A Causal Attribution Score for Local and Global Explainable Artificial Intelligence",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2608.12555",
+  "summary": "提出CAS因果归因评分，通过干预联盟博弈和因果Shapley贡献区分预测解释与因果效应异质性，提供局部与全局解释。",
+  "highlights": [
+    "引入CAS架构，从已识别的干预联盟博弈中分配联合干预对比",
+    "已知真值基准中，联盟感知CAS的平均MAE为0.107，优于对比方法",
+    "在DoubleML数据上，Feature-CAS与预测SHAP/TreeSHAP排序存在显著差异"
+  ],
+  "tags": [
+    "explainable ai",
+    "causal inference",
+    "shapley",
+    "attribution",
+    "interpretability",
+    "machine learning",
+    "xai"
+  ],
+  "relevance_score": 9,
+  "score_reason": "因果解释与XAI核心，提出新的局部到全局归因评分架构",
+  "author": "Michael Georgiades, Charalambia Varnava",
+  "published_at": "Fri, 14 Aug 2026 00:00:00 -0400",
+  "fetched_at": "2026-08-14T09:10:56.524698+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "cas-a-causal-attribution-score-for-local-and-global-explainable-artificial-intelligence"
+}

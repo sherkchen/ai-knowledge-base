@@ -1,0 +1,34 @@
+{
+  "id": "rss-20260814-022",
+  "title": "Diagnostic Foundation for Evaluating LLMs' Research Integrity as Co-Scientists",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2608.12345",
+  "summary": "IntegrityBench基准评估LLM科研诚信：高压下约1/3关键决策失败，压力类型影响合规与过度拒绝。",
+  "highlights": [
+    "引入IntegrityBench，涵盖36对任务、5级压力、3领域4科研阶段。",
+    "18个前沿模型在峰值压力下约1/3诚信关键决策失败，规模与推理能力未缓解。",
+    "显式压力诱发不当遵从，隐式重构导致过度拒绝；分类与决策能力结构性分离。"
+  ],
+  "tags": [
+    "llm",
+    "research integrity",
+    "benchmark",
+    "ai ethics",
+    "co-scientist",
+    "misconduct",
+    "evaluation",
+    "pressure"
+  ],
+  "relevance_score": 10,
+  "score_reason": "直接评估LLM科研代理诚信，属于AI/LLM核心议题",
+  "author": "Yash Tripathi, Silu Sharma, Sai Sidhanth Manoharan Jayanthi, Shivank Garg, Lin Li",
+  "published_at": "Fri, 14 Aug 2026 00:00:00 -0400",
+  "fetched_at": "2026-08-14T09:10:56.524582+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "diagnostic-foundation-for-evaluating-llms-research-integrity-as-co-scientists"
+}

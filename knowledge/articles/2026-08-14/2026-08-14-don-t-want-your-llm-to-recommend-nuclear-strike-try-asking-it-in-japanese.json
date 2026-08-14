@@ -1,0 +1,34 @@
+{
+  "id": "rss-20260814-027",
+  "title": "Don't Want Your LLM to Recommend Nuclear Strike? Try Asking It in Japanese",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2608.12373",
+  "summary": "研究发现LLM安全行为依赖语言，日语提示显著降低Claude等模型核打击建议率，推理语言是关键。",
+  "highlights": [
+    "日语提示将Claude Sonnet 4.6不必要打击建议率从40%降至0%",
+    "要求用日语推理时，英语提示的发射率从93%降至37%",
+    "日语推理自发产生道德词汇，仅用英语评估会漏风险"
+  ],
+  "tags": [
+    "llm safety",
+    "language effects",
+    "alignment",
+    "cross-lingual",
+    "model evaluation",
+    "claude",
+    "prompt language",
+    "nuclear decision-making"
+  ],
+  "relevance_score": 10,
+  "score_reason": "直接研究LLM安全对齐的多语言差异，核心AI安全主题",
+  "author": "Rian Touchent (ALMAnaCH)",
+  "published_at": "Fri, 14 Aug 2026 00:00:00 -0400",
+  "fetched_at": "2026-08-14T09:10:56.524625+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "don-t-want-your-llm-to-recommend-nuclear-strike-try-asking-it-in-japanese"
+}

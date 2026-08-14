@@ -1,0 +1,33 @@
+{
+  "id": "rss-20260814-037",
+  "title": "Reasoning Jury: Multi-Model Consensus for Evaluating Reasoning Traces",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2608.12585",
+  "summary": "提出Reasoning Jury系统，用多模型陪审团和主持人共识机制评估长推理轨迹缺陷，优于前沿模型且成本更低。",
+  "highlights": [
+    "用开放权重模型陪审团取代单一法官，提升推理缺陷识别准确率",
+    "通过主持人调解的审议与共识机制，陪审员可修改投票",
+    "成本仅为前沿模型LLM-as-a-judge的8%-15%，并可用于理解模型失败模式"
+  ],
+  "tags": [
+    "reasoning",
+    "llm",
+    "multi-model",
+    "consensus",
+    "evaluation",
+    "ai-judge",
+    "arxiv"
+  ],
+  "relevance_score": 10,
+  "score_reason": "直接涉及LLM推理评估与多模型共识机制",
+  "author": "Congchao Wang, Diwakar Singh, Qiaozi Gao, Spyros Matsoukas, Yang Liu, Mahdi Namazifar",
+  "published_at": "Fri, 14 Aug 2026 00:00:00 -0400",
+  "fetched_at": "2026-08-14T09:10:56.524713+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "reasoning-jury-multi-model-consensus-for-evaluating-reasoning-traces"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "rss-20260814-033",
+  "title": "Governed Persistent Memory: Source-Bound State Semantics and Fail-Closed Release for Long-Horizon Agents",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2608.12476",
+  "summary": "提出受治理持久记忆GPM，基于源绑定状态语义与故障关闭发布，提升长程智能体记忆可靠性。",
+  "highlights": [
+    "提出可审计双时序状态转换模型GPM，含五条可执行条款保证账本完整性、源绑定、冲突隔离等。",
+    "在GPM-ReleaseBench 3600例上完全匹配；端到端评估中治理通道2400/2400，修复Qwen2.5-7B基线失败。",
+    "模型检测331,776语义状态及10万轨迹三引擎差分零不匹配，但声明为有界契约结果而非开放世界精度。"
+  ],
+  "tags": [
+    "agent memory",
+    "llm",
+    "persistent memory",
+    "state semantics",
+    "fail-closed",
+    "retrieval",
+    "benchmark",
+    "governance"
+  ],
+  "relevance_score": 9,
+  "score_reason": "针对智能体记忆治理并包含LLM对比评估，相关度高",
+  "author": "Guodong Xu",
+  "published_at": "Fri, 14 Aug 2026 00:00:00 -0400",
+  "fetched_at": "2026-08-14T09:10:56.524681+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "governed-persistent-memory-source-bound-state-semantics-and-fail-closed-release-for-long-horizon-agents"
+}

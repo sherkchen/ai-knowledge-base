@@ -1,0 +1,33 @@
+{
+  "id": "rss-20260814-021",
+  "title": "Position: Reasoning is a Learnable Rule-Based Process",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2608.12325",
+  "summary": "论证推理是可学习的规则过程，提出操作定义与最佳实践清单，以提升AI推理可信度。",
+  "highlights": [
+    "指出生成式AI对推理缺乏操作性定义，影响评估可信度",
+    "综合文献将有效且可靠推理定义为可学习的规则过程",
+    "提供AI推理研究沟通的最佳实践清单"
+  ],
+  "tags": [
+    "reasoning",
+    "symbolic ai",
+    "generative ai",
+    "position paper",
+    "evaluation",
+    "llm",
+    "trustworthy ai"
+  ],
+  "relevance_score": 9,
+  "score_reason": "直接讨论AI推理定义与评估，与LLM/Agent核心相关",
+  "author": "Rachel Lawrence, Jacqueline Maasch",
+  "published_at": "Fri, 14 Aug 2026 00:00:00 -0400",
+  "fetched_at": "2026-08-14T09:10:56.524573+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "position-reasoning-is-a-learnable-rule-based-process"
+}

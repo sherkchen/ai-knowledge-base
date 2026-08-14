@@ -1,0 +1,33 @@
+{
+  "id": "rss-20260814-023",
+  "title": "Position: The Alignment Community is Unintentionally Building a Censor's Toolkit",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2608.12346",
+  "summary": "本文指出AI对齐方法具有双重用途，可能被滥用为审查工具，呼吁讨论并制定缓解策略。",
+  "highlights": [
+    "现代AI对齐方法可被恶意用于审查与操纵",
+    "追求完美对齐模型反而可能助长信息控制风险",
+    "呼吁社区重视双重用途并制定缓解策略"
+  ],
+  "tags": [
+    "ai alignment",
+    "dual-use",
+    "censorship",
+    "misuse",
+    "safety",
+    "llm",
+    "governance"
+  ],
+  "relevance_score": 9,
+  "score_reason": "直接讨论AI对齐、滥用风险与治理",
+  "author": "Sarah Ball, Phil Hackemann",
+  "published_at": "Fri, 14 Aug 2026 00:00:00 -0400",
+  "fetched_at": "2026-08-14T09:10:56.524591+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "position-the-alignment-community-is-unintentionally-building-a-censor-s-toolkit"
+}

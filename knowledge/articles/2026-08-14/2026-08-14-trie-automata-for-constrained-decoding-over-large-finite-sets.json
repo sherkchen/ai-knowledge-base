@@ -1,0 +1,33 @@
+{
+  "id": "rss-20260814-036",
+  "title": "Trie Automata for Constrained Decoding over Large Finite Sets",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2608.12574",
+  "summary": "提出Trie自动机用于大有限集合约束解码，利用前缀共享和预计算掩码，加速LLM结构化输出，吞吐提升29倍。",
+  "highlights": [
+    "利用Aho-Corasick预计算token掩码，单步有效token计算快7倍",
+    "相比XGrammar编译快2-6.5倍，vLLM端到端吞吐达219 req/s，提升29倍",
+    "支持32K-262K词表，K=10000时编译<100ms且保证100%输出有效"
+  ],
+  "tags": [
+    "constrained decoding",
+    "trie automaton",
+    "llm",
+    "structured output",
+    "xgrammar",
+    "vllm",
+    "finite set"
+  ],
+  "relevance_score": 9,
+  "score_reason": "针对LLM结构化输出核心问题，提出高效约束解码算法并显著提升吞吐",
+  "author": "Xingzi Xu, Karim Bouyarmane",
+  "published_at": "Fri, 14 Aug 2026 00:00:00 -0400",
+  "fetched_at": "2026-08-14T09:10:56.524706+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "trie-automata-for-constrained-decoding-over-large-finite-sets"
+}

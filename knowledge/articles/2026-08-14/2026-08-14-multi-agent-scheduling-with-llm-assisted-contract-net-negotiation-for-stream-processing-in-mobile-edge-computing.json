@@ -1,0 +1,33 @@
+{
+  "id": "rss-20260814-025",
+  "title": "Multi-Agent Scheduling with LLM-Assisted Contract Net Negotiation for Stream Processing in Mobile Edge Computing",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2608.12371",
+  "summary": "提出MAS-DecStream，扩展合同网协议，利用LLM辅助多轮协商优化移动边缘流处理调度，降低违规和资源超配。",
+  "highlights": [
+    "LLM-MR-CNP扩展合同网协议，结合语义CFP、渐进上下文、多轮修订和确定性验证。",
+    "基于阿里ASI Trace实验，延迟违规降至3%，资源超配消除，冲突解决率0.91，效用提升22%。",
+    "多轮协商是主要协议增益，LLM辅助在定性与不确定运行时上下文中有价值。"
+  ],
+  "tags": [
+    "multi-agent",
+    "llm",
+    "negotiation",
+    "stream processing",
+    "edge computing",
+    "scheduling",
+    "contract net protocol"
+  ],
+  "relevance_score": 9,
+  "score_reason": "LLM辅助多智能体协商与调度，核心相关",
+  "author": "Sabeur Lajili, Zaki Brahmi",
+  "published_at": "Fri, 14 Aug 2026 00:00:00 -0400",
+  "fetched_at": "2026-08-14T09:10:56.524608+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "multi-agent-scheduling-with-llm-assisted-contract-net-negotiation-for-stream-processing-in-mobile-edge-computing"
+}

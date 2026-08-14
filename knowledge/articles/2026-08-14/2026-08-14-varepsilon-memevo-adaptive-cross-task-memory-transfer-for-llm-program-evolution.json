@@ -1,0 +1,34 @@
+{
+  "id": "rss-20260814-034",
+  "title": "$\\varepsilon$-MemEvo: Adaptive Cross-Task Memory Transfer for LLM Program Evolution",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2608.12522",
+  "summary": "提出ε-MemEvo框架，实现LLM程序进化中跨任务策略记忆迁移与自适应门控，平均提升AUCC 8.7%。",
+  "highlights": [
+    "存储任务无关的“战术记忆”：以自然语言总结成功算法策略，而非原始代码",
+    "自适应注入门控决定是否及以多大强度注入检索记忆，避免负迁移",
+    "在8个基准上AUCC平均相对提升8.7%，早期收敛提升9.4%，计算开销低于1%"
+  ],
+  "tags": [
+    "llm",
+    "program evolution",
+    "cross-task transfer",
+    "memory",
+    "adaptive gating",
+    "optimization",
+    "funsearch",
+    "alphaevolve"
+  ],
+  "relevance_score": 10,
+  "score_reason": "直接涉及LLM程序进化与跨任务记忆迁移",
+  "author": "Aofan Liu, Shiyuan Song, Yiyan Qi",
+  "published_at": "Fri, 14 Aug 2026 00:00:00 -0400",
+  "fetched_at": "2026-08-14T09:10:56.524689+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "varepsilon-memevo-adaptive-cross-task-memory-transfer-for-llm-program-evolution"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "rss-20260814-029",
+  "title": "Learning to Adapt Cross-Domain Preferences via Meta-LoRA for LLM Personalization",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2608.12389",
+  "summary": "提出PAC-Bayes正则化Meta-LoRA，分解用户与域先验，实现LLM跨域个性化并缓解稀疏证据过拟合。",
+  "highlights": [
+    "提出PAC-Bayes正则化Meta-LoRA，依据支持集大小和不确定性调节更新强度",
+    "将个性化先验分解为用户稳定偏好与域专属软令牌，减少负迁移",
+    "在HiCUPID等基准上显著降低跨域胜率退化并提升冷启动表现"
+  ],
+  "tags": [
+    "meta-lora",
+    "lora",
+    "llm",
+    "personalization",
+    "cross-domain",
+    "pac-bayes",
+    "fine-tuning",
+    "adaptation"
+  ],
+  "relevance_score": 10,
+  "score_reason": "直接涉及LLM个性化、LoRA适配与跨域迁移，属AI核心主题",
+  "author": "Xuefei Wang, Jun Han, Zixuan Wang, Qingkai Zeng, Xiao Wang, Ruijie Wang, Jianxin Li",
+  "published_at": "Fri, 14 Aug 2026 00:00:00 -0400",
+  "fetched_at": "2026-08-14T09:10:56.524642+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "learning-to-adapt-cross-domain-preferences-via-meta-lora-for-llm-personalization"
+}

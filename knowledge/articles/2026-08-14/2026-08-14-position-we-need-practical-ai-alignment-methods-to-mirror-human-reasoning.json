@@ -1,0 +1,34 @@
+{
+  "id": "rss-20260814-026",
+  "title": "Position: We Need Practical AI Alignment Methods to Mirror Human Reasoning",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2608.12372",
+  "summary": "本文主张AI需认知对齐，模拟人类推理并忠实传达理由，以提升可信度与采用率。",
+  "highlights": [
+    "认知对齐可提高AI系统的可理解性与可信度",
+    "现有对齐方法与认知对齐之间存在差距",
+    "提出研究议程以解决认知错位，促进高风险决策应用"
+  ],
+  "tags": [
+    "ai alignment",
+    "cognitive alignment",
+    "human reasoning",
+    "interpretability",
+    "trustworthiness",
+    "decision-making",
+    "llm",
+    "safety"
+  ],
+  "relevance_score": 9,
+  "score_reason": "高度相关AI对齐、可解释性与可信决策研究",
+  "author": "Vijay Keswani, Breanna K. Nguyen, Cyrus Cousins, Vincent Conitzer, Walter Sinnott-Armstrong, Jana Schaich Borg",
+  "published_at": "Fri, 14 Aug 2026 00:00:00 -0400",
+  "fetched_at": "2026-08-14T09:10:56.524616+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "position-we-need-practical-ai-alignment-methods-to-mirror-human-reasoning"
+}

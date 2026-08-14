@@ -1,0 +1,33 @@
+{
+  "id": "rss-20260814-039",
+  "title": "DiG-bench: Discovery in Games",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2608.12593",
+  "summary": "DiG-bench是一个包含70个独立游戏的基准，测试AI通过交互实验发现未知规则的能力。",
+  "highlights": [
+    "发布DiG-bench基准，含70个独立游戏，每个游戏有需通过交互发现的独特规则。",
+    "游戏分七个难度层级，最低层多个模型可解，最高层挑战最佳智能体。",
+    "公开21个游戏，其余私有用于安全评估；所有游戏至少一名人类首次尝试解决。"
+  ],
+  "tags": [
+    "benchmark",
+    "games",
+    "discovery",
+    "ai-agents",
+    "evaluation",
+    "scientific-discovery",
+    "agentic-harness"
+  ],
+  "relevance_score": 9,
+  "score_reason": "直接评估AI智能体发现规则与科学探索能力",
+  "author": "Ruairidh M. Battleday, Kai Sandbrink, Jimi Cullen-Drohan, Zihan Yan, Timothy Muller, Clare Maguire, Ales Kubicek, Fraser Greenlee-Scott, Sukrit Sumant, Tri Dao, J\\\"urgen Schmidhuber, Michal Valko, Joshua Tenenbaum, Thomas L. Griffiths, Zeb Kurth-Nelson, James C. R. Whittington",
+  "published_at": "Fri, 14 Aug 2026 00:00:00 -0400",
+  "fetched_at": "2026-08-14T09:10:56.524728+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "dig-bench-discovery-in-games"
+}

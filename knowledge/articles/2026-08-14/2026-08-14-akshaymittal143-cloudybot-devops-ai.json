@@ -1,0 +1,34 @@
+{
+  "id": "github-20260814-011",
+  "title": "akshaymittal143/CloudyBot-DevOps-AI",
+  "source": "github_trending",
+  "source_url": "https://github.com/akshaymittal143/CloudyBot-DevOps-AI",
+  "summary": "一个面向DevOps的AI对话助手，展示LLM在云和DevOps领域的应用。",
+  "highlights": [
+    "基于Python构建DevOps智能问答助手",
+    "集成OpenAI和HuggingFace大语言模型",
+    "面向学生演示LLM在真实知识领域的应用"
+  ],
+  "tags": [
+    "ai",
+    "chatbot",
+    "llm",
+    "devops",
+    "openai",
+    "huggingface",
+    "python",
+    "conversational-ai"
+  ],
+  "relevance_score": 8,
+  "score_reason": "直接展示LLM在DevOps领域问答应用，相关度高",
+  "author": "akshaymittal143",
+  "published_at": "2025-04-16T02:07:17Z",
+  "fetched_at": "2026-08-14T09:10:56.524513+00:00",
+  "status": "draft",
+  "category": "tool",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "akshaymittal143-cloudybot-devops-ai"
+}

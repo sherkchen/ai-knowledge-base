@@ -1,0 +1,34 @@
+{
+  "id": "rss-20260814-028",
+  "title": "Dual-Flow Transformers: Decoupling the Primary Prefill Path from Additional Decode Computation",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2608.12385",
+  "summary": "提出Dual-Flow Transformer，解耦预填充主路径与解码辅助计算，共享参数与KV缓存，降低推理成本并提升性能。",
+  "highlights": [
+    "主流程处理提示并写入KV缓存，辅助流程仅从最终提示位置后激活以增强续写预测",
+    "两个流程共享注意力、MLP和输出矩阵，使用独立嵌入和轻量耦合，便于分组执行复用权重与缓存",
+    "在MoE模型中实现预填充与解码专家独立控制，揭示预填充-解码-质量的权衡"
+  ],
+  "tags": [
+    "dual-flow transformers",
+    "llm inference",
+    "kv cache",
+    "mixture of experts",
+    "prefill",
+    "decode",
+    "transformer architecture",
+    "efficient inference"
+  ],
+  "relevance_score": 10,
+  "score_reason": "直接提出LLM推理架构优化，涵盖预填充、解码与MoE",
+  "author": "Liming Liu, Mingze Wang, Tuo Zhao",
+  "published_at": "Fri, 14 Aug 2026 00:00:00 -0400",
+  "fetched_at": "2026-08-14T09:10:56.524634+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "dual-flow-transformers-decoupling-the-primary-prefill-path-from-additional-decode-computation"
+}

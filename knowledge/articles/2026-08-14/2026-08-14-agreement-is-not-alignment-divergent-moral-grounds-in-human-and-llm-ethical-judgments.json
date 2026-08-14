@@ -1,0 +1,33 @@
+{
+  "id": "rss-20260814-024",
+  "title": "Agreement Is Not Alignment: Divergent Moral Grounds in Human and LLM Ethical Judgments",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2608.12368",
+  "summary": "论文指出LLM与人类道德判断标签一致不等于对齐，分析理由揭示道德基础分歧。",
+  "highlights": [
+    "构建500项ETHICS衍生基准，涵盖五个道德判断领域，收集人类与LLM标签及理由标注。",
+    "前沿和开放模型在最终标签上与人类多数一致率高，但理由层面存在系统性道德基础分歧。",
+    "模型在伤害、尊重、守诺、公正、应得、借口相关性等类别上注意力再分配，标签评估可能误导。"
+  ],
+  "tags": [
+    "llm alignment",
+    "moral reasoning",
+    "ethics",
+    "evaluation",
+    "human-ai alignment",
+    "rationale analysis",
+    "safety"
+  ],
+  "relevance_score": 10,
+  "score_reason": "直接研究LLM伦理判断与对齐，提出标签一致不等于对齐。",
+  "author": "Octavian M. Machidon, Alina L. Machidon, Vojko Strahovnik, Mateja Centa Strahovnik, Jonas Miklav\\v{c}i\\v{c}, Marko Robnik \\v{S}ikonja",
+  "published_at": "Fri, 14 Aug 2026 00:00:00 -0400",
+  "fetched_at": "2026-08-14T09:10:56.524599+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "agreement-is-not-alignment-divergent-moral-grounds-in-human-and-llm-ethical-judgments"
+}

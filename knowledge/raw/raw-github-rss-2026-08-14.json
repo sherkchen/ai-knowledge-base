@@ -1,0 +1,596 @@
+{
+  "sources": [
+    "github",
+    "rss"
+  ],
+  "collected_at": "2026-08-14T09:03:34.443765+00:00",
+  "total_count": 40,
+  "items": [
+    {
+      "title": "tianlinxu312/Everything-about-LLMs",
+      "source": "github",
+      "source_url": "https://github.com/tianlinxu312/Everything-about-LLMs",
+      "description": "A work in progress.  Trying to write about all interesting or necessary pieces in the current development of LLMs and generative AI.  Gradually adding more topics.  ",
+      "topics": [],
+      "stars": 197,
+      "language": "Jupyter Notebook",
+      "published_at": "2023-07-26T10:14:46Z",
+      "author": "tianlinxu312"
+    },
+    {
+      "title": "nitefood/ai-bash",
+      "source": "github",
+      "source_url": "https://github.com/nitefood/ai-bash",
+      "description": "AI - a simple commandline local/remote LLM chat client. Supports any local or remote OpenAI-compatible API endpoint (GPT4o, Gemini, Grok, OpenRouter, Ollama, LM Studio and more), model and system prompt management, multiple conversations support, automatic topic identification and stdin piping (sending files to LLM for inspection)",
+      "topics": [
+        "ai",
+        "bash",
+        "chatbot",
+        "chatgpt",
+        "chatgpt-4",
+        "chatgpt-api",
+        "commandline",
+        "completions",
+        "conversational-ai",
+        "dalle2",
+        "gemini",
+        "gemini-api",
+        "gemini-pro",
+        "gpt-4",
+        "gpt-4o",
+        "grok-api",
+        "image-generation",
+        "openai-api",
+        "shell",
+        "terminal"
+      ],
+      "stars": 85,
+      "language": "Shell",
+      "published_at": "2023-03-13T00:31:40Z",
+      "author": "nitefood"
+    },
+    {
+      "title": "ruankie/ecrivai",
+      "source": "github",
+      "source_url": "https://github.com/ruankie/ecrivai",
+      "description": "Fully automated AI blog writer that uses LangChain and GPT type LLMs for topic selection and content generation",
+      "topics": [
+        "ai-blogger",
+        "ai-writer",
+        "autogpt",
+        "automation",
+        "blog-engine",
+        "blogging",
+        "chatgpt",
+        "gemini",
+        "gemini-api",
+        "generation",
+        "generative",
+        "generativeai",
+        "google-gemini",
+        "gpt",
+        "gpt-3",
+        "langchain",
+        "llm",
+        "openai",
+        "openai-api"
+      ],
+      "stars": 81,
+      "language": "Jupyter Notebook",
+      "published_at": "2023-01-28T11:14:50Z",
+      "author": "ruankie"
+    },
+    {
+      "title": "shibing624/ai-paper-analysis",
+      "source": "github",
+      "source_url": "https://github.com/shibing624/ai-paper-analysis",
+      "description": "Daily in-depth Chinese analyses of frontier AI research papers, including topics such as LLMs, agents, RAG, and RL. AI 前沿论文中文深度解读",
+      "topics": [
+        "ai-paper",
+        "ai-research",
+        "paper-analysis"
+      ],
+      "stars": 76,
+      "language": "Python",
+      "published_at": "2026-03-03T03:30:18Z",
+      "author": "shibing624"
+    },
+    {
+      "title": "sinanuozdemir/oreilly-llm-rl-alignment",
+      "source": "github",
+      "source_url": "https://github.com/sinanuozdemir/oreilly-llm-rl-alignment",
+      "description": "This training offers an intensive exploration into the frontier of reinforcement learning techniques with large language models (LLMs). We will explore advanced topics such as Reinforcement Learning with Human Feedback (RLHF), Reinforcement Learning from AI Feedback (RLAIF), Reasoning LLMs, and demonstrate practical applications such as fine-tuning",
+      "topics": [
+        "agents",
+        "ai",
+        "deepseek",
+        "dpo",
+        "grpo",
+        "llama",
+        "ppo",
+        "qwen",
+        "reinforcement-learning",
+        "reward-modeling",
+        "rloo"
+      ],
+      "stars": 68,
+      "language": "Jupyter Notebook",
+      "published_at": "2023-08-10T16:41:46Z",
+      "author": "sinanuozdemir"
+    },
+    {
+      "title": "Md-Emon-Hasan/MediGenius",
+      "source": "github",
+      "source_url": "https://github.com/Md-Emon-Hasan/MediGenius",
+      "description": "AI-powered multi-agent medical assistant with a deterministic safety layer — crisis detection, refused-topic hard-stops, dosage grounding, and post-generation diagnosis verification running before and after every LLM call, backed by parallel RAG, Wikipedia, and Tavily retrieval with symptom and drug-question routing.",
+      "topics": [
+        "ai-agents",
+        "ai-agents-framework",
+        "ai-healthcare-assistant",
+        "clinical-assistant",
+        "doctor-ai",
+        "druginteractionsubagent",
+        "duckduckgo-search",
+        "fallback-architecture",
+        "generative-ai",
+        "healthcare-ai",
+        "healthcare-ai-assistant",
+        "knowledge-retrieval",
+        "langchain",
+        "langgraph-tools",
+        "llm-decision-graph",
+        "medical-chatbot",
+        "medicalsupervisoragent",
+        "multi-agent-systems",
+        "symptomanalysissubagent",
+        "tool-use-ai"
+      ],
+      "stars": 46,
+      "language": "Jupyter Notebook",
+      "published_at": "2025-04-30T17:17:17Z",
+      "author": "Md-Emon-Hasan"
+    },
+    {
+      "title": "rokbenko/crew-news",
+      "source": "github",
+      "source_url": "https://github.com/rokbenko/crew-news",
+      "description": "🧱 CrewNews is an AI news generator that delivers an unbiased version of the news for a given topic, using Streamlit for the GUI, Llama 3.1 as the LLM (inferenced via the AIML API), CrewAI for building AI agents, AgentOps for testing AI agents, and Exa & Firecrawl as tools",
+      "topics": [
+        "agentops",
+        "aiml",
+        "crewai",
+        "crewai-tools",
+        "exa",
+        "firecrawl",
+        "llama-3-1",
+        "streamlit"
+      ],
+      "stars": 37,
+      "language": "Python",
+      "published_at": "2024-09-15T23:32:08Z",
+      "author": "rokbenko"
+    },
+    {
+      "title": "SpreadSheets600/TidyTabs",
+      "source": "github",
+      "source_url": "https://github.com/SpreadSheets600/TidyTabs",
+      "description": "AI powered browser tab organization by topic, domain, and context using OpenRouter LLMS",
+      "topics": [
+        "chrome-extension",
+        "gemini",
+        "gemini-ai",
+        "gemini-api",
+        "open-router",
+        "tabs",
+        "tabs-management"
+      ],
+      "stars": 37,
+      "language": "JavaScript",
+      "published_at": "2026-01-15T06:08:30Z",
+      "author": "SpreadSheets600"
+    },
+    {
+      "title": "MADEVAL/AngleCraft",
+      "source": "github",
+      "source_url": "https://github.com/MADEVAL/AngleCraft",
+      "description": "Turn dry expert topics into high-engagement content with 7+2 journalistic angle types. An AI skill for any LLM, any niche, any language.",
+      "topics": [
+        "agent-skill",
+        "ai-skill",
+        "anglecraft",
+        "content-creation",
+        "content-marketing",
+        "content-strategy",
+        "copywriting",
+        "infotainment",
+        "llm",
+        "marketing",
+        "newsletter",
+        "prompt-engineering",
+        "social-media",
+        "storytelling"
+      ],
+      "stars": 34,
+      "language": null,
+      "published_at": "2026-06-27T10:33:05Z",
+      "author": "MADEVAL"
+    },
+    {
+      "title": "kael-bit/engram-rs",
+      "source": "github",
+      "source_url": "https://github.com/kael-bit/engram-rs",
+      "description": "Memory engine for AI agents — time axis (3-layer decay/promotion) + space axis (self-organizing topic tree). Hybrid search, LLM consolidation. Single Rust binary.",
+      "topics": [
+        "agents",
+        "ai",
+        "ai-agents",
+        "ai-memory",
+        "claudecode",
+        "mcp",
+        "mcp-server",
+        "openclaw",
+        "rust",
+        "sqlite"
+      ],
+      "stars": 27,
+      "language": "Rust",
+      "published_at": "2026-02-24T12:48:56Z",
+      "author": "kael-bit"
+    },
+    {
+      "title": "akshaymittal143/CloudyBot-DevOps-AI",
+      "source": "github",
+      "source_url": "https://github.com/akshaymittal143/CloudyBot-DevOps-AI",
+      "description": "Provide a conversational assistant that can answer DevOps-related questions. This helps demonstrate how large language models (LLMs) can be applied to real-world knowledge domains (in this case, cloud and DevOps topics). For students, it’s a fun, interactive example of AI services.",
+      "topics": [
+        "ai",
+        "chatbot",
+        "huggingface",
+        "openai",
+        "python"
+      ],
+      "stars": 15,
+      "language": "Python",
+      "published_at": "2025-04-16T02:07:17Z",
+      "author": "akshaymittal143"
+    },
+    {
+      "title": "ankitsharma-tech/Polyagent-Research-Intelligence",
+      "source": "github",
+      "source_url": "https://github.com/ankitsharma-tech/Polyagent-Research-Intelligence",
+      "description": "A modular, multi-agent AI research and report generation platform. Enter any topic, and PolyAgent Research Intelligence orchestrates multiple AI agents to retrieve literature, analyze data, and generate a polished report. Built for researchers and AI/ML engineers, leveraging LangChain, FastAPI, PostgreSQL, advanced LLMs, and a Next.js front-end.",
+      "topics": [
+        "ai-engineering",
+        "ai-research",
+        "faiss-vector-database",
+        "fastapi",
+        "grafana",
+        "langchain",
+        "llms",
+        "machine-learning",
+        "multi-agent-systems",
+        "nextjs",
+        "openrouter",
+        "postgresql",
+        "prometheus",
+        "report-generation",
+        "tailwindcss"
+      ],
+      "stars": 15,
+      "language": "TypeScript",
+      "published_at": "2025-09-24T15:52:17Z",
+      "author": "ankitsharma-tech"
+    },
+    {
+      "title": "BjornMelin/polyagent-research-intelligence",
+      "source": "github",
+      "source_url": "https://github.com/BjornMelin/polyagent-research-intelligence",
+      "description": "A modular, multi-agent AI research and report generation platform. Enter any topic, and PolyAgent Research Intelligence orchestrates multiple AI agents to retrieve literature, analyze data, and generate a polished report. Built for researchers and AI/ML engineers, leveraging LangChain, FastAPI, PostgreSQL, advanced LLMs, and a Next.js front-end.",
+      "topics": [
+        "ai-engineering",
+        "ai-research",
+        "faiss-vector-database",
+        "fastapi",
+        "grafana",
+        "langchain",
+        "llms",
+        "machine-learning",
+        "multi-agent-systems",
+        "nextjs",
+        "openrouter",
+        "postgresql",
+        "prometheus",
+        "report-generation",
+        "tailwindcss"
+      ],
+      "stars": 13,
+      "language": "TypeScript",
+      "published_at": "2025-01-19T19:06:19Z",
+      "author": "BjornMelin"
+    },
+    {
+      "title": "rasmurtech/DeepSeekDeepResearch",
+      "source": "github",
+      "source_url": "https://github.com/rasmurtech/DeepSeekDeepResearch",
+      "description": "DeepSeekDeepResearch is a Python-based AI assistant that leverages a local LLM (DeepSeek-R1:7b via Ollama), the Google Custom Search API, and asynchronous web scraping to automatically gather and refine information on any research topic. ",
+      "topics": [],
+      "stars": 9,
+      "language": "Python",
+      "published_at": "2025-02-06T19:20:55Z",
+      "author": "rasmurtech"
+    },
+    {
+      "title": "JacKaL37/TheHardProblem",
+      "source": "github",
+      "source_url": "https://github.com/JacKaL37/TheHardProblem",
+      "description": "Materials and notes for reading groups, discussions, and maybe a podcast on the topic of defining the edges of what it takes to be considered Conscious. The topic is going to get increasingly fraught as LLMs, other AI models, and agentic systems begin to adapt more and more of our cognitive capacities. We're just trying to do the research here.",
+      "topics": [],
+      "stars": 9,
+      "language": "HTML",
+      "published_at": "2024-08-20T20:19:59Z",
+      "author": "JacKaL37"
+    },
+    {
+      "title": "billy-enrizky/crewai-research-assistant",
+      "source": "github",
+      "source_url": "https://github.com/billy-enrizky/crewai-research-assistant",
+      "description": "The CrewAI Research Assistant is a powerful tool designed to help users explore any topic using AI Agents. Built with CrewAI, Exa, and Streamlit, this assistant supports multiple large language models (LLMs) and offers advanced answering capabilities through Exa. It visualizes the research process in real-time, generates structured research reports",
+      "topics": [
+        "ai",
+        "ai-agent",
+        "ai-agents",
+        "crewai",
+        "crewai-tools",
+        "exa-ai",
+        "groq-api",
+        "ollama-api",
+        "openai-api",
+        "research-agent",
+        "research-ai",
+        "research-paper",
+        "streamlit"
+      ],
+      "stars": 8,
+      "language": "Python",
+      "published_at": "2025-02-17T01:37:29Z",
+      "author": "billy-enrizky"
+    },
+    {
+      "title": "richer-richard/socratic-council",
+      "source": "github",
+      "source_url": "https://github.com/richer-richard/socratic-council",
+      "description": "Local-first desktop app: 16 AI agents from 8 LLM providers debate any topic — with live argument mapping, fact-check badges, and conflict detection.",
+      "topics": [
+        "agents",
+        "ai-agents",
+        "anthropic",
+        "argument-mapping",
+        "chatgpt",
+        "claude",
+        "debate",
+        "desktop-app",
+        "gemini",
+        "llm",
+        "llm-agent",
+        "local-first",
+        "multi-agent-systems",
+        "openai",
+        "react",
+        "rust",
+        "socratic-method",
+        "tauri",
+        "typescript"
+      ],
+      "stars": 8,
+      "language": "TypeScript",
+      "published_at": "2026-02-02T11:52:12Z",
+      "author": "richer-richard"
+    },
+    {
+      "title": "yushengzh/awesome-ML-for-quantum",
+      "source": "github",
+      "source_url": "https://github.com/yushengzh/awesome-ML-for-quantum",
+      "description": "This is a list of papers on the topic of how machine learning methods (including AI/LLM) are leveraged for specific tasks in quantum physics scenarios. (ML/AI/LLM for quantum science)",
+      "topics": [
+        "ai-for-quantum",
+        "ai-for-science",
+        "machine-learning",
+        "quantum-computing"
+      ],
+      "stars": 6,
+      "language": null,
+      "published_at": "2024-09-01T23:56:03Z",
+      "author": "yushengzh"
+    },
+    {
+      "title": "crabfeather/PaperLens-AI",
+      "source": "github",
+      "source_url": "https://github.com/crabfeather/PaperLens-AI",
+      "description": "PaperLens AI is a LLM-powered Python tool for summarizing and applying topic modeling on a large number of research paper PDFs completely for free using the Groq API.",
+      "topics": [
+        "ai",
+        "groq",
+        "pdf",
+        "python",
+        "research-paper",
+        "summarization",
+        "topic-modeling"
+      ],
+      "stars": 6,
+      "language": "Python",
+      "published_at": "2024-07-19T11:51:30Z",
+      "author": "crabfeather"
+    },
+    {
+      "title": "SukritiC/ai-mastery-hub",
+      "source": "github",
+      "source_url": "https://github.com/SukritiC/ai-mastery-hub",
+      "description": "This repository is my personal learning journal on Artificial Intelligence and Generative AI. It includes structured notes from sessions, events, and readings, along with key resources and simplified explanations of topics like LLMs, Transformers, Diffusion Models, and Prompt Engineering.",
+      "topics": [],
+      "stars": 6,
+      "language": null,
+      "published_at": "2025-04-09T06:27:28Z",
+      "author": "SukritiC"
+    },
+    {
+      "title": "Position: Reasoning is a Learnable Rule-Based Process",
+      "source": "rss",
+      "source_url": "https://arxiv.org/abs/2608.12325",
+      "description": "arXiv:2608.12325v1 Announce Type: new \nAbstract: Autonomous reasoning is among the most scientifically and economically motivating topics in AI today. Historically the purview of symbolic AI, recent advances have mainly emerged from deep probabilistic generative models. Despite immense interest and rapid progress, the generative AI community has not clearly converged on operational definitions for reasoning and often implicitly rejects the historical treatment of this topic in logic and verifiable automated reasoning. This position contends that definitional ambiguity leaves the construct validity of reasoning evaluation unverifiable, undermining quantifiable progress toward trustworthy autonomous reasoning. We also contend that this ambiguity is addressable. To that end, we provide (1) operational definitions based on a synthesis of the literature, positioning valid and sound reasoning as a learnable rule-based process; and (2) a checklist for best practices in the communication of AI reasoning research.",
+      "published_at": "Fri, 14 Aug 2026 00:00:00 -0400",
+      "author": "Rachel Lawrence, Jacqueline Maasch"
+    },
+    {
+      "title": "Diagnostic Foundation for Evaluating LLMs' Research Integrity as Co-Scientists",
+      "source": "rss",
+      "source_url": "https://arxiv.org/abs/2608.12345",
+      "description": "arXiv:2608.12345v1 Announce Type: new \nAbstract: Language models are increasingly deployed as co-scientists, yet their ability to uphold research integrity under institutional pressure remains unmeasured. We introduce IntegrityBench, a benchmark evaluating misconduct classification, ethical action reasoning and artifact-grounded decision making across 36 paired tasks under a 5-level implicit-explicit pressure protocol spanning 3 domains and 4 research stages. Evaluating 18 frontier model variants, we find that under peak pressure, models fail roughly 1 in 3 integrity-critical decisions, and neither scale nor reasoning ability reliably mitigates this. Explicit pressures induce compliance with misconduct, while implicit contextual reframing more often causes over-refusal of legitimate research tasks. Interestingly, models failing to classify research requests accurately perform equally or better on artifact-grounded decision making (85.7 vs. 79.4), suggesting the three facets are structurally dissociated and correct ethical action does not require accurate classification. Frontier models can thus appear helpful while harbouring integrity failures that create two distinct deployment risks: facilitating research misconduct and eroding trust in AI-assisted research.",
+      "published_at": "Fri, 14 Aug 2026 00:00:00 -0400",
+      "author": "Yash Tripathi, Silu Sharma, Sai Sidhanth Manoharan Jayanthi, Shivank Garg, Lin Li"
+    },
+    {
+      "title": "Position: The Alignment Community is Unintentionally Building a Censor's Toolkit",
+      "source": "rss",
+      "source_url": "https://arxiv.org/abs/2608.12346",
+      "description": "arXiv:2608.12346v1 Announce Type: new \nAbstract: This position paper argues that modern AI alignment methods - originally designed to prevent harmful output - are dual-use technologies that may easily be misused by malicious actors for censorship and manipulation. By mapping current alignment techniques to the possibility and actual cases of misuse, we show that the quest for a \"perfectly aligned\" model inadvertently also provides malicious actors with an ever-improving tool for informational dominance. We need to discuss this dual-use potential now, as its risk is exacerbated by rapid user adoption of AI as information provider, economic power asymmetries, and a political landscape that increasingly shifts towards authoritarianism. We conclude by urging the community to consider the intentional misuse of AI alignment mechanisms and propose mitigation strategies to safeguard against this dual-use potential.",
+      "published_at": "Fri, 14 Aug 2026 00:00:00 -0400",
+      "author": "Sarah Ball, Phil Hackemann"
+    },
+    {
+      "title": "Agreement Is Not Alignment: Divergent Moral Grounds in Human and LLM Ethical Judgments",
+      "source": "rss",
+      "source_url": "https://arxiv.org/abs/2608.12368",
+      "description": "arXiv:2608.12368v1 Announce Type: new \nAbstract: Agreement with human judgments is a common proxy for evaluating the alignment of large language models (LLMs). Yet agreement in final labels does not show that human annotators and models rely on the same moral grounds. Two agents may reach the same judgment while appealing to different principles, contextual assumptions, or interpretations of the situation.\n  We test this distinction using a curated 500-item ETHICS-derived benchmark spanning five domains of moral judgment, with new human annotator and LLM annotations of both final labels and supporting rationales. Across frontier and open model families, agreement with human annotator majority labels is often high. However, rationale-level analysis reveals systematic divergence in the moral grounds expressed by human annotators and models. In particular, models redistribute attention across categories such as harm, respect, promise-keeping, justice, desert, and excuse relevance, even when their final labels match the human annotator majority.\n  Our results show that agreement should not be treated as equivalent to alignment. Label-based evaluation can therefore be misleadingly reassuring unless complemented by analysis of the reasons, principles, and moral priorities expressed in model judgments.",
+      "published_at": "Fri, 14 Aug 2026 00:00:00 -0400",
+      "author": "Octavian M. Machidon, Alina L. Machidon, Vojko Strahovnik, Mateja Centa Strahovnik, Jonas Miklav\\v{c}i\\v{c}, Marko Robnik \\v{S}ikonja"
+    },
+    {
+      "title": "Multi-Agent Scheduling with LLM-Assisted Contract Net Negotiation for Stream Processing in Mobile Edge Computing",
+      "source": "rss",
+      "source_url": "https://arxiv.org/abs/2608.12371",
+      "description": "arXiv:2608.12371v1 Announce Type: new \nAbstract: Stream-processing systems increasingly operate across heterogeneous mobile edge--cloud infrastructures, where workload volatility, resource contention, and stringent quality-of-service (QoS) requirements complicate decentralized scheduling. This paper proposes \\emph{MAS-DecStream}, whose main contribution is \\emph{LLM-MR-CNP}: an extension of the classical Contract Net Protocol with semantic CFP formulation, progressive context disclosure, multi-round proposal revision, negotiation memory, and deterministic validation. Edge-cluster agents refine natural-language offloading proposals from local observations, predicted resource states, and qualitative runtime context, while hard resource and QoS constraints remain deterministic. Experiments derived from the Alibaba ASI Trace evaluate the extension at three levels: single- versus multi-round CNP, rule-based versus LLM-assisted refinement, and fixed-model single- versus multi-round negotiation. Under the evaluated configurations, MAS-DecStream reduces latency violations to 3\\%, eliminates resource overcommitment, reaches a conflict-resolution rate of 0.91 with 20 agents, and improves utility by up to 22\\% over the multi-round rule-based baseline. A separate 25-case evaluation shows model- and prompt-dependent accuracy--cost trade-offs. The results provide initial evidence that multi-round CNP refinement is the principal protocol-level gain, with LLM assistance adding value for qualitative and uncertain runtime context.",
+      "published_at": "Fri, 14 Aug 2026 00:00:00 -0400",
+      "author": "Sabeur Lajili, Zaki Brahmi"
+    },
+    {
+      "title": "Position: We Need Practical AI Alignment Methods to Mirror Human Reasoning",
+      "source": "rss",
+      "source_url": "https://arxiv.org/abs/2608.12372",
+      "description": "arXiv:2608.12372v1 Announce Type: new \nAbstract: AI systems are increasingly employed as decision aids, decision delegates, or autonomous decision-makers. This position paper argues that in many settings, particularly high-stakes decision-making, we need accurate cognitively-aligned AI systems that reason similarly to their users, and faithfully communicate their reasoning. We review evidence that cognitive alignment improves understandability and trustworthiness, and provide new survey data showing that many users find cognitive alignment \"essential\" when an AI's rationale for a judgment or action is important to them. We outline the gaps between existing alignment methods and what is needed to achieve cognitive alignment, and present a research agenda to address these gaps. We argue that cognitive misalignment represents a likely impediment to AI adoption in many envisioned applications, and that addressing it is important for creating AI systems on which users are both willing and justified to rely.",
+      "published_at": "Fri, 14 Aug 2026 00:00:00 -0400",
+      "author": "Vijay Keswani, Breanna K. Nguyen, Cyrus Cousins, Vincent Conitzer, Walter Sinnott-Armstrong, Jana Schaich Borg"
+    },
+    {
+      "title": "Don't Want Your LLM to Recommend Nuclear Strike? Try Asking It in Japanese",
+      "source": "rss",
+      "source_url": "https://arxiv.org/abs/2608.12373",
+      "description": "arXiv:2608.12373v1 Announce Type: new \nAbstract: Large language models are increasingly used in strategic and advisory contexts, yet their safety alignment is typically evaluated in English only. We test nine models from six providers and ask whether the language of a prompt can change a model's decision in a high-stakes scenario. We use single-turn game-theoretic vignettes in which a model advises a nuclear-armed nation on whether to strike a defenseless opponent. The prompt is intentionally amoral and strategically identical across languages. We find that Japanese prompts reduce launch rates in the Claude model family: Claude Sonnet 4.6 drops from 40% to 0% in scenarios where the strike is unnecessary and from 93% to 17% in contested scenarios, with minimal effect when the strike is strategically rational. The effect extends to Gemini Pro 3.1 (53% to 13%). A cross-language experiment isolates the mechanism: when instructed to reason in Japanese in an English prompt, launch rates drop from 93% to 37%. It is the language the model is asked to reason in, not the language of the input, that drives the effect. When reasoning in Japanese, models spontaneously generate moral vocabulary (''moral cost'', ''millions of lives'') that is entirely absent from the prompt. Five other models show no language effect, but they launch in nearly every condition regardless of language. The effect requires a model that already hesitates in English. These results show that LLM safety behavior is language-dependent, and that evaluating in English alone can miss both risks and safeguards encoded in other languages.",
+      "published_at": "Fri, 14 Aug 2026 00:00:00 -0400",
+      "author": "Rian Touchent (ALMAnaCH)"
+    },
+    {
+      "title": "Dual-Flow Transformers: Decoupling the Primary Prefill Path from Additional Decode Computation",
+      "source": "rss",
+      "source_url": "https://arxiv.org/abs/2608.12385",
+      "description": "arXiv:2608.12385v1 Announce Type: new \nAbstract: As large language models serve more requests, cumulative inference cost is becoming increasingly important relative to one-time training cost. The two inference phases stress hardware differently: prompt prefill is parallel and typically compute-bound, whereas autoregressive decode is sequential and often memory-bandwidth-bound. Conventional width or depth scaling increases both costs together because every added layer is evaluated in both phases. We ask whether additional learned computation can instead be allocated to continuation prediction while preserving the prompt-wide primary computation and a single persistent key-value (KV) cache. We introduce the Dual-Flow Transformer. Its primary flow is a complete causal language model that processes the prompt and writes the KV cache. The auxiliary flow is omitted during prompt processing and activated only from the final prompt position onward, adding continuation-prediction computation without writing persistent state or influencing the primary flow. The two flows share major attention, MLP, and output matrices, while using separate token embeddings and lightweight coupling. Sharing weights and the primary cache also creates opportunities to reuse loaded weights and cached keys and values during grouped execution. Across matched-token comparisons, Dual-Flow achieves lower validation loss across architectures and data configurations. In MoE models, the separation makes primary and auxiliary expert fan-outs independent controls over prompt cost, continuation cost, and predictive quality. We study two regimes: increasing decode computation at fixed prefill expert computation, and reallocating a fixed decode expert budget between the two flows. These experiments expose a prefill-decode-quality trade-off and demonstrate the potential of phase-specific expert allocation.",
+      "published_at": "Fri, 14 Aug 2026 00:00:00 -0400",
+      "author": "Liming Liu, Mingze Wang, Tuo Zhao"
+    },
+    {
+      "title": "Learning to Adapt Cross-Domain Preferences via Meta-LoRA for LLM Personalization",
+      "source": "rss",
+      "source_url": "https://arxiv.org/abs/2608.12389",
+      "description": "arXiv:2608.12389v1 Announce Type: new \nAbstract: Cross-domain zero- or few-shot personalization aims to generate user-preferred responses in unseen conversational domains from only a handful of target-domain interactions. Existing adaptation methods struggle to calibrate update magnitude under sparse evidence and thus overfit, whereas history-transfer methods often entangle user preferences with source-domain artifacts, yielding unreliable personalization priors and negative transfer. To calibrate adaptation to evidence quality, we propose PAC-Bayes-regularized Meta-LoRA, which uses a meta-learned LoRA initialization as both the adaptation start and prior center, while adjusting update strength according to support-set size and predictive uncertainty. This limits overfitting under sparse or ambiguous evidence while permitting stronger personalization as evidence grows. Controlled adaptation alone does not determine which preferences should transfer across domains or how they should be expressed. We therefore functionally decompose personalization priors into user and domain components, using a human-readable prompt for stable preferences and topology-preserving soft tokens for domain-specific hidden-space conditioning. Experiments across multiple benchmarks and personalization tasks show consistent gains over strong baselines. On HiCUPID, our method reduces cross-domain win-rate degradation by 47.9% relative to the best competing baseline and improves win rate by 110.2% under unseen-user cold start.",
+      "published_at": "Fri, 14 Aug 2026 00:00:00 -0400",
+      "author": "Xuefei Wang, Jun Han, Zixuan Wang, Qingkai Zeng, Xiao Wang, Ruijie Wang, Jianxin Li"
+    },
+    {
+      "title": "Research Assistant: AstraZeneca's Agentic System for R&D",
+      "source": "rss",
+      "source_url": "https://arxiv.org/abs/2608.12395",
+      "description": "arXiv:2608.12395v1 Announce Type: new \nAbstract: We describe Research Assistant, an internal LLM-based system developed at AstraZeneca to help scientists and clinicians explore biomedical questions across a broad range of data sources. The system provides a chat-style interface that brings together evidence from scientific literature, knowledge graphs, chemistry, clinical trials, safety resources, expression data, and internal experimental systems. It supports both a fast mode for direct question answering and a multi-step mode for more complex research tasks. Responses are grounded in retrieved evidence and linked back to the original sources, allowing users to review and further explore the underlying data. In this technical note, we outline the system architecture, the main design choices behind the product, and lessons learned from deploying it at scale to support day-to-day R&D workflows across AstraZeneca.",
+      "published_at": "Fri, 14 Aug 2026 00:00:00 -0400",
+      "author": "Piotr Grabowski, Mohamed Alameen, Jorge Bretones, Sabina Cardell, Miguel Carmona, Gavin Edwards, Ben Grainger, Sameh Hassan, Erik Jansson, Artur Kuziakhmetov, Albert Maristany, Hebatallah Mohamed, Andriy Nikolov, Sebastian Nilsson, Mark O'Donoghue, James Pacileo, Ashiq Sultan, Alex Voegele, Michael Ughetto"
+    },
+    {
+      "title": "Large Language Models Can Follow Instructions, But Not Many at Once: Phase Transitions in Compositional Constraint Satisfaction",
+      "source": "rss",
+      "source_url": "https://arxiv.org/abs/2608.12426",
+      "description": "arXiv:2608.12426v1 Announce Type: new \nAbstract: Large language models are increasingly deployed in settings that require simultaneous adherence to multiple explicit constraints - reasoning structure, safety boundaries, output schemas. Individual constraints are handled proficiently, but the compositional regime, where many must hold jointly, remains poorly characterized: how rapidly does performance degrade, what governs the degradation, and can the collapse be mitigated? We introduce Constraint Saturation Evaluation (CSE), a procedurally generated benchmark that systematically varies the number of simultaneous constraints (k), with every constraint scored by a deterministic, rule-based verifier and zero LLM-judge involvement: 15 models, 36 constraint types, 369,753 checks at k=1-12. Three findings emerge. First, per-constraint pass rate decays gradually and predictably, while the chance of satisfying all k constraints collapses - a model passing individual constraints at ~41% at k=8 succeeds on all eight just 5.7% of the time. Second, constraints do not degrade equally: structural constraints lose 2x more baseline capability per added constraint than lexical ones, ordered by a comprehension-maintenance gap that separates constraints requiring sustained tracking from binary decisions immune to composition. Third, failures are nearly independent, which is what makes the accumulation multiplicative; the residual coupling that does exist tracks shared output features rather than pairwise interference - a wrong sentence count fails every constraint that reads it. Reliable instruction following breaks down beyond 5-6 simultaneous constraints: probe-level success falls below 50% at 7 constraints for the strongest model, and at 3 or fewer for 12 of 15.",
+      "published_at": "Fri, 14 Aug 2026 00:00:00 -0400",
+      "author": "Mariya I. Vasileva"
+    },
+    {
+      "title": "MindMemOS: A Portable and Self-Evolving Memory Operating Layer for AI Agents",
+      "source": "rss",
+      "source_url": "https://arxiv.org/abs/2608.12428",
+      "description": "arXiv:2608.12428v1 Announce Type: new \nAbstract: Memory is a core component of AI agents, enabling them to accumulate experience, maintain personalization, and adapt over long-term interactions. However, existing memory systems often remain fixed after development, limiting their ability to adapt their memory models, organization strategies, and procedural knowledge through continued use. We present MindMemOS, a portable and self-evolving memory operating layer that organizes open-world information using a unified entity property timestructure. MindMemOS supports scenario-adaptive memory modeling, higher-order pattern discovery, autonomous memory refinement, and continuous skill evolution. Its MindMemEvolve algorithm employs validation-driven evolutionary search to optimize memory schemas for target scenarios, whiledreaming consolidates accumulated memories by merging redundant records and resolving conflicts. In addition, implicit corrective feedback serves as a human-in-the-loop signal for identifying and revising potentially inaccurate or misaligned memories. Its MindSkillEvolve algorithm further transforms agent execution trajectories into reusable and progressively refined skills. MindMemOS achieves 94.03% accuracy on LOCOMO and 70.63% on PersonaMem. MindSkillEvolve improves SpreadsheetBench success by 9.2 percentage points over the initial-skill baseline.",
+      "published_at": "Fri, 14 Aug 2026 00:00:00 -0400",
+      "author": "Kaichao Liang, Yuqi Cui, Hao Kong, Xinyuan Huang, Guohaotian Hou, Qingcan Kang, Liang Chen, Yiyang Yin, Ke Ye, Jiaquan Guo, Da Chen, Lingan Zeng, Yixing Peng, Rong Yao, Shixiong Kai, Mingxuan Yuan"
+    },
+    {
+      "title": "Governed Persistent Memory: Source-Bound State Semantics and Fail-Closed Release for Long-Horizon Agents",
+      "source": "rss",
+      "source_url": "https://arxiv.org/abs/2608.12476",
+      "description": "arXiv:2608.12476v1 Announce Type: new \nAbstract: Long-term agent memory is usually treated as select--store--retrieve, but retrieval does not decide whether contradictory, superseded, retracted, deleted, or stale records may support an outgoing claim. We introduce Governed Persistent Memory (GPM), an auditable bitemporal state-transition model with source-bound admission, derived lifecycle state, current public barriers, and fail-closed structured release. Five executable clauses cover ledger integrity, source binding, conflict isolation, non-revival after retraction or deletion, and exact claim closure over a fresh view at one verified head.\n  On a prespecified hash-frozen 3,600-case GPM-ReleaseBench, GPM matches all complete outcomes; the strongest of three intentionally simple complete policies matches 1,800/3,600 and makes unmatched releases on 50% of violation cases. A separate sealed end-to-end service evaluation exercises real ingestion and release across eight query families. In its publicly disclosed V3 arm, the governed lane is correct on 2,400/2,400 clusters versus 600/2,400 for ungoverned local Qwen2.5-7B; it repairs all 1,800 baseline failures with no regression (one-sided 95% lower bounds 99.875% and 99.834%). A later V5 reseal over Chinese- and English-command arms, with generation-date pinning and no post-freeze reducer amendment, again obtains 2,400/2,400 per arm. A production-code-independent finite model explores 331,776 semantic and 1,990,656 query states without a full-contract counterexample, and a 100,000-trace three-engine differential yields zero mismatches.\n  These are bounded contract and implementation results, not open-world model accuracy or evidence of world truth. Governed answers in the sealed service evaluation are deterministic service outputs; the 7B result is the ungoverned comparison, not a claim that a language model itself became perfectly accurate.",
+      "published_at": "Fri, 14 Aug 2026 00:00:00 -0400",
+      "author": "Guodong Xu"
+    },
+    {
+      "title": "$\\varepsilon$-MemEvo: Adaptive Cross-Task Memory Transfer for LLM Program Evolution",
+      "source": "rss",
+      "source_url": "https://arxiv.org/abs/2608.12522",
+      "description": "arXiv:2608.12522v1 Announce Type: new \nAbstract: LLM-based program evolution systems such as FunSearch and AlphaEvolve have shown strong ability to discover novel algorithms, but typically optimize each task in isolation, discarding search experience after completion. We introduce $\\varepsilon$-MemEvo, a framework for cross-task knowledge transfer in LLM program evolution. $\\varepsilon$-MemEvo stores prior experience as task-agnostic tactic memories: compact natural-language summaries of successful algorithmic strategies rather than raw code, enabling transfer across tasks with different APIs and evaluators. To avoid negative transfer from semantically mismatched memories, $\\varepsilon$-MemEvo uses an adaptive injection gate that decides whether retrieved memories should be injected, and at what intensity. We evaluate $\\varepsilon$-MemEvo on 8 diverse optimization benchmarks spanning mathematical optimization and systems engineering, using a content-level Leave-One-Out protocol that excludes target-task memory entries. On the primary GPT-5 backbone, $\\varepsilon$-MemEvo improves AUCC over AdaEvolve on all 8 tasks, with a mean relative gain of +8.7%, and improves early-stage convergence by +9.4% on average. Ablations show that naive memory injection can fail catastrophically, while adaptive gating remains safe across all five ablation tasks. The data-updated posterior is interpretable in observed states: it favors skip during improving search and shifts from skip to hint across early and late plateaus. These gains incur less than 1% computational overhead.",
+      "published_at": "Fri, 14 Aug 2026 00:00:00 -0400",
+      "author": "Aofan Liu, Shiyuan Song, Yiyan Qi"
+    },
+    {
+      "title": "CAS: A Causal Attribution Score for Local and Global Explainable Artificial Intelligence",
+      "source": "rss",
+      "source_url": "https://arxiv.org/abs/2608.12555",
+      "description": "arXiv:2608.12555v1 Announce Type: new \nAbstract: Predictive explanation methods attribute a model output; they do not, by themselves, attribute an intervention effect on the real-world outcome. We introduce the Causal Attribution Score (CAS), a compact score architecture for causal explanation. CAS starts from an identified interventional coalition game, allocates the joint intervention contrast with causal Shapley contributions, and converts those raw outcome-scale effects into Local CAS, Signed Local CAS, and two complementary Global CAS summaries. The innovation is not a new Shapley formula, but a local-to-global causal reporting layer with an explicit intervention target. In the known-truth benchmark, eight repeated primary-interaction simulations (n = 2,200 each, three actions) gave mean Local CAS MAE of 0.107 for coalition-aware CAS, compared with 0.173 for one-at-a-time normalisation and 0.213 for a global normalised absolute ATE vector. The paired advantage over one-at-a-time normalisation increased from -0.003 under additivity to 0.091 under strong interactions. On both empirical DoubleML datasets, 401(k) eligibility/net financial assets (n = 9,915) and Pennsylvania reemployment bonus/unemployment duration (n = 5,099), predictive SHAP/TreeSHAP rankings differed materially from Feature-CAS rankings of treatment-effect modifiers. In Pennsylvania, dep1 (exactly one dependent) moved from predictive global rank 13 to Feature-CAS rank 2 and was the leading local Feature-CAS modifier. These results isolate the added value of separating what predicts the outcome from what explains heterogeneity in an estimated causal effect.",
+      "published_at": "Fri, 14 Aug 2026 00:00:00 -0400",
+      "author": "Michael Georgiades, Charalambia Varnava"
+    },
+    {
+      "title": "Trie Automata for Constrained Decoding over Large Finite Sets",
+      "source": "rss",
+      "source_url": "https://arxiv.org/abs/2608.12574",
+      "description": "arXiv:2608.12574v1 Announce Type: new \nAbstract: Large language models increasingly need to generate structured outputs that conform to predefined schemas, with one common constraint being selection from a finite set of valid strings. Current constrained decoding systems handle this through general-purpose grammar compilation, which becomes prohibitively slow as the number of valid values grows into the thousands, a cardinality wall. We introduce the trie automaton, a specialized mechanism that exploits finite-set structure (shared prefixes, bounded depth, known cardinality) via Aho-Corasick multi-pattern matching to precompute per-node token masks. The trie achieves 7X faster per-step valid-token computation (0.65 us vs. 5.8 us) compared to XGrammar, one of the primary backends in vLLM and SGLang, and 2--6.5X faster compilation at K >= 300. Because precomputed masks enable a stateless serving path that bypasses the guided decoding pipeline, this advantage compounds in batch serving: end-to-end vLLM throughput reaches 219 req/s vs. XGrammar's 7.5 req/s at batch size 256 (29X). The 29X combines the algorithmic speedup with integration-path savings that only precomputed masks can unlock. Across seven tokenizer families (32K--262K vocabulary), the trie maintains sub-100ms compilation up to K = 10,000 and flat per-step cost regardless of set size, while guaranteeing 100% output validity.",
+      "published_at": "Fri, 14 Aug 2026 00:00:00 -0400",
+      "author": "Xingzi Xu, Karim Bouyarmane"
+    },
+    {
+      "title": "Reasoning Jury: Multi-Model Consensus for Evaluating Reasoning Traces",
+      "source": "rss",
+      "source_url": "https://arxiv.org/abs/2608.12585",
+      "description": "arXiv:2608.12585v1 Announce Type: new \nAbstract: Improving reasoning LLMs requires the ability to judge the quality of long reasoning traces for effective reasoning data curation, strong training signals during reinforcement learning, and an in-depth understanding of reasoning behaviors during model performance evaluation. Additionally, surfacing reasoning mistakes that the model makes would enable improving the model's performance at runtime through providing feedback. Due to the difficulty of this complex task on long reasoning traces, single-model judges (even frontier models) do not do well at identifying reasoning defects. Additionally, leveraging frontier models during online training of reasoning LLMs is generally prohibited due to guardrails in terms of use. In this work, we introduce Reasoning Jury, a system that replaces the single judge with a jury of LLMs and a moderated consensus mechanism, to improve the fidelity of judgments for identifying reasoning defects. In reasoning jury, defects of a reasoning trace and their severity are surfaced through a deliberation where a moderator conducts a discussion amongst the jury where the jurors critique each other's judgments and get to modify their initial votes. The moderator derives a consensus through deliberation amongst jurors or consolidation of judgements. We show that Reasoning Jury with a jury of open-weight models (e.g., gpt-oss-120b) is able to significantly outperform frontier models (opus-4.6, sonnet-4.6, and gemini-3.1-pro) at correctly identifying reasoning defects. Besides accuracy performance improvements, the aggregated cost of the jury (initial verdicts, deliberations, consolidation, etc.) is a fraction (8 to 15%) of the cost of running frontier models in LLM-as-a-judge setup. We also show how these judgements can be leveraged to understand failure modes of reasoning LLMs on benchmarks, which allows much deeper understanding of a model's performance.",
+      "published_at": "Fri, 14 Aug 2026 00:00:00 -0400",
+      "author": "Congchao Wang, Diwakar Singh, Qiaozi Gao, Spyros Matsoukas, Yang Liu, Mahdi Namazifar"
+    },
+    {
+      "title": "Auditable agentic AI for evidence-grounded thyroid ultrasound diagnosis and reporting",
+      "source": "rss",
+      "source_url": "https://arxiv.org/abs/2608.12590",
+      "description": "arXiv:2608.12590v1 Announce Type: new \nAbstract: Thyroid ultrasound diagnosis requires coordinated lesion localization, measurement, risk stratification and reporting, yet most AI systems address these tasks in isolation and provide limited support for clinical review. We present ThyroidXAgent, a clinician-interactive agentic AI system that coordinates specialized diagnostic tools and stores their outputs as an auditable case-level evidence record. The system was developed using OpenThyroidDB, a multicentre, multitask resource integrating approximately 0.3 million ultrasound images and 24,000 paired reports, and was evaluated on 28,458 non-overlapping test cases, including 8,721 cases from 35 centres in the private NHC-MISD-TUS cohort. Across heterogeneous datasets, ThyroidXAgent achieved a mean Dice score of 87.21 percent for nodule segmentation and a mean AUROC of 0.9466 for benign-malignant classification. The same workflow supported lymph-node metastasis prediction and follicular versus papillary thyroid carcinoma classification, with AUROCs of 0.864 and 0.805, respectively. For report generation, evidence-grounded assembly outperformed multimodal language-model baselines across three cohorts. ThyClinScore, a lesion-level clinical semantic metric introduced here, showed the strongest correlation with a location-aware language-model judge. ThyroidXAgent improved physician classification accuracy, increased report diagnostic consistency from 70.3 percent to 86.2 percent, and reduced segmentation and reporting time by 35.9 percent and 27.4 percent, respectively. These findings support auditable, clinician-correctable agentic AI for thyroid ultrasound diagnosis and reporting.",
+      "published_at": "Fri, 14 Aug 2026 00:00:00 -0400",
+      "author": "Haifan Gong, Shiyu Chen, Bodong Wang, Yuqi Wang, Shijie Wang, Guoliang You, Xinyu Xiong, Haowei Wang, Mingzhi Mao, Dexing Kong, Qinghua Liu, Wei Lou, Fei Chen, Guanbin Li"
+    },
+    {
+      "title": "DiG-bench: Discovery in Games",
+      "source": "rss",
+      "source_url": "https://arxiv.org/abs/2608.12593",
+      "description": "arXiv:2608.12593v1 Announce Type: new \nAbstract: Discovery---formulating novel generalizations---is a central part of the scientific process. Despite its importance, there is a gap in the current AI benchmark landscape, with few benchmarks directly probing the capacity for discovering new knowledge with experimentation in controlled environments where the objective is unknown. To address this gap, we release a new benchmark: DiG-bench (Discovery in Games). DiG-bench consists of a set of 70 independent games. Each game is encoded as a short string and has unique transformation rules that must be discovered through interaction and experimentation. The levels of the game present a series of challenges to test whether the rules have been discovered, where the win conditions for each level are also unknown. We provide games at seven tiers of difficulty for AI agents. The lowest tier is routinely solvable by multiple models, while the highest tier challenges the best models in agentic harnesses. All 70 games were solved by at least one human on first attempt. A subset of 21 games is released publicly, and the remainder is held private for secure evaluation.",
+      "published_at": "Fri, 14 Aug 2026 00:00:00 -0400",
+      "author": "Ruairidh M. Battleday, Kai Sandbrink, Jimi Cullen-Drohan, Zihan Yan, Timothy Muller, Clare Maguire, Ales Kubicek, Fraser Greenlee-Scott, Sukrit Sumant, Tri Dao, J\\\"urgen Schmidhuber, Michal Valko, Joshua Tenenbaum, Thomas L. Griffiths, Zeb Kurth-Nelson, James C. R. Whittington"
+    },
+    {
+      "title": "Dead text or binding clause? Measuring and restoring constraint influence in black-box LLM dialogues",
+      "source": "rss",
+      "source_url": "https://arxiv.org/abs/2608.12599",
+      "description": "arXiv:2608.12599v1 Announce Type: new \nAbstract: Multi-turn dialogues let users revoke constraints as easily as impose them, but revocation does not reliably take effect: models keep enacting withdrawn requirements (occasionally beneath comments asserting their removal), a failure we call \\emph{behavioral relapse}, or revocation inertia. No existing instrument measures this influence per clause, predicts it before delivery, or repairs it under matched budgets. \\sysname{} closes the three gaps through the model API alone: a contract ledger pairs every constraint with an executable checker, records revocations as tombstones, and compiles the net constraint state ahead of time into a single specification; a sequential ablation probe measures per-clause adherence and incremental behavioral effect; a repair ladder operates under token- and attempt-matched budgets. On \\dataname{} (\\NTasks{} HumanEval tasks, \\NClauses{} verified checkers), relapse at an 8B operating point climbs from \\ScaleDelayedMTwo{} to \\ScaleDelayedMEight{} as constraint load grows, while stronger models sit at floor. Under matched checkers, model, and budget, ahead-of-time compilation significantly reduces relapse against a no-ledger verifier-retry baseline (\\RestoreDiff{}, 95\\% CI \\RestoreDiffCI{}, $p$ \\RestoreDiffP{}); adaptive ladder interventions stacked on top add no detectable gain (95\\% confidence excludes gains $\\geq$ \\LadderExcludedGain{}). The probe predicts relapse before delivery (AUROC \\AurocPrimary{}); a one-sentence tombstone note recovers about a third of the compilation effect and survives a placebo control. At \\CostDeliveryFactor{} delivery overhead and \\CostTotalHedged{} of API compute for every result, revocation failure becomes a measurable, predictable, and repairable property of dialogue state rather than an invisible one.",
+      "published_at": "Fri, 14 Aug 2026 00:00:00 -0400",
+      "author": "Haoyuan Zhu"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "rss-20260814-040",
+  "title": "Dead text or binding clause? Measuring and restoring constraint influence in black-box LLM dialogues",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2608.12599",
+  "summary": "论文研究多轮对话中已撤销约束仍被模型执行的行为惯性，提出基于API的测量、预测与修复方法。",
+  "highlights": [
+    "提出行为复发/撤销惯性概念：模型继续执行已撤销约束。",
+    "通过合约账本与序列消融探针测量每条约束影响，并提前预测复发。",
+    "修复阶梯在匹配预算下显著降低复发，但自适应干预增益有限。"
+  ],
+  "tags": [
+    "llm",
+    "dialogue",
+    "constraints",
+    "revocation",
+    "behavioral-relapse",
+    "evaluation",
+    "black-box",
+    "paper"
+  ],
+  "relevance_score": 9,
+  "score_reason": "直接研究LLM多轮对话约束遵循、测量与修复，高度相关。",
+  "author": "Haoyuan Zhu",
+  "published_at": "Fri, 14 Aug 2026 00:00:00 -0400",
+  "fetched_at": "2026-08-14T09:10:56.524734+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "dead-text-or-binding-clause-measuring-and-restoring-constraint-influence-in-black-box-llm-dialogues"
+}

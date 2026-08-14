@@ -766,6 +766,114 @@
       "fetched_at": "2026-08-07T09:01:31.299427+00:00"
     },
     {
+      "id": "github-20260814-001",
+      "title": "tianlinxu312/Everything-about-LLMs",
+      "category": "research",
+      "slug": "tianlinxu312-everything-about-llms",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-08-14T09:10:56.523091+00:00"
+    },
+    {
+      "id": "github-20260814-005",
+      "title": "sinanuozdemir/oreilly-llm-rl-alignment",
+      "category": "research",
+      "slug": "sinanuozdemir-oreilly-llm-rl-alignment",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-08-14T09:10:56.524463+00:00"
+    },
+    {
+      "id": "github-20260814-013",
+      "title": "BjornMelin/polyagent-research-intelligence",
+      "category": "tool",
+      "slug": "bjornmelin-polyagent-research-intelligence",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-08-14T09:10:56.524525+00:00"
+    },
+    {
+      "id": "rss-20260814-022",
+      "title": "Diagnostic Foundation for Evaluating LLMs' Research Integrity as Co-Scientists",
+      "category": "paper",
+      "slug": "diagnostic-foundation-for-evaluating-llms-research-integrity-as-co-scientists",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-08-14T09:10:56.524582+00:00"
+    },
+    {
+      "id": "rss-20260814-024",
+      "title": "Agreement Is Not Alignment: Divergent Moral Grounds in Human and LLM Ethical Judgments",
+      "category": "paper",
+      "slug": "agreement-is-not-alignment-divergent-moral-grounds-in-human-and-llm-ethical-judgments",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-08-14T09:10:56.524599+00:00"
+    },
+    {
+      "id": "rss-20260814-027",
+      "title": "Don't Want Your LLM to Recommend Nuclear Strike? Try Asking It in Japanese",
+      "category": "paper",
+      "slug": "don-t-want-your-llm-to-recommend-nuclear-strike-try-asking-it-in-japanese",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-08-14T09:10:56.524625+00:00"
+    },
+    {
+      "id": "rss-20260814-028",
+      "title": "Dual-Flow Transformers: Decoupling the Primary Prefill Path from Additional Decode Computation",
+      "category": "paper",
+      "slug": "dual-flow-transformers-decoupling-the-primary-prefill-path-from-additional-decode-computation",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-08-14T09:10:56.524634+00:00"
+    },
+    {
+      "id": "rss-20260814-029",
+      "title": "Learning to Adapt Cross-Domain Preferences via Meta-LoRA for LLM Personalization",
+      "category": "paper",
+      "slug": "learning-to-adapt-cross-domain-preferences-via-meta-lora-for-llm-personalization",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-08-14T09:10:56.524642+00:00"
+    },
+    {
+      "id": "rss-20260814-031",
+      "title": "Large Language Models Can Follow Instructions, But Not Many at Once: Phase Transitions in Compositional Constraint Satisfaction",
+      "category": "paper",
+      "slug": "large-language-models-can-follow-instructions-but-not-many-at-once-phase-transitions-in-compositional-constraint-satisfaction",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-08-14T09:10:56.524663+00:00"
+    },
+    {
+      "id": "rss-20260814-032",
+      "title": "MindMemOS: A Portable and Self-Evolving Memory Operating Layer for AI Agents",
+      "category": "paper",
+      "slug": "mindmemos-a-portable-and-self-evolving-memory-operating-layer-for-ai-agents",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-08-14T09:10:56.524673+00:00"
+    },
+    {
+      "id": "rss-20260814-034",
+      "title": "$\\varepsilon$-MemEvo: Adaptive Cross-Task Memory Transfer for LLM Program Evolution",
+      "category": "paper",
+      "slug": "varepsilon-memevo-adaptive-cross-task-memory-transfer-for-llm-program-evolution",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-08-14T09:10:56.524689+00:00"
+    },
+    {
+      "id": "rss-20260814-037",
+      "title": "Reasoning Jury: Multi-Model Consensus for Evaluating Reasoning Traces",
+      "category": "paper",
+      "slug": "reasoning-jury-multi-model-consensus-for-evaluating-reasoning-traces",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-08-14T09:10:56.524713+00:00"
+    },
+    {
       "id": "github-20260616-001",
       "title": "nitefood/ai-bash",
       "category": "tool",
@@ -1810,6 +1918,186 @@
       "fetched_at": "2026-08-07T09:01:31.299388+00:00"
     },
     {
+      "id": "github-20260814-003",
+      "title": "ruankie/ecrivai",
+      "category": "tool",
+      "slug": "ruankie-ecrivai",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-08-14T09:10:56.524448+00:00"
+    },
+    {
+      "id": "github-20260814-004",
+      "title": "shibing624/ai-paper-analysis",
+      "category": "research",
+      "slug": "shibing624-ai-paper-analysis",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-08-14T09:10:56.524456+00:00"
+    },
+    {
+      "id": "github-20260814-006",
+      "title": "Md-Emon-Hasan/MediGenius",
+      "category": "tool",
+      "slug": "md-emon-hasan-medigenius",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-08-14T09:10:56.524470+00:00"
+    },
+    {
+      "id": "github-20260814-007",
+      "title": "rokbenko/crew-news",
+      "category": "tool",
+      "slug": "rokbenko-crew-news",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-08-14T09:10:56.524477+00:00"
+    },
+    {
+      "id": "github-20260814-010",
+      "title": "kael-bit/engram-rs",
+      "category": "tool",
+      "slug": "kael-bit-engram-rs",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-08-14T09:10:56.524506+00:00"
+    },
+    {
+      "id": "github-20260814-012",
+      "title": "ankitsharma-tech/Polyagent-Research-Intelligence",
+      "category": "tool",
+      "slug": "ankitsharma-tech-polyagent-research-intelligence",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-08-14T09:10:56.524519+00:00"
+    },
+    {
+      "id": "github-20260814-016",
+      "title": "billy-enrizky/crewai-research-assistant",
+      "category": "tool",
+      "slug": "billy-enrizky-crewai-research-assistant",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-08-14T09:10:56.524544+00:00"
+    },
+    {
+      "id": "github-20260814-017",
+      "title": "richer-richard/socratic-council",
+      "category": "tool",
+      "slug": "richer-richard-socratic-council",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-08-14T09:10:56.524550+00:00"
+    },
+    {
+      "id": "github-20260814-019",
+      "title": "crabfeather/PaperLens-AI",
+      "category": "tool",
+      "slug": "crabfeather-paperlens-ai",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-08-14T09:10:56.524562+00:00"
+    },
+    {
+      "id": "rss-20260814-021",
+      "title": "Position: Reasoning is a Learnable Rule-Based Process",
+      "category": "paper",
+      "slug": "position-reasoning-is-a-learnable-rule-based-process",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-08-14T09:10:56.524573+00:00"
+    },
+    {
+      "id": "rss-20260814-023",
+      "title": "Position: The Alignment Community is Unintentionally Building a Censor's Toolkit",
+      "category": "paper",
+      "slug": "position-the-alignment-community-is-unintentionally-building-a-censor-s-toolkit",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-08-14T09:10:56.524591+00:00"
+    },
+    {
+      "id": "rss-20260814-025",
+      "title": "Multi-Agent Scheduling with LLM-Assisted Contract Net Negotiation for Stream Processing in Mobile Edge Computing",
+      "category": "paper",
+      "slug": "multi-agent-scheduling-with-llm-assisted-contract-net-negotiation-for-stream-processing-in-mobile-edge-computing",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-08-14T09:10:56.524608+00:00"
+    },
+    {
+      "id": "rss-20260814-026",
+      "title": "Position: We Need Practical AI Alignment Methods to Mirror Human Reasoning",
+      "category": "paper",
+      "slug": "position-we-need-practical-ai-alignment-methods-to-mirror-human-reasoning",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-08-14T09:10:56.524616+00:00"
+    },
+    {
+      "id": "rss-20260814-030",
+      "title": "Research Assistant: AstraZeneca's Agentic System for R&D",
+      "category": "paper",
+      "slug": "research-assistant-astrazeneca-s-agentic-system-for-r-d",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-08-14T09:10:56.524655+00:00"
+    },
+    {
+      "id": "rss-20260814-033",
+      "title": "Governed Persistent Memory: Source-Bound State Semantics and Fail-Closed Release for Long-Horizon Agents",
+      "category": "paper",
+      "slug": "governed-persistent-memory-source-bound-state-semantics-and-fail-closed-release-for-long-horizon-agents",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-08-14T09:10:56.524681+00:00"
+    },
+    {
+      "id": "rss-20260814-035",
+      "title": "CAS: A Causal Attribution Score for Local and Global Explainable Artificial Intelligence",
+      "category": "paper",
+      "slug": "cas-a-causal-attribution-score-for-local-and-global-explainable-artificial-intelligence",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-08-14T09:10:56.524698+00:00"
+    },
+    {
+      "id": "rss-20260814-036",
+      "title": "Trie Automata for Constrained Decoding over Large Finite Sets",
+      "category": "paper",
+      "slug": "trie-automata-for-constrained-decoding-over-large-finite-sets",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-08-14T09:10:56.524706+00:00"
+    },
+    {
+      "id": "rss-20260814-038",
+      "title": "Auditable agentic AI for evidence-grounded thyroid ultrasound diagnosis and reporting",
+      "category": "paper",
+      "slug": "auditable-agentic-ai-for-evidence-grounded-thyroid-ultrasound-diagnosis-and-reporting",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-08-14T09:10:56.524721+00:00"
+    },
+    {
+      "id": "rss-20260814-039",
+      "title": "DiG-bench: Discovery in Games",
+      "category": "paper",
+      "slug": "dig-bench-discovery-in-games",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-08-14T09:10:56.524728+00:00"
+    },
+    {
+      "id": "rss-20260814-040",
+      "title": "Dead text or binding clause? Measuring and restoring constraint influence in black-box LLM dialogues",
+      "category": "paper",
+      "slug": "dead-text-or-binding-clause-measuring-and-restoring-constraint-influence-in-black-box-llm-dialogues",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-08-14T09:10:56.524734+00:00"
+    },
+    {
       "id": "github-20260616-009",
       "title": "SukritiC/ai-mastery-hub",
       "category": "other",
@@ -2017,6 +2305,69 @@
       "fetched_at": "2026-08-07T09:01:31.299420+00:00"
     },
     {
+      "id": "github-20260814-002",
+      "title": "nitefood/ai-bash",
+      "category": "tool",
+      "slug": "nitefood-ai-bash",
+      "relevance_score": 8,
+      "status": "draft",
+      "fetched_at": "2026-08-14T09:10:56.524432+00:00"
+    },
+    {
+      "id": "github-20260814-008",
+      "title": "SpreadSheets600/TidyTabs",
+      "category": "tool",
+      "slug": "spreadsheets600-tidytabs",
+      "relevance_score": 8,
+      "status": "draft",
+      "fetched_at": "2026-08-14T09:10:56.524487+00:00"
+    },
+    {
+      "id": "github-20260814-009",
+      "title": "MADEVAL/AngleCraft",
+      "category": "tool",
+      "slug": "madeval-anglecraft",
+      "relevance_score": 8,
+      "status": "draft",
+      "fetched_at": "2026-08-14T09:10:56.524498+00:00"
+    },
+    {
+      "id": "github-20260814-011",
+      "title": "akshaymittal143/CloudyBot-DevOps-AI",
+      "category": "tool",
+      "slug": "akshaymittal143-cloudybot-devops-ai",
+      "relevance_score": 8,
+      "status": "draft",
+      "fetched_at": "2026-08-14T09:10:56.524513+00:00"
+    },
+    {
+      "id": "github-20260814-014",
+      "title": "rasmurtech/DeepSeekDeepResearch",
+      "category": "tool",
+      "slug": "rasmurtech-deepseekdeepresearch",
+      "relevance_score": 8,
+      "status": "draft",
+      "fetched_at": "2026-08-14T09:10:56.524531+00:00"
+    },
+    {
+      "id": "github-20260814-015",
+      "title": "JacKaL37/TheHardProblem",
+      "category": "research",
+      "slug": "jackal37-thehardproblem",
+      "relevance_score": 8,
+      "status": "draft",
+      "fetched_at": "2026-08-14T09:10:56.524537+00:00"
+    },
+    {
+      "id": "github-20260814-018",
+      "title": "yushengzh/awesome-ML-for-quantum",
+      "category": "other",
+      "slug": "yushengzh-awesome-ml-for-quantum",
+      "relevance_score": 8,
+      "status": "draft",
+      "fetched_at": "2026-08-14T09:10:56.524556+00:00"
+    },
+    {
       "id": "rss-20260616-023",
       "title": "Hyperdimensional computing for structured querying on tabular data embeddings",
       "category": "paper",
@@ -2071,6 +2422,15 @@
       "fetched_at": "2026-08-07T09:01:31.299370+00:00"
     },
     {
+      "id": "github-20260814-020",
+      "title": "SukritiC/ai-mastery-hub",
+      "category": "other",
+      "slug": "sukritic-ai-mastery-hub",
+      "relevance_score": 7,
+      "status": "draft",
+      "fetched_at": "2026-08-14T09:10:56.524567+00:00"
+    },
+    {
       "id": "rss-20260703-016",
       "title": "Liva AI (YC S25) Is Hiring",
       "category": "other",
@@ -2116,6 +2476,6 @@
       "fetched_at": "2026-06-26T10:55:22.327694+00:00"
     }
   ],
-  "total_count": 235,
-  "updated_at": "2026-08-07T09:01:31.301800+00:00"
+  "total_count": 275,
+  "updated_at": "2026-08-14T09:10:56.529526+00:00"
 }
