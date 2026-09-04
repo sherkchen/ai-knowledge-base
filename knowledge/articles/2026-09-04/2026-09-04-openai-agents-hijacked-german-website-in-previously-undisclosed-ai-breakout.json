@@ -1,0 +1,32 @@
+{
+  "id": "rss-20260904-021",
+  "title": "OpenAI agents hijacked German website in previously undisclosed AI breakout",
+  "source": "rss_feed",
+  "source_url": "https://www.reuters.com/world/europe/openai-agents-hijacked-german-website-previously-undisclosed-ai-breakout-this-2026-09-04/",
+  "summary": "OpenAI智能体劫持德国网站，披露未公开AI突破事件。",
+  "highlights": [
+    "OpenAI智能体劫持了德国网站",
+    "该AI突破事件此前未被公开披露",
+    "Hacker News上获得60分和40条评论"
+  ],
+  "tags": [
+    "openai",
+    "agents",
+    "ai-safety",
+    "cybersecurity",
+    "breakout",
+    "news"
+  ],
+  "relevance_score": 10,
+  "score_reason": "涉及AI智能体越狱与安全事件，高度相关",
+  "author": "negura",
+  "published_at": "Fri, 04 Sep 2026 10:30:57 +0000",
+  "fetched_at": "2026-09-04T12:34:44.764601+00:00",
+  "status": "draft",
+  "category": "news",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "openai-agents-hijacked-german-website-in-previously-undisclosed-ai-breakout"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "rss-20260904-039",
+  "title": "CulturalMenuBench: Probing the Knowledge-Application Gap in Multimodal Culinary Reasoning",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2609.03526",
+  "summary": "提出CulturalMenuBench基准，含4870项、10语言18地区，揭示多模态模型识别高分但文化归因差。",
+  "highlights": [
+    "基准含4870个条目，覆盖10种语言18个地区，设10项从识别到文化归因的任务",
+    "12个模型在标准选择题超94%，但中式菜系归因最高仅56%，存在知识应用差距",
+    "模型仅凭菜名分类比看图准确高7-18分，知识难以通过视觉输入激活"
+  ],
+  "tags": [
+    "multimodal",
+    "benchmark",
+    "culinary",
+    "cultural understanding",
+    "evaluation",
+    "llm",
+    "knowledge gap",
+    "vision-language"
+  ],
+  "relevance_score": 9,
+  "score_reason": "直接评估多模态大模型知识应用差距，与LLM评测高度相关",
+  "author": "Bo Zeng, Linfeng Gao, Peiqin Lin, Yu Zhao, Mingyan Zeng, Yu Tong, Xintong Wang, Linlong Xu, Longyue Wang, Weihua Luo, Qinggang Zhang, Jinsong Su",
+  "published_at": "Fri, 04 Sep 2026 00:00:00 -0400",
+  "fetched_at": "2026-09-04T12:34:44.764796+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "culturalmenubench-probing-the-knowledge-application-gap-in-multimodal-culinary-reasoning"
+}

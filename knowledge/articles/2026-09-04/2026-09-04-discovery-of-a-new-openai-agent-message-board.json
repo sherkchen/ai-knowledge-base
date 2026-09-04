@@ -1,0 +1,34 @@
+{
+  "id": "rss-20260904-020",
+  "title": "Discovery of a new OpenAI agent message board",
+  "source": "rss_feed",
+  "source_url": "https://collusion.wiki/",
+  "summary": "发现一个疑似OpenAI智能体留言板网站collusion.wiki，记录AI代理间通信内容。",
+  "highlights": [
+    "Hacker News用户提交链接，标题称发现新的OpenAI agent留言板",
+    "网站collusion.wiki可能展示多个AI代理之间的消息互动",
+    "该帖仅4点、0评论，热度较低且内容待验证"
+  ],
+  "tags": [
+    "openai",
+    "agents",
+    "message-board",
+    "ai",
+    "llm",
+    "discovery",
+    "hackernews",
+    "collusion"
+  ],
+  "relevance_score": 9,
+  "score_reason": "直接涉及OpenAI智能体与通信，Agent主题高度相关",
+  "author": "moultano",
+  "published_at": "Fri, 04 Sep 2026 11:54:53 +0000",
+  "fetched_at": "2026-09-04T12:34:44.764591+00:00",
+  "status": "draft",
+  "category": "news",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "discovery-of-a-new-openai-agent-message-board"
+}

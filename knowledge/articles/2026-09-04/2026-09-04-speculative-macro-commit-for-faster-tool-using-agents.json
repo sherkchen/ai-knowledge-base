@@ -1,0 +1,34 @@
+{
+  "id": "rss-20260904-026",
+  "title": "Speculative Macro Commit for Faster Tool-Using Agents",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2609.03236",
+  "summary": "提出投机宏提交机制，用草稿模型预执行工具行动链，降低工具型LLM智能体延迟并保持准确率。",
+  "highlights": [
+    "SMC采用双层智能体：大模型actor生成官方轨迹，小模型drafter预测执行。",
+    "挖掘多步行动骨架存入宏库，匹配后提交预执行步骤及观察。",
+    "在τ²-Bench Telecom和AppWorld上分别降低延迟18.59%和44.9%。"
+  ],
+  "tags": [
+    "llm agents",
+    "tool use",
+    "speculative execution",
+    "latency reduction",
+    "arxiv",
+    "agent systems",
+    "qwen",
+    "macro commit"
+  ],
+  "relevance_score": 10,
+  "score_reason": "直接针对LLM工具智能体延迟优化，高度相关",
+  "author": "Zeyu Liu, Souvik Kundu, Peter A. Beerel",
+  "published_at": "Fri, 04 Sep 2026 00:00:00 -0400",
+  "fetched_at": "2026-09-04T12:34:44.764654+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "speculative-macro-commit-for-faster-tool-using-agents"
+}

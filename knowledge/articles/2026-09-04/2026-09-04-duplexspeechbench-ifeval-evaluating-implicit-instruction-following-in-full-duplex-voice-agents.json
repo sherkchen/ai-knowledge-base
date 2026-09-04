@@ -1,0 +1,34 @@
+{
+  "id": "rss-20260904-031",
+  "title": "DuplexSpeechBench-IFEval: Evaluating Implicit Instruction Following in Full-Duplex Voice Agents",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2609.03423",
+  "summary": "全双工语音代理评测基准，含1038用例，评估隐式指令遵循与角色推理。",
+  "highlights": [
+    "提出DSB-IFEval基准，含1038个测试用例和8种助手角色",
+    "评估默认、显式指令、角色隐含、组合与冲突等五种条件",
+    "发现模型对显式/隐式指令敏感，安全冲突下难以覆盖角色行为"
+  ],
+  "tags": [
+    "full-duplex",
+    "voice-agents",
+    "instruction-following",
+    "benchmark",
+    "persona",
+    "real-time",
+    "speech",
+    "evaluation"
+  ],
+  "relevance_score": 9,
+  "score_reason": "全双工语音代理与指令遵循评测，直接相关",
+  "author": "Puneet Mathur, Dinesh Manocha",
+  "published_at": "Fri, 04 Sep 2026 00:00:00 -0400",
+  "fetched_at": "2026-09-04T12:34:44.764705+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "duplexspeechbench-ifeval-evaluating-implicit-instruction-following-in-full-duplex-voice-agents"
+}

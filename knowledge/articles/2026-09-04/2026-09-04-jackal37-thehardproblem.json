@@ -1,0 +1,34 @@
+{
+  "id": "github-20260904-015",
+  "title": "JacKaL37/TheHardProblem",
+  "source": "github_trending",
+  "source_url": "https://github.com/JacKaL37/TheHardProblem",
+  "summary": "关于意识边界与LLM、AI智能体认知能力的阅读小组研究材料和笔记",
+  "highlights": [
+    "探讨意识定义的边界及LLM、AI模型和智能体系统认知能力",
+    "包含阅读小组材料、讨论笔记，可能推出播客",
+    "关注AI逐步具备人类认知能力后的意识问题"
+  ],
+  "tags": [
+    "consciousness",
+    "ai",
+    "llm",
+    "agents",
+    "philosophy",
+    "cognitive-science",
+    "reading-group",
+    "research"
+  ],
+  "relevance_score": 7,
+  "score_reason": "直接探讨LLM与智能体意识边界，相关性强",
+  "author": "JacKaL37",
+  "published_at": "2024-08-20T20:19:59Z",
+  "fetched_at": "2026-09-04T12:34:44.764549+00:00",
+  "status": "draft",
+  "category": "research",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "jackal37-thehardproblem"
+}

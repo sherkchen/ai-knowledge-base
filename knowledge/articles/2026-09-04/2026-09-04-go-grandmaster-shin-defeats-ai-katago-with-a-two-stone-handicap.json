@@ -1,0 +1,33 @@
+{
+  "id": "rss-20260904-023",
+  "title": "Go grandmaster Shin defeats AI KataGo with a two-stone handicap",
+  "source": "rss_feed",
+  "source_url": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007",
+  "summary": "申真谞受让两子击败开源围棋AI KataGo，引发热议。",
+  "highlights": [
+    "韩国围棋大师申真谞受让两子击败AI KataGo",
+    "KataGo是开源围棋AI，曾多次战胜人类高手",
+    "该结果引发关于AI围棋水平与让子边界的讨论"
+  ],
+  "tags": [
+    "go",
+    "katago",
+    "ai",
+    "artificial-intelligence",
+    "shin",
+    "handicap",
+    "game"
+  ],
+  "relevance_score": 7,
+  "score_reason": "涉及AI围棋能力，但与LLM/Agent关联较弱",
+  "author": "gmays",
+  "published_at": "Thu, 03 Sep 2026 01:11:22 +0000",
+  "fetched_at": "2026-09-04T12:34:44.764625+00:00",
+  "status": "draft",
+  "category": "news",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "go-grandmaster-shin-defeats-ai-katago-with-a-two-stone-handicap"
+}

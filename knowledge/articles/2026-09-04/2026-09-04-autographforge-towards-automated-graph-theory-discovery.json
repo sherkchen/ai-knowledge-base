@@ -1,0 +1,34 @@
+{
+  "id": "rss-20260904-034",
+  "title": "AutoGraphForge: Towards Automated Graph Theory Discovery",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2609.03478",
+  "summary": "AutoGraphForge自动化图论猜想生成、反例搜索、Lean4形式化证明，使用DeepSeek-Prover-V2和OProver-32B神经证明器。",
+  "highlights": [
+    "构建反例引导的图论猜想生成与过滤流水线，产生6522个幸存猜想",
+    "集成DeepSeek-Prover-V2-671B与OProver-32B神经证明器，并由Lean4核验",
+    "发现并人工证明二分与正则图中湮灭数和边覆盖数的新关系"
+  ],
+  "tags": [
+    "graph theory",
+    "automated theorem proving",
+    "lean4",
+    "llm provers",
+    "deepseek-prover",
+    "oprover",
+    "conjecture generation",
+    "formal verification"
+  ],
+  "relevance_score": 9,
+  "score_reason": "涉及LLM神经证明器与自动形式化，高度相关",
+  "author": "J\\'an Pastorek",
+  "published_at": "Fri, 04 Sep 2026 00:00:00 -0400",
+  "fetched_at": "2026-09-04T12:34:44.764737+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "autographforge-towards-automated-graph-theory-discovery"
+}

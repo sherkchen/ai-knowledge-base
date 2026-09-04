@@ -1,0 +1,33 @@
+{
+  "id": "rss-20260904-029",
+  "title": "Caught in the Story: Narrative Captivity in Multi-turn LLMs Conversation",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2609.03407",
+  "summary": "研究多轮对话中LLM因单方叙述产生“叙事俘获”，判断偏移25个百分点，涉及17个模型和5078场景。",
+  "highlights": [
+    "提出“叙事俘获”概念：模型将单方叙述视为完整信息并偏向叙述者",
+    "构建5078个道德冲突场景基准，覆盖六大道德维度，评测17个LLM",
+    "多轮叙述后判断平均偏移25个百分点，偏好优化是主因，缓解策略有限"
+  ],
+  "tags": [
+    "narrative captivity",
+    "llm safety",
+    "multi-turn dialogue",
+    "moral reasoning",
+    "evaluation benchmark",
+    "preference optimization",
+    "alignment"
+  ],
+  "relevance_score": 10,
+  "score_reason": "直接研究LLM多轮道德判断失败模式与评测",
+  "author": "Yuhe Wu, Guangyu Wang, Yujie Chen, Jiatong Zhang, Yuran Chen, Yutong Zhang, Xiyin Cheng, Wenpeng Cao, Zhuang Liu, Guang Zhang",
+  "published_at": "Fri, 04 Sep 2026 00:00:00 -0400",
+  "fetched_at": "2026-09-04T12:34:44.764686+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "caught-in-the-story-narrative-captivity-in-multi-turn-llms-conversation"
+}

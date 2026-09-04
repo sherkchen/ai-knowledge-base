@@ -1,0 +1,34 @@
+{
+  "id": "rss-20260904-027",
+  "title": "Fresh Memory, Stale Plans: Dependency-Scoped Validation for Distributed LLM-Agent Memory",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2609.03340",
+  "summary": "提出PlanFence协议，通过依赖作用域验证解决分布式LLM智能体团队中状态新鲜但计划过期的问题。",
+  "highlights": [
+    "识别“过期计划执行”问题：共享状态最新不代表计划仍有效",
+    "PlanFence让计划引用所用公共记录，执行器仅验证影响动作的记录",
+    "在30个受控工作流中，PlanFence避免所有无效动作，优于仅靠新鲜度执行"
+  ],
+  "tags": [
+    "llm agents",
+    "multi-agent systems",
+    "memory",
+    "staleness",
+    "plan validation",
+    "distributed systems",
+    "coordination",
+    "arxiv"
+  ],
+  "relevance_score": 10,
+  "score_reason": "直接研究LLM Agent分布式记忆与计划验证，高度相关",
+  "author": "Evan Chen, Shiqiang Wang, Christopher G. Brinton",
+  "published_at": "Fri, 04 Sep 2026 00:00:00 -0400",
+  "fetched_at": "2026-09-04T12:34:44.764663+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "fresh-memory-stale-plans-dependency-scoped-validation-for-distributed-llm-agent-memory"
+}

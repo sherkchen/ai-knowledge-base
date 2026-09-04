@@ -1,0 +1,34 @@
+{
+  "id": "rss-20260904-022",
+  "title": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
+  "source": "rss_feed",
+  "source_url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/",
+  "summary": "作者用LLM读取68000汇编，将1993年Amiga游戏移植到Godot，并实现二进制一致。",
+  "highlights": [
+    "LLM阅读MC68000汇编并辅助移植到Godot",
+    "模型用vasm汇编直到二进制与原版字节一致",
+    "108字节差异源于AsmOne内存快照而非干净输出"
+  ],
+  "tags": [
+    "llm",
+    "porting",
+    "amiga",
+    "68000 assembly",
+    "godot",
+    "game development",
+    "reverse engineering",
+    "claude"
+  ],
+  "relevance_score": 9,
+  "score_reason": "LLM被用于汇编代码移植和二进制验证，应用性强",
+  "author": "rabahs",
+  "published_at": "Thu, 03 Sep 2026 14:28:18 +0000",
+  "fetched_at": "2026-09-04T12:34:44.764611+00:00",
+  "status": "draft",
+  "category": "news",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "porting-my-1993-amiga-game-to-godot-with-an-llm-reading-the-68000-assembly"
+}

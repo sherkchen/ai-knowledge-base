@@ -1,0 +1,34 @@
+{
+  "id": "rss-20260904-036",
+  "title": "GrowPage: On-Demand KV Budgeting for Efficient LLM Reasoning Serving",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2609.03494",
+  "summary": "GrowPage提出按需KV预算框架，动态分配KV容量，优化LLM推理服务吞吐与性能。",
+  "highlights": [
+    "将KV缓存视为运行时资源，按需动态分配容量而非固定预算",
+    "使用双时间尺度查询摘要捕捉近期和长期注意力行为以估计需求演变",
+    "集成PagedAttention，保留连续批处理和前缀缓存，提升性能与吞吐权衡"
+  ],
+  "tags": [
+    "kv cache",
+    "llm serving",
+    "pagedattention",
+    "efficient inference",
+    "reasoning",
+    "memory management",
+    "attention",
+    "arxiv"
+  ],
+  "relevance_score": 9,
+  "score_reason": "直接针对LLM推理KV缓存优化，高度相关。",
+  "author": "Qiankun Ma, Yanjiang Zhou, Zinan Xiong, Haofei Wang, Zhen Song, Yang Xiang, Ziyao Zhang, Hairong Zheng",
+  "published_at": "Fri, 04 Sep 2026 00:00:00 -0400",
+  "fetched_at": "2026-09-04T12:34:44.764764+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "growpage-on-demand-kv-budgeting-for-efficient-llm-reasoning-serving"
+}

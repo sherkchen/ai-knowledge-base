@@ -1,0 +1,33 @@
+{
+  "id": "rss-20260904-033",
+  "title": "Beyond \"Made with AI\": Visualizing Provenance Density to Mitigate the Transparency Penalty",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2609.03460",
+  "summary": "提出“出处密度”可视化，展示文本中已验证声明的密度，以缓解AI生成内容的透明度惩罚，提升真假辨别。",
+  "highlights": [
+    "提出Provenance Density界面，将透明度从作者披露转向证据可视化。",
+    "81人用户研究显示理想化界面真假辨别差距+4.15分，效应量大。",
+    "200样本审计发现仅检索密度不够，一致性否决在动态查询中起主要作用。"
+  ],
+  "tags": [
+    "provenance density",
+    "ai transparency",
+    "generative ai",
+    "hallucination",
+    "evidence visualization",
+    "user study",
+    "fluency trap"
+  ],
+  "relevance_score": 9,
+  "score_reason": "涉及生成式AI幻觉与透明度可视化，直接相关",
+  "author": "Qing Zhang, Yifei Huang, Juyoung Lee, Thad Starner, Jun Rekimoto",
+  "published_at": "Fri, 04 Sep 2026 00:00:00 -0400",
+  "fetched_at": "2026-09-04T12:34:44.764726+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "beyond-made-with-ai-visualizing-provenance-density-to-mitigate-the-transparency-penalty"
+}

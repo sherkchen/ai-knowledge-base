@@ -1,0 +1,34 @@
+{
+  "id": "rss-20260904-024",
+  "title": "Structure and Implementation of New Practical English Textbooks Driven by Artificial Intelligence",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2609.02981",
+  "summary": "本文提出AI驱动的实用英语教材五层架构，经8周186名学生测试，完成准确率从72.4%提升至84.9%，口语平均提高10.8分，教师批改时间减少31.6%。",
+  "highlights": [
+    "提出五层架构：知识图谱、学习者画像、任务生成、反馈编排、教师治理",
+    "8周186名非英语专业本科生测试，单元完成准确率提升至84.9%",
+    "口语平均分提高10.8分，教师批改时间减少31.6%"
+  ],
+  "tags": [
+    "artificial intelligence",
+    "education",
+    "adaptive learning",
+    "textbook",
+    "language learning",
+    "learner profiling",
+    "task generation",
+    "feedback orchestration"
+  ],
+  "relevance_score": 7,
+  "score_reason": "AI教育应用，含自适应学习与任务生成，但非核心LLM/Agent研究",
+  "author": "Ya Wang, Lei Zhang, Xueguang Yang, Bo Chen",
+  "published_at": "Fri, 04 Sep 2026 00:00:00 -0400",
+  "fetched_at": "2026-09-04T12:34:44.764634+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "structure-and-implementation-of-new-practical-english-textbooks-driven-by-artificial-intelligence"
+}

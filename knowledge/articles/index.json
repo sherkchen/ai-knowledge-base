@@ -874,6 +874,60 @@
       "fetched_at": "2026-08-14T09:10:56.524713+00:00"
     },
     {
+      "id": "github-20260904-001",
+      "title": "tianlinxu312/Everything-about-LLMs",
+      "category": "other",
+      "slug": "tianlinxu312-everything-about-llms",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-09-04T12:34:44.762487+00:00"
+    },
+    {
+      "id": "github-20260904-012",
+      "title": "ankitsharma-tech/Polyagent-Research-Intelligence",
+      "category": "tool",
+      "slug": "ankitsharma-tech-polyagent-research-intelligence",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-09-04T12:34:44.764525+00:00"
+    },
+    {
+      "id": "rss-20260904-021",
+      "title": "OpenAI agents hijacked German website in previously undisclosed AI breakout",
+      "category": "news",
+      "slug": "openai-agents-hijacked-german-website-in-previously-undisclosed-ai-breakout",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-09-04T12:34:44.764601+00:00"
+    },
+    {
+      "id": "rss-20260904-026",
+      "title": "Speculative Macro Commit for Faster Tool-Using Agents",
+      "category": "paper",
+      "slug": "speculative-macro-commit-for-faster-tool-using-agents",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-09-04T12:34:44.764654+00:00"
+    },
+    {
+      "id": "rss-20260904-027",
+      "title": "Fresh Memory, Stale Plans: Dependency-Scoped Validation for Distributed LLM-Agent Memory",
+      "category": "paper",
+      "slug": "fresh-memory-stale-plans-dependency-scoped-validation-for-distributed-llm-agent-memory",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-09-04T12:34:44.764663+00:00"
+    },
+    {
+      "id": "rss-20260904-029",
+      "title": "Caught in the Story: Narrative Captivity in Multi-turn LLMs Conversation",
+      "category": "paper",
+      "slug": "caught-in-the-story-narrative-captivity-in-multi-turn-llms-conversation",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-09-04T12:34:44.764686+00:00"
+    },
+    {
       "id": "github-20260616-001",
       "title": "nitefood/ai-bash",
       "category": "tool",
@@ -2098,6 +2152,204 @@
       "fetched_at": "2026-08-14T09:10:56.524734+00:00"
     },
     {
+      "id": "github-20260904-002",
+      "title": "shibing624/ai-paper-analysis",
+      "category": "research",
+      "slug": "shibing624-ai-paper-analysis",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-09-04T12:34:44.764399+00:00"
+    },
+    {
+      "id": "github-20260904-005",
+      "title": "Md-Emon-Hasan/MediGenius",
+      "category": "tool",
+      "slug": "md-emon-hasan-medigenius",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-09-04T12:34:44.764443+00:00"
+    },
+    {
+      "id": "github-20260904-007",
+      "title": "rokbenko/crew-news",
+      "category": "tool",
+      "slug": "rokbenko-crew-news",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-09-04T12:34:44.764473+00:00"
+    },
+    {
+      "id": "github-20260904-009",
+      "title": "kael-bit/engram-rs",
+      "category": "tool",
+      "slug": "kael-bit-engram-rs",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-09-04T12:34:44.764499+00:00"
+    },
+    {
+      "id": "github-20260904-010",
+      "title": "mchittineni/ultimate-ai-engineering-guide",
+      "category": "other",
+      "slug": "mchittineni-ultimate-ai-engineering-guide",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-09-04T12:34:44.764509+00:00"
+    },
+    {
+      "id": "github-20260904-013",
+      "title": "BjornMelin/polyagent-research-intelligence",
+      "category": "tool",
+      "slug": "bjornmelin-polyagent-research-intelligence",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-09-04T12:34:44.764533+00:00"
+    },
+    {
+      "id": "github-20260904-016",
+      "title": "billy-enrizky/crewai-research-assistant",
+      "category": "tool",
+      "slug": "billy-enrizky-crewai-research-assistant",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-09-04T12:34:44.764559+00:00"
+    },
+    {
+      "id": "github-20260904-017",
+      "title": "richer-richard/socratic-council",
+      "category": "tool",
+      "slug": "richer-richard-socratic-council",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-09-04T12:34:44.764568+00:00"
+    },
+    {
+      "id": "github-20260904-019",
+      "title": "crabfeather/PaperLens-AI",
+      "category": "tool",
+      "slug": "crabfeather-paperlens-ai",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-09-04T12:34:44.764583+00:00"
+    },
+    {
+      "id": "rss-20260904-020",
+      "title": "Discovery of a new OpenAI agent message board",
+      "category": "news",
+      "slug": "discovery-of-a-new-openai-agent-message-board",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-09-04T12:34:44.764591+00:00"
+    },
+    {
+      "id": "rss-20260904-022",
+      "title": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
+      "category": "news",
+      "slug": "porting-my-1993-amiga-game-to-godot-with-an-llm-reading-the-68000-assembly",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-09-04T12:34:44.764611+00:00"
+    },
+    {
+      "id": "rss-20260904-025",
+      "title": "MasterControl Seventeen Every Time",
+      "category": "paper",
+      "slug": "mastercontrol-seventeen-every-time",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-09-04T12:34:44.764644+00:00"
+    },
+    {
+      "id": "rss-20260904-028",
+      "title": "A Prompt-Engineering Approach to Develop Scalable, Flexible, and Real-Time Hybrid Micro-Level Personalization in a General Purpose AI Teaching Assistant",
+      "category": "paper",
+      "slug": "a-prompt-engineering-approach-to-develop-scalable-flexible-and-real-time-hybrid-micro-level-personalization-in-a-general-purpose-ai-teaching-assistant",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-09-04T12:34:44.764673+00:00"
+    },
+    {
+      "id": "rss-20260904-030",
+      "title": "Dude: A Dual-Detection Multi-Agent System for Paper-Code Discrepancy Detection",
+      "category": "paper",
+      "slug": "dude-a-dual-detection-multi-agent-system-for-paper-code-discrepancy-detection",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-09-04T12:34:44.764696+00:00"
+    },
+    {
+      "id": "rss-20260904-031",
+      "title": "DuplexSpeechBench-IFEval: Evaluating Implicit Instruction Following in Full-Duplex Voice Agents",
+      "category": "paper",
+      "slug": "duplexspeechbench-ifeval-evaluating-implicit-instruction-following-in-full-duplex-voice-agents",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-09-04T12:34:44.764705+00:00"
+    },
+    {
+      "id": "rss-20260904-032",
+      "title": "Do GUI Agents Know When Not to Act? Enabling Conflict-Aware Termination for Multimodal GUI Agents",
+      "category": "paper",
+      "slug": "do-gui-agents-know-when-not-to-act-enabling-conflict-aware-termination-for-multimodal-gui-agents",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-09-04T12:34:44.764715+00:00"
+    },
+    {
+      "id": "rss-20260904-033",
+      "title": "Beyond \"Made with AI\": Visualizing Provenance Density to Mitigate the Transparency Penalty",
+      "category": "paper",
+      "slug": "beyond-made-with-ai-visualizing-provenance-density-to-mitigate-the-transparency-penalty",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-09-04T12:34:44.764726+00:00"
+    },
+    {
+      "id": "rss-20260904-034",
+      "title": "AutoGraphForge: Towards Automated Graph Theory Discovery",
+      "category": "paper",
+      "slug": "autographforge-towards-automated-graph-theory-discovery",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-09-04T12:34:44.764737+00:00"
+    },
+    {
+      "id": "rss-20260904-035",
+      "title": "Making Every Tool Call Count: Necessary Tool-Evidence Path Rewards for Agentic Vision-Language Models",
+      "category": "paper",
+      "slug": "making-every-tool-call-count-necessary-tool-evidence-path-rewards-for-agentic-vision-language-models",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-09-04T12:34:44.764746+00:00"
+    },
+    {
+      "id": "rss-20260904-036",
+      "title": "GrowPage: On-Demand KV Budgeting for Efficient LLM Reasoning Serving",
+      "category": "paper",
+      "slug": "growpage-on-demand-kv-budgeting-for-efficient-llm-reasoning-serving",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-09-04T12:34:44.764764+00:00"
+    },
+    {
+      "id": "rss-20260904-037",
+      "title": "PPO-STGNN: A Proximal Policy Optimization Approach with Spatio-Temporal Graph Neural Networks for DAG Task Scheduling in Cloud-Edge-End Computing",
+      "category": "paper",
+      "slug": "ppo-stgnn-a-proximal-policy-optimization-approach-with-spatio-temporal-graph-neural-networks-for-dag-task-scheduling-in-cloud-edge-end-computing",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-09-04T12:34:44.764774+00:00"
+    },
+    {
+      "id": "rss-20260904-039",
+      "title": "CulturalMenuBench: Probing the Knowledge-Application Gap in Multimodal Culinary Reasoning",
+      "category": "paper",
+      "slug": "culturalmenubench-probing-the-knowledge-application-gap-in-multimodal-culinary-reasoning",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-09-04T12:34:44.764796+00:00"
+    },
+    {
       "id": "github-20260616-009",
       "title": "SukritiC/ai-mastery-hub",
       "category": "other",
@@ -2368,6 +2620,78 @@
       "fetched_at": "2026-08-14T09:10:56.524556+00:00"
     },
     {
+      "id": "github-20260904-003",
+      "title": "nitefood/ai-bash",
+      "category": "tool",
+      "slug": "nitefood-ai-bash",
+      "relevance_score": 8,
+      "status": "draft",
+      "fetched_at": "2026-09-04T12:34:44.764421+00:00"
+    },
+    {
+      "id": "github-20260904-004",
+      "title": "ruankie/ecrivai",
+      "category": "tool",
+      "slug": "ruankie-ecrivai",
+      "relevance_score": 8,
+      "status": "draft",
+      "fetched_at": "2026-09-04T12:34:44.764433+00:00"
+    },
+    {
+      "id": "github-20260904-006",
+      "title": "SpreadSheets600/TidyTabs",
+      "category": "tool",
+      "slug": "spreadsheets600-tidytabs",
+      "relevance_score": 8,
+      "status": "draft",
+      "fetched_at": "2026-09-04T12:34:44.764463+00:00"
+    },
+    {
+      "id": "github-20260904-008",
+      "title": "MADEVAL/AngleCraft",
+      "category": "tool",
+      "slug": "madeval-anglecraft",
+      "relevance_score": 8,
+      "status": "draft",
+      "fetched_at": "2026-09-04T12:34:44.764486+00:00"
+    },
+    {
+      "id": "github-20260904-011",
+      "title": "akshaymittal143/CloudyBot-DevOps-AI",
+      "category": "tool",
+      "slug": "akshaymittal143-cloudybot-devops-ai",
+      "relevance_score": 8,
+      "status": "draft",
+      "fetched_at": "2026-09-04T12:34:44.764518+00:00"
+    },
+    {
+      "id": "github-20260904-014",
+      "title": "rasmurtech/DeepSeekDeepResearch",
+      "category": "tool",
+      "slug": "rasmurtech-deepseekdeepresearch",
+      "relevance_score": 8,
+      "status": "draft",
+      "fetched_at": "2026-09-04T12:34:44.764541+00:00"
+    },
+    {
+      "id": "github-20260904-018",
+      "title": "yushengzh/awesome-ML-for-quantum",
+      "category": "research",
+      "slug": "yushengzh-awesome-ml-for-quantum",
+      "relevance_score": 8,
+      "status": "draft",
+      "fetched_at": "2026-09-04T12:34:44.764575+00:00"
+    },
+    {
+      "id": "rss-20260904-038",
+      "title": "What Matters for Aggressive Decoding-Time KV Eviction? Temporal Aggregation and Ranking Preservation",
+      "category": "paper",
+      "slug": "what-matters-for-aggressive-decoding-time-kv-eviction-temporal-aggregation-and-ranking-preservation",
+      "relevance_score": 8,
+      "status": "draft",
+      "fetched_at": "2026-09-04T12:34:44.764786+00:00"
+    },
+    {
       "id": "rss-20260616-023",
       "title": "Hyperdimensional computing for structured querying on tabular data embeddings",
       "category": "paper",
@@ -2431,6 +2755,33 @@
       "fetched_at": "2026-08-14T09:10:56.524567+00:00"
     },
     {
+      "id": "github-20260904-015",
+      "title": "JacKaL37/TheHardProblem",
+      "category": "research",
+      "slug": "jackal37-thehardproblem",
+      "relevance_score": 7,
+      "status": "draft",
+      "fetched_at": "2026-09-04T12:34:44.764549+00:00"
+    },
+    {
+      "id": "rss-20260904-023",
+      "title": "Go grandmaster Shin defeats AI KataGo with a two-stone handicap",
+      "category": "news",
+      "slug": "go-grandmaster-shin-defeats-ai-katago-with-a-two-stone-handicap",
+      "relevance_score": 7,
+      "status": "draft",
+      "fetched_at": "2026-09-04T12:34:44.764625+00:00"
+    },
+    {
+      "id": "rss-20260904-024",
+      "title": "Structure and Implementation of New Practical English Textbooks Driven by Artificial Intelligence",
+      "category": "paper",
+      "slug": "structure-and-implementation-of-new-practical-english-textbooks-driven-by-artificial-intelligence",
+      "relevance_score": 7,
+      "status": "draft",
+      "fetched_at": "2026-09-04T12:34:44.764634+00:00"
+    },
+    {
       "id": "rss-20260703-016",
       "title": "Liva AI (YC S25) Is Hiring",
       "category": "other",
@@ -2476,6 +2827,6 @@
       "fetched_at": "2026-06-26T10:55:22.327694+00:00"
     }
   ],
-  "total_count": 275,
-  "updated_at": "2026-08-14T09:10:56.529526+00:00"
+  "total_count": 314,
+  "updated_at": "2026-09-04T12:34:44.773414+00:00"
 }

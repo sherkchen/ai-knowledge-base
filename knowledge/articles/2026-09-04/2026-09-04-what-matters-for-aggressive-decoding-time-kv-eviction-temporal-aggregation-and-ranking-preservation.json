@@ -1,0 +1,33 @@
+{
+  "id": "rss-20260904-038",
+  "title": "What Matters for Aggressive Decoding-Time KV Eviction? Temporal Aggregation and Ranking Preservation",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2609.03515",
+  "summary": "研究解码时KV缓存激进驱逐中时间聚合与排序保持的关键作用，提出InertiaKV及变体提升吞吐。",
+  "highlights": [
+    "EMA聚合使近似保序的评分函数修改在驱逐集层面难以区分。",
+    "Value-norm和entropy变体与注意力高度相关，保留集几乎不变；KeyDiff、key norm、recency及学习评分器改变排序并显著退化。",
+    "提出InertiaKV和InertiaKV-Lazy，后者解码吞吐达1.34-1.46x；Score-Free解码冻结首步排序几乎无损。"
+  ],
+  "tags": [
+    "kv cache",
+    "llm inference",
+    "decoding-time eviction",
+    "attention",
+    "long context",
+    "temporal aggregation",
+    "ranking preservation"
+  ],
+  "relevance_score": 8,
+  "score_reason": "论文研究LLM解码KV缓存驱逐优化，直接相关",
+  "author": "Bo Zeng, Yu Zhao, Yefeng Liu, Zhihong Lu, Xuanfan Ni, Xintong Wang",
+  "published_at": "Fri, 04 Sep 2026 00:00:00 -0400",
+  "fetched_at": "2026-09-04T12:34:44.764786+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "what-matters-for-aggressive-decoding-time-kv-eviction-temporal-aggregation-and-ranking-preservation"
+}

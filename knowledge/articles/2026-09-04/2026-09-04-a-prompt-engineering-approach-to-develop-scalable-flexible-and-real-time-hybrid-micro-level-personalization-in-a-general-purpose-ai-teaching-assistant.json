@@ -1,0 +1,34 @@
+{
+  "id": "rss-20260904-028",
+  "title": "A Prompt-Engineering Approach to Develop Scalable, Flexible, and Real-Time Hybrid Micro-Level Personalization in a General Purpose AI Teaching Assistant",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2609.03402",
+  "summary": "基于提示工程框架，结合六维学习者特征与布鲁姆分类法，实现通用LLM教学助手个性化，无需重训练。",
+  "highlights": [
+    "利用六维学习者特征生成96种个性化画像",
+    "结合布鲁姆分类法评估学生问题认知复杂度",
+    "通过NLP指标与人工实验验证响应差异"
+  ],
+  "tags": [
+    "prompt-engineering",
+    "llm",
+    "personalized-learning",
+    "ai-teaching-assistant",
+    "rag",
+    "bloom-taxonomy",
+    "learner-profile",
+    "educational-agents"
+  ],
+  "relevance_score": 9,
+  "score_reason": "涉及LLM提示工程与教育Agent个性化，高度相关",
+  "author": "Saptarshi Basu, Sandeep Kakar, Ashok Goel",
+  "published_at": "Fri, 04 Sep 2026 00:00:00 -0400",
+  "fetched_at": "2026-09-04T12:34:44.764673+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "a-prompt-engineering-approach-to-develop-scalable-flexible-and-real-time-hybrid-micro-level-personalization-in-a-general-purpose-ai-teaching-assistant"
+}

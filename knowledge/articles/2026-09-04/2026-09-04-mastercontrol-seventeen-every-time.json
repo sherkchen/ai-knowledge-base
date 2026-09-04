@@ -1,0 +1,34 @@
+{
+  "id": "rss-20260904-025",
+  "title": "MasterControl Seventeen Every Time",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2609.03209",
+  "summary": "研究企业分析中由语言模型解释意图、确定性策略执行预批准分析程序，相比运行时规划更可靠且可复现。",
+  "highlights": [
+    "提出受治理的企业分析方法：LLM解释问题，策略选择并运行预批准分析程序",
+    "在110/110测试中，策略执行的分析器完全匹配答案与证据，而运行时规划无一全匹配",
+    "固定语义、策略、数据和执行规则使结果可重放，但结论限于特定配置"
+  ],
+  "tags": [
+    "llm",
+    "agent",
+    "policy",
+    "sql",
+    "analytics",
+    "governance",
+    "replayability",
+    "qwen3"
+  ],
+  "relevance_score": 9,
+  "score_reason": "直接研究LLM与Agent在企业分析中的可靠执行",
+  "author": "MasterControl AI Lab",
+  "published_at": "Fri, 04 Sep 2026 00:00:00 -0400",
+  "fetched_at": "2026-09-04T12:34:44.764644+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "mastercontrol-seventeen-every-time"
+}

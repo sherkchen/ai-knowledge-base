@@ -1,0 +1,33 @@
+{
+  "id": "github-20260904-008",
+  "title": "MADEVAL/AngleCraft",
+  "source": "github_trending",
+  "source_url": "https://github.com/MADEVAL/AngleCraft",
+  "summary": "AngleCraft将枯燥专业话题转化为高互动内容，提供7+2新闻角度类型，适用于任何LLM、领域和语言。",
+  "highlights": [
+    "提供7+2新闻角度类型，提升内容吸引力",
+    "作为AI技能适用于任何LLM、领域和语言",
+    "面向内容营销、文案和知识传播场景"
+  ],
+  "tags": [
+    "ai-skill",
+    "llm",
+    "agent-skill",
+    "content-creation",
+    "content-marketing",
+    "copywriting",
+    "anglecraft"
+  ],
+  "relevance_score": 8,
+  "score_reason": "面向LLM的AI技能，直接相关",
+  "author": "MADEVAL",
+  "published_at": "2026-06-27T10:33:05Z",
+  "fetched_at": "2026-09-04T12:34:44.764486+00:00",
+  "status": "draft",
+  "category": "tool",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "madeval-anglecraft"
+}

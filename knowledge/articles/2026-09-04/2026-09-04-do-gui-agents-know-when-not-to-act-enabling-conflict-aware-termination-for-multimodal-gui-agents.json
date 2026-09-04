@@ -1,0 +1,33 @@
+{
+  "id": "rss-20260904-032",
+  "title": "Do GUI Agents Know When Not to Act? Enabling Conflict-Aware Termination for Multimodal GUI Agents",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2609.03438",
+  "summary": "论文提出CONFLICTGUI基准与CONFLICTGUARD推理框架，提升GUI智能体冲突感知终止能力，避免盲目执行不可行指令。",
+  "highlights": [
+    "提出CONFLICTGUI基准，覆盖指令内冲突和指令与GUI上下文冲突，评估智能体何时不应执行。",
+    "发现现有GUI智能体在可行任务上表现好，但在冲突指令下存在严重执行偏差与过度遵从。",
+    "提出CONFLICTGUARD推理时框架，包含可行性验证协议和条件动作调制，显著提升冲突任务成功率且不影响正常任务性能。"
+  ],
+  "tags": [
+    "gui agents",
+    "multimodal agents",
+    "conflict-aware termination",
+    "inference-time framework",
+    "benchmark",
+    "llm agents",
+    "overcompliance"
+  ],
+  "relevance_score": 9,
+  "score_reason": "直接研究多模态GUI智能体的推理终止能力，与LLM Agent高度相关。",
+  "author": "Zhaoyuan Huang, Tianjie Ju, Pengzhou Cheng, Zheng Wu, Yansi Li, Chuanbiao Song, Jun Lan, Huijia Zhu, Weiqiang Wang, Zhuosheng Zhang",
+  "published_at": "Fri, 04 Sep 2026 00:00:00 -0400",
+  "fetched_at": "2026-09-04T12:34:44.764715+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "do-gui-agents-know-when-not-to-act-enabling-conflict-aware-termination-for-multimodal-gui-agents"
+}
