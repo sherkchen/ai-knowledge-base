@@ -1,0 +1,33 @@
+{
+  "id": "rss-20260911-037",
+  "title": "RobustSGPO: Search-Space Control for Agent Harness Evolution",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2609.09646",
+  "summary": "提出RobustSGPO，通过搜索空间控制改进智能体提示优化，在AgentX任务中完成率从60%提升至80%。",
+  "highlights": [
+    "RobustSGPO明确编辑范围、构建并检查补丁，可从当前或保留快照继续搜索。",
+    "周期性1→2→3权限调度比固定最大权限提升0.28测试分。",
+    "在30个留出任务上完成率由60.0%提升到80.0%，测试质量从3.77提高到4.14。"
+  ],
+  "tags": [
+    "prompt optimization",
+    "agent harness",
+    "semantic gradient",
+    "search-space control",
+    "execution feedback",
+    "robustsgpo",
+    "llm agents"
+  ],
+  "relevance_score": 10,
+  "score_reason": "直接研究LLM智能体提示优化与搜索空间控制",
+  "author": "Zibo Zhao, Jijun Shi, Mo Zhou, Zhongyuan Wang, Shifu Bie, Yunfei Zhang, Xuanting Zhou, Xiangyu Wu, Bin Liu, Ruiming Tang, Wenwu Ou, Kun Gai",
+  "published_at": "Fri, 11 Sep 2026 00:00:00 -0400",
+  "fetched_at": "2026-09-11T12:41:17.480617+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "robustsgpo-search-space-control-for-agent-harness-evolution"
+}

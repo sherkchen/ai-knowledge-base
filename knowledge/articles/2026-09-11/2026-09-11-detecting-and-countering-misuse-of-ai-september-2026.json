@@ -1,0 +1,34 @@
+{
+  "id": "rss-20260911-020",
+  "title": "Detecting and countering misuse of AI: September 2026",
+  "source": "rss_feed",
+  "source_url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
+  "summary": "Anthropic发布2026年9月AI滥用检测与应对威胁情报报告",
+  "highlights": [
+    "分析AI滥用的最新趋势与案例",
+    "提出检测和防范AI滥用的技术手段",
+    "为AI安全政策与治理提供建议"
+  ],
+  "tags": [
+    "ai safety",
+    "misuse detection",
+    "threat intelligence",
+    "anthropic",
+    "cybersecurity",
+    "adversarial ai",
+    "llm security",
+    "policy"
+  ],
+  "relevance_score": 9,
+  "score_reason": "直接涉及AI安全与滥用检测，与LLM高度相关",
+  "author": "garo-pro",
+  "published_at": "Thu, 10 Sep 2026 17:23:42 +0000",
+  "fetched_at": "2026-09-11T12:41:17.480511+00:00",
+  "status": "draft",
+  "category": "research",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "detecting-and-countering-misuse-of-ai-september-2026"
+}

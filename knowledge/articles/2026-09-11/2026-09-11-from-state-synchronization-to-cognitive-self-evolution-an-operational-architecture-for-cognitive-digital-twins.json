@@ -1,0 +1,33 @@
+{
+  "id": "rss-20260911-035",
+  "title": "From State Synchronization to Cognitive Self-Evolution: An Operational Architecture for Cognitive Digital Twins",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2609.09625",
+  "summary": "提出四层认知数字孪生架构，融合知识、记忆与注意力，形成自演化闭环，支持任务驱动认知与自主认知。",
+  "highlights": [
+    "提出包含物理层、数字孪生层、认知层和任务层的四层CDT架构",
+    "构建跨四层自演化闭环，通过知识、记忆与注意力生成任务认知模型",
+    "刻画用户请求驱动与自驱动两种运行模式，并通过轻量仿真验证闭环可行性"
+  ],
+  "tags": [
+    "cognitive digital twin",
+    "digital twin",
+    "llm",
+    "knowledge graph",
+    "self-evolution",
+    "agent",
+    "architecture"
+  ],
+  "relevance_score": 7,
+  "score_reason": "涉及LLM、知识图谱与自主认知闭环，但侧重数字孪生架构",
+  "author": "Haoran Gao, An Li, Zhen Li, Jun Cai",
+  "published_at": "Fri, 11 Sep 2026 00:00:00 -0400",
+  "fetched_at": "2026-09-11T12:41:17.480606+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "from-state-synchronization-to-cognitive-self-evolution-an-operational-architecture-for-cognitive-digital-twins"
+}

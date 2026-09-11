@@ -1,0 +1,33 @@
+{
+  "id": "github-20260911-009",
+  "title": "kael-bit/engram-rs",
+  "source": "github_trending",
+  "source_url": "https://github.com/kael-bit/engram-rs",
+  "summary": "AI代理记忆引擎，时间轴三层衰减与主题树空间索引，支持混合搜索和LLM整合，单一Rust二进制。",
+  "highlights": [
+    "时间轴三层衰减/晋升机制管理记忆",
+    "自组织主题树构建空间索引",
+    "混合搜索与LLM整合，单一Rust二进制"
+  ],
+  "tags": [
+    "agent-memory",
+    "mcp-server",
+    "rust",
+    "ai-agents",
+    "hybrid-search",
+    "llm",
+    "sqlite"
+  ],
+  "relevance_score": 9,
+  "score_reason": "专为AI代理记忆设计，集成MCP与LLM，高度相关",
+  "author": "kael-bit",
+  "published_at": "2026-02-24T12:48:56Z",
+  "fetched_at": "2026-09-11T12:41:17.480446+00:00",
+  "status": "draft",
+  "category": "tool",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "kael-bit-engram-rs"
+}

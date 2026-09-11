@@ -1,0 +1,33 @@
+{
+  "id": "rss-20260911-034",
+  "title": "A Function-Space Approach to the Statistical Mechanics of Learning Dynamics",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2609.09589",
+  "summary": "在函数空间中用统计力学描述深度学习动态，学习算子M与统计算子B共同决定误差演化，偏好平滑数据自适应方向。",
+  "highlights": [
+    "在函数空间建立学习动力学的统计力学描述，将参数配置视为微观实现。",
+    "推导涨落项Φ_fluc(M;B)，在[M,B]=0时旋转平稳，偏好大M特征值配小B特征值。",
+    "ReLU型函数空间下B=σξ²L*KL，低B对应低结构曲率，促进平滑数据自适应方向快速弛豫。"
+  ],
+  "tags": [
+    "statistical-mechanics",
+    "deep-learning",
+    "learning-dynamics",
+    "function-space",
+    "neural-networks",
+    "optimization",
+    "theory"
+  ],
+  "relevance_score": 9,
+  "score_reason": "深度学习理论论文，直接研究神经网络学习动态，AI相关度高",
+  "author": "Yizhou Zhang, Weichen Wu, Lun Du, Zhengjie Miao",
+  "published_at": "Fri, 11 Sep 2026 00:00:00 -0400",
+  "fetched_at": "2026-09-11T12:41:17.480600+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "a-function-space-approach-to-the-statistical-mechanics-of-learning-dynamics"
+}

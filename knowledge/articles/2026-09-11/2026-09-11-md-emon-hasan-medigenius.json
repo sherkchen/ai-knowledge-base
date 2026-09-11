@@ -1,0 +1,33 @@
+{
+  "id": "github-20260911-005",
+  "title": "Md-Emon-Hasan/MediGenius",
+  "source": "github_trending",
+  "source_url": "https://github.com/Md-Emon-Hasan/MediGenius",
+  "summary": "AI多智能体医疗助手，含安全层、RAG检索与用药核查，前后验证LLM输出。",
+  "highlights": [
+    "多智能体医疗助手，集成危机检测与拒绝主题硬停止",
+    "并行RAG、Wikipedia和Tavily检索，支持症状与药物问答路由",
+    "LLM调用前后进行剂量核实与诊断验证，保障医疗安全"
+  ],
+  "tags": [
+    "ai-agents",
+    "healthcare-ai",
+    "multi-agent",
+    "rag",
+    "safety",
+    "medical-llm",
+    "clinical-assistant"
+  ],
+  "relevance_score": 9,
+  "score_reason": "多智能体、RAG、LLM安全验证，与AI代理和医疗LLM高度相关",
+  "author": "Md-Emon-Hasan",
+  "published_at": "2025-04-30T17:17:17Z",
+  "fetched_at": "2026-09-11T12:41:17.480409+00:00",
+  "status": "draft",
+  "category": "framework",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "md-emon-hasan-medigenius"
+}

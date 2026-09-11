@@ -1,0 +1,34 @@
+{
+  "id": "rss-20260911-025",
+  "title": "An Autonomous GeoAI Agent for Arctic Eco-Navigation",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2609.09374",
+  "summary": "提出人机协同多智能体GeoAI系统，用于北极生态导航，整合多目标路径规划与生态社区影响。",
+  "highlights": [
+    "多智能体GeoAI协调数据获取、多目标路径生成与天际线决策支持",
+    "融合生态敏感区（鱼类栖息地、海豹关键栖息地）与社区影响",
+    "人在回路保持价值判断透明可控"
+  ],
+  "tags": [
+    "geoai",
+    "multi-agent",
+    "human-in-the-loop",
+    "arctic-navigation",
+    "route-planning",
+    "multi-objective",
+    "decision-support",
+    "ecology"
+  ],
+  "relevance_score": 9,
+  "score_reason": "多智能体GeoAI系统，属于Agent与决策支持应用",
+  "author": "Samira Alkaee Taleghan, Younghyun Koo, Farnoush Banaei-Kashani",
+  "published_at": "Fri, 11 Sep 2026 00:00:00 -0400",
+  "fetched_at": "2026-09-11T12:41:17.480543+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "an-autonomous-geoai-agent-for-arctic-eco-navigation"
+}

@@ -1,0 +1,605 @@
+{
+  "sources": [
+    "github",
+    "rss"
+  ],
+  "collected_at": "2026-09-11T12:32:22.368285+00:00",
+  "total_count": 40,
+  "items": [
+    {
+      "title": "tianlinxu312/Everything-about-LLMs",
+      "source": "github",
+      "source_url": "https://github.com/tianlinxu312/Everything-about-LLMs",
+      "description": "A work in progress.  Trying to write about all interesting or necessary pieces in the current development of LLMs and generative AI.  Gradually adding more topics.  ",
+      "topics": [],
+      "stars": 196,
+      "language": "Jupyter Notebook",
+      "published_at": "2023-07-26T10:14:46Z",
+      "author": "tianlinxu312"
+    },
+    {
+      "title": "shibing624/ai-paper-analysis",
+      "source": "github",
+      "source_url": "https://github.com/shibing624/ai-paper-analysis",
+      "description": "Daily in-depth Chinese analyses of frontier AI research papers, including topics such as LLMs, agents, RAG, and RL. AI 前沿论文中文深度解读",
+      "topics": [
+        "ai-paper",
+        "ai-research",
+        "paper-analysis"
+      ],
+      "stars": 95,
+      "language": "Python",
+      "published_at": "2026-03-03T03:30:18Z",
+      "author": "shibing624"
+    },
+    {
+      "title": "nitefood/ai-bash",
+      "source": "github",
+      "source_url": "https://github.com/nitefood/ai-bash",
+      "description": "AI - a simple commandline local/remote LLM chat client. Supports any local or remote OpenAI-compatible API endpoint (GPT4o, Gemini, Grok, OpenRouter, Ollama, LM Studio and more), model and system prompt management, multiple conversations support, automatic topic identification and stdin piping (sending files to LLM for inspection)",
+      "topics": [
+        "ai",
+        "bash",
+        "chatbot",
+        "chatgpt",
+        "chatgpt-4",
+        "chatgpt-api",
+        "commandline",
+        "completions",
+        "conversational-ai",
+        "dalle2",
+        "gemini",
+        "gemini-api",
+        "gemini-pro",
+        "gpt-4",
+        "gpt-4o",
+        "grok-api",
+        "image-generation",
+        "openai-api",
+        "shell",
+        "terminal"
+      ],
+      "stars": 86,
+      "language": "Shell",
+      "published_at": "2023-03-13T00:31:40Z",
+      "author": "nitefood"
+    },
+    {
+      "title": "ruankie/ecrivai",
+      "source": "github",
+      "source_url": "https://github.com/ruankie/ecrivai",
+      "description": "Fully automated AI blog writer that uses LangChain and GPT type LLMs for topic selection and content generation",
+      "topics": [
+        "ai-blogger",
+        "ai-writer",
+        "autogpt",
+        "automation",
+        "blog-engine",
+        "blogging",
+        "chatgpt",
+        "gemini",
+        "gemini-api",
+        "generation",
+        "generative",
+        "generativeai",
+        "google-gemini",
+        "gpt",
+        "gpt-3",
+        "langchain",
+        "llm",
+        "openai",
+        "openai-api"
+      ],
+      "stars": 81,
+      "language": "Jupyter Notebook",
+      "published_at": "2023-01-28T11:14:50Z",
+      "author": "ruankie"
+    },
+    {
+      "title": "sinanuozdemir/oreilly-llm-rl-alignment",
+      "source": "github",
+      "source_url": "https://github.com/sinanuozdemir/oreilly-llm-rl-alignment",
+      "description": "This training offers an intensive exploration into the frontier of reinforcement learning techniques with large language models (LLMs). We will explore advanced topics such as Reinforcement Learning with Human Feedback (RLHF), Reinforcement Learning from AI Feedback (RLAIF), Reasoning LLMs, and demonstrate practical applications such as fine-tuning",
+      "topics": [
+        "agents",
+        "ai",
+        "deepseek",
+        "dpo",
+        "grpo",
+        "llama",
+        "ppo",
+        "qwen",
+        "reinforcement-learning",
+        "reward-modeling",
+        "rloo"
+      ],
+      "stars": 68,
+      "language": "Jupyter Notebook",
+      "published_at": "2023-08-10T16:41:46Z",
+      "author": "sinanuozdemir"
+    },
+    {
+      "title": "Md-Emon-Hasan/MediGenius",
+      "source": "github",
+      "source_url": "https://github.com/Md-Emon-Hasan/MediGenius",
+      "description": "AI-powered multi-agent medical assistant with a deterministic safety layer — crisis detection, refused-topic hard-stops, dosage grounding, and post-generation diagnosis verification running before and after every LLM call, backed by parallel RAG, Wikipedia, and Tavily retrieval with symptom and drug-question routing.",
+      "topics": [
+        "ai-agents",
+        "ai-agents-framework",
+        "ai-healthcare-assistant",
+        "clinical-assistant",
+        "doctor-ai",
+        "druginteractionsubagent",
+        "duckduckgo-search",
+        "fallback-architecture",
+        "generative-ai",
+        "healthcare-ai",
+        "healthcare-ai-assistant",
+        "knowledge-retrieval",
+        "langchain",
+        "langgraph-tools",
+        "llm-decision-graph",
+        "medical-chatbot",
+        "medicalsupervisoragent",
+        "multi-agent-systems",
+        "symptomanalysissubagent",
+        "tool-use-ai"
+      ],
+      "stars": 51,
+      "language": "Jupyter Notebook",
+      "published_at": "2025-04-30T17:17:17Z",
+      "author": "Md-Emon-Hasan"
+    },
+    {
+      "title": "SpreadSheets600/TidyTabs",
+      "source": "github",
+      "source_url": "https://github.com/SpreadSheets600/TidyTabs",
+      "description": "AI powered browser tab organization by topic, domain, and context using OpenRouter LLMS",
+      "topics": [
+        "chrome-extension",
+        "gemini",
+        "gemini-ai",
+        "gemini-api",
+        "open-router",
+        "tabs",
+        "tabs-management"
+      ],
+      "stars": 39,
+      "language": "JavaScript",
+      "published_at": "2026-01-15T06:08:30Z",
+      "author": "SpreadSheets600"
+    },
+    {
+      "title": "rokbenko/crew-news",
+      "source": "github",
+      "source_url": "https://github.com/rokbenko/crew-news",
+      "description": "🧱 CrewNews is an AI news generator that delivers an unbiased version of the news for a given topic, using Streamlit for the GUI, Llama 3.1 as the LLM (inferenced via the AIML API), CrewAI for building AI agents, AgentOps for testing AI agents, and Exa & Firecrawl as tools",
+      "topics": [
+        "agentops",
+        "aiml",
+        "crewai",
+        "crewai-tools",
+        "exa",
+        "firecrawl",
+        "llama-3-1",
+        "streamlit"
+      ],
+      "stars": 36,
+      "language": "Python",
+      "published_at": "2024-09-15T23:32:08Z",
+      "author": "rokbenko"
+    },
+    {
+      "title": "MADEVAL/AngleCraft",
+      "source": "github",
+      "source_url": "https://github.com/MADEVAL/AngleCraft",
+      "description": "Turn dry expert topics into high-engagement content with 7+2 journalistic angle types. An AI skill for any LLM, any niche, any language.",
+      "topics": [
+        "agent-skill",
+        "ai-skill",
+        "anglecraft",
+        "content-creation",
+        "content-marketing",
+        "content-strategy",
+        "copywriting",
+        "infotainment",
+        "llm",
+        "marketing",
+        "newsletter",
+        "prompt-engineering",
+        "social-media",
+        "storytelling"
+      ],
+      "stars": 30,
+      "language": null,
+      "published_at": "2026-06-27T10:33:05Z",
+      "author": "MADEVAL"
+    },
+    {
+      "title": "kael-bit/engram-rs",
+      "source": "github",
+      "source_url": "https://github.com/kael-bit/engram-rs",
+      "description": "Memory engine for AI agents — time axis (3-layer decay/promotion) + space axis (self-organizing topic tree). Hybrid search, LLM consolidation. Single Rust binary.",
+      "topics": [
+        "agents",
+        "ai",
+        "ai-agents",
+        "ai-memory",
+        "claudecode",
+        "mcp",
+        "mcp-server",
+        "openclaw",
+        "rust",
+        "sqlite"
+      ],
+      "stars": 27,
+      "language": "Rust",
+      "published_at": "2026-02-24T12:48:56Z",
+      "author": "kael-bit"
+    },
+    {
+      "title": "mchittineni/ultimate-ai-engineering-guide",
+      "source": "github",
+      "source_url": "https://github.com/mchittineni/ultimate-ai-engineering-guide",
+      "description": "100+ AI, Gen AI, LLM, Agentic AI, Forward Deployed Engineer (FDE), AI Systems Architect, Applied AI, LLMOps, AI Platform engineering interview questions across 10 topics - short answer, detail, worked example, and interview tips for each.",
+      "topics": [
+        "agentic-ai",
+        "ai-engineering",
+        "ai-platform",
+        "ai-systems-architect",
+        "forward-deployed-engineer",
+        "generative-ai",
+        "llm-engineering",
+        "llmops"
+      ],
+      "stars": 21,
+      "language": "Python",
+      "published_at": "2026-08-10T14:54:05Z",
+      "author": "mchittineni"
+    },
+    {
+      "title": "akshaymittal143/CloudyBot-DevOps-AI",
+      "source": "github",
+      "source_url": "https://github.com/akshaymittal143/CloudyBot-DevOps-AI",
+      "description": "Provide a conversational assistant that can answer DevOps-related questions. This helps demonstrate how large language models (LLMs) can be applied to real-world knowledge domains (in this case, cloud and DevOps topics). For students, it’s a fun, interactive example of AI services.",
+      "topics": [
+        "ai",
+        "chatbot",
+        "huggingface",
+        "openai",
+        "python"
+      ],
+      "stars": 15,
+      "language": "Python",
+      "published_at": "2025-04-16T02:07:17Z",
+      "author": "akshaymittal143"
+    },
+    {
+      "title": "ankitsharma-tech/Polyagent-Research-Intelligence",
+      "source": "github",
+      "source_url": "https://github.com/ankitsharma-tech/Polyagent-Research-Intelligence",
+      "description": "A modular, multi-agent AI research and report generation platform. Enter any topic, and PolyAgent Research Intelligence orchestrates multiple AI agents to retrieve literature, analyze data, and generate a polished report. Built for researchers and AI/ML engineers, leveraging LangChain, FastAPI, PostgreSQL, advanced LLMs, and a Next.js front-end.",
+      "topics": [
+        "ai-engineering",
+        "ai-research",
+        "faiss-vector-database",
+        "fastapi",
+        "grafana",
+        "langchain",
+        "llms",
+        "machine-learning",
+        "multi-agent-systems",
+        "nextjs",
+        "openrouter",
+        "postgresql",
+        "prometheus",
+        "report-generation",
+        "tailwindcss"
+      ],
+      "stars": 15,
+      "language": "TypeScript",
+      "published_at": "2025-09-24T15:52:17Z",
+      "author": "ankitsharma-tech"
+    },
+    {
+      "title": "BjornMelin/polyagent-research-intelligence",
+      "source": "github",
+      "source_url": "https://github.com/BjornMelin/polyagent-research-intelligence",
+      "description": "A modular, multi-agent AI research and report generation platform. Enter any topic, and PolyAgent Research Intelligence orchestrates multiple AI agents to retrieve literature, analyze data, and generate a polished report. Built for researchers and AI/ML engineers, leveraging LangChain, FastAPI, PostgreSQL, advanced LLMs, and a Next.js front-end.",
+      "topics": [
+        "ai-engineering",
+        "ai-research",
+        "faiss-vector-database",
+        "fastapi",
+        "grafana",
+        "langchain",
+        "llms",
+        "machine-learning",
+        "multi-agent-systems",
+        "nextjs",
+        "openrouter",
+        "postgresql",
+        "prometheus",
+        "report-generation",
+        "tailwindcss"
+      ],
+      "stars": 13,
+      "language": "TypeScript",
+      "published_at": "2025-01-19T19:06:19Z",
+      "author": "BjornMelin"
+    },
+    {
+      "title": "rasmurtech/DeepSeekDeepResearch",
+      "source": "github",
+      "source_url": "https://github.com/rasmurtech/DeepSeekDeepResearch",
+      "description": "DeepSeekDeepResearch is a Python-based AI assistant that leverages a local LLM (DeepSeek-R1:7b via Ollama), the Google Custom Search API, and asynchronous web scraping to automatically gather and refine information on any research topic. ",
+      "topics": [],
+      "stars": 9,
+      "language": "Python",
+      "published_at": "2025-02-06T19:20:55Z",
+      "author": "rasmurtech"
+    },
+    {
+      "title": "JacKaL37/TheHardProblem",
+      "source": "github",
+      "source_url": "https://github.com/JacKaL37/TheHardProblem",
+      "description": "Materials and notes for reading groups, discussions, and maybe a podcast on the topic of defining the edges of what it takes to be considered Conscious. The topic is going to get increasingly fraught as LLMs, other AI models, and agentic systems begin to adapt more and more of our cognitive capacities. We're just trying to do the research here.",
+      "topics": [],
+      "stars": 9,
+      "language": "HTML",
+      "published_at": "2024-08-20T20:19:59Z",
+      "author": "JacKaL37"
+    },
+    {
+      "title": "billy-enrizky/crewai-research-assistant",
+      "source": "github",
+      "source_url": "https://github.com/billy-enrizky/crewai-research-assistant",
+      "description": "The CrewAI Research Assistant is a powerful tool designed to help users explore any topic using AI Agents. Built with CrewAI, Exa, and Streamlit, this assistant supports multiple large language models (LLMs) and offers advanced answering capabilities through Exa. It visualizes the research process in real-time, generates structured research reports",
+      "topics": [
+        "ai",
+        "ai-agent",
+        "ai-agents",
+        "crewai",
+        "crewai-tools",
+        "exa-ai",
+        "groq-api",
+        "ollama-api",
+        "openai-api",
+        "research-agent",
+        "research-ai",
+        "research-paper",
+        "streamlit"
+      ],
+      "stars": 9,
+      "language": "Python",
+      "published_at": "2025-02-17T01:37:29Z",
+      "author": "billy-enrizky"
+    },
+    {
+      "title": "richer-richard/socratic-council",
+      "source": "github",
+      "source_url": "https://github.com/richer-richard/socratic-council",
+      "description": "Local-first desktop app: 16 AI agents from 8 LLM providers debate any topic — with live argument mapping, fact-check badges, and conflict detection.",
+      "topics": [
+        "agents",
+        "ai-agents",
+        "anthropic",
+        "argument-mapping",
+        "chatgpt",
+        "claude",
+        "debate",
+        "desktop-app",
+        "gemini",
+        "llm",
+        "llm-agent",
+        "local-first",
+        "multi-agent-systems",
+        "openai",
+        "react",
+        "rust",
+        "socratic-method",
+        "tauri",
+        "typescript"
+      ],
+      "stars": 8,
+      "language": "TypeScript",
+      "published_at": "2026-02-02T11:52:12Z",
+      "author": "richer-richard"
+    },
+    {
+      "title": "yushengzh/awesome-ML-for-quantum",
+      "source": "github",
+      "source_url": "https://github.com/yushengzh/awesome-ML-for-quantum",
+      "description": "This is a list of papers on the topic of how machine learning methods (including AI/LLM) are leveraged for specific tasks in quantum physics scenarios. (ML/AI/LLM for quantum science)",
+      "topics": [
+        "ai-for-quantum",
+        "ai-for-science",
+        "machine-learning",
+        "quantum-computing"
+      ],
+      "stars": 6,
+      "language": null,
+      "published_at": "2024-09-01T23:56:03Z",
+      "author": "yushengzh"
+    },
+    {
+      "title": "crabfeather/PaperLens-AI",
+      "source": "github",
+      "source_url": "https://github.com/crabfeather/PaperLens-AI",
+      "description": "PaperLens AI is a LLM-powered Python tool for summarizing and applying topic modeling on a large number of research paper PDFs completely for free using the Groq API.",
+      "topics": [
+        "ai",
+        "groq",
+        "pdf",
+        "python",
+        "research-paper",
+        "summarization",
+        "topic-modeling"
+      ],
+      "stars": 6,
+      "language": "Python",
+      "published_at": "2024-07-19T11:51:30Z",
+      "author": "crabfeather"
+    },
+    {
+      "title": "The Waymo effect: how AI is quietly making research less collaborative",
+      "source": "rss",
+      "source_url": "https://www.researchagenda.news/articles/the-waymo-effect.html",
+      "description": "Article URL: https://www.researchagenda.news/articles/the-waymo-effect.html\nComments URL: https://news.ycombinator.com/item?id=49656496\nPoints: 82\n# Comments: 54",
+      "published_at": "Fri, 11 Sep 2026 11:17:50 +0000",
+      "author": "JohnHammersley"
+    },
+    {
+      "title": "Detecting and countering misuse of AI: September 2026",
+      "source": "rss",
+      "source_url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
+      "description": "https://www-cdn.anthropic.com/e50be2e51e7695dc4b1366a37a245a...\n\nComments URL: https://news.ycombinator.com/item?id=49647300\nPoints: 145\n# Comments: 209",
+      "published_at": "Thu, 10 Sep 2026 17:23:42 +0000",
+      "author": "garo-pro"
+    },
+    {
+      "title": "OpenDiscoveryTrace: Process Traces for Evaluating AI Scientist Workflows",
+      "source": "rss",
+      "source_url": "https://arxiv.org/abs/2609.09203",
+      "description": "arXiv:2609.09203v1 Announce Type: new \nAbstract: Existing benchmarks for autonomous AI scientists evaluate only final outputs---generated code, hypotheses, or papers---yet discard the reasoning process by which those outputs were obtained. This makes it impossible to audit scientific methodology, diagnose failure modes, or distinguish systematic reasoning from fortunate guessing. We present \\textbf{OpenDiscoveryTrace}, a public dataset of 558 complete AI scientific agent trajectories that captures how models reason, not just what they produce. Each trajectory records a structured 9-field-per-step trace---including thoughts, tool calls, observations, errors, revision triggers, and self-reported confidence---as models execute 124 scientific tasks spanning drug discovery, materials science, genomics, and scientific literature analysis. The dataset covers seven models: three frontier models (GPT-5.4, Claude Opus 4.6, and Gemini 3.1 Pro; 124 trajectories each, fully balanced across domains and difficulty levels) and four open-weight models (Qwen2.5-7B, Mistral-7B-v0.3, Phi-3.5-mini, and Qwen2.5-1.5B; 30 each), plus 60 live-retrieval variant trajectories. Pilot analysis on 363 LLM-judged trajectories reveals that process traces expose behavioral differences invisible to output-only evaluation: all three frontier models achieve comparable success rates (84--89%), yet Claude Opus 4.6 produces 30$\\times$ more errors than GPT-5.4 (2.5 vs. 0.08 per trajectory, $p < 0.0001$, Cliff's $\\delta = 0.613$), with qualitatively different error profiles---66.7% tool misuse for Claude versus 83.6% reasoning errors for GPT-5.4. We define five benchmark tasks with baselines from logistic regression, random forests, LSTMs, and Transformer models. The dataset, trace schema, agent harness, and benchmark definitions are publicly available under CC BY 4.0 to support research on process-level evaluation, scientific agent auditing, and AI governance.",
+      "published_at": "Fri, 11 Sep 2026 00:00:00 -0400",
+      "author": "Aayam Bansal, Keertan Balaji"
+    },
+    {
+      "title": "Adaptive Entangled Game Modules in Artificial General Intelligence",
+      "source": "rss",
+      "source_url": "https://arxiv.org/abs/2609.09226",
+      "description": "arXiv:2609.09226v1 Announce Type: new \nAbstract: We introduce a probability-wave framework for modeling the collective behavior of interacting adaptive agents, deriving testable eigenmodes through a generalized behavioral intelligence (GBI) nonlocal probability-wave equation. This framework captures a broad range of human intelligence behaviors with analytical mechanisms and offers an indirect method to examine the Liu-Chen-Ao (LCA) hypothesis of nonlocal entangled nerve fibers in the brain through collective trader behaviors. Our empirical analysis of Chinese intraday stock market data demonstrates that adaptive entangled game modes explain 82-94% (89% overall) of observed decision patterns, a sharp contrast to the predictions of neoclassical finance based on independent rational agents. Moreover, 2-12% of behaviors show adaption to intraday news, events, and environments, characterized by dual equilibrium states and abrupt reference point shifts, while purely independent modes occur in less than 5% of cases. These findings empirically support the LCA hypothesis, as observable trading behaviors reflect underlying brain mechanisms and internal intelligence decision-making in behavioral psychology. Our results highlight the necessity of incorporating adaptive entangled game modules into artificial general intelligence (AGI) architectures, addressing the limitations of conventional artificial neural network (ANN)-based AI, which relies on trillions of opaque parameters. By integrating ANN-based AI with probability-wave-based entangled-brain simulations, machine learning can enrich AGI foundation models (FMs) and facilitate the development of human-like processing units (HPUs) that leverage brain-inspired mechanisms. Such HPUs may ultimately create more compact, efficient, and robust AGI systems, particularly for embodied intelligence and robotics.",
+      "published_at": "Fri, 11 Sep 2026 00:00:00 -0400",
+      "author": "Haochen Li, Xinshuai Guo, Jingdong Ouyang, Wei Zhang, Leilei Shi"
+    },
+    {
+      "title": "Subagents vs Agent Skills: Executing Reusable Knowledge for Long-Horizon Agentic Tasks",
+      "source": "rss",
+      "source_url": "https://arxiv.org/abs/2609.09233",
+      "description": "arXiv:2609.09233v1 Announce Type: new \nAbstract: How can language model agents effectively leverage libraries of reusable knowledge to solve long-horizon tasks? Recent work has increasingly focused on agent skills: reusable capabilities represented as skill packages, i.e., multi-file bundles containing instructions, scripts, and other resources that help agents perform specific tasks. Agent skills are typically executed by loading their skill instructions into an agent's context and relying on the agent to follow them. As task horizons grow, however, this approach becomes increasingly brittle, because reasoning quality degrades as more information accumulates in the context window. We investigate an alternative approach in which skill packages are instead invoked as subagents. Rather than loading skill instructions into the main context, subagent execution spawns fresh context windows dedicated to solving individual subtasks. We show that subagent execution outperforms agent-skill execution when skill packages expose clear input-output contracts and their instructions encode the procedural knowledge needed to fulfill those contracts. The tradeoff is additional communication overhead, as extra tokens are required to coordinate between the main agent and its subagents. Our results show that the benefit of reusable knowledge depends not only on its content, but also on how it is organized and invoked.",
+      "published_at": "Fri, 11 Sep 2026 00:00:00 -0400",
+      "author": "Wasu Top Piriyakulkij, Rachel Lawrence, Alicia Curth, Sushrut Karmalkar, Niranjani Prasad"
+    },
+    {
+      "title": "Gradland: On Phenomenal Experience, Differentiated Across Many Dimensions",
+      "source": "rss",
+      "source_url": "https://arxiv.org/abs/2609.09306",
+      "description": "arXiv:2609.09306v1 Announce Type: new \nAbstract: This paper investigates the hypothesis that the first-order structure of physical interactions, i.e. gradients or Jacobians, characterizes the structure of phenomenal experience. It does so in an idealized world inhabited by neural networks, Gradland, where the physics are known and the functions are (mostly) differentiable. The paper introduces two measures of Jacobian structure: effective rank and cohesion, based on Kirchhoff complexity. Applying the measures to a series of worked examples shows the hypothesis accounts for: (1) the duration of experience, that it can prolong over hundreds of milliseconds; (2) the difference between what is experienced vividly and obscurely; (3) the experience of texture; (4) the blooming buzzing confusion presumably experienced by newborns; (5) the difference between ideas that are held distinctly in mind and ideas that are confused; (6) what learning is like; and finally (7) the paper explains the function of rich, dense experience.",
+      "published_at": "Fri, 11 Sep 2026 00:00:00 -0400",
+      "author": "David Balduzzi"
+    },
+    {
+      "title": "An Autonomous GeoAI Agent for Arctic Eco-Navigation",
+      "source": "rss",
+      "source_url": "https://arxiv.org/abs/2609.09374",
+      "description": "arXiv:2609.09374v1 Announce Type: new \nAbstract: Arctic maritime navigation is becoming increasingly important as changing sea-ice conditions expand seasonal accessibility while simultaneously introducing substantial operational, environmental, and community risks. Arctic route planning is inherently a multi-criteria problem: routes that improve vessel safety or efficiency may increase exposure to sea ice, sensitive ecosystems, or nearby communities. Existing routing methods prioritize travel time, fuel use, and navigational risk, often overlooking ecological and community impacts. We introduce a human-in-the-loop, multi-agent GeoAI system for Arctic eco-navigation that integrates operational, physical, ecological, and community-related criteria within a unified routing framework. Multiple specialized agents coordinate geospatial data acquisition and preparation, multi-objective route generation, and skyline-based decision support. The ecological criteria explicitly account for exposure to sensitive areas, including Essential Fish Habitat and seal critical habitat. By considering these ecosystem impacts and potential community burdens while keeping consequential value judgments under human control, the framework supports safer, more transparent, and socially responsible Arctic navigation. Project page and code are publicly available. https://samiraat.github.io/Arctic-Eco-Navigation-Agent/, https://github.com/samiraat/Arctic-Eco-Navigation-Agent",
+      "published_at": "Fri, 11 Sep 2026 00:00:00 -0400",
+      "author": "Samira Alkaee Taleghan, Younghyun Koo, Farnoush Banaei-Kashani"
+    },
+    {
+      "title": "The Menu Is an Execution Prior: State-Path Tool Menus for Online Agents",
+      "source": "rss",
+      "source_url": "https://arxiv.org/abs/2609.09395",
+      "description": "arXiv:2609.09395v1 Announce Type: new \nAbstract: Language models act through tools, yet practical agents face libraries containing thousands of interfaces. We introduce the tool menu as the short, ordered subset of available tools shown to an agent before execution. The agent can call only tools in this menu. Multi-step tasks require the final action and the prerequisite tools that create its inputs in a usable order. Current constructors rank tools by request relevance, which can surface the final action while omitting or delaying less obvious producers. We introduce the state path, a pre-execution route from the observable request state to the desired outcome, and propose State-Path Tool Menu to learn it. Our framework treats the menu as an execution prior over these routes. Its encoder represents which tools can run from the current state, how their outputs satisfy later inputs, and which orders recur in training paths. A retriever covers an executable entry, the missing-input producers, and the final action. A reranker then places producers before consumers. On ToolBench, our menu raises online success from 0.737 to 0.898 and outperforms retrieval, reranking, generation, and routing baselines without changing the agent. The State-Path menu also covers more complete chains with 32 tools than the official list covers with 128, and its success gain persists across executor families with different model capacities. Our code is at https://github.com/Met2348/State-Path.",
+      "published_at": "Fri, 11 Sep 2026 00:00:00 -0400",
+      "author": "Bo Yan, Weikai Lin, Song Wang"
+    },
+    {
+      "title": "Decision-Focused Active Learning for Scale-Aware Critical-Materials Recovery",
+      "source": "rss",
+      "source_url": "https://arxiv.org/abs/2609.09413",
+      "description": "arXiv:2609.09413v1 Announce Type: new \nAbstract: Choosing a recovery process for scale-up requires connecting laboratory results with product requirements, process costs, and scale effects. We analyze records from Pacific Northwest National Laboratory's Computer Intelligence for Critical Element Recovery and Optimization (CICERO) workflow for autonomous selective precipitation. Active learning uses prior results to choose experiments. In a conditional retrospective benchmark with fitted models and recycled neodymium-iron-boron (NdFeB) magnet records, active learning finds the best recorded result with fewer experiments than nonadaptive space filling. Enrichment is the selected rare-earth-to-iron ratio relative to that in the feed. Adaptive policies reach the recorded enrichment maximum by 16 to 24 wells (individual experiments), versus 48. Our two-stage reconstruction ties two adaptive alternatives at 16 wells. Conditional analyses of recycled samarium-cobalt (SmCo) magnets show a Round 2 tradeoff between purity and nominal yield, the recovery fraction calculated from an assumed starting amount - NdFeB Round 1 routes differ in enrichment. Rankings for produced water from oil and gas extraction depend on phase and dilution assumptions requiring confirmation.\n  We propose choosing batches by their expected reduction in downstream Bayes risk: the minimum expected loss among available process decisions under current beliefs. In exploratory simulations, a hybrid that filters candidates has lower estimated loss than the implemented joint search across routes and conditions. Differences involving the synthetic two-stage policy are small relative to estimation uncertainty. We outline a pre-registered prospective test under a shared loss and logging standard, requiring clarified measurements and records, a defined process decision and relevant outputs, credible economic inputs, and validation at the intended scale.",
+      "published_at": "Fri, 11 Sep 2026 00:00:00 -0400",
+      "author": "Niranjan Srinivas, Debajyoti Ray, Elias Nakouzi"
+    },
+    {
+      "title": "Valerant: An Automatic Navigable Game Map Generator via Action-Conditioned World Model Exploration",
+      "source": "rss",
+      "source_url": "https://arxiv.org/abs/2609.09418",
+      "description": "arXiv:2609.09418v1 Announce Type: new \nAbstract: World Action Models (WAMs) couple predictive world modeling with action generation, allowing anticipated future states to guide agent behavior. Although WAMs are rapidly advancing embodied AI, general-purpose counterparts remain largely unexplored in games. Existing game-oriented approaches often combine action-conditioned world models with external policies and reward functions to realize WAM-like decision-making, yet they operate mainly in 2D visual observation space and do not instantiate persistent 3D geometry. Extending this paradigm to 3D games introduces a distinct challenge. In autonomous driving and robotics, the physical environment exists independently of the model, providing a persistent 3D world in which selected actions can be executed. Games have no such external substrate; the virtual world itself must be instantiated. Most playable games require a persistent and navigable space, while 3D games additionally require explicit geometry that supports movement and interaction. Action-conditioned video rollouts provide visual observations but not this spatial representation. We present \\textsc{Valerant}, a training-free framework that transforms a pretrained action-conditioned world model into a WAM for exploring and constructing 3D game maps. By coupling predictive visual rollouts with SLAM-based spatial reconstruction and exploration-driven action selection, \\textsc{Valerant} progressively transforms a single image into a persistent 3D game map. This framework extends WAM-based interaction beyond 2D visual simulation and offers a new approach to reducing manual effort in 3D game-map creation.",
+      "published_at": "Fri, 11 Sep 2026 00:00:00 -0400",
+      "author": "Yiran Qiao, Feng Wang, Jing Ma"
+    },
+    {
+      "title": "XAI-Arena: Can LLMs Assess the Quality of XAI Explanations?",
+      "source": "rss",
+      "source_url": "https://arxiv.org/abs/2609.09428",
+      "description": "arXiv:2609.09428v1 Announce Type: new \nAbstract: Evaluating the quality of explanations produced by explainable AI (XAI) methods remains challenging because existing approaches often rely on subjective human judgment, limiting reproducibility, scalability, and comparability between studies. We examine whether LLMs can serve as a reproducible and scalable mechanism to make comparative assessments of the quality of XAI explanations. We introduce XAI-Arena, an LLM-as-a-judge framework for scalable, reproducible, multidimensional, and stakeholder-sensitive evaluation of XAI explanation quality. XAI-Arena then allows us to compare XAI explanations along various dimensions, namely, perceived simplicity, clarity, task adequacy, trust calibration, actionability, transparency, faithfulness, and overall interpretability. We then benchmark XAI explanation methods across various datasets, machine learning models, and stakeholder personas. Human validation shows a strong positive association between LLM-generated and human ratings (Spearman's rho=.693, p<.001). Together, LLM-based evaluations can capture systematic differences in XAI explanation quality and provide a scalable and reproducible framework for comparative assessment of XAI explanations.",
+      "published_at": "Fri, 11 Sep 2026 00:00:00 -0400",
+      "author": "Yanfei Hu Fleischhauer, Alona Zharova, Nadja Klein, Stefan Feuerriegel"
+    },
+    {
+      "title": "Do Agents Know When They Succeed? Calibrating Agent Confidence from Internal Representations",
+      "source": "rss",
+      "source_url": "https://arxiv.org/abs/2609.09448",
+      "description": "arXiv:2609.09448v1 Announce Type: new \nAbstract: As agentic systems getting adopted rapidly in safety critical applications, it is vital to measure the confidence associated with the agentic actions. In comparison to the traditional machine learning systems, agentic workflows have complex failure modes with planning, tool invocation and dynamic environment interactions. In this paper, we investigate whether model's internal representations provide stronger signals of eventual task success in multi-turn agentic setups. We introduce two complementary methods: Latent Trajectory Dynamics (LTD), which summarizes changes in residual-stream representations across an an interaction trajectory, and the Action Representation Probe (ARP), which predicts success from representations formed at action decisions. Across three interactive benchmarks (Bash, SQL, Python) and three model families (Qwen14B, Qwen7B, DeepSeek6.7B), our methods consistently outperform surface level generation and sequence-based calibration baselines providing a zero-overhead reliability monitor that requires neither prompt alterations nor multi-sample rollouts.",
+      "published_at": "Fri, 11 Sep 2026 00:00:00 -0400",
+      "author": "Priyanka Mary Mammen, Emil Joswin, Srujananjali Medicherla"
+    },
+    {
+      "title": "ContractEval: Query-Conditioned Execution Matching for Procedural Instruction Conformance",
+      "source": "rss",
+      "source_url": "https://arxiv.org/abs/2609.09458",
+      "description": "arXiv:2609.09458v1 Announce Type: new \nAbstract: As LLM agents move from answering questions to carrying out procedures, failures can be unwarranted rather than visibly wrong: the final response looks acceptable even though the system skipped the check, branch, dependency, or invariant that made the answer justified. Output-only evaluation sees the answer, and trace-aware judging sees activity, but neither identifies which obligations were active for the query. We introduce CONTRACTEVAL, a diagnostic framework for making those active obligations explicit. It represents procedural instructions as query-active obligations and matches them against response or trace evidence, turning omissions, wrong branches, ordering errors, extra actions, invariant breaches, and output-contract violations into distinct conformance failures. On a controlled suite of audited procedural contracts, output-only and trace-aware LLM judges miss many injected structural failures; under gold expected and observed graphs, ContractEval detects and localizes all of them. LLM-backed extraction preserves much of this signal but remains calibration-sensitive. ContractEval is therefore not a compliance guarantee; it makes procedural conformance auditable rather than implicit in final-answer quality.",
+      "published_at": "Fri, 11 Sep 2026 00:00:00 -0400",
+      "author": "Praphul Singh, Shanu Kumar, Akshat Agarwal, Ganesh Kumar"
+    },
+    {
+      "title": "Multi-Agent Agentic Graph Learning via Structural Signatures",
+      "source": "rss",
+      "source_url": "https://arxiv.org/abs/2609.09565",
+      "description": "arXiv:2609.09565v1 Announce Type: new \nAbstract: Agentic graph learning (AGL) has recently achieved promising results on graph reasoning tasks, where an agent powered by a large language model (LLM) sequentially samples the graph as evidence to support its final prediction. Existing methods either employ a single agent or orchestrate multiple role-based agents to reason and learn over the entire graph, but both essentially rely on a shared reasoning policy across different graph regions, which can be suboptimal for graphs with heterogeneous structural and semantic patterns. Inspired by the progress of multi-agent collaboration on complex reasoning tasks, a natural remedy is to let multiple agents own different memory and collaborate; however, applying this paradigm to graphs directly faces two challenges. First, existing AGL methods typically verbalize graph structures into natural-language descriptions for LLM agents, making the reasoning process sensitive to the ordering of structural information and thereby breaking the permutation-invariant nature of graphs. Second, incorporating increasingly large sampled neighborhoods leads to rapidly growing contexts. To address these challenges, this paper introduces a multi-agent agentic graph learning (i.e., MAAGL) framework. MAAGL partitions the graph into communities and assigns an independent agent to each community for region-specific specialization. MAAGL represents structural and semantic evidence separately. Structural evidence is summarized by a dynamically updated structural signature that is permutation-invariant and fixed in size, while semantic evidence is filtered to the top-k nodes ranked by relevance. Based on historical trajectories with similar signatures, agents estimate their confidence and trigger debate-style collaboration when needed. Extensive experiments on four benchmark datasets show that MAAGL outperforms SOTA AGL methods.",
+      "published_at": "Fri, 11 Sep 2026 00:00:00 -0400",
+      "author": "Liang Qu, Jianxin Li, Hua Wang"
+    },
+    {
+      "title": "CityPlanner: A Sandbox Agent for Executable Urban Planning",
+      "source": "rss",
+      "source_url": "https://arxiv.org/abs/2609.09578",
+      "description": "arXiv:2609.09578v1 Announce Type: new \nAbstract: Urban planning is a real-world spatial optimization problem that requires selecting feasible actions from large candidate spaces under practical objectives such as cost and service quality. Existing optimization and reinforcement learning methods are effective for fixed formulations, but often depend on task-specific representations and constraint handling. We propose \\emph{CityPlanner}, a sandbox-agent framework for executable urban planning. CityPlanner introduces \\emph{UrbanSandbox}, a unified file-based environment where agents inspect task files, generate plans, run evaluators, and revise decisions based on executable feedback. To make learning tractable, we further propose atomic-task reinforcement learning, which decomposes long sandbox trajectories into \\emph{BuildPlan} for initial construction and \\emph{ImprovePlan} for feedback-based refinement. Experiments on a real-world benchmark show that CityPlanner consistently outperforms heuristic, task-specific RL, and general LLM-agent baselines. Ablations verify the contributions of UrbanSandbox, atomic-task RL, and iterative deployment. We release the code and dataset at https://anonymous.4open.science/r/co-agent-C1C8",
+      "published_at": "Fri, 11 Sep 2026 00:00:00 -0400",
+      "author": "Wentao Zhang, Jingyuan Wang, Zetong Zhou, Yifan Yang, Wenrui Wang"
+    },
+    {
+      "title": "A Function-Space Approach to the Statistical Mechanics of Learning Dynamics",
+      "source": "rss",
+      "source_url": "https://arxiv.org/abs/2609.09589",
+      "description": "arXiv:2609.09589v1 Announce Type: new \nAbstract: Deep neural networks exhibit regular macroscopic behavior despite highly nonlinear dynamics in vast parameter spaces. We develop a statistical-mechanical description of learning directly in function space, treating parameter configurations as microscopic realizations and functions with their dynamical operators as macroscopic variables. For mean-squared loss, the exact error dynamics are governed by the learning operator \\(M=JJ^\\ast\\). Combining the dynamical Boltzmann weight of the conditional stochastic dynamics with the parameter-space density of states, whose local curvature defines a statistical operator \\(B\\), and integrating over local fluctuations yields\n  $$ \\Phi_{\\mathrm{fluc}}(M;B)=\\frac{\\sigma_\\xi^2}{2}\\log\\det(M^{-1}+B)+\\mathrm{const}. $$\n  At fixed spectrum, this term is rotationally stationary when \\([M,B]=0\\), is minimized by pairing large eigenvalues of \\(M\\) with small eigenvalues of \\(B\\), and generates a local restoring contribution against rotational mismatch. For ReLU-type function spaces under mild stable statistical conditions, \\(B=\\sigma_\\xi^2L^\\ast\\mathcal K L\\), where \\(L\\) measures coarse-grained second-order structure. Thus the low-\\(B\\) sector corresponds, up to bounded anisotropy of \\(\\mathcal K\\), to low structural curvature, implying a preference for faster relaxation along smooth, data-adaptive directions. These results identify function space as a natural macroscopic level for studying stable collective organization in learning.",
+      "published_at": "Fri, 11 Sep 2026 00:00:00 -0400",
+      "author": "Yizhou Zhang, Weichen Wu, Lun Du, Zhengjie Miao"
+    },
+    {
+      "title": "From State Synchronization to Cognitive Self-Evolution: An Operational Architecture for Cognitive Digital Twins",
+      "source": "rss",
+      "source_url": "https://arxiv.org/abs/2609.09625",
+      "description": "arXiv:2609.09625v1 Announce Type: new \nAbstract: As Digital Twin (DT) systems evolve beyond state synchronization toward task-oriented and knowledge-driven operation, Cognitive Digital Twins (CDTs) have emerged as an extension that incorporates cognitive capabilities into twin operation. Existing CDT studies often focus on specific enabling techniques, such as learning modules, knowledge graphs, and large language models, while providing limited insight into how cognition can be systematically integrated into DT architectures. To address this issue, this paper proposes a four-layer CDT architecture consisting of the physical layer, digital-twin layer, cognitive layer, and task layer. The proposed architecture establishes a self-evolving closed operational loop spanning these four layers, in which physical states are synchronized into digital representations, cognition constructs task-specific cognitive models through knowledge, memory, and attention, and task-level decisions are generated under practical constraints. Operational feedback further refines cognitive experience and updates relationships and annotations in the digital representation, enabling subsequent task interpretation, initiation, and reasoning to evolve with system operation. Based on this framework, two representative operation modes are characterized: user-request-driven cognition and self-driven cognition. We further discuss key enabling mechanisms and deployment challenges associated with semantic communication, knowledge querying, task orchestration, and closed-loop synchronization. A lightweight simulation study illustrates reliable closed-loop task feasibility under limited semantic information and improved operational efficiency through accumulated task experience. The proposed framework provides a structured foundation for the design and development of future CDT systems.",
+      "published_at": "Fri, 11 Sep 2026 00:00:00 -0400",
+      "author": "Haoran Gao, An Li, Zhen Li, Jun Cai"
+    },
+    {
+      "title": "Seven Sources of Physical AI Capability Formation",
+      "source": "rss",
+      "source_url": "https://arxiv.org/abs/2609.09627",
+      "description": "arXiv:2609.09627v1 Announce Type: new \nAbstract: Capabilities relevant to Physical AI can arise from materially different formation histories, yet existing taxonomies organized by morphology, architecture, learning algorithm, task, or domain do not directly answer what gives rise to a capability. We define a capability-formation source as a factor materially contributing to capability formation, distinct from components or construction steps. We identify seven non-exclusive sources: Recorded-Experience (RE), Predictive-Modeling (PM), Evaluative-Interaction (EI), Surrogate-Environment (SE), Mechanism-Grounded (MG), Embodied-Coupling (EC), and Evolution-Driven (ED) Formation. Using reconstructive induction with theoretical saturation, we traced a research matrix to primary studies, deduplicated the literature, set coding rules, and conducted three rounds of maximum-difference and negative-case sampling. Challenges included curriculum and self-supervised learning, active inference, open-ended and developmental learning, planning and search, neuro-symbolic architectures, digital twins, generative physical world models, and morphology-control co-design. Within the scope and criteria fixed as of September 4, 2026, all 49 evidence records were explainable by the seven sources individually or in combination. No R1-R3 challenge produced an irreducible eighth source, and R3 required no new core definition or substantive boundary rule. We therefore claim theoretical saturation within the stated scope, not logical completeness or exhaustive future coverage. The framework distinguishes similarity in observed capability from similarity in how it was formed, supporting analysis of explanation, transfer, replication, dependencies, governance evidence, and geoeconomic foundations.",
+      "published_at": "Fri, 11 Sep 2026 00:00:00 -0400",
+      "author": "Gang Chen"
+    },
+    {
+      "title": "RobustSGPO: Search-Space Control for Agent Harness Evolution",
+      "source": "rss",
+      "source_url": "https://arxiv.org/abs/2609.09646",
+      "description": "arXiv:2609.09646v1 Announce Type: new \nAbstract: Semantic-gradient-based prompt optimization (SGPO) improves agent harnesses using execution feedback, but its local update rule leaves the choice of edit scope and operation unresolved. We introduce RobustSGPO, which specifies the requested edit, constructs and checks the patch, and continues search from either the incumbent or retained snapshots. We evaluate permission scheduling, cumulative controls, and task-family transfer in the AgentX brainstorming workflow using 120 tasks, 95 runs, and 7,350 candidate attempts. Periodic $1\\to2\\to3$ scheduling exceeds fixed maximum permission by 0.28 test-score points. RobustSGPO increases completion on 30 held-out tasks from 60.0% to 80.0% and improves test quality from 3.77 to 4.14 under a 20-million-token budget. Category retention reduces source-task degradation after a shift, whereas random retention reaches a higher destination endpoint. Search-space control benefits quality through executable edits and alternative starting points, with measurable retention overhead.",
+      "published_at": "Fri, 11 Sep 2026 00:00:00 -0400",
+      "author": "Zibo Zhao, Jijun Shi, Mo Zhou, Zhongyuan Wang, Shifu Bie, Yunfei Zhang, Xuanting Zhou, Xiangyu Wu, Bin Liu, Ruiming Tang, Wenwu Ou, Kun Gai"
+    },
+    {
+      "title": "Black-Box Red Teaming of Agentic AI: A Taxonomy-Driven Framework for Automated Risk Discovery",
+      "source": "rss",
+      "source_url": "https://arxiv.org/abs/2609.09647",
+      "description": "arXiv:2609.09647v1 Announce Type: new \nAbstract: Agentic systems are rapidly moving to production, where they read untrusted inputs, call tools with real permissions, and act autonomously, expanding the security surface beyond chat-only models. Yet standard evaluations remain single-turn and fail to capture multi-step agent vulnerabilities. We present a systematic black-box framework for risk-aware agent evaluation requiring only basic system descriptions. Our approach introduces: (1) a seven-domain taxonomy mapping observable behaviors to risk categories, (2) fully automated SAGE-RT red teaming producing 120 adversarial scenarios per domain, and (3) human-validated evaluation using LLM judges. Empirical validation across two agent architectures (CrewAI and AutoGen) with four base models reveals alarming patterns: 56.25\\% average governance risk, 65\\% privacy risk in multi-agent configurations, and agent behavior vulnerabilities reaching 85\\%. Our black-box approach effectively identifies critical architectural vulnerabilities without privileged access, providing a scalable path toward safer agent deployments.",
+      "published_at": "Fri, 11 Sep 2026 00:00:00 -0400",
+      "author": "Divyanshu Kumar, Nitin Aravind Birur, Tanay Baswa, Sahil Agarwal, Prashanth Harshangi"
+    }
+  ]
+}

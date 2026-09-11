@@ -1,0 +1,33 @@
+{
+  "id": "rss-20260911-026",
+  "title": "The Menu Is an Execution Prior: State-Path Tool Menus for Online Agents",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2609.09395",
+  "summary": "提出状态路径工具菜单作为执行先验，优化在线智能体工具排序，ToolBench成功率从0.737提升至0.898。",
+  "highlights": [
+    "将工具菜单视为执行先验，覆盖最终动作及前置生产者工具",
+    "在ToolBench上将在线成功率从0.737提升至0.898",
+    "32个工具菜单覆盖链优于官方128工具列表，跨模型容量稳定"
+  ],
+  "tags": [
+    "tool menu",
+    "state path",
+    "execution prior",
+    "llm agents",
+    "tool selection",
+    "toolbench",
+    "online agents"
+  ],
+  "relevance_score": 10,
+  "score_reason": "直接涉及LLM智能体工具调用与执行优化",
+  "author": "Bo Yan, Weikai Lin, Song Wang",
+  "published_at": "Fri, 11 Sep 2026 00:00:00 -0400",
+  "fetched_at": "2026-09-11T12:41:17.480550+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "the-menu-is-an-execution-prior-state-path-tool-menus-for-online-agents"
+}

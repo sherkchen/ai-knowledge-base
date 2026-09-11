@@ -1,0 +1,34 @@
+{
+  "id": "github-20260911-004",
+  "title": "ruankie/ecrivai",
+  "source": "github_trending",
+  "source_url": "https://github.com/ruankie/ecrivai",
+  "summary": "Ecrivai是一款全自动AI博客写作工具，基于LangChain与GPT类LLM完成选题和内容生成。",
+  "highlights": [
+    "基于LangChain与GPT/Gemini等LLM自动选题和生成内容",
+    "全自动博客引擎，支持自动化内容生成流程",
+    "GitHub项目获81星，使用Jupyter Notebook实现"
+  ],
+  "tags": [
+    "ai-blogger",
+    "langchain",
+    "gpt",
+    "automation",
+    "blog-engine",
+    "content-generation",
+    "llm",
+    "gemini"
+  ],
+  "relevance_score": 9,
+  "score_reason": "直接应用LangChain与GPT/Gemini实现自动化内容生成",
+  "author": "ruankie",
+  "published_at": "2023-01-28T11:14:50Z",
+  "fetched_at": "2026-09-11T12:41:17.480389+00:00",
+  "status": "draft",
+  "category": "tool",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "ruankie-ecrivai"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "rss-20260911-029",
+  "title": "XAI-Arena: Can LLMs Assess the Quality of XAI Explanations?",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2609.09428",
+  "summary": "论文提出XAI-Arena框架，用LLM作为评判者评估可解释AI解释质量，并验证与人类评分高度相关。",
+  "highlights": [
+    "提出XAI-Arena：以LLM作为评判者评估XAI解释质量",
+    "从简单性、清晰度、忠实度等八个维度比较解释方法",
+    "人类验证Spearman相关系数达0.693，表明LLM评估可靠可扩展"
+  ],
+  "tags": [
+    "llm-as-a-judge",
+    "xai",
+    "explainability",
+    "evaluation",
+    "benchmark",
+    "interpretability",
+    "human-validation",
+    "arxiv"
+  ],
+  "relevance_score": 9,
+  "score_reason": "LLM评估XAI解释质量，直接涉及LLM应用与评测",
+  "author": "Yanfei Hu Fleischhauer, Alona Zharova, Nadja Klein, Stefan Feuerriegel",
+  "published_at": "Fri, 11 Sep 2026 00:00:00 -0400",
+  "fetched_at": "2026-09-11T12:41:17.480571+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "xai-arena-can-llms-assess-the-quality-of-xai-explanations"
+}

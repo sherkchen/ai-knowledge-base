@@ -1,0 +1,33 @@
+{
+  "id": "rss-20260911-028",
+  "title": "Valerant: An Automatic Navigable Game Map Generator via Action-Conditioned World Model Exploration",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2609.09418",
+  "summary": "Valerant框架将预训练动作条件世界模型与SLAM结合，从单图自动生成可导航3D游戏地图。",
+  "highlights": [
+    "提出无需训练的Valerant框架，将世界模型转化为3D地图生成WAM",
+    "结合预测视觉rollout与SLAM空间重建，从单图构建持久3D几何",
+    "扩展WAM应用至3D游戏，减少手动地图制作工作"
+  ],
+  "tags": [
+    "world action models",
+    "action-conditioned world model",
+    "slam",
+    "3d game map generation",
+    "embodied ai",
+    "exploration",
+    "3d reconstruction"
+  ],
+  "relevance_score": 9,
+  "score_reason": "世界模型与智能体探索生成3D地图，高度相关",
+  "author": "Yiran Qiao, Feng Wang, Jing Ma",
+  "published_at": "Fri, 11 Sep 2026 00:00:00 -0400",
+  "fetched_at": "2026-09-11T12:41:17.480563+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "valerant-an-automatic-navigable-game-map-generator-via-action-conditioned-world-model-exploration"
+}

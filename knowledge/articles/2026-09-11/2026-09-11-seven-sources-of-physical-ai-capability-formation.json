@@ -1,0 +1,33 @@
+{
+  "id": "rss-20260911-036",
+  "title": "Seven Sources of Physical AI Capability Formation",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2609.09627",
+  "summary": "论文识别物理AI能力形成的七个来源：经验、预测建模、评估交互、代理环境、机制接地、具身耦合、进化驱动，基于49条证据达到理论饱和。",
+  "highlights": [
+    "提出物理AI能力形成的七源框架，区别于形态、架构或任务分类",
+    "基于49条证据记录和三轮最大差异与负案例采样达到理论饱和",
+    "框架支持解释、迁移、复制、治理证据与地缘经济基础分析"
+  ],
+  "tags": [
+    "physical ai",
+    "capability formation",
+    "taxonomy",
+    "robotics",
+    "embodied ai",
+    "theoretical saturation",
+    "learning algorithms"
+  ],
+  "relevance_score": 8,
+  "score_reason": "物理AI能力形成机制涉及学习与具身智能，但非直接LLM/Agent",
+  "author": "Gang Chen",
+  "published_at": "Fri, 11 Sep 2026 00:00:00 -0400",
+  "fetched_at": "2026-09-11T12:41:17.480612+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "seven-sources-of-physical-ai-capability-formation"
+}

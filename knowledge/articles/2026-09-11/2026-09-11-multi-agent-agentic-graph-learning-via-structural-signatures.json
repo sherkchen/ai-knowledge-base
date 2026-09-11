@@ -1,0 +1,34 @@
+{
+  "id": "rss-20260911-032",
+  "title": "Multi-Agent Agentic Graph Learning via Structural Signatures",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2609.09565",
+  "summary": "提出MAAGL框架，将图划分为社区并分配多智能体，用置换不变的结构签名和语义过滤，结合辩论式协作提升图推理性能。",
+  "highlights": [
+    "提出多智能体图学习框架MAAGL，为每个社区分配独立智能体实现区域专精。",
+    "采用置换不变且固定大小的结构签名总结结构证据，并对语义证据进行top-k相关性过滤。",
+    "基于相似历史轨迹估计置信度，在需要时触发辩论式多智能体协作，多个基准超越现有方法。"
+  ],
+  "tags": [
+    "multi-agent",
+    "graph learning",
+    "llm",
+    "agentic graph learning",
+    "structural signatures",
+    "arxiv",
+    "graph reasoning",
+    "collaboration"
+  ],
+  "relevance_score": 10,
+  "score_reason": "直接涉及LLM多智能体协作与图推理，属于AI/Agent核心方向。",
+  "author": "Liang Qu, Jianxin Li, Hua Wang",
+  "published_at": "Fri, 11 Sep 2026 00:00:00 -0400",
+  "fetched_at": "2026-09-11T12:41:17.480589+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "multi-agent-agentic-graph-learning-via-structural-signatures"
+}

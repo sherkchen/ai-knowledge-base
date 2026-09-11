@@ -1,0 +1,34 @@
+{
+  "id": "rss-20260911-024",
+  "title": "Gradland: On Phenomenal Experience, Differentiated Across Many Dimensions",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2609.09306",
+  "summary": "论文提出梯度/Jacobian结构表征现象体验，引入有效秩和凝聚力度量，在Gradland神经网络世界解释体验时长、纹理与学习等",
+  "highlights": [
+    "提出Jacobian结构的有效秩和凝聚力度量",
+    "在理想化的Gradland神经网络世界中验证假设",
+    "解释体验时长、模糊与鲜明、纹理、学习等现象"
+  ],
+  "tags": [
+    "neural-networks",
+    "consciousness",
+    "jacobian",
+    "gradients",
+    "phenomenology",
+    "arxiv",
+    "differentiable",
+    "learning"
+  ],
+  "relevance_score": 7,
+  "score_reason": "涉及神经网络与学习，但偏哲学意识研究",
+  "author": "David Balduzzi",
+  "published_at": "Fri, 11 Sep 2026 00:00:00 -0400",
+  "fetched_at": "2026-09-11T12:41:17.480536+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "gradland-on-phenomenal-experience-differentiated-across-many-dimensions"
+}

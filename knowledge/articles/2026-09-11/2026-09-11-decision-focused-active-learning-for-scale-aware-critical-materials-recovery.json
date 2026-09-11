@@ -1,0 +1,34 @@
+{
+  "id": "rss-20260911-027",
+  "title": "Decision-Focused Active Learning for Scale-Aware Critical-Materials Recovery",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2609.09413",
+  "summary": "论文研究决策聚焦主动学习用于关键材料回收放大，通过贝叶斯风险选择实验，减少实验次数并规划前瞻测试。",
+  "highlights": [
+    "主动学习策略在NdFeB磁铁回收基准中比空间填充方法用更少实验找到最佳富集结果",
+    "提出按下游贝叶斯风险期望降低选择批次，混合过滤候选策略损失更低",
+    "概述预注册前瞻测试，需明确测量、经济输入和规模验证"
+  ],
+  "tags": [
+    "active learning",
+    "bayesian risk",
+    "materials recovery",
+    "autonomous experimentation",
+    "decision-focused",
+    "critical minerals",
+    "scale-up",
+    "arxiv"
+  ],
+  "relevance_score": 8,
+  "score_reason": "涉及主动学习与贝叶斯决策核心方法，材料领域应用，相关度高",
+  "author": "Niranjan Srinivas, Debajyoti Ray, Elias Nakouzi",
+  "published_at": "Fri, 11 Sep 2026 00:00:00 -0400",
+  "fetched_at": "2026-09-11T12:41:17.480557+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "decision-focused-active-learning-for-scale-aware-critical-materials-recovery"
+}

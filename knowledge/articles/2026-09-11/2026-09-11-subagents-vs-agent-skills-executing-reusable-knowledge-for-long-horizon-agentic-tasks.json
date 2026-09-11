@@ -1,0 +1,34 @@
+{
+  "id": "rss-20260911-023",
+  "title": "Subagents vs Agent Skills: Executing Reusable Knowledge for Long-Horizon Agentic Tasks",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2609.09233",
+  "summary": "论文比较子代理与技能调用在长时程智能体任务中复用知识的效果，发现子代理在清晰输入输出契约下表现更优但增加通信开销。",
+  "highlights": [
+    "研究智能体如何利用可复用技能库解决长时程任务。",
+    "子代理执行通过独立上下文避免主上下文信息过载，优于技能指令加载。",
+    "复用知识效果取决于组织与调用方式，需权衡通信开销。"
+  ],
+  "tags": [
+    "llm agents",
+    "subagents",
+    "agent skills",
+    "long-horizon tasks",
+    "reusable knowledge",
+    "context window",
+    "multi-agent",
+    "arxiv"
+  ],
+  "relevance_score": 10,
+  "score_reason": "直接研究LLM智能体架构与技能复用，高度相关",
+  "author": "Wasu Top Piriyakulkij, Rachel Lawrence, Alicia Curth, Sushrut Karmalkar, Niranjani Prasad",
+  "published_at": "Fri, 11 Sep 2026 00:00:00 -0400",
+  "fetched_at": "2026-09-11T12:41:17.480529+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "subagents-vs-agent-skills-executing-reusable-knowledge-for-long-horizon-agentic-tasks"
+}

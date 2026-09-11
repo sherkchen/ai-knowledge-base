@@ -1,0 +1,33 @@
+{
+  "id": "rss-20260911-031",
+  "title": "ContractEval: Query-Conditioned Execution Matching for Procedural Instruction Conformance",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2609.09458",
+  "summary": "提出ContractEval框架，将程序指令显式为查询活跃义务，并匹配响应或轨迹证据，检测LLM代理程序符合性失败。",
+  "highlights": [
+    "将程序指令表示为查询活跃义务，使省略、错误分支、顺序错误等成为明确失败类型",
+    "对比仅看输出或轨迹的评估，ContractEval能检测并定位所有注入的结构性失败",
+    "LLM支持的义务提取保留大部分信号但仍需校准，框架使程序符合性可审计"
+  ],
+  "tags": [
+    "llm agents",
+    "evaluation",
+    "conformance",
+    "procedural instructions",
+    "contracts",
+    "traces",
+    "framework"
+  ],
+  "relevance_score": 9,
+  "score_reason": "直接针对LLM代理执行程序指令的符合性评估，核心相关",
+  "author": "Praphul Singh, Shanu Kumar, Akshat Agarwal, Ganesh Kumar",
+  "published_at": "Fri, 11 Sep 2026 00:00:00 -0400",
+  "fetched_at": "2026-09-11T12:41:17.480584+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "contracteval-query-conditioned-execution-matching-for-procedural-instruction-conformance"
+}

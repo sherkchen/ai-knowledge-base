@@ -1,0 +1,34 @@
+{
+  "id": "rss-20260911-030",
+  "title": "Do Agents Know When They Succeed? Calibrating Agent Confidence from Internal Representations",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2609.09448",
+  "summary": "研究利用模型内部表征校准智能体多轮任务成功置信度，提出LTD与ARP方法，在多个基准上优于基线。",
+  "highlights": [
+    "提出LTD总结残差流表征变化用于轨迹成功信号",
+    "ARP从动作决策表征预测任务成功",
+    "在Bash、SQL、Python基准及三个模型家族上优于表面生成与序列校准基线"
+  ],
+  "tags": [
+    "agents",
+    "confidence calibration",
+    "internal representations",
+    "residual stream",
+    "trajectory dynamics",
+    "action representation probe",
+    "llm",
+    "reliability"
+  ],
+  "relevance_score": 10,
+  "score_reason": "直接研究智能体可靠性校准与内部表征，高度相关",
+  "author": "Priyanka Mary Mammen, Emil Joswin, Srujananjali Medicherla",
+  "published_at": "Fri, 11 Sep 2026 00:00:00 -0400",
+  "fetched_at": "2026-09-11T12:41:17.480577+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "do-agents-know-when-they-succeed-calibrating-agent-confidence-from-internal-representations"
+}

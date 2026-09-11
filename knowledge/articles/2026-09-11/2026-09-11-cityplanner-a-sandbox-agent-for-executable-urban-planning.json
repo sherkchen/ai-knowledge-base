@@ -1,0 +1,33 @@
+{
+  "id": "rss-20260911-033",
+  "title": "CityPlanner: A Sandbox Agent for Executable Urban Planning",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2609.09578",
+  "summary": "提出CityPlanner沙盒智能体框架，通过UrbanSandbox环境和原子任务强化学习实现可执行城市规划，性能优于启发式和LLM智能体基线。",
+  "highlights": [
+    "提出UrbanSandbox统一文件环境，智能体可检查任务、生成计划并基于可执行反馈修订。",
+    "采用原子任务强化学习，将轨迹分解为BuildPlan和ImprovePlan提升可学习性。",
+    "在真实基准上超越启发式、专用RL和通用LLM智能体基线，并开源代码与数据。"
+  ],
+  "tags": [
+    "agent",
+    "reinforcement learning",
+    "sandbox",
+    "urban planning",
+    "llm",
+    "executable feedback",
+    "framework"
+  ],
+  "relevance_score": 9,
+  "score_reason": "核心涉及沙盒智能体、LLM智能体基线与强化学习，AI相关性高。",
+  "author": "Wentao Zhang, Jingyuan Wang, Zetong Zhou, Yifan Yang, Wenrui Wang",
+  "published_at": "Fri, 11 Sep 2026 00:00:00 -0400",
+  "fetched_at": "2026-09-11T12:41:17.480594+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "cityplanner-a-sandbox-agent-for-executable-urban-planning"
+}

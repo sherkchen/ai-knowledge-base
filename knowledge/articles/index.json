@@ -928,6 +928,105 @@
       "fetched_at": "2026-09-04T12:34:44.764686+00:00"
     },
     {
+      "id": "github-20260911-002",
+      "title": "shibing624/ai-paper-analysis",
+      "category": "research",
+      "slug": "shibing624-ai-paper-analysis",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-09-11T12:41:17.480373+00:00"
+    },
+    {
+      "id": "github-20260911-007",
+      "title": "rokbenko/crew-news",
+      "category": "tool",
+      "slug": "rokbenko-crew-news",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-09-11T12:41:17.480426+00:00"
+    },
+    {
+      "id": "github-20260911-012",
+      "title": "ankitsharma-tech/Polyagent-Research-Intelligence",
+      "category": "tool",
+      "slug": "ankitsharma-tech-polyagent-research-intelligence",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-09-11T12:41:17.480467+00:00"
+    },
+    {
+      "id": "github-20260911-016",
+      "title": "billy-enrizky/crewai-research-assistant",
+      "category": "tool",
+      "slug": "billy-enrizky-crewai-research-assistant",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-09-11T12:41:17.480488+00:00"
+    },
+    {
+      "id": "rss-20260911-021",
+      "title": "OpenDiscoveryTrace: Process Traces for Evaluating AI Scientist Workflows",
+      "category": "paper",
+      "slug": "opendiscoverytrace-process-traces-for-evaluating-ai-scientist-workflows",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-09-11T12:41:17.480518+00:00"
+    },
+    {
+      "id": "rss-20260911-022",
+      "title": "Adaptive Entangled Game Modules in Artificial General Intelligence",
+      "category": "paper",
+      "slug": "adaptive-entangled-game-modules-in-artificial-general-intelligence",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-09-11T12:41:17.480524+00:00"
+    },
+    {
+      "id": "rss-20260911-023",
+      "title": "Subagents vs Agent Skills: Executing Reusable Knowledge for Long-Horizon Agentic Tasks",
+      "category": "paper",
+      "slug": "subagents-vs-agent-skills-executing-reusable-knowledge-for-long-horizon-agentic-tasks",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-09-11T12:41:17.480529+00:00"
+    },
+    {
+      "id": "rss-20260911-026",
+      "title": "The Menu Is an Execution Prior: State-Path Tool Menus for Online Agents",
+      "category": "paper",
+      "slug": "the-menu-is-an-execution-prior-state-path-tool-menus-for-online-agents",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-09-11T12:41:17.480550+00:00"
+    },
+    {
+      "id": "rss-20260911-030",
+      "title": "Do Agents Know When They Succeed? Calibrating Agent Confidence from Internal Representations",
+      "category": "paper",
+      "slug": "do-agents-know-when-they-succeed-calibrating-agent-confidence-from-internal-representations",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-09-11T12:41:17.480577+00:00"
+    },
+    {
+      "id": "rss-20260911-032",
+      "title": "Multi-Agent Agentic Graph Learning via Structural Signatures",
+      "category": "paper",
+      "slug": "multi-agent-agentic-graph-learning-via-structural-signatures",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-09-11T12:41:17.480589+00:00"
+    },
+    {
+      "id": "rss-20260911-037",
+      "title": "RobustSGPO: Search-Space Control for Agent Harness Evolution",
+      "category": "paper",
+      "slug": "robustsgpo-search-space-control-for-agent-harness-evolution",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-09-11T12:41:17.480617+00:00"
+    },
+    {
       "id": "github-20260616-001",
       "title": "nitefood/ai-bash",
       "category": "tool",
@@ -2350,6 +2449,168 @@
       "fetched_at": "2026-09-04T12:34:44.764796+00:00"
     },
     {
+      "id": "github-20260911-001",
+      "title": "tianlinxu312/Everything-about-LLMs",
+      "category": "other",
+      "slug": "tianlinxu312-everything-about-llms",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-09-11T12:41:17.479486+00:00"
+    },
+    {
+      "id": "github-20260911-003",
+      "title": "nitefood/ai-bash",
+      "category": "tool",
+      "slug": "nitefood-ai-bash",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-09-11T12:41:17.480383+00:00"
+    },
+    {
+      "id": "github-20260911-004",
+      "title": "ruankie/ecrivai",
+      "category": "tool",
+      "slug": "ruankie-ecrivai",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-09-11T12:41:17.480389+00:00"
+    },
+    {
+      "id": "github-20260911-005",
+      "title": "Md-Emon-Hasan/MediGenius",
+      "category": "framework",
+      "slug": "md-emon-hasan-medigenius",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-09-11T12:41:17.480409+00:00"
+    },
+    {
+      "id": "github-20260911-009",
+      "title": "kael-bit/engram-rs",
+      "category": "tool",
+      "slug": "kael-bit-engram-rs",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-09-11T12:41:17.480446+00:00"
+    },
+    {
+      "id": "github-20260911-010",
+      "title": "mchittineni/ultimate-ai-engineering-guide",
+      "category": "other",
+      "slug": "mchittineni-ultimate-ai-engineering-guide",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-09-11T12:41:17.480454+00:00"
+    },
+    {
+      "id": "github-20260911-013",
+      "title": "BjornMelin/polyagent-research-intelligence",
+      "category": "tool",
+      "slug": "bjornmelin-polyagent-research-intelligence",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-09-11T12:41:17.480473+00:00"
+    },
+    {
+      "id": "github-20260911-014",
+      "title": "rasmurtech/DeepSeekDeepResearch",
+      "category": "tool",
+      "slug": "rasmurtech-deepseekdeepresearch",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-09-11T12:41:17.480478+00:00"
+    },
+    {
+      "id": "github-20260911-017",
+      "title": "richer-richard/socratic-council",
+      "category": "tool",
+      "slug": "richer-richard-socratic-council",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-09-11T12:41:17.480494+00:00"
+    },
+    {
+      "id": "github-20260911-018",
+      "title": "crabfeather/PaperLens-AI",
+      "category": "tool",
+      "slug": "crabfeather-paperlens-ai",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-09-11T12:41:17.480499+00:00"
+    },
+    {
+      "id": "rss-20260911-020",
+      "title": "Detecting and countering misuse of AI: September 2026",
+      "category": "research",
+      "slug": "detecting-and-countering-misuse-of-ai-september-2026",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-09-11T12:41:17.480511+00:00"
+    },
+    {
+      "id": "rss-20260911-025",
+      "title": "An Autonomous GeoAI Agent for Arctic Eco-Navigation",
+      "category": "paper",
+      "slug": "an-autonomous-geoai-agent-for-arctic-eco-navigation",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-09-11T12:41:17.480543+00:00"
+    },
+    {
+      "id": "rss-20260911-028",
+      "title": "Valerant: An Automatic Navigable Game Map Generator via Action-Conditioned World Model Exploration",
+      "category": "paper",
+      "slug": "valerant-an-automatic-navigable-game-map-generator-via-action-conditioned-world-model-exploration",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-09-11T12:41:17.480563+00:00"
+    },
+    {
+      "id": "rss-20260911-029",
+      "title": "XAI-Arena: Can LLMs Assess the Quality of XAI Explanations?",
+      "category": "paper",
+      "slug": "xai-arena-can-llms-assess-the-quality-of-xai-explanations",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-09-11T12:41:17.480571+00:00"
+    },
+    {
+      "id": "rss-20260911-031",
+      "title": "ContractEval: Query-Conditioned Execution Matching for Procedural Instruction Conformance",
+      "category": "paper",
+      "slug": "contracteval-query-conditioned-execution-matching-for-procedural-instruction-conformance",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-09-11T12:41:17.480584+00:00"
+    },
+    {
+      "id": "rss-20260911-033",
+      "title": "CityPlanner: A Sandbox Agent for Executable Urban Planning",
+      "category": "paper",
+      "slug": "cityplanner-a-sandbox-agent-for-executable-urban-planning",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-09-11T12:41:17.480594+00:00"
+    },
+    {
+      "id": "rss-20260911-034",
+      "title": "A Function-Space Approach to the Statistical Mechanics of Learning Dynamics",
+      "category": "paper",
+      "slug": "a-function-space-approach-to-the-statistical-mechanics-of-learning-dynamics",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-09-11T12:41:17.480600+00:00"
+    },
+    {
+      "id": "rss-20260911-038",
+      "title": "Black-Box Red Teaming of Agentic AI: A Taxonomy-Driven Framework for Automated Risk Discovery",
+      "category": "paper",
+      "slug": "black-box-red-teaming-of-agentic-ai-a-taxonomy-driven-framework-for-automated-risk-discovery",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-09-11T12:41:17.480622+00:00"
+    },
+    {
       "id": "github-20260616-009",
       "title": "SukritiC/ai-mastery-hub",
       "category": "other",
@@ -2692,6 +2953,51 @@
       "fetched_at": "2026-09-04T12:34:44.764786+00:00"
     },
     {
+      "id": "github-20260911-008",
+      "title": "MADEVAL/AngleCraft",
+      "category": "tool",
+      "slug": "madeval-anglecraft",
+      "relevance_score": 8,
+      "status": "draft",
+      "fetched_at": "2026-09-11T12:41:17.480436+00:00"
+    },
+    {
+      "id": "github-20260911-011",
+      "title": "akshaymittal143/CloudyBot-DevOps-AI",
+      "category": "tool",
+      "slug": "akshaymittal143-cloudybot-devops-ai",
+      "relevance_score": 8,
+      "status": "draft",
+      "fetched_at": "2026-09-11T12:41:17.480462+00:00"
+    },
+    {
+      "id": "rss-20260911-019",
+      "title": "The Waymo effect: how AI is quietly making research less collaborative",
+      "category": "news",
+      "slug": "the-waymo-effect-how-ai-is-quietly-making-research-less-collaborative",
+      "relevance_score": 8,
+      "status": "draft",
+      "fetched_at": "2026-09-11T12:41:17.480503+00:00"
+    },
+    {
+      "id": "rss-20260911-027",
+      "title": "Decision-Focused Active Learning for Scale-Aware Critical-Materials Recovery",
+      "category": "paper",
+      "slug": "decision-focused-active-learning-for-scale-aware-critical-materials-recovery",
+      "relevance_score": 8,
+      "status": "draft",
+      "fetched_at": "2026-09-11T12:41:17.480557+00:00"
+    },
+    {
+      "id": "rss-20260911-036",
+      "title": "Seven Sources of Physical AI Capability Formation",
+      "category": "paper",
+      "slug": "seven-sources-of-physical-ai-capability-formation",
+      "relevance_score": 8,
+      "status": "draft",
+      "fetched_at": "2026-09-11T12:41:17.480612+00:00"
+    },
+    {
       "id": "rss-20260616-023",
       "title": "Hyperdimensional computing for structured querying on tabular data embeddings",
       "category": "paper",
@@ -2782,6 +3088,42 @@
       "fetched_at": "2026-09-04T12:34:44.764634+00:00"
     },
     {
+      "id": "github-20260911-006",
+      "title": "SpreadSheets600/TidyTabs",
+      "category": "tool",
+      "slug": "spreadsheets600-tidytabs",
+      "relevance_score": 7,
+      "status": "draft",
+      "fetched_at": "2026-09-11T12:41:17.480416+00:00"
+    },
+    {
+      "id": "github-20260911-015",
+      "title": "JacKaL37/TheHardProblem",
+      "category": "research",
+      "slug": "jackal37-thehardproblem",
+      "relevance_score": 7,
+      "status": "draft",
+      "fetched_at": "2026-09-11T12:41:17.480483+00:00"
+    },
+    {
+      "id": "rss-20260911-024",
+      "title": "Gradland: On Phenomenal Experience, Differentiated Across Many Dimensions",
+      "category": "paper",
+      "slug": "gradland-on-phenomenal-experience-differentiated-across-many-dimensions",
+      "relevance_score": 7,
+      "status": "draft",
+      "fetched_at": "2026-09-11T12:41:17.480536+00:00"
+    },
+    {
+      "id": "rss-20260911-035",
+      "title": "From State Synchronization to Cognitive Self-Evolution: An Operational Architecture for Cognitive Digital Twins",
+      "category": "paper",
+      "slug": "from-state-synchronization-to-cognitive-self-evolution-an-operational-architecture-for-cognitive-digital-twins",
+      "relevance_score": 7,
+      "status": "draft",
+      "fetched_at": "2026-09-11T12:41:17.480606+00:00"
+    },
+    {
       "id": "rss-20260703-016",
       "title": "Liva AI (YC S25) Is Hiring",
       "category": "other",
@@ -2827,6 +3169,6 @@
       "fetched_at": "2026-06-26T10:55:22.327694+00:00"
     }
   ],
-  "total_count": 314,
-  "updated_at": "2026-09-04T12:34:44.773414+00:00"
+  "total_count": 352,
+  "updated_at": "2026-09-11T12:41:17.484182+00:00"
 }

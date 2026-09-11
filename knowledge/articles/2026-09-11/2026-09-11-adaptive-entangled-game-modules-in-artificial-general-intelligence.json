@@ -1,0 +1,34 @@
+{
+  "id": "rss-20260911-022",
+  "title": "Adaptive Entangled Game Modules in Artificial General Intelligence",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2609.09226",
+  "summary": "提出概率波框架建模自适应智能体集体行为，实证支持LCA假说，主张融入AGI架构以构建类人处理单元。",
+  "highlights": [
+    "提出广义行为智能概率波方程与自适应纠缠博弈模块",
+    "中国日内股市数据验证该模式解释82-94%决策，支持LCA非局域纠缠神经纤维假说",
+    "主张融合ANN与概率波脑模拟，发展HPU用于AGI和具身智能"
+  ],
+  "tags": [
+    "agi",
+    "probability-wave",
+    "entangled-game-modules",
+    "brain-inspired-computing",
+    "behavioral-intelligence",
+    "neural-networks",
+    "lca-hypothesis",
+    "human-like-processing-units"
+  ],
+  "relevance_score": 10,
+  "score_reason": "直接提出AGI架构改进与类脑HPU，批判ANN局限，高度相关",
+  "author": "Haochen Li, Xinshuai Guo, Jingdong Ouyang, Wei Zhang, Leilei Shi",
+  "published_at": "Fri, 11 Sep 2026 00:00:00 -0400",
+  "fetched_at": "2026-09-11T12:41:17.480524+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "adaptive-entangled-game-modules-in-artificial-general-intelligence"
+}
