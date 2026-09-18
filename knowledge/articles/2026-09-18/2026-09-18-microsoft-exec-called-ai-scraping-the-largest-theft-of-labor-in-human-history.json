@@ -1,0 +1,33 @@
+{
+  "id": "rss-20260918-022",
+  "title": "Microsoft exec called AI scraping 'the largest theft of labor in human history'",
+  "source": "rss_feed",
+  "source_url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
+  "summary": "微软高管称AI抓取为“人类历史上最大的劳动盗窃”，新解封文件披露相关内部言论。",
+  "highlights": [
+    "微软高管内部言论曝光，批评AI抓取行为",
+    "新解封法律文件揭示相关争议细节",
+    "涉及AI训练数据、版权与劳工权益问题"
+  ],
+  "tags": [
+    "microsoft",
+    "ai scraping",
+    "copyright",
+    "labor rights",
+    "legal",
+    "techcrunch",
+    "generative ai"
+  ],
+  "relevance_score": 8,
+  "score_reason": "涉及AI训练数据抓取与版权伦理争议，相关性高",
+  "author": "pluc",
+  "published_at": "Fri, 18 Sep 2026 09:45:07 +0000",
+  "fetched_at": "2026-09-18T12:45:05.228844+00:00",
+  "status": "draft",
+  "category": "news",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history"
+}

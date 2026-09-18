@@ -1,0 +1,33 @@
+{
+  "id": "rss-20260918-040",
+  "title": "EconSkills: Studying Skill Transfer and Retrieval for Web Agents on Live Economic Data",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2609.19523",
+  "summary": "提出EconSkills技能库与评估框架，从经济网站轨迹提炼可复用SOP，研究Web智能体技能迁移与检索。",
+  "highlights": [
+    "将EconWebArena成功轨迹蒸馏为参数化标准操作程序，抽象比原始轨迹重放更有效",
+    "在受控迁移中匹配技能提升成功率并减少步数；库规模检索在直接覆盖任务上表现最佳",
+    "覆盖分层显示近似匹配抵消收益，为覆盖感知选择与上下文传递提供设计目标"
+  ],
+  "tags": [
+    "web-agents",
+    "skill-transfer",
+    "retrieval",
+    "evaluation-framework",
+    "llm-agents",
+    "procedural-knowledge",
+    "economic-data"
+  ],
+  "relevance_score": 9,
+  "score_reason": "直接研究Web智能体的技能迁移与检索评估，高度相关",
+  "author": "Yinzhu Quan, Zefang Liu",
+  "published_at": "Fri, 18 Sep 2026 00:00:00 -0400",
+  "fetched_at": "2026-09-18T12:45:05.228983+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "econskills-studying-skill-transfer-and-retrieval-for-web-agents-on-live-economic-data"
+}

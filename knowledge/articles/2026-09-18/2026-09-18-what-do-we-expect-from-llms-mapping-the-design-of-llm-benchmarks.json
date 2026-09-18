@@ -1,0 +1,34 @@
+{
+  "id": "rss-20260918-027",
+  "title": "What Do We Expect from LLMs? Mapping the Design of LLM Benchmarks",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2609.19182",
+  "summary": "本文系统分析2022-2026年arXiv上14767篇LLM基准论文，揭示评估设计从能力测试转向行动、交互与专业应用，LLM评分增长但模型生成材料未持续增加。",
+  "highlights": [
+    "系统梳理14767篇LLM评测基准论文，覆盖2022年1月至2026年8月",
+    "基准设计日益强调行动、交互和专业应用场景",
+    "LLM评分在智能体与非智能体群体中增长，但模型生成材料未见持续增加"
+  ],
+  "tags": [
+    "llm",
+    "benchmarks",
+    "evaluation",
+    "agents",
+    "arxiv",
+    "benchmark design",
+    "model-based scoring",
+    "research"
+  ],
+  "relevance_score": 10,
+  "score_reason": "直接研究LLM基准和智能体评测的核心议题",
+  "author": "Chao Wang (Independent Researcher)",
+  "published_at": "Fri, 18 Sep 2026 00:00:00 -0400",
+  "fetched_at": "2026-09-18T12:45:05.228887+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "what-do-we-expect-from-llms-mapping-the-design-of-llm-benchmarks"
+}

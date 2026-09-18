@@ -1,0 +1,34 @@
+{
+  "id": "rss-20260918-029",
+  "title": "What Do Current Systematic Generalization Tasks Miss? A Reasoning-Centered Analysis",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2609.19212",
+  "summary": "论文提出TranSGrid测试平台，整合演绎、归纳、溯因推理，发现Transformer在系统泛化任务中表现显著下降，现有简化忽略关键推理需求。",
+  "highlights": [
+    "提出TranSGrid测试平台，统一演绎、归纳、溯因三类推理来评估系统泛化",
+    "7个Transformer在4800个实例上表现明显差于留出测试集，最难子集仅15.8%",
+    "恢复线性动作组合或动作显式目标后模型表现回升，说明现有任务简化削弱了归纳/溯因需求"
+  ],
+  "tags": [
+    "systematic generalization",
+    "transformer",
+    "reasoning",
+    "benchmark",
+    "abductive reasoning",
+    "inductive reasoning",
+    "llm evaluation",
+    "arxiv"
+  ],
+  "relevance_score": 8,
+  "score_reason": "涉及Transformer推理能力与系统泛化评测，与LLM/Agent研究高度相关",
+  "author": "Chengwen Qi, Deheng Ye, Yatao Bian",
+  "published_at": "Fri, 18 Sep 2026 00:00:00 -0400",
+  "fetched_at": "2026-09-18T12:45:05.228904+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "what-do-current-systematic-generalization-tasks-miss-a-reasoning-centered-analysis"
+}

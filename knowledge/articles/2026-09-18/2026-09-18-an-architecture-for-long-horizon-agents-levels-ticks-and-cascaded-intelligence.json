@@ -1,0 +1,34 @@
+{
+  "id": "rss-20260918-039",
+  "title": "An Architecture for Long-Horizon Agents: Levels, Ticks and Cascaded Intelligence",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2609.19519",
+  "summary": "提出长周期智能体分层架构，含时间层级、时钟节拍与级联智能，实现多日任务持续运行与知识沉淀。",
+  "highlights": [
+    "从长周期设置中推导出七个瓶颈，并以三层分层架构应对",
+    "以时钟节拍作为自主行动单位，失败审查后升级更强模型",
+    "十天实验复现强化学习结果，跨上下文重置仍保持任务主线"
+  ],
+  "tags": [
+    "long-horizon agents",
+    "agent architecture",
+    "continual learning",
+    "hierarchical agents",
+    "llm agents",
+    "autonomous agents",
+    "context window",
+    "reinforcement learning"
+  ],
+  "relevance_score": 10,
+  "score_reason": "直接研究LLM智能体长期自主运行架构，核心相关。",
+  "author": "Erik Nijkamp, Anurag Koul, Egor Pakhomov, Bo Pang",
+  "published_at": "Fri, 18 Sep 2026 00:00:00 -0400",
+  "fetched_at": "2026-09-18T12:45:05.228976+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "an-architecture-for-long-horizon-agents-levels-ticks-and-cascaded-intelligence"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "rss-20260918-038",
+  "title": "LLM-as-an-Improver: Turning Verification into Better Candidates",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2609.19515",
+  "summary": "提出LLM-as-an-Improver及VRR方法，利用验证反馈生成修复并重选候选，超越固定候选池选择。",
+  "highlights": [
+    "提出Verify-Repair-Reselect（VRR），利用验证反馈改进候选集合",
+    "保留初始胜者，生成修复版及新方案候选，并过滤重复无效候选",
+    "在代码生成与推理基准上超越固定池验证选择，初始全错时仍可恢复正确解"
+  ],
+  "tags": [
+    "llm",
+    "verification",
+    "inference-time",
+    "candidate selection",
+    "code generation",
+    "reasoning",
+    "self-improvement"
+  ],
+  "relevance_score": 9,
+  "score_reason": "针对LLM推理验证反馈的改进方法，紧密相关",
+  "author": "Akiyoshi Tomihari, Yuma Ichikawa",
+  "published_at": "Fri, 18 Sep 2026 00:00:00 -0400",
+  "fetched_at": "2026-09-18T12:45:05.228969+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "llm-as-an-improver-turning-verification-into-better-candidates"
+}

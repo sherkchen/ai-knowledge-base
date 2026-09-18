@@ -1,0 +1,34 @@
+{
+  "id": "rss-20260918-036",
+  "title": "Safety Beyond the Interface: Detecting Harm via Latent States in Large Language Models",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2609.19472",
+  "summary": "研究通过LLaMA-3.1-8B潜在状态训练轻量MLP探针检测有害提示，F1最高99%，降低延迟与计算成本。",
+  "highlights": [
+    "在LLaMA-3.1-8B内部激活上训练12.6M参数MLP探针检测有害提示",
+    "在WildJailbreak、Beavertails、AEGIS 2.0上F1分别为99%、83%、84%",
+    "性能媲美大1000倍的外部guard模型，同时降低延迟与算力成本"
+  ],
+  "tags": [
+    "llm safety",
+    "latent states",
+    "harmful content detection",
+    "probes",
+    "guardrails",
+    "interpretability",
+    "arxiv",
+    "efficiency"
+  ],
+  "relevance_score": 10,
+  "score_reason": "直接研究LLM安全与内部表征，提出轻量探针检测有害内容",
+  "author": "Alizishaan Khatri, Chiquita Prabhu, Omkar Neogi",
+  "published_at": "Fri, 18 Sep 2026 00:00:00 -0400",
+  "fetched_at": "2026-09-18T12:45:05.228954+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "safety-beyond-the-interface-detecting-harm-via-latent-states-in-large-language-models"
+}

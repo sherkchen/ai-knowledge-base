@@ -1027,6 +1027,114 @@
       "fetched_at": "2026-09-11T12:41:17.480617+00:00"
     },
     {
+      "id": "github-20260918-001",
+      "title": "tianlinxu312/Everything-about-LLMs",
+      "category": "other",
+      "slug": "tianlinxu312-everything-about-llms",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-09-18T12:45:05.227506+00:00"
+    },
+    {
+      "id": "github-20260918-002",
+      "title": "shibing624/ai-paper-analysis",
+      "category": "research",
+      "slug": "shibing624-ai-paper-analysis",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-09-18T12:45:05.228694+00:00"
+    },
+    {
+      "id": "github-20260918-011",
+      "title": "mchittineni/ultimate-ai-engineering-guide",
+      "category": "other",
+      "slug": "mchittineni-ultimate-ai-engineering-guide",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-09-18T12:45:05.228773+00:00"
+    },
+    {
+      "id": "github-20260918-013",
+      "title": "ankitsharma-tech/Polyagent-Research-Intelligence",
+      "category": "tool",
+      "slug": "ankitsharma-tech-polyagent-research-intelligence",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-09-18T12:45:05.228785+00:00"
+    },
+    {
+      "id": "rss-20260918-027",
+      "title": "What Do We Expect from LLMs? Mapping the Design of LLM Benchmarks",
+      "category": "paper",
+      "slug": "what-do-we-expect-from-llms-mapping-the-design-of-llm-benchmarks",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-09-18T12:45:05.228887+00:00"
+    },
+    {
+      "id": "rss-20260918-028",
+      "title": "Position: It is Time to Virtualize Foundation Models with a Self-evolving Operating System Layer",
+      "category": "paper",
+      "slug": "position-it-is-time-to-virtualize-foundation-models-with-a-self-evolving-operating-system-layer",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-09-18T12:45:05.228895+00:00"
+    },
+    {
+      "id": "rss-20260918-030",
+      "title": "Characterizing Web Search by Conversational LLM Agents: From Search Decisions and Strategies to Results and Responses",
+      "category": "paper",
+      "slug": "characterizing-web-search-by-conversational-llm-agents-from-search-decisions-and-strategies-to-results-and-responses",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-09-18T12:45:05.228912+00:00"
+    },
+    {
+      "id": "rss-20260918-032",
+      "title": "MAGS: Multi-agent Auto-formalization Guarantees Safety for Agentic Outputs",
+      "category": "paper",
+      "slug": "mags-multi-agent-auto-formalization-guarantees-safety-for-agentic-outputs",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-09-18T12:45:05.228926+00:00"
+    },
+    {
+      "id": "rss-20260918-033",
+      "title": "Closed-World Resolution Against Tool Hallucination in LLM Agents",
+      "category": "paper",
+      "slug": "closed-world-resolution-against-tool-hallucination-in-llm-agents",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-09-18T12:45:05.228933+00:00"
+    },
+    {
+      "id": "rss-20260918-035",
+      "title": "Compositional Reasoning in Language Models under Reinforcement Learning Post-Training",
+      "category": "paper",
+      "slug": "compositional-reasoning-in-language-models-under-reinforcement-learning-post-training",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-09-18T12:45:05.228947+00:00"
+    },
+    {
+      "id": "rss-20260918-036",
+      "title": "Safety Beyond the Interface: Detecting Harm via Latent States in Large Language Models",
+      "category": "paper",
+      "slug": "safety-beyond-the-interface-detecting-harm-via-latent-states-in-large-language-models",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-09-18T12:45:05.228954+00:00"
+    },
+    {
+      "id": "rss-20260918-039",
+      "title": "An Architecture for Long-Horizon Agents: Levels, Ticks and Cascaded Intelligence",
+      "category": "paper",
+      "slug": "an-architecture-for-long-horizon-agents-levels-ticks-and-cascaded-intelligence",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-09-18T12:45:05.228976+00:00"
+    },
+    {
       "id": "github-20260616-001",
       "title": "nitefood/ai-bash",
       "category": "tool",
@@ -2611,6 +2719,132 @@
       "fetched_at": "2026-09-11T12:41:17.480622+00:00"
     },
     {
+      "id": "github-20260918-004",
+      "title": "ruankie/ecrivai",
+      "category": "tool",
+      "slug": "ruankie-ecrivai",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-09-18T12:45:05.228715+00:00"
+    },
+    {
+      "id": "github-20260918-005",
+      "title": "sinanuozdemir/oreilly-llm-rl-alignment",
+      "category": "other",
+      "slug": "sinanuozdemir-oreilly-llm-rl-alignment",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-09-18T12:45:05.228728+00:00"
+    },
+    {
+      "id": "github-20260918-006",
+      "title": "Md-Emon-Hasan/MediGenius",
+      "category": "tool",
+      "slug": "md-emon-hasan-medigenius",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-09-18T12:45:05.228735+00:00"
+    },
+    {
+      "id": "github-20260918-008",
+      "title": "rokbenko/crew-news",
+      "category": "tool",
+      "slug": "rokbenko-crew-news",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-09-18T12:45:05.228751+00:00"
+    },
+    {
+      "id": "github-20260918-010",
+      "title": "kael-bit/engram-rs",
+      "category": "tool",
+      "slug": "kael-bit-engram-rs",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-09-18T12:45:05.228767+00:00"
+    },
+    {
+      "id": "github-20260918-014",
+      "title": "BjornMelin/polyagent-research-intelligence",
+      "category": "tool",
+      "slug": "bjornmelin-polyagent-research-intelligence",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-09-18T12:45:05.228791+00:00"
+    },
+    {
+      "id": "github-20260918-017",
+      "title": "billy-enrizky/crewai-research-assistant",
+      "category": "tool",
+      "slug": "billy-enrizky-crewai-research-assistant",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-09-18T12:45:05.228809+00:00"
+    },
+    {
+      "id": "rss-20260918-021",
+      "title": "ZCode, the GLM coding agent, silently uploads your Git history",
+      "category": "news",
+      "slug": "zcode-the-glm-coding-agent-silently-uploads-your-git-history",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-09-18T12:45:05.228834+00:00"
+    },
+    {
+      "id": "rss-20260918-023",
+      "title": "How to Write with an LLM",
+      "category": "other",
+      "slug": "how-to-write-with-an-llm",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-09-18T12:45:05.228852+00:00"
+    },
+    {
+      "id": "rss-20260918-026",
+      "title": "BioPhys-Bridge: A Benchmark for Interdisciplinary Scientific Reasoning in Physics-Grounded Biological Research",
+      "category": "paper",
+      "slug": "biophys-bridge-a-benchmark-for-interdisciplinary-scientific-reasoning-in-physics-grounded-biological-research",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-09-18T12:45:05.228879+00:00"
+    },
+    {
+      "id": "rss-20260918-031",
+      "title": "Do AI Agents Understand Computer Architecture?",
+      "category": "paper",
+      "slug": "do-ai-agents-understand-computer-architecture",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-09-18T12:45:05.228920+00:00"
+    },
+    {
+      "id": "rss-20260918-037",
+      "title": "QVAC Genesis III: A Large-Scale, High-Quality Open Synthetic STEM Corpus for Efficient Language Model Pre-Training",
+      "category": "paper",
+      "slug": "qvac-genesis-iii-a-large-scale-high-quality-open-synthetic-stem-corpus-for-efficient-language-model-pre-training",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-09-18T12:45:05.228961+00:00"
+    },
+    {
+      "id": "rss-20260918-038",
+      "title": "LLM-as-an-Improver: Turning Verification into Better Candidates",
+      "category": "paper",
+      "slug": "llm-as-an-improver-turning-verification-into-better-candidates",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-09-18T12:45:05.228969+00:00"
+    },
+    {
+      "id": "rss-20260918-040",
+      "title": "EconSkills: Studying Skill Transfer and Retrieval for Web Agents on Live Economic Data",
+      "category": "paper",
+      "slug": "econskills-studying-skill-transfer-and-retrieval-for-web-agents-on-live-economic-data",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-09-18T12:45:05.228983+00:00"
+    },
+    {
       "id": "github-20260616-009",
       "title": "SukritiC/ai-mastery-hub",
       "category": "other",
@@ -2998,6 +3232,96 @@
       "fetched_at": "2026-09-11T12:41:17.480612+00:00"
     },
     {
+      "id": "github-20260918-003",
+      "title": "nitefood/ai-bash",
+      "category": "tool",
+      "slug": "nitefood-ai-bash",
+      "relevance_score": 8,
+      "status": "draft",
+      "fetched_at": "2026-09-18T12:45:05.228707+00:00"
+    },
+    {
+      "id": "github-20260918-007",
+      "title": "SpreadSheets600/TidyTabs",
+      "category": "tool",
+      "slug": "spreadsheets600-tidytabs",
+      "relevance_score": 8,
+      "status": "draft",
+      "fetched_at": "2026-09-18T12:45:05.228742+00:00"
+    },
+    {
+      "id": "github-20260918-009",
+      "title": "MADEVAL/AngleCraft",
+      "category": "tool",
+      "slug": "madeval-anglecraft",
+      "relevance_score": 8,
+      "status": "draft",
+      "fetched_at": "2026-09-18T12:45:05.228761+00:00"
+    },
+    {
+      "id": "github-20260918-012",
+      "title": "akshaymittal143/CloudyBot-DevOps-AI",
+      "category": "tool",
+      "slug": "akshaymittal143-cloudybot-devops-ai",
+      "relevance_score": 8,
+      "status": "draft",
+      "fetched_at": "2026-09-18T12:45:05.228779+00:00"
+    },
+    {
+      "id": "github-20260918-015",
+      "title": "rasmurtech/DeepSeekDeepResearch",
+      "category": "tool",
+      "slug": "rasmurtech-deepseekdeepresearch",
+      "relevance_score": 8,
+      "status": "draft",
+      "fetched_at": "2026-09-18T12:45:05.228798+00:00"
+    },
+    {
+      "id": "github-20260918-018",
+      "title": "richer-richard/socratic-council",
+      "category": "tool",
+      "slug": "richer-richard-socratic-council",
+      "relevance_score": 8,
+      "status": "draft",
+      "fetched_at": "2026-09-18T12:45:05.228818+00:00"
+    },
+    {
+      "id": "github-20260918-019",
+      "title": "yushengzh/awesome-ML-for-quantum",
+      "category": "research",
+      "slug": "yushengzh-awesome-ml-for-quantum",
+      "relevance_score": 8,
+      "status": "draft",
+      "fetched_at": "2026-09-18T12:45:05.228824+00:00"
+    },
+    {
+      "id": "github-20260918-020",
+      "title": "crabfeather/PaperLens-AI",
+      "category": "tool",
+      "slug": "crabfeather-paperlens-ai",
+      "relevance_score": 8,
+      "status": "draft",
+      "fetched_at": "2026-09-18T12:45:05.228830+00:00"
+    },
+    {
+      "id": "rss-20260918-022",
+      "title": "Microsoft exec called AI scraping 'the largest theft of labor in human history'",
+      "category": "news",
+      "slug": "microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history",
+      "relevance_score": 8,
+      "status": "draft",
+      "fetched_at": "2026-09-18T12:45:05.228844+00:00"
+    },
+    {
+      "id": "rss-20260918-029",
+      "title": "What Do Current Systematic Generalization Tasks Miss? A Reasoning-Centered Analysis",
+      "category": "paper",
+      "slug": "what-do-current-systematic-generalization-tasks-miss-a-reasoning-centered-analysis",
+      "relevance_score": 8,
+      "status": "draft",
+      "fetched_at": "2026-09-18T12:45:05.228904+00:00"
+    },
+    {
       "id": "rss-20260616-023",
       "title": "Hyperdimensional computing for structured querying on tabular data embeddings",
       "category": "paper",
@@ -3124,6 +3448,42 @@
       "fetched_at": "2026-09-11T12:41:17.480606+00:00"
     },
     {
+      "id": "github-20260918-016",
+      "title": "JacKaL37/TheHardProblem",
+      "category": "research",
+      "slug": "jackal37-thehardproblem",
+      "relevance_score": 7,
+      "status": "draft",
+      "fetched_at": "2026-09-18T12:45:05.228804+00:00"
+    },
+    {
+      "id": "rss-20260918-024",
+      "title": "Bend – A language that blocks AI mistakes via proof, on CPU and GPU",
+      "category": "other",
+      "slug": "bend-a-language-that-blocks-ai-mistakes-via-proof-on-cpu-and-gpu",
+      "relevance_score": 7,
+      "status": "draft",
+      "fetched_at": "2026-09-18T12:45:05.228859+00:00"
+    },
+    {
+      "id": "rss-20260918-025",
+      "title": "Regularized Emphatic Temporal-Difference Learning: Stability under Constant Stepsizes",
+      "category": "paper",
+      "slug": "regularized-emphatic-temporal-difference-learning-stability-under-constant-stepsizes",
+      "relevance_score": 7,
+      "status": "draft",
+      "fetched_at": "2026-09-18T12:45:05.228872+00:00"
+    },
+    {
+      "id": "rss-20260918-034",
+      "title": "The syntax and semantics of goals",
+      "category": "paper",
+      "slug": "the-syntax-and-semantics-of-goals",
+      "relevance_score": 7,
+      "status": "draft",
+      "fetched_at": "2026-09-18T12:45:05.228940+00:00"
+    },
+    {
       "id": "rss-20260703-016",
       "title": "Liva AI (YC S25) Is Hiring",
       "category": "other",
@@ -3169,6 +3529,6 @@
       "fetched_at": "2026-06-26T10:55:22.327694+00:00"
     }
   ],
-  "total_count": 352,
-  "updated_at": "2026-09-11T12:41:17.484182+00:00"
+  "total_count": 392,
+  "updated_at": "2026-09-18T12:45:05.233046+00:00"
 }

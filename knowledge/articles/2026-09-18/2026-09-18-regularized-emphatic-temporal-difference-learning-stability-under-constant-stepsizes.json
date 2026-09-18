@@ -1,0 +1,33 @@
+{
+  "id": "rss-20260918-025",
+  "title": "Regularized Emphatic Temporal-Difference Learning: Stability under Constant Stepsizes",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2609.19170",
+  "summary": "提出正则化强调TD学习(RETD)修复恒定步长采样不稳定，证明几乎必然收敛。",
+  "highlights": [
+    "构造二态反例显示ETD均值收缩但采样Lyapunov指数为正",
+    "提出RETD以泄漏标量状态存储ETD信号并延迟修正，固定点精确恢复",
+    "证明调和递减步长几乎必然收敛及恒定步长条件矩收缩"
+  ],
+  "tags": [
+    "reinforcement-learning",
+    "temporal-difference-learning",
+    "off-policy",
+    "stability",
+    "emphatic-td",
+    "convergence",
+    "lyapunov-exponent"
+  ],
+  "relevance_score": 7,
+  "score_reason": "强化学习理论核心，稳定性收敛分析对AI重要",
+  "author": "Xingguo Chen, Zhaohui Wu, Jinguo Ye, Chao Li, Shangdong Yang, Guang Yang, Skylar Liang, Wenhao Wang",
+  "published_at": "Fri, 18 Sep 2026 00:00:00 -0400",
+  "fetched_at": "2026-09-18T12:45:05.228872+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "regularized-emphatic-temporal-difference-learning-stability-under-constant-stepsizes"
+}

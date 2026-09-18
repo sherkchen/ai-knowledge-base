@@ -1,0 +1,34 @@
+{
+  "id": "rss-20260918-028",
+  "title": "Position: It is Time to Virtualize Foundation Models with a Self-evolving Operating System Layer",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2609.19203",
+  "summary": "提出基础模型操作系统(FMOS)，虚拟化模型交互，统一状态、内存、预算和治理，使智能体应用可移植。",
+  "highlights": [
+    "提出FMOS作为基础模型操作系统层，虚拟化FM交互",
+    "解决现有框架嵌入隐式运行时导致行为不可移植和治理脆弱",
+    "FMOS像大脑快慢思考，学习何时干预推理并自适应策略"
+  ],
+  "tags": [
+    "foundation-model-os",
+    "virtualization",
+    "agentic-systems",
+    "llm",
+    "operating-system",
+    "mcp",
+    "ai-governance",
+    "position-paper"
+  ],
+  "relevance_score": 10,
+  "score_reason": "直接讨论LLM智能体系统的基础设施架构",
+  "author": "Suparna Bhattacharya, Tarun Kumar, Cong Xu, Satish Kumar Mopur, Jiahao Li, Ashish Mishra, Aalap Tripathy, Annmary Justine Koomthanam, Martin Foltin, Ian Foster",
+  "published_at": "Fri, 18 Sep 2026 00:00:00 -0400",
+  "fetched_at": "2026-09-18T12:45:05.228895+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "position-it-is-time-to-virtualize-foundation-models-with-a-self-evolving-operating-system-layer"
+}

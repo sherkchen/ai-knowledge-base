@@ -1,0 +1,32 @@
+{
+  "id": "rss-20260918-023",
+  "title": "How to Write with an LLM",
+  "source": "rss_feed",
+  "source_url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
+  "summary": "探讨如何借助LLM进行写作，分享相关技巧与思考。",
+  "highlights": [
+    "介绍与LLM协作写作的具体方法",
+    "讨论LLM在写作中的优势与局限",
+    "提供实用建议以避开常见误区"
+  ],
+  "tags": [
+    "llm",
+    "writing",
+    "ai",
+    "productivity",
+    "creativity",
+    "guide"
+  ],
+  "relevance_score": 9,
+  "score_reason": "直接探讨LLM写作应用，相关度高",
+  "author": "joeriddles",
+  "published_at": "Thu, 17 Sep 2026 21:48:38 +0000",
+  "fetched_at": "2026-09-18T12:45:05.228852+00:00",
+  "status": "draft",
+  "category": "other",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "how-to-write-with-an-llm"
+}

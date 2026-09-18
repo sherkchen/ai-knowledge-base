@@ -1,0 +1,34 @@
+{
+  "id": "github-20260918-015",
+  "title": "rasmurtech/DeepSeekDeepResearch",
+  "source": "github_trending",
+  "source_url": "https://github.com/rasmurtech/DeepSeekDeepResearch",
+  "summary": "基于DeepSeek-R1本地LLM和Google搜索API的Python研究助手，异步抓取并整合信息。",
+  "highlights": [
+    "使用Ollama本地运行DeepSeek-R1:7b模型",
+    "集成Google Custom Search API自动搜索",
+    "异步网页抓取并提炼研究主题信息"
+  ],
+  "tags": [
+    "deepseek",
+    "ollama",
+    "research-assistant",
+    "web-scraping",
+    "llm",
+    "python",
+    "google-search",
+    "ai-agent"
+  ],
+  "relevance_score": 8,
+  "score_reason": "直接涉及LLM和自动化研究Agent",
+  "author": "rasmurtech",
+  "published_at": "2025-02-06T19:20:55Z",
+  "fetched_at": "2026-09-18T12:45:05.228798+00:00",
+  "status": "draft",
+  "category": "tool",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "rasmurtech-deepseekdeepresearch"
+}

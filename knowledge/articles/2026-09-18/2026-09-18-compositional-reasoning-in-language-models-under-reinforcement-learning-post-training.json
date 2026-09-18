@@ -1,0 +1,33 @@
+{
+  "id": "rss-20260918-035",
+  "title": "Compositional Reasoning in Language Models under Reinforcement Learning Post-Training",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2609.19465",
+  "summary": "论文研究语言模型在强化学习后训练下的组合推理，提出依赖图框架，发现分解技能向组合任务迁移弱，反向迁移更强。",
+  "highlights": [
+    "提出依赖图框架，将组合推理形式化并分为三级复杂度",
+    "发现分解到组合迁移不对称：分解技能训练难迁移到组合任务，组合训练更易迁移回分解任务",
+    "在长度外推、结构分布偏移、未见技能迁移及工具调用基准上验证泛化能力"
+  ],
+  "tags": [
+    "compositional reasoning",
+    "reinforcement learning",
+    "language models",
+    "post-training",
+    "generalization",
+    "llm",
+    "compositionality"
+  ],
+  "relevance_score": 10,
+  "score_reason": "直接研究LLM在强化学习后训练中的组合推理能力",
+  "author": "Yu He, Yingxi Li, Yifei Wang, Ellen Vitercik",
+  "published_at": "Fri, 18 Sep 2026 00:00:00 -0400",
+  "fetched_at": "2026-09-18T12:45:05.228947+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "compositional-reasoning-in-language-models-under-reinforcement-learning-post-training"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "rss-20260918-026",
+  "title": "BioPhys-Bridge: A Benchmark for Interdisciplinary Scientific Reasoning in Physics-Grounded Biological Research",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2609.19180",
+  "summary": "BioPhys-Bridge基准评估语言模型在生物物理文献中的跨学科科学推理，含500案例、1517任务，测试QA与RAG。",
+  "highlights": [
+    "提出BioPhys-Bridge，包含500个案例和1517个智能体任务",
+    "覆盖六个生物领域与九类物理模型，设有严格质量门",
+    "初步评测DeepSeek-V4-Flash证据ID F1最高0.360，显示挑战"
+  ],
+  "tags": [
+    "benchmark",
+    "biophysics",
+    "scientific-reasoning",
+    "rag",
+    "question-answering",
+    "language-models",
+    "agent",
+    "hallucination"
+  ],
+  "relevance_score": 9,
+  "score_reason": "面向LLM与智能体的跨学科推理基准，直接相关",
+  "author": "Qingyang Xu",
+  "published_at": "Fri, 18 Sep 2026 00:00:00 -0400",
+  "fetched_at": "2026-09-18T12:45:05.228879+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "biophys-bridge-a-benchmark-for-interdisciplinary-scientific-reasoning-in-physics-grounded-biological-research"
+}

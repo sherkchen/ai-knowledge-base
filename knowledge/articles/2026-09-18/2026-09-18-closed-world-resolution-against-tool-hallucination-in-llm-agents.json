@@ -1,0 +1,33 @@
+{
+  "id": "rss-20260918-033",
+  "title": "Closed-World Resolution Against Tool Hallucination in LLM Agents",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2609.19425",
+  "summary": "本文研究LLM智能体工具幻觉，提出封闭世界解析器与五类分类，测量322起幻觉并发布基准HTB。",
+  "highlights": [
+    "提出工具幻觉五类分类法(H1-H5)及封闭世界解析器",
+    "测量10个模型322起幻觉，原始JSON接口更易产生虚构工具调用",
+    "扩展MCP合并命名空间产生结构性幻觉，发布HTB基准"
+  ],
+  "tags": [
+    "tool hallucination",
+    "llm agents",
+    "benchmark",
+    "model context protocol",
+    "closed-world resolver",
+    "tool use",
+    "arxiv"
+  ],
+  "relevance_score": 10,
+  "score_reason": "论文直接研究LLM智能体工具调用幻觉与解析防御",
+  "author": "Laxmipriya Ganesh Iyer",
+  "published_at": "Fri, 18 Sep 2026 00:00:00 -0400",
+  "fetched_at": "2026-09-18T12:45:05.228933+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "closed-world-resolution-against-tool-hallucination-in-llm-agents"
+}

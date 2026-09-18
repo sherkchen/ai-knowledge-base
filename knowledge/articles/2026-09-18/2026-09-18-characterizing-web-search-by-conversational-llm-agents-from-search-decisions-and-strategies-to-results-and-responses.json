@@ -1,0 +1,33 @@
+{
+  "id": "rss-20260918-030",
+  "title": "Characterizing Web Search by Conversational LLM Agents: From Search Decisions and Strategies to Results and Responses",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2609.19244",
+  "summary": "研究四大对话平台LLM智能体网络搜索全流程，涵盖触发决策、查询策略、域名偏好与引用归因，发现频繁搜索未必提升回答质量。",
+  "highlights": [
+    "首次系统研究ChatGPT、Claude、Grok、DeepSeek四大平台端到端智能体搜索生命周期。",
+    "各平台搜索触发决策差异显著，但频繁调用与回答质量不必然正相关。",
+    "回答虽多基于搜索结果，但部分声明引用未标注来源，存在归因与可靠性隐患。"
+  ],
+  "tags": [
+    "web search",
+    "llm agents",
+    "conversational ai",
+    "search strategies",
+    "attribution",
+    "grounding",
+    "arxiv"
+  ],
+  "relevance_score": 10,
+  "score_reason": "直接研究LLM智能体网络搜索行为，核心Agent话题",
+  "author": "Mahsa Amani, Seungeon Lee, Abhisek Dash, Asmaa El Fraihi, Yunah Jang, Elisabeth Kirsten, Qinyuan Wu, Krishna P. Gummadi, Manish Gupta, Abhilasha Ravichander, Muhammad Bilal Zafar, Soumi Das",
+  "published_at": "Fri, 18 Sep 2026 00:00:00 -0400",
+  "fetched_at": "2026-09-18T12:45:05.228912+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "characterizing-web-search-by-conversational-llm-agents-from-search-decisions-and-strategies-to-results-and-responses"
+}

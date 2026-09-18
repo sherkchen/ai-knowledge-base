@@ -1,0 +1,33 @@
+{
+  "id": "github-20260918-017",
+  "title": "billy-enrizky/crewai-research-assistant",
+  "source": "github_trending",
+  "source_url": "https://github.com/billy-enrizky/crewai-research-assistant",
+  "summary": "基于CrewAI的AI研究助手，支持多LLM和Exa，实时可视化研究过程并生成结构化报告。",
+  "highlights": [
+    "使用CrewAI多智能体协作进行主题研究",
+    "集成Exa提供高级答案并支持多种LLM",
+    "Streamlit实时可视化研究流程并输出报告"
+  ],
+  "tags": [
+    "crewai",
+    "ai-agents",
+    "research-assistant",
+    "streamlit",
+    "exa",
+    "llm",
+    "python"
+  ],
+  "relevance_score": 9,
+  "score_reason": "AI智能体研究助手，直接涉及LLM和Agent技术",
+  "author": "billy-enrizky",
+  "published_at": "2025-02-17T01:37:29Z",
+  "fetched_at": "2026-09-18T12:45:05.228809+00:00",
+  "status": "draft",
+  "category": "tool",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "billy-enrizky-crewai-research-assistant"
+}
