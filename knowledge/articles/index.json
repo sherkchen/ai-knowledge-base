@@ -1135,6 +1135,105 @@
       "fetched_at": "2026-09-18T12:45:05.228976+00:00"
     },
     {
+      "id": "github-20260925-005",
+      "title": "sinanuozdemir/oreilly-llm-rl-alignment",
+      "category": "other",
+      "slug": "sinanuozdemir-oreilly-llm-rl-alignment",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-09-25T13:18:03.352239+00:00"
+    },
+    {
+      "id": "github-20260925-006",
+      "title": "Md-Emon-Hasan/MediGenius",
+      "category": "tool",
+      "slug": "md-emon-hasan-medigenius",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-09-25T13:18:03.352246+00:00"
+    },
+    {
+      "id": "github-20260925-010",
+      "title": "kael-bit/engram-rs",
+      "category": "tool",
+      "slug": "kael-bit-engram-rs",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-09-25T13:18:03.352293+00:00"
+    },
+    {
+      "id": "github-20260925-013",
+      "title": "ankitsharma-tech/Polyagent-Research-Intelligence",
+      "category": "tool",
+      "slug": "ankitsharma-tech-polyagent-research-intelligence",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-09-25T13:18:03.352314+00:00"
+    },
+    {
+      "id": "github-20260925-014",
+      "title": "BjornMelin/polyagent-research-intelligence",
+      "category": "tool",
+      "slug": "bjornmelin-polyagent-research-intelligence",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-09-25T13:18:03.352321+00:00"
+    },
+    {
+      "id": "github-20260925-018",
+      "title": "richer-richard/socratic-council",
+      "category": "tool",
+      "slug": "richer-richard-socratic-council",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-09-25T13:18:03.352349+00:00"
+    },
+    {
+      "id": "rss-20260925-024",
+      "title": "Pistis Technical Report",
+      "category": "paper",
+      "slug": "pistis-technical-report",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-09-25T13:18:03.352398+00:00"
+    },
+    {
+      "id": "rss-20260925-029",
+      "title": "Beyond Surface Style: Aligning Multi-Turn User Simulators with Behavioral Consistency",
+      "category": "paper",
+      "slug": "beyond-surface-style-aligning-multi-turn-user-simulators-with-behavioral-consistency",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-09-25T13:18:03.352435+00:00"
+    },
+    {
+      "id": "rss-20260925-031",
+      "title": "Progressive Skill Discovery as Access Control for Tool-Using LLM Agents: Structural Governance through Role-Scoped Capability Delivery",
+      "category": "framework",
+      "slug": "progressive-skill-discovery-as-access-control-for-tool-using-llm-agents-structural-governance-through-role-scoped-capability-delivery",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-09-25T13:18:03.352451+00:00"
+    },
+    {
+      "id": "rss-20260925-032",
+      "title": "Reinforcement Learning with Verifiable Rewards for Small Search Agents",
+      "category": "paper",
+      "slug": "reinforcement-learning-with-verifiable-rewards-for-small-search-agents",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-09-25T13:18:03.352460+00:00"
+    },
+    {
+      "id": "rss-20260925-037",
+      "title": "Control the Harness, Control the Cost: Routing and Governing AI Coding Agents in the Enterprise",
+      "category": "paper",
+      "slug": "control-the-harness-control-the-cost-routing-and-governing-ai-coding-agents-in-the-enterprise",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-09-25T13:18:03.352510+00:00"
+    },
+    {
       "id": "github-20260616-001",
       "title": "nitefood/ai-bash",
       "category": "tool",
@@ -2845,6 +2944,177 @@
       "fetched_at": "2026-09-18T12:45:05.228983+00:00"
     },
     {
+      "id": "github-20260925-001",
+      "title": "tianlinxu312/Everything-about-LLMs",
+      "category": "other",
+      "slug": "tianlinxu312-everything-about-llms",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-09-25T13:18:03.350672+00:00"
+    },
+    {
+      "id": "github-20260925-002",
+      "title": "shibing624/ai-paper-analysis",
+      "category": "research",
+      "slug": "shibing624-ai-paper-analysis",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-09-25T13:18:03.352208+00:00"
+    },
+    {
+      "id": "github-20260925-003",
+      "title": "nitefood/ai-bash",
+      "category": "tool",
+      "slug": "nitefood-ai-bash",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-09-25T13:18:03.352223+00:00"
+    },
+    {
+      "id": "github-20260925-004",
+      "title": "ruankie/ecrivai",
+      "category": "tool",
+      "slug": "ruankie-ecrivai",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-09-25T13:18:03.352231+00:00"
+    },
+    {
+      "id": "github-20260925-008",
+      "title": "rokbenko/crew-news",
+      "category": "tool",
+      "slug": "rokbenko-crew-news",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-09-25T13:18:03.352274+00:00"
+    },
+    {
+      "id": "github-20260925-011",
+      "title": "mchittineni/ultimate-ai-engineering-guide",
+      "category": "other",
+      "slug": "mchittineni-ultimate-ai-engineering-guide",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-09-25T13:18:03.352300+00:00"
+    },
+    {
+      "id": "github-20260925-017",
+      "title": "billy-enrizky/crewai-research-assistant",
+      "category": "tool",
+      "slug": "billy-enrizky-crewai-research-assistant",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-09-25T13:18:03.352343+00:00"
+    },
+    {
+      "id": "github-20260925-020",
+      "title": "crabfeather/PaperLens-AI",
+      "category": "tool",
+      "slug": "crabfeather-paperlens-ai",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-09-25T13:18:03.352361+00:00"
+    },
+    {
+      "id": "rss-20260925-021",
+      "title": "When Should Forecasting Agents Reason? Behavioral Stress Tests for Reliability Routing",
+      "category": "paper",
+      "slug": "when-should-forecasting-agents-reason-behavioral-stress-tests-for-reliability-routing",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-09-25T13:18:03.352367+00:00"
+    },
+    {
+      "id": "rss-20260925-023",
+      "title": "PAWS: Policy-driven Agentic World Simulation",
+      "category": "paper",
+      "slug": "paws-policy-driven-agentic-world-simulation",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-09-25T13:18:03.352391+00:00"
+    },
+    {
+      "id": "rss-20260925-025",
+      "title": "DEEPO: Dual-Entropy Enhanced Policy Optimization for Hallucination in MLLMs",
+      "category": "paper",
+      "slug": "deepo-dual-entropy-enhanced-policy-optimization-for-hallucination-in-mllms",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-09-25T13:18:03.352404+00:00"
+    },
+    {
+      "id": "rss-20260925-026",
+      "title": "TWIST: A Proposed Benchmark for Intervention Quality in Conversational Memory, with a Human-Validated Draft-Alignment",
+      "category": "paper",
+      "slug": "twist-a-proposed-benchmark-for-intervention-quality-in-conversational-memory-with-a-human-validated-draft-alignment",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-09-25T13:18:03.352412+00:00"
+    },
+    {
+      "id": "rss-20260925-027",
+      "title": "Adversarial Closed-Loop Curriculum for Evolving Role-Playing Agents",
+      "category": "paper",
+      "slug": "adversarial-closed-loop-curriculum-for-evolving-role-playing-agents",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-09-25T13:18:03.352421+00:00"
+    },
+    {
+      "id": "rss-20260925-028",
+      "title": "Training Object Permanence in World Models",
+      "category": "paper",
+      "slug": "training-object-permanence-in-world-models",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-09-25T13:18:03.352429+00:00"
+    },
+    {
+      "id": "rss-20260925-030",
+      "title": "Driving Epidemic Models with AI Agents: the Epydemix Agent Framework",
+      "category": "paper",
+      "slug": "driving-epidemic-models-with-ai-agents-the-epydemix-agent-framework",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-09-25T13:18:03.352443+00:00"
+    },
+    {
+      "id": "rss-20260925-033",
+      "title": "Agent Memory with Episodic Retrieval for Financial Decision-Making",
+      "category": "paper",
+      "slug": "agent-memory-with-episodic-retrieval-for-financial-decision-making",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-09-25T13:18:03.352468+00:00"
+    },
+    {
+      "id": "rss-20260925-035",
+      "title": "Human-AI-Powered Hypothesis Testing: Cost-Aware Selective AI Scoring and Sequential Human Escalation",
+      "category": "paper",
+      "slug": "human-ai-powered-hypothesis-testing-cost-aware-selective-ai-scoring-and-sequential-human-escalation",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-09-25T13:18:03.352482+00:00"
+    },
+    {
+      "id": "rss-20260925-036",
+      "title": "Forecast-Dojo: Replayable Environments for Benchmarking and Training LLM Forecasting Agents",
+      "category": "paper",
+      "slug": "forecast-dojo-replayable-environments-for-benchmarking-and-training-llm-forecasting-agents",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-09-25T13:18:03.352492+00:00"
+    },
+    {
+      "id": "rss-20260925-038",
+      "title": "PFArena: Benchmarking Language Models for Protein Modification",
+      "category": "paper",
+      "slug": "pfarena-benchmarking-language-models-for-protein-modification",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-09-25T13:18:03.352519+00:00"
+    },
+    {
       "id": "github-20260616-009",
       "title": "SukritiC/ai-mastery-hub",
       "category": "other",
@@ -3322,6 +3592,51 @@
       "fetched_at": "2026-09-18T12:45:05.228904+00:00"
     },
     {
+      "id": "github-20260925-007",
+      "title": "SpreadSheets600/TidyTabs",
+      "category": "tool",
+      "slug": "spreadsheets600-tidytabs",
+      "relevance_score": 8,
+      "status": "draft",
+      "fetched_at": "2026-09-25T13:18:03.352265+00:00"
+    },
+    {
+      "id": "github-20260925-009",
+      "title": "MADEVAL/AngleCraft",
+      "category": "tool",
+      "slug": "madeval-anglecraft",
+      "relevance_score": 8,
+      "status": "draft",
+      "fetched_at": "2026-09-25T13:18:03.352285+00:00"
+    },
+    {
+      "id": "github-20260925-015",
+      "title": "rasmurtech/DeepSeekDeepResearch",
+      "category": "tool",
+      "slug": "rasmurtech-deepseekdeepresearch",
+      "relevance_score": 8,
+      "status": "draft",
+      "fetched_at": "2026-09-25T13:18:03.352327+00:00"
+    },
+    {
+      "id": "github-20260925-016",
+      "title": "JacKaL37/TheHardProblem",
+      "category": "research",
+      "slug": "jackal37-thehardproblem",
+      "relevance_score": 8,
+      "status": "draft",
+      "fetched_at": "2026-09-25T13:18:03.352334+00:00"
+    },
+    {
+      "id": "github-20260925-019",
+      "title": "yushengzh/awesome-ML-for-quantum",
+      "category": "other",
+      "slug": "yushengzh-awesome-ml-for-quantum",
+      "relevance_score": 8,
+      "status": "draft",
+      "fetched_at": "2026-09-25T13:18:03.352355+00:00"
+    },
+    {
       "id": "rss-20260616-023",
       "title": "Hyperdimensional computing for structured querying on tabular data embeddings",
       "category": "paper",
@@ -3484,6 +3799,33 @@
       "fetched_at": "2026-09-18T12:45:05.228940+00:00"
     },
     {
+      "id": "github-20260925-012",
+      "title": "akshaymittal143/CloudyBot-DevOps-AI",
+      "category": "tool",
+      "slug": "akshaymittal143-cloudybot-devops-ai",
+      "relevance_score": 7,
+      "status": "draft",
+      "fetched_at": "2026-09-25T13:18:03.352307+00:00"
+    },
+    {
+      "id": "rss-20260925-022",
+      "title": "TW3Cast: A Frozen Router of Lightly Fine-Tuned Foundation Models for Time-Series Forecasting on GIFT-Eval, Selected Entirely on the Training Split",
+      "category": "paper",
+      "slug": "tw3cast-a-frozen-router-of-lightly-fine-tuned-foundation-models-for-time-series-forecasting-on-gift-eval-selected-entirely-on-the-training-split",
+      "relevance_score": 7,
+      "status": "draft",
+      "fetched_at": "2026-09-25T13:18:03.352376+00:00"
+    },
+    {
+      "id": "rss-20260925-034",
+      "title": "Learned Cross-Task Relationships in Multi-Task Models",
+      "category": "paper",
+      "slug": "learned-cross-task-relationships-in-multi-task-models",
+      "relevance_score": 7,
+      "status": "draft",
+      "fetched_at": "2026-09-25T13:18:03.352475+00:00"
+    },
+    {
       "id": "rss-20260703-016",
       "title": "Liva AI (YC S25) Is Hiring",
       "category": "other",
@@ -3529,6 +3871,6 @@
       "fetched_at": "2026-06-26T10:55:22.327694+00:00"
     }
   ],
-  "total_count": 392,
-  "updated_at": "2026-09-18T12:45:05.233046+00:00"
+  "total_count": 430,
+  "updated_at": "2026-09-25T13:18:03.358576+00:00"
 }

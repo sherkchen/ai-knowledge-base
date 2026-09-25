@@ -1,0 +1,33 @@
+{
+  "id": "rss-20260925-038",
+  "title": "PFArena: Benchmarking Language Models for Protein Modification",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2609.28921",
+  "summary": "PFArena基准测试比较蛋白质语言模型、大语言模型及智能体在蛋白质修饰任务上的表现，涵盖单突变生成与多突变排序。",
+  "highlights": [
+    "提出PFArena基准，含四个任务接口覆盖单突变生成和多突变排序。",
+    "评估6个PLM、6个LLM和5个LLM智能体，使用互补指标衡量峰值与整体性能。",
+    "发现PLM擅长开放单突变生成，LLM和智能体在多突变排序更强，尤其有靶点特异性数据时。"
+  ],
+  "tags": [
+    "benchmark",
+    "protein modification",
+    "llm",
+    "agent",
+    "protein language model",
+    "evaluation",
+    "bioinformatics"
+  ],
+  "relevance_score": 9,
+  "score_reason": "直接评估LLM与智能体在蛋白质修饰任务中的表现",
+  "author": "Yawen Ouyang, Xinbo Zhang, Ziyuan Ma, Yixin Wu, Wenbin Liao, Feiran Zhang, Wenjie Li, Lihao Wang, Hao Wang, Xiaoqing Zheng, Xuefeng Yan, Lei Bai, Ya-Qin Zhang, Shuyi Zhang, Wei-Ying Ma, Dahua Lin, Bowen Zhou, Hao Zhou",
+  "published_at": "Fri, 25 Sep 2026 00:00:00 -0400",
+  "fetched_at": "2026-09-25T13:18:03.352519+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "pfarena-benchmarking-language-models-for-protein-modification"
+}

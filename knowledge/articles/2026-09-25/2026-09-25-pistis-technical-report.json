@@ -1,0 +1,34 @@
+{
+  "id": "rss-20260925-024",
+  "title": "Pistis Technical Report",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2609.28554",
+  "summary": "Pistis发布27B/9B多模态大模型，提出交错蒸馏与强化学习IDRL，强化推理与智能体能力，并引入PAH自动优化推理框架。",
+  "highlights": [
+    "提出IDRL：在单一训练循环中交替进行在线蒸馏与强化学习",
+    "发布Pistis-Thinking与Pistis-Agentic两个变体，面向深度推理与长程智能体任务",
+    "PAH无需更新模型参数即可自动优化推理框架，提升性能"
+  ],
+  "tags": [
+    "multimodal-llm",
+    "reinforcement-learning",
+    "distillation",
+    "agentic-ai",
+    "post-training",
+    "qwen",
+    "tool-use",
+    "pistis"
+  ],
+  "relevance_score": 10,
+  "score_reason": "涉及多模态LLM、强化学习与智能体训练，高度相关",
+  "author": "Heyun Chen, Xiaohan Lan, Jiaxi Li, Zhilin Lu, Qi She, Weiwen Xu, Fei Yu, Yujie Zhong, Jinghuan Chen, Zijian Feng, Siyu Jiao, Yiheng Lin, Xinhao Wang, Sihan Yang, Jieyu You, Changbin Zhang, Hengyu Zhang, Xudong Zhang, Yunqing Zhao, Shuai Zheng",
+  "published_at": "Fri, 25 Sep 2026 00:00:00 -0400",
+  "fetched_at": "2026-09-25T13:18:03.352398+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "pistis-technical-report"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "rss-20260925-023",
+  "title": "PAWS: Policy-driven Agentic World Simulation",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2609.28547",
+  "summary": "PAWS是一个政策驱动的智能体世界仿真数据集，覆盖36个美国金融政策事件、12727条新闻和65291条利益相关者行动，用于评估智能体影响与政策响应级联。",
+  "highlights": [
+    "涵盖36个美国金融政策事件、12727条政策新闻和65291条有来源的行动，支持历史对齐回放",
+    "多层事件框架表示交互模式、金融行动家族与语义属性，实体归一化并映射外部分类",
+    "回放研究表明高准确率可能掩盖稀有行动检测失败，行动时机与校准是关键挑战"
+  ],
+  "tags": [
+    "agentic simulation",
+    "multi-agent",
+    "financial dataset",
+    "policy modeling",
+    "world simulation",
+    "llm evaluation",
+    "action calibration"
+  ],
+  "relevance_score": 9,
+  "score_reason": "提出策略驱动的智能体仿真数据集，聚焦多智能体评估与校准",
+  "author": "Tiviatis Sim, Jia Hui Woon, Xinming Gao, Chen Gao, Fengbin Zhu, Zheng Huanhuan, Chua Tat Seng, Kenji Kawaguchi",
+  "published_at": "Fri, 25 Sep 2026 00:00:00 -0400",
+  "fetched_at": "2026-09-25T13:18:03.352391+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "paws-policy-driven-agentic-world-simulation"
+}

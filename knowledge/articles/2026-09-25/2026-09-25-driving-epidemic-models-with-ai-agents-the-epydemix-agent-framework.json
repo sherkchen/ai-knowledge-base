@@ -1,0 +1,33 @@
+{
+  "id": "rss-20260925-030",
+  "title": "Driving Epidemic Models with AI Agents: the Epydemix Agent Framework",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2609.28692",
+  "summary": "介绍Epydemix Agent框架，使基于LLM的AI智能体可驱动流行病模型，完成自然语言到结果全流程，提升可靠性并降低成本。",
+  "highlights": [
+    "该框架为Epydemix库增加模型发现、预防性验证、执行和结果可检查四大能力",
+    "智能体可从自然语言描述到生成量化结果、图表和解读，全程无需自定义代码",
+    "50次会话评估显示，框架在多数任务上减少了轮次、输出token和成本"
+  ],
+  "tags": [
+    "ai agents",
+    "llm",
+    "epidemic modeling",
+    "framework",
+    "scientific software",
+    "reproducibility",
+    "validation"
+  ],
+  "relevance_score": 9,
+  "score_reason": "涉及LLM智能体与科学软件集成框架，高度相关",
+  "author": "Nicol\\`o Gozzi, Ciro Cattuto, Alessandro Vespignani",
+  "published_at": "Fri, 25 Sep 2026 00:00:00 -0400",
+  "fetched_at": "2026-09-25T13:18:03.352443+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "driving-epidemic-models-with-ai-agents-the-epydemix-agent-framework"
+}

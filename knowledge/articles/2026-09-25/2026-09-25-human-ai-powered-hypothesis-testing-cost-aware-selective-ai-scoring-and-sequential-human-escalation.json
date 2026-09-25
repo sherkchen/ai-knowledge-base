@@ -1,0 +1,33 @@
+{
+  "id": "rss-20260925-035",
+  "title": "Human-AI-Powered Hypothesis Testing: Cost-Aware Selective AI Scoring and Sequential Human Escalation",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2609.28859",
+  "summary": "研究利用LLM作为评判，结合选择性人工验证，以最小成本执行有效假设检验，提出SCALE策略并匹配理论下界。",
+  "highlights": [
+    "提出SCALE顺序成本感知策略，结合选择性AI评分与自适应人工升级",
+    "推导信息论下界，刻画AI信息与人工验证的价值",
+    "数值实验显示在AI与人工各有优势时SCALE实现最大成本节省"
+  ],
+  "tags": [
+    "large language models",
+    "llm judge",
+    "hypothesis testing",
+    "cost-aware",
+    "human-in-the-loop",
+    "statistical inference",
+    "sequential decision making"
+  ],
+  "relevance_score": 9,
+  "score_reason": "涉及LLM评判、统计推断与成本优化，是AI核心议题但偏理论",
+  "author": "Dae Woong (David),  Ham, Xuejun Zhao, Stefanus Jasin, Fenghua Yang",
+  "published_at": "Fri, 25 Sep 2026 00:00:00 -0400",
+  "fetched_at": "2026-09-25T13:18:03.352482+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "human-ai-powered-hypothesis-testing-cost-aware-selective-ai-scoring-and-sequential-human-escalation"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "github-20260925-019",
+  "title": "yushengzh/awesome-ML-for-quantum",
+  "source": "github_trending",
+  "source_url": "https://github.com/yushengzh/awesome-ML-for-quantum",
+  "summary": "该仓库汇集机器学习/AI/LLM应用于量子物理任务的论文列表，聚焦AI for science。",
+  "highlights": [
+    "收集机器学习方法用于量子物理任务的论文",
+    "涵盖AI/LLM在量子科学场景中的应用",
+    "主题涉及量子计算与AI for science交叉"
+  ],
+  "tags": [
+    "machine-learning",
+    "quantum-computing",
+    "ai-for-science",
+    "ai-for-quantum",
+    "awesome-list",
+    "llm",
+    "paper-list"
+  ],
+  "relevance_score": 8,
+  "score_reason": "直接聚焦AI/ML/LLM在量子科学中的应用，学术资源性强",
+  "author": "yushengzh",
+  "published_at": "2024-09-01T23:56:03Z",
+  "fetched_at": "2026-09-25T13:18:03.352355+00:00",
+  "status": "draft",
+  "category": "other",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "yushengzh-awesome-ml-for-quantum"
+}

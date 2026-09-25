@@ -1,0 +1,34 @@
+{
+  "id": "rss-20260925-037",
+  "title": "Control the Harness, Control the Cost: Routing and Governing AI Coding Agents in the Enterprise",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2609.28919",
+  "summary": "企业AI编程代理的harness路由与成本治理，用分类器按请求标签路由，在1万席位模拟中节省14-21%模型支出。",
+  "highlights": [
+    "提出可定制路由器，用校准分类器Jev标注代理请求并路由",
+    "利用提示缓存与价格表计算切换模型时机，长工具密集会话中高价格模型可能更便宜",
+    "在1万席位企业模拟中节省14-21%模型支出，并分析20个harness风险及供应商锁定"
+  ],
+  "tags": [
+    "ai agents",
+    "coding agents",
+    "llm routing",
+    "cost optimization",
+    "enterprise ai",
+    "prompt caching",
+    "harness",
+    "governance"
+  ],
+  "relevance_score": 10,
+  "score_reason": "直接涉及LLM智能体、路由与企业成本治理，高度相关",
+  "author": "Arian Abbasi, Alan Aqrawi, Ted Kwartler",
+  "published_at": "Fri, 25 Sep 2026 00:00:00 -0400",
+  "fetched_at": "2026-09-25T13:18:03.352510+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "control-the-harness-control-the-cost-routing-and-governing-ai-coding-agents-in-the-enterprise"
+}

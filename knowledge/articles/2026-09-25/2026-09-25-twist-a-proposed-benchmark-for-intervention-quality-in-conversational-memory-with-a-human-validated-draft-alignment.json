@@ -1,0 +1,34 @@
+{
+  "id": "rss-20260925-026",
+  "title": "TWIST: A Proposed Benchmark for Intervention Quality in Conversational Memory, with a Human-Validated Draft-Alignment",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2609.28575",
+  "summary": "TWIST基准评估对话记忆系统在信念变化时的干预质量，包含四个轨道和人类验证，揭示召回与误报的权衡。",
+  "highlights": [
+    "提出TWIST基准，衡量记忆系统何时该干预、何时不该干预",
+    "四个轨道涵盖张力检测、草稿审核、当前信念回答和敏感召回治理",
+    "基线显示高召回与低误报难以兼得，检索覆盖是主要缺口"
+  ],
+  "tags": [
+    "benchmark",
+    "conversational memory",
+    "intervention quality",
+    "llm",
+    "retrieval",
+    "evaluation",
+    "ai agents",
+    "memory systems"
+  ],
+  "relevance_score": 9,
+  "score_reason": "专门评估LLM对话记忆干预质量，直接相关",
+  "author": "Subrat Panda",
+  "published_at": "Fri, 25 Sep 2026 00:00:00 -0400",
+  "fetched_at": "2026-09-25T13:18:03.352412+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "twist-a-proposed-benchmark-for-intervention-quality-in-conversational-memory-with-a-human-validated-draft-alignment"
+}

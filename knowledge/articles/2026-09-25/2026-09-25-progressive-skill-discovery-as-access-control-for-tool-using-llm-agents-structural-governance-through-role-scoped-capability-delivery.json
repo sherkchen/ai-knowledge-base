@@ -1,0 +1,34 @@
+{
+  "id": "rss-20260925-031",
+  "title": "Progressive Skill Discovery as Access Control for Tool-Using LLM Agents: Structural Governance through Role-Scoped Capability Delivery",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2609.28693",
+  "summary": "提出skilder框架，以角色打包技能、工具与指令，通过MCP服务器按需授权LLM智能体，实现工具访问硬约束与治理。",
+  "highlights": [
+    "skilder将技能、工具、指令和限制封装为角色，动态发现并交付能力",
+    "通过单一MCP服务器确定性执行工具作用域，实现硬性授权治理",
+    "在13项任务、6个模型评估中，未发生越权工具调用或参数违规"
+  ],
+  "tags": [
+    "llm agents",
+    "tool use",
+    "access control",
+    "mcp",
+    "role-based access",
+    "governance",
+    "framework",
+    "skill discovery"
+  ],
+  "relevance_score": 10,
+  "score_reason": "直接聚焦LLM智能体工具治理与MCP授权框架",
+  "author": "Michael Stettler, Benjamin Girardet, Jonas Canton, Nicolas Corod",
+  "published_at": "Fri, 25 Sep 2026 00:00:00 -0400",
+  "fetched_at": "2026-09-25T13:18:03.352451+00:00",
+  "status": "draft",
+  "category": "framework",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "progressive-skill-discovery-as-access-control-for-tool-using-llm-agents-structural-governance-through-role-scoped-capability-delivery"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "rss-20260925-028",
+  "title": "Training Object Permanence in World Models",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2609.28654",
+  "summary": "论文提出WROP数据集与基准，训练16B世界模型PWM-WROP，评估14个视频模型的对象永久性推理能力。",
+  "highlights": [
+    "提出WROP：含150个认知科学任务、150万样本的对象永久性训练语料与300题考试。",
+    "评估14个视频模型，PWM-WROP在续写模型中排名第一，总体第三。",
+    "发布数据、评测、模型权重及基于AWS Trainium2的PyTorch训练栈PWM。"
+  ],
+  "tags": [
+    "object permanence",
+    "world models",
+    "video generation",
+    "benchmark",
+    "dataset",
+    "cognitive science"
+  ],
+  "relevance_score": 9,
+  "score_reason": "涉及世界模型、视频生成与认知推理，属前沿AI研究",
+  "author": "Haotian Zhang, Fengyuan Yu, Dezhi Luo, Haoran Sun, Zehong Zhao, Qingying Gao, Yihan Li, Siyuan An, Huayi Qin, Yilan Zhang, Zhengze Jiang, Pinyuan Feng, Renrui Zhang, Ziyu Guo, Letian Wang, Mengyue Yang, Kangfu Mei, Maijunxian Wang, Ran Ji, Vikash Kumar, Freda Shi, Chandra Sripada, Vincent C. Muller, Philip Torr, Alan Yuille, Nikolaus Kriegeskorte, Felix Juefei-Xu, Lvmin Zhang, Jieneng Chen, Yilun Du, Hokin Deng",
+  "published_at": "Fri, 25 Sep 2026 00:00:00 -0400",
+  "fetched_at": "2026-09-25T13:18:03.352429+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "training-object-permanence-in-world-models"
+}

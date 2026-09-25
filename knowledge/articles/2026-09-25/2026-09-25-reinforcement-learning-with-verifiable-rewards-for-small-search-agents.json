@@ -1,0 +1,34 @@
+{
+  "id": "rss-20260925-032",
+  "title": "Reinforcement Learning with Verifiable Rewards for Small Search Agents",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2609.28765",
+  "summary": "研究在小模型上应用RLVR与搜索工具，发现奖励设计关键，稀疏精确匹配奖励效果差。",
+  "highlights": [
+    "Qwen3.5-0.8B结合GRPO与Wikipedia搜索在MuSiQue上训练",
+    "最佳运行精确匹配0.352，未训练基线0.092，提升3.8倍",
+    "稀疏精确匹配奖励对小模型效果最差，需专门奖励设计"
+  ],
+  "tags": [
+    "reinforcement learning",
+    "rlvr",
+    "search agent",
+    "qwen",
+    "grpo",
+    "question answering",
+    "reward shaping",
+    "small language model"
+  ],
+  "relevance_score": 10,
+  "score_reason": "论文涉及LLM训练、RLVR、搜索Agent，高度相关",
+  "author": "Gaurisankar Jayadas, Aske Plaat, \\'Alvaro Serra-G\\'omez, Sandheep P",
+  "published_at": "Fri, 25 Sep 2026 00:00:00 -0400",
+  "fetched_at": "2026-09-25T13:18:03.352460+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "reinforcement-learning-with-verifiable-rewards-for-small-search-agents"
+}

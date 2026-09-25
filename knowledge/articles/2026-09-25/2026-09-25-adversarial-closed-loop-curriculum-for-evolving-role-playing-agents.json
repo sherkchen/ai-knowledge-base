@@ -1,0 +1,33 @@
+{
+  "id": "rss-20260925-027",
+  "title": "Adversarial Closed-Loop Curriculum for Evolving Role-Playing Agents",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2609.28609",
+  "summary": "提出AdvRole框架，通过对抗上下文重写实现角色扮演智能体的闭环课程强化学习，动态生成薄弱场景，在多个基准上优于基线。",
+  "highlights": [
+    "将角色扮演强化学习从固定场景池升级为闭环课程，解决分布瓶颈",
+    "训练Rewriter用性能差距奖励生成Actor特异的困难场景",
+    "在英中三个基准及新发布的多语言基准上一致超越基线"
+  ],
+  "tags": [
+    "adversarial curriculum",
+    "role-playing agents",
+    "reinforcement learning",
+    "large language models",
+    "curriculum learning",
+    "multi-agent",
+    "nlp"
+  ],
+  "relevance_score": 9,
+  "score_reason": "LLM角色扮演智能体强化学习的核心方法，高度相关",
+  "author": "Zheng Zhang, Liu Liu, Qi Chai, Deheng Ye, Peilin Zhao, Mao Zheng, Hao Wang",
+  "published_at": "Fri, 25 Sep 2026 00:00:00 -0400",
+  "fetched_at": "2026-09-25T13:18:03.352421+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "adversarial-closed-loop-curriculum-for-evolving-role-playing-agents"
+}

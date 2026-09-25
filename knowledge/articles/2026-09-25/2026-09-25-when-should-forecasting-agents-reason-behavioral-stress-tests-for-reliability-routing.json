@@ -1,0 +1,34 @@
+{
+  "id": "rss-20260925-021",
+  "title": "When Should Forecasting Agents Reason? Behavioral Stress Tests for Reliability Routing",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2609.28475",
+  "summary": "预测智能体何时应推理？本文对可靠性路由进行行为压力测试，提出ReliabilityRoute依据可靠性特征引导机制选择。",
+  "highlights": [
+    "机制选择具有来源依赖性，结构化类比与市场先验各有所长",
+    "提出ReliabilityRoute利用覆盖度、先验锐度、证据强度等特征进行路由",
+    "滚动自适应规则在16个LLM版本上取得最佳Brier分数，但增益有限"
+  ],
+  "tags": [
+    "forecasting",
+    "llm",
+    "agents",
+    "reasoning",
+    "retrieval",
+    "reliability",
+    "routing",
+    "calibration"
+  ],
+  "relevance_score": 9,
+  "score_reason": "直接研究LLM预测智能体的推理路由与可靠性机制",
+  "author": "Yufeng Wang",
+  "published_at": "Fri, 25 Sep 2026 00:00:00 -0400",
+  "fetched_at": "2026-09-25T13:18:03.352367+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "when-should-forecasting-agents-reason-behavioral-stress-tests-for-reliability-routing"
+}

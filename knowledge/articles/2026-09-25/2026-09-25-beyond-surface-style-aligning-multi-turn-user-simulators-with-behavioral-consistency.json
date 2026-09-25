@@ -1,0 +1,34 @@
+{
+  "id": "rss-20260925-029",
+  "title": "Beyond Surface Style: Aligning Multi-Turn User Simulators with Behavioral Consistency",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2609.28690",
+  "summary": "提出TRACER多轮用户模拟器，通过监督微调与多轮强化学习对齐真实交互行为，提升转化预测，并推出动态营销基准评估LLM说服力。",
+  "highlights": [
+    "TRACER显式建模用户意图演化，结合SFT与多轮强化学习对齐真实交互轨迹。",
+    "在客服数据上，TRACER-7B较最强基线转化F1提升11.4，拟人度接近随机。",
+    "提出Dynamic Marketing Benchmark，揭示响应质量高并不等于转化率高。"
+  ],
+  "tags": [
+    "user simulator",
+    "multi-turn reinforcement learning",
+    "llm evaluation",
+    "behavioral consistency",
+    "dialogue systems",
+    "benchmark",
+    "reinforcement learning",
+    "conversational ai"
+  ],
+  "relevance_score": 10,
+  "score_reason": "涉及LLM、强化学习与智能体评估，高度相关",
+  "author": "Geng Chen, Ruotong Pan, Zhirui Yang, Qiqi He, Jiawei Chen, Zhang Yunfei, Chongyuan Chen, Minxuan Lv, Zheng Yang, Win-Bin Huang, Xiangyu Wu, Wenwu Ou",
+  "published_at": "Fri, 25 Sep 2026 00:00:00 -0400",
+  "fetched_at": "2026-09-25T13:18:03.352435+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "beyond-surface-style-aligning-multi-turn-user-simulators-with-behavioral-consistency"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "rss-20260925-034",
+  "title": "Learned Cross-Task Relationships in Multi-Task Models",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2609.28776",
+  "summary": "提出在多任务模型中学习跨任务关系，通过成对关系近似联合分布，提升迁移学习与信息提取，已在YouTube推荐系统验证。",
+  "highlights": [
+    "通过成对任务关系近似联合标签分布，避免全联合空间复杂度",
+    "框架适用于任意多任务系统，并在YouTube通知、首页、Watch Next推荐中验证",
+    "提升准确性及用户满意度，并提供工作流模板以推广实施"
+  ],
+  "tags": [
+    "multi-task learning",
+    "recommendation systems",
+    "transfer learning",
+    "cross-task relationships",
+    "youtube",
+    "machine learning"
+  ],
+  "relevance_score": 7,
+  "score_reason": "多任务学习与推荐系统属于重要AI应用，但非LLM/Agent核心",
+  "author": "Victor Zhang, Yiping Yuan, Florian Raudies, Bosun Adeoti, Brian Y. C. Leung, Sanjay Surendranath Girija, Naijing Zhang",
+  "published_at": "Fri, 25 Sep 2026 00:00:00 -0400",
+  "fetched_at": "2026-09-25T13:18:03.352475+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "learned-cross-task-relationships-in-multi-task-models"
+}

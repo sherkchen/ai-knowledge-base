@@ -1,0 +1,34 @@
+{
+  "id": "rss-20260925-033",
+  "title": "Agent Memory with Episodic Retrieval for Financial Decision-Making",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2609.28771",
+  "summary": "提出META，首个RAG式情景记忆多智能体金融交易框架，融合指标代理与决策代理，提升短期方向准确性与稳健性。",
+  "highlights": [
+    "META是首个RAG式情景记忆增强的多智能体金融决策框架",
+    "集成趋势、MACD、RSI等指标代理与决策代理，自适应重加权信号",
+    "通过检索相似市场状态的历史片段，实现制度感知和低延迟决策"
+  ],
+  "tags": [
+    "llm",
+    "agents",
+    "episodic-memory",
+    "rag",
+    "financial-trading",
+    "multi-agent",
+    "finance",
+    "arxiv"
+  ],
+  "relevance_score": 9,
+  "score_reason": "涉及LLM智能体、RAG记忆与多智能体框架，高度相关",
+  "author": "Nuoyue Xu, Jiang Liu, Wenxuan Huang, Xiang Zhang, Juntai Cao, Jiaqi Wei",
+  "published_at": "Fri, 25 Sep 2026 00:00:00 -0400",
+  "fetched_at": "2026-09-25T13:18:03.352468+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "agent-memory-with-episodic-retrieval-for-financial-decision-making"
+}

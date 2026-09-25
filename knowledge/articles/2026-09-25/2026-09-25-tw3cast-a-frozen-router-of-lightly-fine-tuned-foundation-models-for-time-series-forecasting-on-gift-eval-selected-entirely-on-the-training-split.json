@@ -1,0 +1,33 @@
+{
+  "id": "rss-20260925-022",
+  "title": "TW3Cast: A Frozen Router of Lightly Fine-Tuned Foundation Models for Time-Series Forecasting on GIFT-Eval, Selected Entirely on the Training Split",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2609.28506",
+  "summary": "TW3Cast用轻量微调基础模型和冻结路由表在GIFT-Eval时间序列预测排名第三，不含智能体或语言模型。",
+  "highlights": [
+    "在GIFT-Eval基准130个条目中排名第三，均值MASE排名达到19.4",
+    "路由器表基于训练集一次性选定并冻结，专家为Chronos-2、TiRex、Toto等公开基础模型轻量微调",
+    "采用三种防护机制减少选择偏差，并支持一键脚本复现排行榜结果"
+  ],
+  "tags": [
+    "time-series-forecasting",
+    "foundation-models",
+    "lora",
+    "benchmark",
+    "router",
+    "gift-eval",
+    "frozen-routing"
+  ],
+  "relevance_score": 7,
+  "score_reason": "涉及基础模型微调与路由选择，但明确不含LLM或Agent",
+  "author": "Nathan Thierry, Andre-Louis Rochet",
+  "published_at": "Fri, 25 Sep 2026 00:00:00 -0400",
+  "fetched_at": "2026-09-25T13:18:03.352376+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "tw3cast-a-frozen-router-of-lightly-fine-tuned-foundation-models-for-time-series-forecasting-on-gift-eval-selected-entirely-on-the-training-split"
+}
