@@ -1,0 +1,33 @@
+{
+  "id": "rss-20261002-020",
+  "title": "Vote on which of Hacker News' challenges for AI have been met",
+  "source": "rss_feed",
+  "source_url": "https://stoppels.ch/goalposts/",
+  "summary": "Hacker News上AI挑战目标投票页面，用户评判各项AI能力是否已达成。",
+  "highlights": [
+    "聚合Hacker News中提出的AI挑战目标",
+    "用户可投票判断AI是否已达成各项挑战",
+    "HN讨论热度为175分、211条评论"
+  ],
+  "tags": [
+    "ai",
+    "hackernews",
+    "challenges",
+    "benchmark",
+    "voting",
+    "llm",
+    "goalposts"
+  ],
+  "relevance_score": 9,
+  "score_reason": "直接讨论AI能力达成情况，与AI/LLM进展高度相关",
+  "author": "stabbles",
+  "published_at": "Thu, 01 Oct 2026 17:32:43 +0000",
+  "fetched_at": "2026-10-02T14:29:41.523466+00:00",
+  "status": "draft",
+  "category": "other",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "vote-on-which-of-hacker-news-challenges-for-ai-have-been-met"
+}

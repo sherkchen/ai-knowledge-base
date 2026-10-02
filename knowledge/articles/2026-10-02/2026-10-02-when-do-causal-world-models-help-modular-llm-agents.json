@@ -1,0 +1,32 @@
+{
+  "id": "rss-20261002-022",
+  "title": "When Do Causal World Models Help Modular LLM Agents",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2610.00012",
+  "summary": "研究因果世界模型何时有助于模块化LLM智能体，提出FedCausalCompose框架，发现结构化工具环境中因果接口帮助最大。",
+  "highlights": [
+    "提出FedCausalCompose框架，用局部干预响应证据恢复跨模块因果接口",
+    "观测世界模型在未阻塞后门路径下存在不可消除的干预误差",
+    "因果接口在结构化工具环境中帮助最大，对话/叙事环境需短注意力锚才有效"
+  ],
+  "tags": [
+    "causal-inference",
+    "world-models",
+    "llm-agents",
+    "modular-architecture",
+    "tool-use",
+    "intervention"
+  ],
+  "relevance_score": 10,
+  "score_reason": "直接研究LLM智能体与因果世界模型，高度相关",
+  "author": "Xinyuan Song, Zekun Cai",
+  "published_at": "Fri, 02 Oct 2026 00:00:00 -0400",
+  "fetched_at": "2026-10-02T14:29:41.523487+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "when-do-causal-world-models-help-modular-llm-agents"
+}

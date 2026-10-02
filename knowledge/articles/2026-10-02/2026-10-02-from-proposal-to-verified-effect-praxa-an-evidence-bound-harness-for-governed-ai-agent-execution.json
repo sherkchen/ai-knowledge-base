@@ -1,0 +1,34 @@
+{
+  "id": "rss-20261002-023",
+  "title": "From Proposal to Verified Effect: Praxa, an Evidence-Bound Harness for Governed AI Agent Execution",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2610.00015",
+  "summary": "Praxa是治理AI智能体执行的证据界定框架，显式区分提议、授权、调度、外部效果验证与提升，现有证据未证明优势。",
+  "highlights": [
+    "Praxa显式建模提议、授权、调度、验证与提升的状态转换",
+    "基准测试中可靠性层多消耗37%输入和51%输出token，未显示优越性",
+    "现有证据不证明对抗安全、生产安全或用户收益"
+  ],
+  "tags": [
+    "praxa",
+    "ai agents",
+    "llm",
+    "governance",
+    "agent harness",
+    "evidence-bound",
+    "verification",
+    "arxiv"
+  ],
+  "relevance_score": 9,
+  "score_reason": "直接涉及LLM智能体执行与治理，属核心主题",
+  "author": "Stefan G. Creadore",
+  "published_at": "Fri, 02 Oct 2026 00:00:00 -0400",
+  "fetched_at": "2026-10-02T14:29:41.523499+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "from-proposal-to-verified-effect-praxa-an-evidence-bound-harness-for-governed-ai-agent-execution"
+}

@@ -1234,6 +1234,96 @@
       "fetched_at": "2026-09-25T13:18:03.352510+00:00"
     },
     {
+      "id": "github-20261002-004",
+      "title": "ruankie/ecrivai",
+      "category": "tool",
+      "slug": "ruankie-ecrivai",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-10-02T14:29:41.523320+00:00"
+    },
+    {
+      "id": "github-20261002-005",
+      "title": "Md-Emon-Hasan/MediGenius",
+      "category": "tool",
+      "slug": "md-emon-hasan-medigenius",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-10-02T14:29:41.523330+00:00"
+    },
+    {
+      "id": "github-20261002-011",
+      "title": "ankitsharma-tech/Polyagent-Research-Intelligence",
+      "category": "tool",
+      "slug": "ankitsharma-tech-polyagent-research-intelligence",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-10-02T14:29:41.523394+00:00"
+    },
+    {
+      "id": "github-20261002-012",
+      "title": "BjornMelin/polyagent-research-intelligence",
+      "category": "tool",
+      "slug": "bjornmelin-polyagent-research-intelligence",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-10-02T14:29:41.523402+00:00"
+    },
+    {
+      "id": "github-20261002-016",
+      "title": "richer-richard/socratic-council",
+      "category": "tool",
+      "slug": "richer-richard-socratic-council",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-10-02T14:29:41.523433+00:00"
+    },
+    {
+      "id": "rss-20261002-021",
+      "title": "Heavy-Tailed Memory Traces in Long-Horizon Language Agents",
+      "category": "paper",
+      "slug": "heavy-tailed-memory-traces-in-long-horizon-language-agents",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-10-02T14:29:41.523477+00:00"
+    },
+    {
+      "id": "rss-20261002-022",
+      "title": "When Do Causal World Models Help Modular LLM Agents",
+      "category": "paper",
+      "slug": "when-do-causal-world-models-help-modular-llm-agents",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-10-02T14:29:41.523487+00:00"
+    },
+    {
+      "id": "rss-20261002-025",
+      "title": "Measuring the Microtask Eligibility Gap: When Is an Off-the-Shelf SLM Enough for an Agent Harness?",
+      "category": "paper",
+      "slug": "measuring-the-microtask-eligibility-gap-when-is-an-off-the-shelf-slm-enough-for-an-agent-harness",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-10-02T14:29:41.523521+00:00"
+    },
+    {
+      "id": "rss-20261002-028",
+      "title": "K-Dense BYOK: An Open-Source AI Research Assistant That Runs Locally and Keeps a Hash-Chained Lab Notebook",
+      "category": "paper",
+      "slug": "k-dense-byok-an-open-source-ai-research-assistant-that-runs-locally-and-keeps-a-hash-chained-lab-notebook",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-10-02T14:29:41.523552+00:00"
+    },
+    {
+      "id": "rss-20261002-035",
+      "title": "Rules to Tools: Executable Checks for LLM Agents in Scientific Computing",
+      "category": "paper",
+      "slug": "rules-to-tools-executable-checks-for-llm-agents-in-scientific-computing",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-10-02T14:29:41.523627+00:00"
+    },
+    {
       "id": "github-20260616-001",
       "title": "nitefood/ai-bash",
       "category": "tool",
@@ -3115,6 +3205,159 @@
       "fetched_at": "2026-09-25T13:18:03.352519+00:00"
     },
     {
+      "id": "github-20261002-001",
+      "title": "tianlinxu312/Everything-about-LLMs",
+      "category": "other",
+      "slug": "tianlinxu312-everything-about-llms",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-10-02T14:29:41.521228+00:00"
+    },
+    {
+      "id": "github-20261002-002",
+      "title": "shibing624/ai-paper-analysis",
+      "category": "research",
+      "slug": "shibing624-ai-paper-analysis",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-10-02T14:29:41.523289+00:00"
+    },
+    {
+      "id": "github-20261002-003",
+      "title": "nitefood/ai-bash",
+      "category": "tool",
+      "slug": "nitefood-ai-bash",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-10-02T14:29:41.523308+00:00"
+    },
+    {
+      "id": "github-20261002-008",
+      "title": "kael-bit/engram-rs",
+      "category": "tool",
+      "slug": "kael-bit-engram-rs",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-10-02T14:29:41.523358+00:00"
+    },
+    {
+      "id": "github-20261002-009",
+      "title": "mchittineni/ultimate-ai-engineering-guide",
+      "category": "other",
+      "slug": "mchittineni-ultimate-ai-engineering-guide",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-10-02T14:29:41.523375+00:00"
+    },
+    {
+      "id": "github-20261002-015",
+      "title": "billy-enrizky/crewai-research-assistant",
+      "category": "tool",
+      "slug": "billy-enrizky-crewai-research-assistant",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-10-02T14:29:41.523425+00:00"
+    },
+    {
+      "id": "github-20261002-019",
+      "title": "crabfeather/PaperLens-AI",
+      "category": "tool",
+      "slug": "crabfeather-paperlens-ai",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-10-02T14:29:41.523458+00:00"
+    },
+    {
+      "id": "rss-20261002-020",
+      "title": "Vote on which of Hacker News' challenges for AI have been met",
+      "category": "other",
+      "slug": "vote-on-which-of-hacker-news-challenges-for-ai-have-been-met",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-10-02T14:29:41.523466+00:00"
+    },
+    {
+      "id": "rss-20261002-023",
+      "title": "From Proposal to Verified Effect: Praxa, an Evidence-Bound Harness for Governed AI Agent Execution",
+      "category": "paper",
+      "slug": "from-proposal-to-verified-effect-praxa-an-evidence-bound-harness-for-governed-ai-agent-execution",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-10-02T14:29:41.523499+00:00"
+    },
+    {
+      "id": "rss-20261002-024",
+      "title": "What Do Rationales Communicate? A Message-Intervention Study in Role-Specialized QA",
+      "category": "paper",
+      "slug": "what-do-rationales-communicate-a-message-intervention-study-in-role-specialized-qa",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-10-02T14:29:41.523510+00:00"
+    },
+    {
+      "id": "rss-20261002-026",
+      "title": "Characterizing a Configuration Where Inference-Time PRM-Pruned Fragment Grafting Is Inert: Evidence from Three Reasoning LMs",
+      "category": "paper",
+      "slug": "characterizing-a-configuration-where-inference-time-prm-pruned-fragment-grafting-is-inert-evidence-from-three-reasoning-lms",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-10-02T14:29:41.523532+00:00"
+    },
+    {
+      "id": "rss-20261002-027",
+      "title": "Gradient-Aligned Pair Selection for Personalized Preference Optimization",
+      "category": "paper",
+      "slug": "gradient-aligned-pair-selection-for-personalized-preference-optimization",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-10-02T14:29:41.523543+00:00"
+    },
+    {
+      "id": "rss-20261002-029",
+      "title": "Scientific Agents: Evaluating Profession-Specific System Prompts on Scientific Tasks",
+      "category": "paper",
+      "slug": "scientific-agents-evaluating-profession-specific-system-prompts-on-scientific-tasks",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-10-02T14:29:41.523566+00:00"
+    },
+    {
+      "id": "rss-20261002-031",
+      "title": "EviGraph: Proof-Carrying Selective Recommendation over Temporal Public-Service Knowledge Graphs",
+      "category": "paper",
+      "slug": "evigraph-proof-carrying-selective-recommendation-over-temporal-public-service-knowledge-graphs",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-10-02T14:29:41.523586+00:00"
+    },
+    {
+      "id": "rss-20261002-032",
+      "title": "Build2SPARQL: A Large-Scale Text-to-SPARQL Benchmark Dataset for Building Knowledge Graph Querying",
+      "category": "paper",
+      "slug": "build2sparql-a-large-scale-text-to-sparql-benchmark-dataset-for-building-knowledge-graph-querying",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-10-02T14:29:41.523596+00:00"
+    },
+    {
+      "id": "rss-20261002-034",
+      "title": "Knowing When to Yield: Grounded Arbitration of User Corrections in Text-Based Embodied Agents",
+      "category": "paper",
+      "slug": "knowing-when-to-yield-grounded-arbitration-of-user-corrections-in-text-based-embodied-agents",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-10-02T14:29:41.523617+00:00"
+    },
+    {
+      "id": "rss-20261002-036",
+      "title": "Mathematical Transfer in LLMs Follows Reasoning Approach More Than Topic",
+      "category": "paper",
+      "slug": "mathematical-transfer-in-llms-follows-reasoning-approach-more-than-topic",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-10-02T14:29:41.523637+00:00"
+    },
+    {
       "id": "github-20260616-009",
       "title": "SukritiC/ai-mastery-hub",
       "category": "other",
@@ -3637,6 +3880,69 @@
       "fetched_at": "2026-09-25T13:18:03.352355+00:00"
     },
     {
+      "id": "github-20261002-006",
+      "title": "SpreadSheets600/TidyTabs",
+      "category": "tool",
+      "slug": "spreadsheets600-tidytabs",
+      "relevance_score": 8,
+      "status": "draft",
+      "fetched_at": "2026-10-02T14:29:41.523338+00:00"
+    },
+    {
+      "id": "github-20261002-007",
+      "title": "MADEVAL/AngleCraft",
+      "category": "tool",
+      "slug": "madeval-anglecraft",
+      "relevance_score": 8,
+      "status": "draft",
+      "fetched_at": "2026-10-02T14:29:41.523347+00:00"
+    },
+    {
+      "id": "github-20261002-010",
+      "title": "akshaymittal143/CloudyBot-DevOps-AI",
+      "category": "tool",
+      "slug": "akshaymittal143-cloudybot-devops-ai",
+      "relevance_score": 8,
+      "status": "draft",
+      "fetched_at": "2026-10-02T14:29:41.523385+00:00"
+    },
+    {
+      "id": "github-20261002-013",
+      "title": "rasmurtech/DeepSeekDeepResearch",
+      "category": "tool",
+      "slug": "rasmurtech-deepseekdeepresearch",
+      "relevance_score": 8,
+      "status": "draft",
+      "fetched_at": "2026-10-02T14:29:41.523410+00:00"
+    },
+    {
+      "id": "github-20261002-017",
+      "title": "yushengzh/awesome-ML-for-quantum",
+      "category": "other",
+      "slug": "yushengzh-awesome-ml-for-quantum",
+      "relevance_score": 8,
+      "status": "draft",
+      "fetched_at": "2026-10-02T14:29:41.523440+00:00"
+    },
+    {
+      "id": "github-20261002-018",
+      "title": "Om22210564/AI-Memory-Tree-Branchable-LLM-Conversations",
+      "category": "tool",
+      "slug": "om22210564-ai-memory-tree-branchable-llm-conversations",
+      "relevance_score": 8,
+      "status": "draft",
+      "fetched_at": "2026-10-02T14:29:41.523448+00:00"
+    },
+    {
+      "id": "rss-20261002-030",
+      "title": "Comedic Fool's Gold: Reward Exploits and Countermeasures in Conversational Humor",
+      "category": "paper",
+      "slug": "comedic-fool-s-gold-reward-exploits-and-countermeasures-in-conversational-humor",
+      "relevance_score": 8,
+      "status": "draft",
+      "fetched_at": "2026-10-02T14:29:41.523576+00:00"
+    },
+    {
       "id": "rss-20260616-023",
       "title": "Hyperdimensional computing for structured querying on tabular data embeddings",
       "category": "paper",
@@ -3826,6 +4132,24 @@
       "fetched_at": "2026-09-25T13:18:03.352475+00:00"
     },
     {
+      "id": "github-20261002-014",
+      "title": "JacKaL37/TheHardProblem",
+      "category": "research",
+      "slug": "jackal37-thehardproblem",
+      "relevance_score": 7,
+      "status": "draft",
+      "fetched_at": "2026-10-02T14:29:41.523418+00:00"
+    },
+    {
+      "id": "rss-20261002-033",
+      "title": "Robust Is Salient: An Informed Adversary Moves the Optimal Signal onto the Salience Pole",
+      "category": "paper",
+      "slug": "robust-is-salient-an-informed-adversary-moves-the-optimal-signal-onto-the-salience-pole",
+      "relevance_score": 7,
+      "status": "draft",
+      "fetched_at": "2026-10-02T14:29:41.523606+00:00"
+    },
+    {
       "id": "rss-20260703-016",
       "title": "Liva AI (YC S25) Is Hiring",
       "category": "other",
@@ -3871,6 +4195,6 @@
       "fetched_at": "2026-06-26T10:55:22.327694+00:00"
     }
   ],
-  "total_count": 430,
-  "updated_at": "2026-09-25T13:18:03.358576+00:00"
+  "total_count": 466,
+  "updated_at": "2026-10-02T14:29:41.531761+00:00"
 }

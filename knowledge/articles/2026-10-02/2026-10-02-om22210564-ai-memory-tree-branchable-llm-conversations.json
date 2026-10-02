@@ -1,0 +1,34 @@
+{
+  "id": "github-20261002-018",
+  "title": "Om22210564/AI-Memory-Tree-Branchable-LLM-Conversations",
+  "source": "github_trending",
+  "source_url": "https://github.com/Om22210564/AI-Memory-Tree-Branchable-LLM-Conversations",
+  "summary": "AI聊天原型，以树状结构存储对话，支持分支和重访，避免上下文污染。",
+  "highlights": [
+    "树状对话存储，支持分支与重访",
+    "基于FastAPI、React+vite和Groq LLM构建",
+    "旨在避免上下文污染，便于探索不同话题"
+  ],
+  "tags": [
+    "ai",
+    "llm",
+    "chatbot",
+    "memory-tree",
+    "context-management",
+    "fastapi",
+    "react",
+    "groq"
+  ],
+  "relevance_score": 8,
+  "score_reason": "LLM对话记忆树与上下文管理直接相关",
+  "author": "Om22210564",
+  "published_at": "2026-01-15T10:14:04Z",
+  "fetched_at": "2026-10-02T14:29:41.523448+00:00",
+  "status": "draft",
+  "category": "tool",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "om22210564-ai-memory-tree-branchable-llm-conversations"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "rss-20261002-026",
+  "title": "Characterizing a Configuration Where Inference-Time PRM-Pruned Fragment Grafting Is Inert: Evidence from Three Reasoning LMs",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2610.00047",
+  "summary": "论文研究推理时PRM剪枝片段嫁接在三种推理LM上无效，与独立并行CoT基线无显著差异，并分析原因。",
+  "highlights": [
+    "PRM剪枝片段嫁接在Qwen2.5-7B等三种推理LM上与独立并行CoT基线统计等价",
+    "322次停滞规则注入中仅14%针对真正困难链，其余已完成、接近完成或处于PRM平台期",
+    "提出等价性检验模板，用于确立推理时机制无效结论"
+  ],
+  "tags": [
+    "process reward model",
+    "inference-time",
+    "chain-of-thought",
+    "reasoning",
+    "llm",
+    "fragment grafting",
+    "equivalence testing"
+  ],
+  "relevance_score": 9,
+  "score_reason": "涉及PRM、推理时干预、LLM推理，高度相关",
+  "author": "Khawaja Murad ul Hassan, Mehran Ebrahimi",
+  "published_at": "Fri, 02 Oct 2026 00:00:00 -0400",
+  "fetched_at": "2026-10-02T14:29:41.523532+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "characterizing-a-configuration-where-inference-time-prm-pruned-fragment-grafting-is-inert-evidence-from-three-reasoning-lms"
+}

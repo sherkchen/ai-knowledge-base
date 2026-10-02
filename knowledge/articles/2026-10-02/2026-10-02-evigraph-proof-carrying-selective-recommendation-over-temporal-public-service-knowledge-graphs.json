@@ -1,0 +1,33 @@
+{
+  "id": "rss-20261002-031",
+  "title": "EviGraph: Proof-Carrying Selective Recommendation over Temporal Public-Service Knowledge Graphs",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2610.00212",
+  "summary": "EviGraph区分关键决策要求与可未决信息，语言智能体链接时序知识图谱证据，确定性检查器判定推荐支持，减少不必要弃答。",
+  "highlights": [
+    "区分关键决策要求与可未决信息，避免过度弃答",
+    "语言智能体关联时序知识图谱证据，由确定性检查器验证支持",
+    "在双语香港公共服务基准评估，额外验证可能撤回有效推荐而不提升决策质量"
+  ],
+  "tags": [
+    "arxiv",
+    "knowledge-graph",
+    "recommendation",
+    "llm-agent",
+    "verification",
+    "temporal-knowledge-graph",
+    "public-service"
+  ],
+  "relevance_score": 9,
+  "score_reason": "涉及语言智能体、知识图谱与验证，AI相关度高",
+  "author": "Yixi Zhou, Sikun Wang, Lei Fan, Fan Zhang",
+  "published_at": "Fri, 02 Oct 2026 00:00:00 -0400",
+  "fetched_at": "2026-10-02T14:29:41.523586+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "evigraph-proof-carrying-selective-recommendation-over-temporal-public-service-knowledge-graphs"
+}

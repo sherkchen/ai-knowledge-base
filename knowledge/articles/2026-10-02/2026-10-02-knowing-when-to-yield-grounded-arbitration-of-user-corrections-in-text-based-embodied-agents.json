@@ -1,0 +1,34 @@
+{
+  "id": "rss-20261002-034",
+  "title": "Knowing When to Yield: Grounded Arbitration of User Corrections in Text-Based Embodied Agents",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2610.00282",
+  "summary": "提出GAVA，在文本ALFWorld中对用户纠错进行接地仲裁，局部检查实现100%精度，语义先验降低交互成本，但不证明环境信息价值优于澄清。",
+  "highlights": [
+    "GAVA将校正仲裁定义为接受、拒绝、检查环境和询问用户的选择",
+    "在ALFWorld 162检查点972干预中，完整局部检查达到100%校正准确率",
+    "语义先验在未见场景降低交互成本，并在77检查点308场景中复现"
+  ],
+  "tags": [
+    "embodied agents",
+    "grounded arbitration",
+    "user corrections",
+    "alfworld",
+    "llm agents",
+    "value of information",
+    "clarification",
+    "semantic priors"
+  ],
+  "relevance_score": 9,
+  "score_reason": "具身代理与用户校正仲裁，属于LLM代理核心交互研究",
+  "author": "Yezhou Cheng, Runjia Du, Zeming Liu, Hang Lyu, Zehua Yang, Bojun Lin",
+  "published_at": "Fri, 02 Oct 2026 00:00:00 -0400",
+  "fetched_at": "2026-10-02T14:29:41.523617+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "knowing-when-to-yield-grounded-arbitration-of-user-corrections-in-text-based-embodied-agents"
+}

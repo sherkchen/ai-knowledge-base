@@ -1,0 +1,34 @@
+{
+  "id": "github-20261002-003",
+  "title": "nitefood/ai-bash",
+  "source": "github_trending",
+  "source_url": "https://github.com/nitefood/ai-bash",
+  "summary": "AI-Bash：命令行LLM聊天客户端，支持OpenAI兼容API及多模型、会话管理和stdin文件输入。",
+  "highlights": [
+    "支持任何本地或远程OpenAI兼容API端点",
+    "支持GPT-4o、Gemini、Grok、Ollama、LM Studio等模型",
+    "支持多会话、模型与系统提示管理、stdin管道发送文件"
+  ],
+  "tags": [
+    "ai",
+    "bash",
+    "llm",
+    "chatbot",
+    "openai-compatible",
+    "command-line",
+    "shell",
+    "cli"
+  ],
+  "relevance_score": 9,
+  "score_reason": "直接面向LLM的聊天客户端，功能丰富但较简单",
+  "author": "nitefood",
+  "published_at": "2023-03-13T00:31:40Z",
+  "fetched_at": "2026-10-02T14:29:41.523308+00:00",
+  "status": "draft",
+  "category": "tool",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "nitefood-ai-bash"
+}

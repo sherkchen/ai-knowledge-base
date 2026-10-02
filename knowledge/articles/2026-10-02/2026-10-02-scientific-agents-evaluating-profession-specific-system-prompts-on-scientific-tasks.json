@@ -1,0 +1,34 @@
+{
+  "id": "rss-20261002-029",
+  "title": "Scientific Agents: Evaluating Profession-Specific System Prompts on Scientific Tasks",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2610.00084",
+  "summary": "研究评估503个专业AGENTS.md提示对科学任务的影响，发现专业提示增加token和成本但准确率无一致提升。",
+  "highlights": [
+    "专业提示与基线准确率差异为-0.6个百分点，无统计显著提升",
+    "专业提示输出token为基线的1.5-2.3倍，成本为2.2-4.5倍",
+    "在BioMysteryBench工具任务中，专业提示解决率低10个百分点"
+  ],
+  "tags": [
+    "scientific agents",
+    "system prompts",
+    "llm evaluation",
+    "agents.md",
+    "benchmark",
+    "cost efficiency",
+    "prompt engineering",
+    "arxiv"
+  ],
+  "relevance_score": 9,
+  "score_reason": "直接评估LLM系统提示对Agent任务准确率与成本的影响",
+  "author": "Timothy Kassis",
+  "published_at": "Fri, 02 Oct 2026 00:00:00 -0400",
+  "fetched_at": "2026-10-02T14:29:41.523566+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "scientific-agents-evaluating-profession-specific-system-prompts-on-scientific-tasks"
+}

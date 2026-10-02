@@ -1,0 +1,33 @@
+{
+  "id": "rss-20261002-033",
+  "title": "Robust Is Salient: An Informed Adversary Moves the Optimal Signal onto the Salience Pole",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2610.00233",
+  "summary": "研究显示有知情对手时，最优信号与显著性极点一致；对抗改变语言模型选项但无法区分原因。",
+  "highlights": [
+    "108项确认中，对抗鲁棒最优与显著性极点完全一致。",
+    "20万项池仅2748项差异，均位于显著性到贝叶斯坐标未定义处。",
+    "七种语言模型在对抗框架下30至77项选择变化，但无法区分是对手意识还是显著性驱动。"
+  ],
+  "tags": [
+    "adversarial robustness",
+    "salience",
+    "language models",
+    "signaling game",
+    "bayesian inference",
+    "persuasion",
+    "game theory"
+  ],
+  "relevance_score": 7,
+  "score_reason": "涉及语言模型与对抗鲁棒性，但核心为信号博弈理论。",
+  "author": "Cris Huynh",
+  "published_at": "Fri, 02 Oct 2026 00:00:00 -0400",
+  "fetched_at": "2026-10-02T14:29:41.523606+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "robust-is-salient-an-informed-adversary-moves-the-optimal-signal-onto-the-salience-pole"
+}

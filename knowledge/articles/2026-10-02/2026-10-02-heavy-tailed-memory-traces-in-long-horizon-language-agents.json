@@ -1,0 +1,34 @@
+{
+  "id": "rss-20261002-021",
+  "title": "Heavy-Tailed Memory Traces in Long-Horizon Language Agents",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2610.00010",
+  "summary": "长时程语言智能体记忆检索呈重尾分布，论文提出CTWM秩控记忆控制器，在保持覆盖的同时节省token并降低尾部预测误差。",
+  "highlights": [
+    "审计发现LLM策略下记忆检索呈截断幂律重尾分布",
+    "提出Core-Tail World Model (CTWM)，以单一指数分配提示预算并保留摘要尾部",
+    "在Synthetic Graph World、ALFWorld和LongMemEval上实现token节省且精度持平"
+  ],
+  "tags": [
+    "memory",
+    "language agents",
+    "heavy-tailed",
+    "world model",
+    "token efficiency",
+    "llm",
+    "retrieval",
+    "arxiv"
+  ],
+  "relevance_score": 10,
+  "score_reason": "直接研究LLM智能体的记忆与token效率，并提出新的世界模型控制器。",
+  "author": "Xinyuan Song, Zekun Cai",
+  "published_at": "Fri, 02 Oct 2026 00:00:00 -0400",
+  "fetched_at": "2026-10-02T14:29:41.523477+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "heavy-tailed-memory-traces-in-long-horizon-language-agents"
+}

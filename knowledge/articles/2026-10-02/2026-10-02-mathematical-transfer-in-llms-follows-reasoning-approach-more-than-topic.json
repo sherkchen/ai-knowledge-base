@@ -1,0 +1,33 @@
+{
+  "id": "rss-20261002-036",
+  "title": "Mathematical Transfer in LLMs Follows Reasoning Approach More Than Topic",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2610.00331",
+  "summary": "研究发现LLM数学迁移中，推理方法比主题更有效，相同方法跨主题迁移优于同主题不同方法。",
+  "highlights": [
+    "采用两个2×2设计，对比主题匹配与推理方法匹配对迁移效果的影响。",
+    "在全部40个模型-目标比较中，同方法迁移均优于同主题迁移。",
+    "同主题源在嵌入和词法上更相似，但迁移优势仍属于推理方法。"
+  ],
+  "tags": [
+    "llm",
+    "mathematical reasoning",
+    "transfer learning",
+    "fine-tuning",
+    "data selection",
+    "reasoning approach",
+    "arxiv"
+  ],
+  "relevance_score": 9,
+  "score_reason": "直接研究LLM推理迁移与训练数据选择",
+  "author": "Sajad Goudarzi, Samaneh Zamanifard, Seyed Amin Seyed Haeri, Moloud Nasiri, Hamed Rahimian",
+  "published_at": "Fri, 02 Oct 2026 00:00:00 -0400",
+  "fetched_at": "2026-10-02T14:29:41.523637+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "mathematical-transfer-in-llms-follows-reasoning-approach-more-than-topic"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "rss-20261002-024",
+  "title": "What Do Rationales Communicate? A Message-Intervention Study in Role-Specialized QA",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2610.00018",
+  "summary": "论文研究QA流程中理由传递对验证器的影响：忠实理由几乎不提升答案准确率，但破坏性理由显著影响支持判断，应作为验证消息机制评估。",
+  "highlights": [
+    "忠实理由相比无理由几乎不增加答案准确率",
+    "破坏性理由显著改变验证器支持判断，显式检查提示放大至34-55%",
+    "人类审计发现模型接受人类会拒绝的破坏性理由，存在过度信任"
+  ],
+  "tags": [
+    "rationale",
+    "qa",
+    "llm",
+    "verifier",
+    "reasoning",
+    "multi-hop",
+    "agent",
+    "interpretability"
+  ],
+  "relevance_score": 9,
+  "score_reason": "研究LLM推理理由传递与验证器机制，直接相关Agent与QA",
+  "author": "Jiameng Zhang, Hongqiu Wu",
+  "published_at": "Fri, 02 Oct 2026 00:00:00 -0400",
+  "fetched_at": "2026-10-02T14:29:41.523510+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "what-do-rationales-communicate-a-message-intervention-study-in-role-specialized-qa"
+}

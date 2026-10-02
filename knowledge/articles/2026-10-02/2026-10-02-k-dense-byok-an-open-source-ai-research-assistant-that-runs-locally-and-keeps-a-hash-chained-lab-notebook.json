@@ -1,0 +1,34 @@
+{
+  "id": "rss-20261002-028",
+  "title": "K-Dense BYOK: An Open-Source AI Research Assistant That Runs Locally and Keeps a Hash-Chained Lab Notebook",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2610.00074",
+  "summary": "K-Dense BYOK 是一个开源本地AI研究助手，可自带密钥，提供科学脚手架、活实验记录和防篡改日志，性能超越托管平台。",
+  "highlights": [
+    "开源本地运行，用户自带模型密钥，数据与记录完全由研究者掌控。",
+    "采用只增不改的活实验笔记本和观察代理行为的防篡改日志，对抗模型过度声称。",
+    "在20个跨学科研究提示中科学质量和执行均领先两个托管平台，且可复现命令。"
+  ],
+  "tags": [
+    "ai research assistant",
+    "open-source",
+    "llm",
+    "agent",
+    "byok",
+    "scientific workflow",
+    "benchmark",
+    "arxiv"
+  ],
+  "relevance_score": 10,
+  "score_reason": "涉及LLM智能体、科学工作流与模型可靠性评估",
+  "author": "Aubrey M. Brueckner, Darshil Patel, Yuhuan He, Timothy Kassis",
+  "published_at": "Fri, 02 Oct 2026 00:00:00 -0400",
+  "fetched_at": "2026-10-02T14:29:41.523552+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "k-dense-byok-an-open-source-ai-research-assistant-that-runs-locally-and-keeps-a-hash-chained-lab-notebook"
+}

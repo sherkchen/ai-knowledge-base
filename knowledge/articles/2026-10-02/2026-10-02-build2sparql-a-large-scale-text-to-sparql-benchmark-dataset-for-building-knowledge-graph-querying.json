@@ -1,0 +1,34 @@
+{
+  "id": "rss-20261002-032",
+  "title": "Build2SPARQL: A Large-Scale Text-to-SPARQL Benchmark Dataset for Building Knowledge Graph Querying",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2610.00224",
+  "summary": "Build2SPARQL基准含6136个SPARQL查询和30680个自然语言问题，用于建筑知识图谱查询，LLM仅生成问题确保查询正确性。",
+  "highlights": [
+    "采用代码生成SPARQL查询，LLM仅生成自然语言问题，保证查询正确性",
+    "覆盖201个建筑知识图谱，产出6,136条查询和30,680个问题",
+    "三模型检索增强评估将精确匹配准确率从0.2-20%提升至56-65%"
+  ],
+  "tags": [
+    "text-to-sparql",
+    "benchmark",
+    "knowledge-graph",
+    "sparql",
+    "llm",
+    "building-automation",
+    "semantic-web",
+    "dataset"
+  ],
+  "relevance_score": 9,
+  "score_reason": "涉及LLM与知识图谱查询基准，高度相关",
+  "author": "Wooyoung Jung",
+  "published_at": "Fri, 02 Oct 2026 00:00:00 -0400",
+  "fetched_at": "2026-10-02T14:29:41.523596+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "build2sparql-a-large-scale-text-to-sparql-benchmark-dataset-for-building-knowledge-graph-querying"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "rss-20261002-025",
+  "title": "Measuring the Microtask Eligibility Gap: When Is an Off-the-Shelf SLM Enough for an Agent Harness?",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2610.00025",
+  "summary": "论文评估现成SLM在Agent微任务中是否达标，发现16配置全部不达标，量化无改善。",
+  "highlights": [
+    "构建4类Agent微任务基准，设定CI感知合格阈值",
+    "扫描Qwen3 0.6/1.7/4/8B，0/16配置通过，存在合格差距",
+    "4-bit量化未使任何配置合格，Llama-3.x全部不合格"
+  ],
+  "tags": [
+    "small language models",
+    "slm",
+    "agent harness",
+    "microtasks",
+    "quantization",
+    "llm",
+    "benchmark",
+    "eligibility"
+  ],
+  "relevance_score": 10,
+  "score_reason": "直接研究SLM在Agent系统中的适用性，高度相关",
+  "author": "Jundong Hu, Shekar Ramachandran",
+  "published_at": "Fri, 02 Oct 2026 00:00:00 -0400",
+  "fetched_at": "2026-10-02T14:29:41.523521+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "measuring-the-microtask-eligibility-gap-when-is-an-off-the-shelf-slm-enough-for-an-agent-harness"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "rss-20261002-035",
+  "title": "Rules to Tools: Executable Checks for LLM Agents in Scientific Computing",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2610.00313",
+  "summary": "论文提出Rules to Tools (R2T)，为科学计算LLM智能体提供可执行检查，比较文本规则与工具化检查在代码修复任务中的效果。",
+  "highlights": [
+    "R2T将公开科学需求转为可执行检查，供LLM智能体调用",
+    "在SciCode修复任务中，工具组29/30优于文本组26/30",
+    "工具检查降低模型输出，但公共CPU使用上升，效果因任务而异"
+  ],
+  "tags": [
+    "llm-agents",
+    "scientific-computing",
+    "executable-checks",
+    "code-repair",
+    "scicode",
+    "rules-to-tools",
+    "evaluation"
+  ],
+  "relevance_score": 10,
+  "score_reason": "直接研究LLM智能体在科学计算中的工具化检查与修复效果",
+  "author": "Jingjie Ning, Guojiang Zhao, Chen Xu, Shanshan Zhong, Xiaochuan Li, Ji Zeng, Guolin Ke",
+  "published_at": "Fri, 02 Oct 2026 00:00:00 -0400",
+  "fetched_at": "2026-10-02T14:29:41.523627+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "rules-to-tools-executable-checks-for-llm-agents-in-scientific-computing"
+}
