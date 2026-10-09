@@ -1,0 +1,33 @@
+{
+  "id": "rss-20261009-038",
+  "title": "When Interfaces Speak: Data-Aware Generative UI Harness for Active Interaction",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2610.11123",
+  "summary": "提出GenUI-Harness多智能体框架，结合工具代理与GUI编码器，动态生成数据感知界面，并推出UI-TAU基准，减少对话轮次提升任务完成率。",
+  "highlights": [
+    "提出GenUI-Harness多智能体架构，由工具代理和GUI编码代理协同生成交互式界面。",
+    "引入Dynamic UX与Reward Auditor解决强化学习奖励收集和奖励黑客问题。",
+    "构建UI-TAU Bench，4B模型Pass@3从9.33%提升至58.00%，对话轮次从3.4降至1.2。"
+  ],
+  "tags": [
+    "generative ui",
+    "multi-agent",
+    "reinforcement learning",
+    "llm",
+    "benchmark",
+    "tool use",
+    "human-agent interaction"
+  ],
+  "relevance_score": 10,
+  "score_reason": "涉及多智能体、LLM训练与基准，核心AI主题。",
+  "author": "Xiaolong Li, Xiaohan Xu, Jinyang Li, Xinnuo Xu, Ge Qu, Nan Huo, Jack Williams, Reynold Cheng",
+  "published_at": "Fri, 09 Oct 2026 00:00:00 -0400",
+  "fetched_at": "2026-10-09T15:01:08.455115+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "when-interfaces-speak-data-aware-generative-ui-harness-for-active-interaction"
+}

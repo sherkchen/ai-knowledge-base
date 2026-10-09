@@ -1,0 +1,34 @@
+{
+  "id": "rss-20261009-025",
+  "title": "The Harness as the Only Mutable Surface: Compliance-Bounded Self-Evolution of LLM Agents in Credit Pipelines, with a Measured Admission Gate",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2610.10629",
+  "summary": "提出LLM智能体自进化限于运行时harness，以准入门控确保合规可审计，并在信用管道模拟中验证。",
+  "highlights": [
+    "自进化仅限运行时harness，模型权重固定，使每次变更可审查",
+    "采用带哈希链记录的准入门控，在信用管道模拟中筛除有害变更",
+    "无界系统会放行有害变更，门控在标签偏移时全部拒绝候选"
+  ],
+  "tags": [
+    "llm agents",
+    "self-evolution",
+    "compliance",
+    "credit scoring",
+    "admission gate",
+    "runtime harness",
+    "ai safety",
+    "arxiv"
+  ],
+  "relevance_score": 10,
+  "score_reason": "直接研究LLM智能体自进化合规与门控机制",
+  "author": "Ravil Akhtyamov",
+  "published_at": "Fri, 09 Oct 2026 00:00:00 -0400",
+  "fetched_at": "2026-10-09T15:01:08.454978+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "the-harness-as-the-only-mutable-surface-compliance-bounded-self-evolution-of-llm-agents-in-credit-pipelines-with-a-measured-admission-gate"
+}

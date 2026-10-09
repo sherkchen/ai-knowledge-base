@@ -1,0 +1,33 @@
+{
+  "id": "rss-20261009-035",
+  "title": "AgentHorizon: Evaluating Agentic Judges for Long-Horizon Computer-Use Tasks",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2610.11050",
+  "summary": "AgentHorizon基准含1373个计算机使用任务，评估长时程智能裁判，GPT-5.5达80.9%平衡准确率。",
+  "highlights": [
+    "构建1373个任务，覆盖3个操作系统166小时轨迹，用指令交换构造负样本。",
+    "评估11种裁判，包括直接输入轨迹和作为编码代理在5种harness中运行，GPT-5.5最佳80.9%。",
+    "工具使用对部分模型有益但开源模型表现下降，裁判需在长交互中定位隐藏证据。"
+  ],
+  "tags": [
+    "agentic judges",
+    "computer use agents",
+    "benchmark",
+    "long-horizon",
+    "trajectory evaluation",
+    "llm evaluation",
+    "agents"
+  ],
+  "relevance_score": 10,
+  "score_reason": "LLM Agent评测基准，核心AI主题",
+  "author": "Xing Han L\\`u, Dheeraj Vattikonda, Sina Hajimiri, Fatemeh Pesaran Zadeh, Parishad BehnamGhader, Ghazwa Darwiche, Amirhossein Kazemnejad, Christopher Pal, Alexandre Drouin, Siva Reddy",
+  "published_at": "Fri, 09 Oct 2026 00:00:00 -0400",
+  "fetched_at": "2026-10-09T15:01:08.455084+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "agenthorizon-evaluating-agentic-judges-for-long-horizon-computer-use-tasks"
+}

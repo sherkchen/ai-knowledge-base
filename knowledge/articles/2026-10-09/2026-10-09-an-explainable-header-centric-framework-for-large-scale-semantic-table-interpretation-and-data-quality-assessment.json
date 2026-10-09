@@ -1,0 +1,33 @@
+{
+  "id": "rss-20261009-021",
+  "title": "An Explainable Header-Centric Framework for Large-Scale Semantic Table Interpretation and Data Quality Assessment",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2610.10541",
+  "summary": "提出基于表头的可解释框架，用于大规模语义表解释与数据质量评估，支撑知识图谱准备。",
+  "highlights": [
+    "将列头映射到39种可解释的FinalFormat类型并保留SourceKeywords溯源",
+    "基于数据质量问题分类激活验证规则，聚合为HeadersIQ质量指标",
+    "在约12万列头及SemTab 2024等多个基准上评估并做诊断审计"
+  ],
+  "tags": [
+    "semantic-table-interpretation",
+    "data-quality",
+    "knowledge-graph",
+    "column-type-annotation",
+    "metadata",
+    "explainable-ai",
+    "arxiv"
+  ],
+  "relevance_score": 7,
+  "score_reason": "涉及语义表解释与知识图谱，与AI数据质量相关但非LLM/Agent核心",
+  "author": "Marcelo Valentim Silva, Hannes Herrmann, Valerie Maxville",
+  "published_at": "Fri, 09 Oct 2026 00:00:00 -0400",
+  "fetched_at": "2026-10-09T15:01:08.454934+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "an-explainable-header-centric-framework-for-large-scale-semantic-table-interpretation-and-data-quality-assessment"
+}

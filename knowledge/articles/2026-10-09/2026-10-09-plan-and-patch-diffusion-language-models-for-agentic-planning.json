@@ -1,0 +1,33 @@
+{
+  "id": "rss-20261009-027",
+  "title": "Plan-and-Patch: Diffusion Language Models for Agentic Planning",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2610.10786",
+  "summary": "提出Plan-and-Patch框架，利用扩散语言模型生成并局部修复智能体计划，提升长程规划效率与修复成功率。",
+  "highlights": [
+    "扩散语言模型在计划修复成功率上近两倍于自回归模型",
+    "任务训练后扩散规划延迟降低39-46%",
+    "采用保留前后缀、仅重新生成受影响区域的修复机制"
+  ],
+  "tags": [
+    "diffusion-language-models",
+    "agentic-planning",
+    "plan-repair",
+    "long-horizon-agents",
+    "llm",
+    "autoregressive",
+    "arxiv"
+  ],
+  "relevance_score": 10,
+  "score_reason": "直接研究LLM智能体规划与扩散模型",
+  "author": "Syamantak Kumar, Jiang Guo, Hassan Hamad, Hideo Kobayashi, Yi Xiang, Yezhou Yang, Yanjun Qi, Daniele Bonadiman, Jiarong Jiang",
+  "published_at": "Fri, 09 Oct 2026 00:00:00 -0400",
+  "fetched_at": "2026-10-09T15:01:08.455006+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "plan-and-patch-diffusion-language-models-for-agentic-planning"
+}

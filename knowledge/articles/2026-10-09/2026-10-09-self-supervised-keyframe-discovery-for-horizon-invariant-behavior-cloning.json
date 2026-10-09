@@ -1,0 +1,33 @@
+{
+  "id": "rss-20261009-030",
+  "title": "Self-Supervised Keyframe Discovery for Horizon-Invariant Behavior Cloning",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2610.10857",
+  "summary": "提出Keyframe Mnemonics自监督关键帧发现方法，解决非马尔可夫行为克隆的长程依赖问题。",
+  "highlights": [
+    "自监督发现信息关键观测作为记忆关键帧",
+    "在无限视野下提供上下文保留保证",
+    "机器人操作基准23任务成功率提升13.9%"
+  ],
+  "tags": [
+    "behavior-cloning",
+    "self-supervised-learning",
+    "keyframe-selection",
+    "robotics",
+    "long-horizon",
+    "memory",
+    "reinforcement-learning"
+  ],
+  "relevance_score": 8,
+  "score_reason": "涉及智能体策略学习与长程记忆，属AI/Agent核心问题",
+  "author": "Prabin Kumar Rath, Omkar Patil, Nakul Gopalan",
+  "published_at": "Fri, 09 Oct 2026 00:00:00 -0400",
+  "fetched_at": "2026-10-09T15:01:08.455035+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "self-supervised-keyframe-discovery-for-horizon-invariant-behavior-cloning"
+}

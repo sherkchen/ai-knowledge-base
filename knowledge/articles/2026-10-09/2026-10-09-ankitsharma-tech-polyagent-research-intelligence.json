@@ -1,0 +1,34 @@
+{
+  "id": "github-20261009-012",
+  "title": "ankitsharma-tech/Polyagent-Research-Intelligence",
+  "source": "github_trending",
+  "source_url": "https://github.com/ankitsharma-tech/Polyagent-Research-Intelligence",
+  "summary": "多智能体AI研究平台，输入主题即可自动检索文献、分析数据并生成报告。",
+  "highlights": [
+    "多智能体协作完成研究与报告生成",
+    "集成LangChain、FastAPI、PostgreSQL等组件",
+    "面向研究人员和AI/ML工程师的模块化平台"
+  ],
+  "tags": [
+    "multi-agent-systems",
+    "ai-research",
+    "langchain",
+    "llms",
+    "fastapi",
+    "nextjs",
+    "faiss",
+    "report-generation"
+  ],
+  "relevance_score": 10,
+  "score_reason": "多智能体LLM研究平台，与AI/Agent高度相关",
+  "author": "ankitsharma-tech",
+  "published_at": "2025-09-24T15:52:17Z",
+  "fetched_at": "2026-10-09T15:01:08.454861+00:00",
+  "status": "draft",
+  "category": "framework",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "ankitsharma-tech-polyagent-research-intelligence"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "rss-20261009-033",
+  "title": "How Narrative Wrapping Affects LLM Refusal: A Cross-Language Benchmark and Defense",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2610.11005",
+  "summary": "叙事包装可绕过LLM安全机制，研究提出跨语言基准GUISE及防御方法AXIS，提升安全与可用性。",
+  "highlights": [
+    "直接有害请求会被拒绝，但角色扮演或叙事包装可绕过安全对齐",
+    "文言文攻击成功率高达95.7%，现代汉语93.0%，英文89.4%",
+    "提出GUISE基准和AXIS防御，结合偏好优化与旋转目标，取得最高综合安全可用性"
+  ],
+  "tags": [
+    "llm safety",
+    "jailbreak",
+    "benchmark",
+    "cross-language",
+    "alignment",
+    "defense",
+    "representation analysis"
+  ],
+  "relevance_score": 10,
+  "score_reason": "研究LLM安全对齐绕过与防御，高度相关",
+  "author": "Zhankai Ye, Yanning Wang, Yukai Jin, Bo Mei, Fangyi Li, Wei Wang, Shangqian Gao, Xin Liu",
+  "published_at": "Fri, 09 Oct 2026 00:00:00 -0400",
+  "fetched_at": "2026-10-09T15:01:08.455065+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "how-narrative-wrapping-affects-llm-refusal-a-cross-language-benchmark-and-defense"
+}

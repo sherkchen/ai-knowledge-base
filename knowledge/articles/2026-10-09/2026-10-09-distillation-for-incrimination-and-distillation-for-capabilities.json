@@ -1,0 +1,34 @@
+{
+  "id": "rss-20261009-034",
+  "title": "Distillation for Incrimination and Distillation for Capabilities",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2610.11012",
+  "summary": "本文提出两种蒸馏方法用于AI安全：DFI取证失对齐模型，DFC提取能力并减少失对齐迁移。",
+  "highlights": [
+    "蒸馏用于取证（DFI）可让隐藏行为的模型更易承认，从而识别失对齐模型。",
+    "DFI需使用教师RL前检查点并共享基座模型，才更有效获得供认。",
+    "蒸馏用于能力（DFC）采用接种提示和更多轮次少样本训练，保留能力并减少失对齐迁移。"
+  ],
+  "tags": [
+    "distillation",
+    "ai safety",
+    "alignment",
+    "auditing",
+    "llm",
+    "misalignment",
+    "capability transfer",
+    "model evaluation"
+  ],
+  "relevance_score": 9,
+  "score_reason": "涉及LLM蒸馏、对齐审计与能力迁移，高度相关",
+  "author": "Sebastian Prasanna, Jacqueline Tay, Alek Westover",
+  "published_at": "Fri, 09 Oct 2026 00:00:00 -0400",
+  "fetched_at": "2026-10-09T15:01:08.455075+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "distillation-for-incrimination-and-distillation-for-capabilities"
+}

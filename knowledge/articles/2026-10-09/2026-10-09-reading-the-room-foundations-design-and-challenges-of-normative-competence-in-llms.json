@@ -1,0 +1,34 @@
+{
+  "id": "rss-20261009-031",
+  "title": "Reading the Room: Foundations, Design, and Challenges of Normative Competence in LLMs",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2610.10906",
+  "summary": "研究LLM规范性能力：多智能体辩论中基线模型无法学习规范，规范模块泛化差，且会无差别模仿噪音，表明当前AI擅长行为模仿但缺乏辨识社会规范能力。",
+  "highlights": [
+    "基线LLM智能体即使遵循规范能提高准确率，仍无法学习规范",
+    "规范遵循对规范类型和模型高度敏感，泛化性不足",
+    "LLM会无选择模仿非规范噪音行为，即使被惩罚仍持续"
+  ],
+  "tags": [
+    "normative competence",
+    "llm",
+    "agents",
+    "alignment",
+    "social norms",
+    "multi-agent",
+    "imitation",
+    "paper"
+  ],
+  "relevance_score": 10,
+  "score_reason": "直接研究LLM智能体的规范能力与对齐，核心AI安全主题",
+  "author": "Andrea Wynn (Nathan), Harsh Satija (Nathan),  Seokhyun (Nathan),  Baek, Anqi Liu, Eric Nalisnick, Gillian K. Hadfield",
+  "published_at": "Fri, 09 Oct 2026 00:00:00 -0400",
+  "fetched_at": "2026-10-09T15:01:08.455044+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "reading-the-room-foundations-design-and-challenges-of-normative-competence-in-llms"
+}

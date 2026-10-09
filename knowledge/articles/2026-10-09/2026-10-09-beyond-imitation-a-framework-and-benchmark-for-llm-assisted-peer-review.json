@@ -1,0 +1,33 @@
+{
+  "id": "rss-20261009-036",
+  "title": "Beyond Imitation: A Framework and Benchmark for LLM-Assisted Peer Review",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2610.11087",
+  "summary": "提出以验证为中心的LLM同行评审基准与多层评审框架，注重错误检测，提升评审质量与效率。",
+  "highlights": [
+    "提出验证中心视角，聚焦错误检测这一核心任务",
+    "构建可扩展基准，通过合成错误生成明确评估目标",
+    "提出多层评审框架，先深度理解手稿再生成评审，提升性能和对齐"
+  ],
+  "tags": [
+    "peer review",
+    "llm",
+    "benchmark",
+    "framework",
+    "error detection",
+    "scientific publishing",
+    "evaluation"
+  ],
+  "relevance_score": 10,
+  "score_reason": "直接研究LLM在同行评审中的应用、框架与基准",
+  "author": "Rachel S. Y. Teo, Yutaro Yamada, Shashank Kotyan, Yuki Imajuku, Tarin Clanuwat",
+  "published_at": "Fri, 09 Oct 2026 00:00:00 -0400",
+  "fetched_at": "2026-10-09T15:01:08.455095+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "beyond-imitation-a-framework-and-benchmark-for-llm-assisted-peer-review"
+}

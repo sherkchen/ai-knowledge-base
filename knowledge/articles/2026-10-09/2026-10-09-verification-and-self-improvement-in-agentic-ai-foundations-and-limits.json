@@ -1,0 +1,33 @@
+{
+  "id": "rss-20261009-024",
+  "title": "Verification and Self-Improvement in Agentic AI: Foundations and Limits",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2610.10611",
+  "summary": "本文研究智能体AI验证与自我改进的理论基础与局限，通过有界验证和随机性分析语言类及自修改能力。",
+  "highlights": [
+    "提出有界验证框架，区分搜索更久、外部支持与输出修改等改进机制",
+    "证明随机验证类介于多项式层级之间，严格扩大需显式复杂度假设",
+    "分析递归自我改进在统一验证协议下仍处于同类复杂度，选错由条件误差预算控制"
+  ],
+  "tags": [
+    "agentic ai",
+    "verification",
+    "self-improvement",
+    "complexity theory",
+    "randomized verifiers",
+    "theoretical ai",
+    "arxiv"
+  ],
+  "relevance_score": 9,
+  "score_reason": "直接研究智能体AI验证与自我改进核心理论，相关度高",
+  "author": "Chien-Ping Lu",
+  "published_at": "Fri, 09 Oct 2026 00:00:00 -0400",
+  "fetched_at": "2026-10-09T15:01:08.454968+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "verification-and-self-improvement-in-agentic-ai-foundations-and-limits"
+}

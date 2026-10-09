@@ -1,0 +1,33 @@
+{
+  "id": "rss-20261009-022",
+  "title": "Synthesis Through Simulation: Generating Coherent Enterprise Data via Scalable Agent-System Interaction",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2610.10549",
+  "summary": "提出STS无schema数据合成范式：LLM智能体在模拟企业环境中通过API执行操作生成数据，保证结构有效并提升分布保真度，已开源。",
+  "highlights": [
+    "STS无schema范式通过策略执行API生成数据，结构有效由构造保证",
+    "通用智能体GP在十个环境中实现0.88边际保真度和100%约束满足",
+    "无需数据库schema，优于统计合成器和schema特权智能体"
+  ],
+  "tags": [
+    "llm agents",
+    "data synthesis",
+    "enterprise ai",
+    "tool calling",
+    "simulation",
+    "synthetic data",
+    "schema-free"
+  ],
+  "relevance_score": 10,
+  "score_reason": "涉及LLM智能体、工具调用与数据合成，直接相关",
+  "author": "Yipeng Li, Ashutosh Hathidara, Jane Lo, Harshavardhan Abichandani, Gunraj Singh, Atin Ghosh",
+  "published_at": "Fri, 09 Oct 2026 00:00:00 -0400",
+  "fetched_at": "2026-10-09T15:01:08.454947+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "synthesis-through-simulation-generating-coherent-enterprise-data-via-scalable-agent-system-interaction"
+}

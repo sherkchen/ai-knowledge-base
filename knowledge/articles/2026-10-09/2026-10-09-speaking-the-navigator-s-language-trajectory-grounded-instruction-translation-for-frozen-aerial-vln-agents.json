@@ -1,0 +1,33 @@
+{
+  "id": "rss-20261009-026",
+  "title": "Speaking the Navigator's Language: Trajectory-Grounded Instruction Translation for Frozen Aerial VLN Agents",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2610.10635",
+  "summary": "提出TGIT前端，冻结航拍VLN智能体，将弱指令翻译为可执行命令，显著提升成功率并零样本迁移至人类指令。",
+  "highlights": [
+    "指令差距使冻结OpenFly导航成功率从31.03%降至11.33%",
+    "TGIT通过轨迹结果学习翻译，将弱指令成功率从15.27%提升至37.93%",
+    "零样本迁移至真实人类指令，成功率从11.33%提升至32.51%"
+  ],
+  "tags": [
+    "aerial navigation",
+    "vision-and-language navigation",
+    "instruction translation",
+    "trajectory grounding",
+    "frozen agents",
+    "zero-shot transfer",
+    "language model"
+  ],
+  "relevance_score": 9,
+  "score_reason": "涉及VLN智能体、语言模型指令翻译和零样本迁移，高度相关",
+  "author": "Xi Chen, Zhe Liu, Xiaogang Xu, Jiafei Xu, Chunyi Zhou, Yuan Su, Rui Zeng, Tianyu Du, Kelu Yao, Chao Li, Shouling Ji",
+  "published_at": "Fri, 09 Oct 2026 00:00:00 -0400",
+  "fetched_at": "2026-10-09T15:01:08.454994+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "speaking-the-navigator-s-language-trajectory-grounded-instruction-translation-for-frozen-aerial-vln-agents"
+}

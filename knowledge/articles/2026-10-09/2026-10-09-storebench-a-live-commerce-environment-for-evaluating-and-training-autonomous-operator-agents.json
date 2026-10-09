@@ -1,0 +1,34 @@
+{
+  "id": "rss-20261009-032",
+  "title": "StoreBench: A Live-Commerce Environment for Evaluating and Training Autonomous Operator Agents",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2610.10942",
+  "summary": "StoreBench是一个直播电商环境，用于评估和训练自主运营Agent，测试LLM长期规划与经济决策能力。",
+  "highlights": [
+    "模拟真实电商运营，客户、供应商和市场冲击动态变化",
+    "评估7个前沿LLM，DeepSeek-V4-Pro最佳但仍不及脚本策略",
+    "GRPO后训练Qwen3.5-27B在留出任务上大幅提升"
+  ],
+  "tags": [
+    "llm agents",
+    "reinforcement learning",
+    "benchmark",
+    "e-commerce",
+    "grpo",
+    "autonomous agents",
+    "evaluation",
+    "environment"
+  ],
+  "relevance_score": 10,
+  "score_reason": "论文直接涉及LLM Agent评估与训练环境",
+  "author": "Daksh Raghuvanshi, Ved Vedere, Yifan Wang",
+  "published_at": "Fri, 09 Oct 2026 00:00:00 -0400",
+  "fetched_at": "2026-10-09T15:01:08.455055+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "storebench-a-live-commerce-environment-for-evaluating-and-training-autonomous-operator-agents"
+}

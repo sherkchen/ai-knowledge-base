@@ -1324,6 +1324,159 @@
       "fetched_at": "2026-10-02T14:29:41.523627+00:00"
     },
     {
+      "id": "github-20261009-005",
+      "title": "sinanuozdemir/oreilly-llm-rl-alignment",
+      "category": "other",
+      "slug": "sinanuozdemir-oreilly-llm-rl-alignment",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-10-09T15:01:08.454789+00:00"
+    },
+    {
+      "id": "github-20261009-009",
+      "title": "kael-bit/engram-rs",
+      "category": "tool",
+      "slug": "kael-bit-engram-rs",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-10-09T15:01:08.454835+00:00"
+    },
+    {
+      "id": "github-20261009-010",
+      "title": "mchittineni/ultimate-ai-engineering-guide",
+      "category": "other",
+      "slug": "mchittineni-ultimate-ai-engineering-guide",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-10-09T15:01:08.454844+00:00"
+    },
+    {
+      "id": "github-20261009-012",
+      "title": "ankitsharma-tech/Polyagent-Research-Intelligence",
+      "category": "framework",
+      "slug": "ankitsharma-tech-polyagent-research-intelligence",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-10-09T15:01:08.454861+00:00"
+    },
+    {
+      "id": "github-20261009-013",
+      "title": "BjornMelin/polyagent-research-intelligence",
+      "category": "tool",
+      "slug": "bjornmelin-polyagent-research-intelligence",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-10-09T15:01:08.454870+00:00"
+    },
+    {
+      "id": "rss-20261009-022",
+      "title": "Synthesis Through Simulation: Generating Coherent Enterprise Data via Scalable Agent-System Interaction",
+      "category": "paper",
+      "slug": "synthesis-through-simulation-generating-coherent-enterprise-data-via-scalable-agent-system-interaction",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-10-09T15:01:08.454947+00:00"
+    },
+    {
+      "id": "rss-20261009-023",
+      "title": "Agent-Controlled Forgetting for Tool-Using Agents: Reversible Context Curation in Practice",
+      "category": "paper",
+      "slug": "agent-controlled-forgetting-for-tool-using-agents-reversible-context-curation-in-practice",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-10-09T15:01:08.454958+00:00"
+    },
+    {
+      "id": "rss-20261009-025",
+      "title": "The Harness as the Only Mutable Surface: Compliance-Bounded Self-Evolution of LLM Agents in Credit Pipelines, with a Measured Admission Gate",
+      "category": "paper",
+      "slug": "the-harness-as-the-only-mutable-surface-compliance-bounded-self-evolution-of-llm-agents-in-credit-pipelines-with-a-measured-admission-gate",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-10-09T15:01:08.454978+00:00"
+    },
+    {
+      "id": "rss-20261009-027",
+      "title": "Plan-and-Patch: Diffusion Language Models for Agentic Planning",
+      "category": "paper",
+      "slug": "plan-and-patch-diffusion-language-models-for-agentic-planning",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-10-09T15:01:08.455006+00:00"
+    },
+    {
+      "id": "rss-20261009-029",
+      "title": "On the Clock: Towards Punctual and Productive Time-Budgeted AI Agents",
+      "category": "paper",
+      "slug": "on-the-clock-towards-punctual-and-productive-time-budgeted-ai-agents",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-10-09T15:01:08.455025+00:00"
+    },
+    {
+      "id": "rss-20261009-031",
+      "title": "Reading the Room: Foundations, Design, and Challenges of Normative Competence in LLMs",
+      "category": "paper",
+      "slug": "reading-the-room-foundations-design-and-challenges-of-normative-competence-in-llms",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-10-09T15:01:08.455044+00:00"
+    },
+    {
+      "id": "rss-20261009-032",
+      "title": "StoreBench: A Live-Commerce Environment for Evaluating and Training Autonomous Operator Agents",
+      "category": "paper",
+      "slug": "storebench-a-live-commerce-environment-for-evaluating-and-training-autonomous-operator-agents",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-10-09T15:01:08.455055+00:00"
+    },
+    {
+      "id": "rss-20261009-033",
+      "title": "How Narrative Wrapping Affects LLM Refusal: A Cross-Language Benchmark and Defense",
+      "category": "paper",
+      "slug": "how-narrative-wrapping-affects-llm-refusal-a-cross-language-benchmark-and-defense",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-10-09T15:01:08.455065+00:00"
+    },
+    {
+      "id": "rss-20261009-035",
+      "title": "AgentHorizon: Evaluating Agentic Judges for Long-Horizon Computer-Use Tasks",
+      "category": "paper",
+      "slug": "agenthorizon-evaluating-agentic-judges-for-long-horizon-computer-use-tasks",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-10-09T15:01:08.455084+00:00"
+    },
+    {
+      "id": "rss-20261009-036",
+      "title": "Beyond Imitation: A Framework and Benchmark for LLM-Assisted Peer Review",
+      "category": "paper",
+      "slug": "beyond-imitation-a-framework-and-benchmark-for-llm-assisted-peer-review",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-10-09T15:01:08.455095+00:00"
+    },
+    {
+      "id": "rss-20261009-037",
+      "title": "OpenProblemBench: Benchmarking AI on Open Problems in the Foundational Theoretical Sciences",
+      "category": "paper",
+      "slug": "openproblembench-benchmarking-ai-on-open-problems-in-the-foundational-theoretical-sciences",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-10-09T15:01:08.455105+00:00"
+    },
+    {
+      "id": "rss-20261009-038",
+      "title": "When Interfaces Speak: Data-Aware Generative UI Harness for Active Interaction",
+      "category": "paper",
+      "slug": "when-interfaces-speak-data-aware-generative-ui-harness-for-active-interaction",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-10-09T15:01:08.455115+00:00"
+    },
+    {
       "id": "github-20260616-001",
       "title": "nitefood/ai-bash",
       "category": "tool",
@@ -3358,6 +3511,114 @@
       "fetched_at": "2026-10-02T14:29:41.523637+00:00"
     },
     {
+      "id": "github-20261009-001",
+      "title": "tianlinxu312/Everything-about-LLMs",
+      "category": "other",
+      "slug": "tianlinxu312-everything-about-llms",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-10-09T15:01:08.452660+00:00"
+    },
+    {
+      "id": "github-20261009-002",
+      "title": "shibing624/ai-paper-analysis",
+      "category": "research",
+      "slug": "shibing624-ai-paper-analysis",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-10-09T15:01:08.454748+00:00"
+    },
+    {
+      "id": "github-20261009-003",
+      "title": "nitefood/ai-bash",
+      "category": "tool",
+      "slug": "nitefood-ai-bash",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-10-09T15:01:08.454769+00:00"
+    },
+    {
+      "id": "github-20261009-004",
+      "title": "ruankie/ecrivai",
+      "category": "tool",
+      "slug": "ruankie-ecrivai",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-10-09T15:01:08.454780+00:00"
+    },
+    {
+      "id": "github-20261009-006",
+      "title": "Md-Emon-Hasan/MediGenius",
+      "category": "tool",
+      "slug": "md-emon-hasan-medigenius",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-10-09T15:01:08.454803+00:00"
+    },
+    {
+      "id": "github-20261009-016",
+      "title": "billy-enrizky/crewai-research-assistant",
+      "category": "tool",
+      "slug": "billy-enrizky-crewai-research-assistant",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-10-09T15:01:08.454896+00:00"
+    },
+    {
+      "id": "github-20261009-017",
+      "title": "richer-richard/socratic-council",
+      "category": "tool",
+      "slug": "richer-richard-socratic-council",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-10-09T15:01:08.454904+00:00"
+    },
+    {
+      "id": "github-20261009-018",
+      "title": "yushengzh/awesome-ML-for-quantum",
+      "category": "research",
+      "slug": "yushengzh-awesome-ml-for-quantum",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-10-09T15:01:08.454911+00:00"
+    },
+    {
+      "id": "github-20261009-019",
+      "title": "crabfeather/PaperLens-AI",
+      "category": "tool",
+      "slug": "crabfeather-paperlens-ai",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-10-09T15:01:08.454919+00:00"
+    },
+    {
+      "id": "rss-20261009-024",
+      "title": "Verification and Self-Improvement in Agentic AI: Foundations and Limits",
+      "category": "paper",
+      "slug": "verification-and-self-improvement-in-agentic-ai-foundations-and-limits",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-10-09T15:01:08.454968+00:00"
+    },
+    {
+      "id": "rss-20261009-026",
+      "title": "Speaking the Navigator's Language: Trajectory-Grounded Instruction Translation for Frozen Aerial VLN Agents",
+      "category": "paper",
+      "slug": "speaking-the-navigator-s-language-trajectory-grounded-instruction-translation-for-frozen-aerial-vln-agents",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-10-09T15:01:08.454994+00:00"
+    },
+    {
+      "id": "rss-20261009-034",
+      "title": "Distillation for Incrimination and Distillation for Capabilities",
+      "category": "paper",
+      "slug": "distillation-for-incrimination-and-distillation-for-capabilities",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-10-09T15:01:08.455075+00:00"
+    },
+    {
       "id": "github-20260616-009",
       "title": "SukritiC/ai-mastery-hub",
       "category": "other",
@@ -3943,6 +4204,69 @@
       "fetched_at": "2026-10-02T14:29:41.523576+00:00"
     },
     {
+      "id": "github-20261009-008",
+      "title": "MADEVAL/AngleCraft",
+      "category": "tool",
+      "slug": "madeval-anglecraft",
+      "relevance_score": 8,
+      "status": "draft",
+      "fetched_at": "2026-10-09T15:01:08.454823+00:00"
+    },
+    {
+      "id": "github-20261009-011",
+      "title": "akshaymittal143/CloudyBot-DevOps-AI",
+      "category": "tool",
+      "slug": "akshaymittal143-cloudybot-devops-ai",
+      "relevance_score": 8,
+      "status": "draft",
+      "fetched_at": "2026-10-09T15:01:08.454853+00:00"
+    },
+    {
+      "id": "github-20261009-014",
+      "title": "rasmurtech/DeepSeekDeepResearch",
+      "category": "tool",
+      "slug": "rasmurtech-deepseekdeepresearch",
+      "relevance_score": 8,
+      "status": "draft",
+      "fetched_at": "2026-10-09T15:01:08.454878+00:00"
+    },
+    {
+      "id": "github-20261009-015",
+      "title": "JacKaL37/TheHardProblem",
+      "category": "research",
+      "slug": "jackal37-thehardproblem",
+      "relevance_score": 8,
+      "status": "draft",
+      "fetched_at": "2026-10-09T15:01:08.454886+00:00"
+    },
+    {
+      "id": "github-20261009-020",
+      "title": "Om22210564/AI-Memory-Tree-Branchable-LLM-Conversations",
+      "category": "tool",
+      "slug": "om22210564-ai-memory-tree-branchable-llm-conversations",
+      "relevance_score": 8,
+      "status": "draft",
+      "fetched_at": "2026-10-09T15:01:08.454926+00:00"
+    },
+    {
+      "id": "rss-20261009-028",
+      "title": "Whose Ground Truth? Embracing Ambiguity in Human-Centered AI",
+      "category": "paper",
+      "slug": "whose-ground-truth-embracing-ambiguity-in-human-centered-ai",
+      "relevance_score": 8,
+      "status": "draft",
+      "fetched_at": "2026-10-09T15:01:08.455016+00:00"
+    },
+    {
+      "id": "rss-20261009-030",
+      "title": "Self-Supervised Keyframe Discovery for Horizon-Invariant Behavior Cloning",
+      "category": "paper",
+      "slug": "self-supervised-keyframe-discovery-for-horizon-invariant-behavior-cloning",
+      "relevance_score": 8,
+      "status": "draft",
+      "fetched_at": "2026-10-09T15:01:08.455035+00:00"
+    },
+    {
       "id": "rss-20260616-023",
       "title": "Hyperdimensional computing for structured querying on tabular data embeddings",
       "category": "paper",
@@ -4150,6 +4474,24 @@
       "fetched_at": "2026-10-02T14:29:41.523606+00:00"
     },
     {
+      "id": "github-20261009-007",
+      "title": "SpreadSheets600/TidyTabs",
+      "category": "tool",
+      "slug": "spreadsheets600-tidytabs",
+      "relevance_score": 7,
+      "status": "draft",
+      "fetched_at": "2026-10-09T15:01:08.454811+00:00"
+    },
+    {
+      "id": "rss-20261009-021",
+      "title": "An Explainable Header-Centric Framework for Large-Scale Semantic Table Interpretation and Data Quality Assessment",
+      "category": "paper",
+      "slug": "an-explainable-header-centric-framework-for-large-scale-semantic-table-interpretation-and-data-quality-assessment",
+      "relevance_score": 7,
+      "status": "draft",
+      "fetched_at": "2026-10-09T15:01:08.454934+00:00"
+    },
+    {
       "id": "rss-20260703-016",
       "title": "Liva AI (YC S25) Is Hiring",
       "category": "other",
@@ -4195,6 +4537,6 @@
       "fetched_at": "2026-06-26T10:55:22.327694+00:00"
     }
   ],
-  "total_count": 466,
-  "updated_at": "2026-10-02T14:29:41.531761+00:00"
+  "total_count": 504,
+  "updated_at": "2026-10-09T15:01:08.463408+00:00"
 }

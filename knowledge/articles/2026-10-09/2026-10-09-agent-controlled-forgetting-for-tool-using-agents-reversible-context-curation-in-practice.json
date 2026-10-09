@@ -1,0 +1,34 @@
+{
+  "id": "rss-20261009-023",
+  "title": "Agent-Controlled Forgetting for Tool-Using Agents: Reversible Context Curation in Practice",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2610.10590",
+  "summary": "工具型智能体可控遗忘：模型归档工具结果并替换为简短注记，节省上下文与成本，支持恢复。实验省50%输入token，成本从4.38降至1.28-1.44美元。",
+  "highlights": [
+    "提出智能体控制的遗忘机制，可逆地压缩工具观察结果",
+    "无需任务特定训练，通过Python harness实现批量归档与恢复",
+    "在噪声工具轨迹中节省50%输入token，API成本降低约70%"
+  ],
+  "tags": [
+    "agent",
+    "tool-use",
+    "context-management",
+    "forgetting",
+    "llm",
+    "memory",
+    "token-efficiency",
+    "arxiv"
+  ],
+  "relevance_score": 10,
+  "score_reason": "研究工具智能体上下文管理与遗忘机制，直接涉及LLM Agent效率与成本优化。",
+  "author": "Jan-Peter Franke",
+  "published_at": "Fri, 09 Oct 2026 00:00:00 -0400",
+  "fetched_at": "2026-10-09T15:01:08.454958+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "agent-controlled-forgetting-for-tool-using-agents-reversible-context-curation-in-practice"
+}
