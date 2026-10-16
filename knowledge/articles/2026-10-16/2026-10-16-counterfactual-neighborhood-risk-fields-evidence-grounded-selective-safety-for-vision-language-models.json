@@ -1,0 +1,34 @@
+{
+  "id": "rss-20261016-026",
+  "title": "Counterfactual Neighborhood Risk Fields: Evidence-Grounded Selective Safety for Vision-Language Models",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2610.20679",
+  "summary": "提出反事实邻域风险场，通过反事实对估计风险方向，实现视觉语言模型选择性安全防御。",
+  "highlights": [
+    "构建上下文匹配的良性-有害反事实对，利用表征差异作为风险方向",
+    "将邻域支持与风险分离，避免将陌生误判为有害",
+    "在三个VLM和五类多模态越狱上防御成功率86.06-89.30%"
+  ],
+  "tags": [
+    "vision-language models",
+    "safety",
+    "counterfactual",
+    "representation learning",
+    "jailbreak defense",
+    "selective intervention",
+    "multimodal",
+    "arxiv"
+  ],
+  "relevance_score": 9,
+  "score_reason": "聚焦视觉语言模型安全防御，属于AI核心议题",
+  "author": "Tianshi Wang, Jingsong Wang, Fengling Li, Jingjing Li, Xin Li, Lei Zhu",
+  "published_at": "Fri, 16 Oct 2026 00:00:00 -0400",
+  "fetched_at": "2026-10-16T13:06:53.831785+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "counterfactual-neighborhood-risk-fields-evidence-grounded-selective-safety-for-vision-language-models"
+}

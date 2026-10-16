@@ -1,0 +1,34 @@
+{
+  "id": "rss-20261016-022",
+  "title": "Evaluating Model Capabilities After Benchmark Saturation",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2610.20667",
+  "summary": "研究基准饱和后利用模型解题记录评估能力，成对评判效果最佳，预测误差降低5.3倍。",
+  "highlights": [
+    "饱和基准的解题记录仍保留能力信息，超越基准分数。",
+    "成对评判表现最佳，预测误差比仅用饱和分数降低5.3倍。",
+    "信息集中于推理与工具调用，但跨分布泛化有局限。"
+  ],
+  "tags": [
+    "benchmark saturation",
+    "capability evaluation",
+    "model transcripts",
+    "pairwise judging",
+    "reasoning",
+    "tool-calls",
+    "distribution shift",
+    "llm"
+  ],
+  "relevance_score": 9,
+  "score_reason": "直接研究LLM能力评估与基准饱和问题，涉及推理与工具调用",
+  "author": "Morio Hamada, Jehyeok Yeon, Matteo Migliarini, Justin Olive, Magda Dubois",
+  "published_at": "Fri, 16 Oct 2026 00:00:00 -0400",
+  "fetched_at": "2026-10-16T13:06:53.831744+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "evaluating-model-capabilities-after-benchmark-saturation"
+}

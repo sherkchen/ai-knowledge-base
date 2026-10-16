@@ -1,0 +1,34 @@
+{
+  "id": "rss-20261016-038",
+  "title": "A Multi-Tiered AI Accessibility Model (MAIAM): Proportionate Access and Capability Limits for Comprehensive Frontier AI Safety",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2610.20921",
+  "summary": "提出多层级AI可访问模型（MAIAM），按用途、安全与能力分层授权，结合SAFE操作点框架限制能力与访问，保障前沿AI安全。",
+  "highlights": [
+    "批评将模型发布简化为API或开源权重的二元选择，指出其混淆了两个独立决策。",
+    "MAIAM分三层：学习层广泛但限能力；探索层需注册与身份控制；前沿层仅可问责访问。",
+    "安全微调可被几百美元剥离，因此基础模型评估不足以代表衍生风险，需分级访问制度。"
+  ],
+  "tags": [
+    "ai safety",
+    "accessibility",
+    "frontier ai",
+    "governance",
+    "capability limits",
+    "access control",
+    "risk management",
+    "arxiv"
+  ],
+  "relevance_score": 9,
+  "score_reason": "直接讨论前沿AI安全与访问治理，属AI政策研究",
+  "author": "Chai K. Toh, Vasu Raj Jain",
+  "published_at": "Fri, 16 Oct 2026 00:00:00 -0400",
+  "fetched_at": "2026-10-16T13:06:53.831910+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "a-multi-tiered-ai-accessibility-model-maiam-proportionate-access-and-capability-limits-for-comprehensive-frontier-ai-safety"
+}

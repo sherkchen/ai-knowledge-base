@@ -1,0 +1,34 @@
+{
+  "id": "rss-20261016-027",
+  "title": "IneqAgent: Agentic Inequality Proving in Lean with Symbolic Computation",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2610.20681",
+  "summary": "IneqAgent结合LLM与符号计算在Lean4中证明不等式，通过MCTS协调，175/186成功率达94.09%。",
+  "highlights": [
+    "提出IneqAgent，结合LLM推理与符号计算进行Lean4不等式证明",
+    "使用蒙特卡洛树搜索协调引理构造、目标重构与符号后端选择",
+    "在四个基准上解决175/186题（94.09%），并验证Dittert猜想加强版等结果"
+  ],
+  "tags": [
+    "inequality proving",
+    "lean4",
+    "llm reasoning",
+    "symbolic computation",
+    "monte carlo tree search",
+    "theorem proving",
+    "agentic framework",
+    "formal mathematics"
+  ],
+  "relevance_score": 10,
+  "score_reason": "涉及LLM智能体、MCTS与形式化定理证明，高度相关",
+  "author": "Gaolei He, Jinhui Li, Ruobing Zuo, Xia Zeng, Zhengfeng Yang",
+  "published_at": "Fri, 16 Oct 2026 00:00:00 -0400",
+  "fetched_at": "2026-10-16T13:06:53.831795+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "ineqagent-agentic-inequality-proving-in-lean-with-symbolic-computation"
+}

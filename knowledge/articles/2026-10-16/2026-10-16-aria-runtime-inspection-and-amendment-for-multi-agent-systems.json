@@ -1,0 +1,33 @@
+{
+  "id": "rss-20261016-030",
+  "title": "ARIA: Runtime Inspection and Amendment for Multi-Agent Systems",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2610.20780",
+  "summary": "ARIA框架利用执行验证修复训练模型，在LLM多智能体系统运行中实时检查并修正错误，泛化至新框架与模型。",
+  "highlights": [
+    "构建首个大规模ARIA数据集，含3953个验证修复对，覆盖24000+轨迹",
+    "提出MAS无关的运行时检查与修正框架，可集成任意暴露执行轨迹的多智能体系统",
+    "训练紧凑模型识别干预时机与修复策略，跨框架和宿主模型泛化"
+  ],
+  "tags": [
+    "multi-agent systems",
+    "llm agents",
+    "runtime intervention",
+    "repair dataset",
+    "agent framework",
+    "error correction",
+    "arxiv"
+  ],
+  "relevance_score": 10,
+  "score_reason": "直接关注LLM多智能体系统运行时修复与Agent可靠性",
+  "author": "Bolin Shen, Yushun Dong",
+  "published_at": "Fri, 16 Oct 2026 00:00:00 -0400",
+  "fetched_at": "2026-10-16T13:06:53.831827+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "aria-runtime-inspection-and-amendment-for-multi-agent-systems"
+}

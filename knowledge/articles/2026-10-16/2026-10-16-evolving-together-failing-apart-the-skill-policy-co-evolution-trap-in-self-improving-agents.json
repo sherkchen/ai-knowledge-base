@@ -1,0 +1,34 @@
+{
+  "id": "rss-20261016-036",
+  "title": "Evolving Together, Failing Apart: The Skill-Policy Co-evolution Trap in Self-Improving Agents",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2610.20845",
+  "summary": "技能-策略协同进化智能体在技能漂移下脆弱，提出CODA审计协议与指标。",
+  "highlights": [
+    "合作接受规则使策略依赖共同进化的技能库，技能漂移后脆弱",
+    "实证显示最坏情况下成功率比峰值低5-13点，抵消52-93%增益",
+    "提出CODA漂移审计协议及一致性和抗腐蚀率两个新指标"
+  ],
+  "tags": [
+    "self-improving agents",
+    "skill-policy co-evolution",
+    "skill drift",
+    "evaluation protocol",
+    "robustness",
+    "arxiv",
+    "llm agents",
+    "policy model"
+  ],
+  "relevance_score": 9,
+  "score_reason": "直接讨论自改进智能体技能漂移及评测方法",
+  "author": "Yujie Feng, Xiaobin Wang, Jinluan Yang, Xiaonan Shi, Pengjun Xie, Philip S. Yu, Xiaoming Wu, Jieping Ye",
+  "published_at": "Fri, 16 Oct 2026 00:00:00 -0400",
+  "fetched_at": "2026-10-16T13:06:53.831888+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "evolving-together-failing-apart-the-skill-policy-co-evolution-trap-in-self-improving-agents"
+}

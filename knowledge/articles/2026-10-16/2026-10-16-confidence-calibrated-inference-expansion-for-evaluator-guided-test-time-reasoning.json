@@ -1,0 +1,33 @@
+{
+  "id": "rss-20261016-035",
+  "title": "Confidence-Calibrated Inference Expansion for Evaluator-Guided Test-Time Reasoning",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2610.20836",
+  "summary": "提出评估器引导推理的置信度校准扩展方法，通过三动作控制权衡答案置信度与计算开销，降低计算量约30%和16%。",
+  "highlights": [
+    "将评估器引导推理建模为信任、回退或扩展三动作计算感知控制器",
+    "通过局部动作差距分析与期望遗憾界指导置信度校准和不确定性惩罚",
+    "在Qwen3-8B上降低约30%和16%的在线计算，同时保持效用接近"
+  ],
+  "tags": [
+    "test-time compute",
+    "confidence calibration",
+    "evaluator-guided reasoning",
+    "llm",
+    "agent",
+    "inference",
+    "reasoning"
+  ],
+  "relevance_score": 9,
+  "score_reason": "直接研究LLM推理时计算分配与置信度校准，属于智能体决策优化",
+  "author": "Weida Liang, Kenji Kawaguchi",
+  "published_at": "Fri, 16 Oct 2026 00:00:00 -0400",
+  "fetched_at": "2026-10-16T13:06:53.831878+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "confidence-calibrated-inference-expansion-for-evaluator-guided-test-time-reasoning"
+}

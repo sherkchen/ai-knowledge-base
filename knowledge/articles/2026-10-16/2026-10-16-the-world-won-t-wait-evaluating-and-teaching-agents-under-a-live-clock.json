@@ -1,0 +1,33 @@
+{
+  "id": "rss-20261016-021",
+  "title": "The World Won't Wait: Evaluating and Teaching Agents Under a Live Clock",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2610.20665",
+  "summary": "论文提出RealtimeBench实时评估基准和TORSI框架，通过快慢双时间尺度自我改进提升LLM智能体在持续变化环境中的表现。",
+  "highlights": [
+    "提出RealtimeBench基准，含6类游戏180个任务，在推理期间游戏持续运行。",
+    "评估发现GPT-6.1-sol暂停时优于Jev，实时运行时落后，凸显延迟影响。",
+    "TORSI慢教师离线反思改进，快学生实时执行，Jev平均分从13.51升至24.19，并迁移至其他模型。"
+  ],
+  "tags": [
+    "llm agents",
+    "real-time",
+    "benchmark",
+    "self-improvement",
+    "teacher-student",
+    "latency",
+    "game ai"
+  ],
+  "relevance_score": 10,
+  "score_reason": "直接研究LLM智能体在实时环境中的评估与自我改进。",
+  "author": "Ningxin Pan, Hanyu Li, Yeqing Shen, Ning Ding, Yehui Tang, Wentao Zhang",
+  "published_at": "Fri, 16 Oct 2026 00:00:00 -0400",
+  "fetched_at": "2026-10-16T13:06:53.831732+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "the-world-won-t-wait-evaluating-and-teaching-agents-under-a-live-clock"
+}

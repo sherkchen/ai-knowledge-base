@@ -1,0 +1,34 @@
+{
+  "id": "rss-20261016-023",
+  "title": "Value-Informed Schedule Trimming for Accelerated Sequential Monte Carlo Guidance in Discrete Diffusion",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2610.20669",
+  "summary": "VISTA自动选择稀疏引导时间步，加速奖励引导离散扩散，性能接近全引导且提速5.35倍",
+  "highlights": [
+    "提出VISTA，无需训练，自动优化稀疏引导时间步",
+    "用动态规划最小化与全引导路径偏差上界",
+    "在文本、生物序列、图像生成任务中实现显著加速且性能接近或超过全引导"
+  ],
+  "tags": [
+    "discrete diffusion",
+    "sequential monte carlo",
+    "reward guidance",
+    "test-time alignment",
+    "schedule optimization",
+    "diffusion models",
+    "dynamic programming",
+    "vista"
+  ],
+  "relevance_score": 9,
+  "score_reason": "涉及离散扩散模型测试时对齐与加速，属于AI核心主题",
+  "author": "Jaehyeon Kim, Ziseok Lee, Siyoung Choi, Kyungsu Kim",
+  "published_at": "Fri, 16 Oct 2026 00:00:00 -0400",
+  "fetched_at": "2026-10-16T13:06:53.831753+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "value-informed-schedule-trimming-for-accelerated-sequential-monte-carlo-guidance-in-discrete-diffusion"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "rss-20261016-024",
+  "title": "AlphaDiana: A Measurement System for Agents in Verifiable Reasoning Tasks",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2610.20675",
+  "summary": "AlphaDiana是智能体测量系统，模块化接口评估数据集、智能体、环境和评分器，分离文件重用与记忆保留，发现harness不总能提高推理准确性。",
+  "highlights": [
+    "提出AlphaDiana，支持宏观分析与组件级干预，比较智能体在匹配条件下的表现。",
+    "实验覆盖三个开源模型和三个开源harness，在五个基准及部分交互基准上测试。",
+    "发现harness等组件干预并不总能提高准确性，需结合正确性、行为和token使用评估。"
+  ],
+  "tags": [
+    "agents",
+    "reasoning",
+    "benchmark",
+    "evaluation",
+    "llm",
+    "harness",
+    "memory"
+  ],
+  "relevance_score": 9,
+  "score_reason": "专注智能体推理评测，直接相关",
+  "author": "Zhanke Zhou, Zongze Li, Weikai Huang, Xuan Li, Chentao Cao, Xiao Feng, Xiangyu Lu, Jinbo Hu, Yi Xie, Nico Pelleriti, Shiyang Liu, Menghan Lu, Max Zimmer, Brando Miranda, Jiangchao Yao, Bo Liu, Sanmi Koyejo, Sebastian Pokutta, Bo Han",
+  "published_at": "Fri, 16 Oct 2026 00:00:00 -0400",
+  "fetched_at": "2026-10-16T13:06:53.831764+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "alphadiana-a-measurement-system-for-agents-in-verifiable-reasoning-tasks"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "rss-20261016-037",
+  "title": "Anticipatory Commonsense with Moving Objects: An ASP-Based Framework for Predictive Reasoning with Interacting Trajectories",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2610.20867",
+  "summary": "提出基于ASP的预测推理框架，用于交互轨迹的预见性常识推理，结合语义预测与能量优化。",
+  "highlights": [
+    "融合ASP、语义预测与能量优化的混合框架",
+    "生成可解释的分支轨迹未来与事件级假设",
+    "在Argoverse 2基准上验证交互运动预测"
+  ],
+  "tags": [
+    "answer set programming",
+    "trajectory prediction",
+    "commonsense reasoning",
+    "explainable ai",
+    "predictive reasoning",
+    "autonomous driving",
+    "argoverse"
+  ],
+  "relevance_score": 7,
+  "score_reason": "涉及预测推理与可解释AI，但非直接LLM/Agent",
+  "author": "Julius Monsen, Jakob Suchan, Mehul Bhatt",
+  "published_at": "Fri, 16 Oct 2026 00:00:00 -0400",
+  "fetched_at": "2026-10-16T13:06:53.831899+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "anticipatory-commonsense-with-moving-objects-an-asp-based-framework-for-predictive-reasoning-with-interacting-trajectories"
+}

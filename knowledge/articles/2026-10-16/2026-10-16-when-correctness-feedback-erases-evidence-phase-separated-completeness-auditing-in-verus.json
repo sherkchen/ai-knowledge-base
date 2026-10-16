@@ -1,0 +1,33 @@
+{
+  "id": "rss-20261016-025",
+  "title": "When Correctness Feedback Erases Evidence: Phase-Separated Completeness Auditing in Verus",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2610.20676",
+  "summary": "研究正确性反馈在Verus/Rust规范完整性审计中会消除证据，发现无反馈发现认证证据率更高，提出阶段分离审计方法。",
+  "highlights": [
+    "无反馈独立发现认证证据率达59.0%，远高于IntentShield纠正反馈循环的27.1%。",
+    "阶段分离执行匹配总产出且无需重用响应，保留认证证据可将规范修复实现成功率提升至81.3%。",
+    "该效应在Dafny和Lean评估中未复现，确立了经验边界。"
+  ],
+  "tags": [
+    "llm",
+    "program verification",
+    "feedback",
+    "formal methods",
+    "rust",
+    "specification completeness",
+    "code auditing"
+  ],
+  "relevance_score": 8,
+  "score_reason": "研究LLM反馈对形式验证审计的影响，相关性高",
+  "author": "Adarsh Agrawal (Independent Researcher)",
+  "published_at": "Fri, 16 Oct 2026 00:00:00 -0400",
+  "fetched_at": "2026-10-16T13:06:53.831774+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "when-correctness-feedback-erases-evidence-phase-separated-completeness-auditing-in-verus"
+}

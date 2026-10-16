@@ -1,0 +1,33 @@
+{
+  "id": "rss-20261016-034",
+  "title": "Temporal Specification Guidance for Text-to-Video Generation",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2610.20822",
+  "summary": "提出时序规范引导(TSG)训练无关推理框架，将时序逻辑规范转为可微目标，在推理时引导文生视频采样，多个模型上提升时序约束满足率9.5-20个百分点。",
+  "highlights": [
+    "使用度量时序逻辑(MTL)形式化时间、顺序和持久性要求",
+    "无需外部分类器和反向传播，利用注意力轨迹和梯度偏置实现引导",
+    "在220个提示、11类时序约束上，相对CFG提升9.5-20个百分点"
+  ],
+  "tags": [
+    "temporal-logic",
+    "text-to-video",
+    "video-generation",
+    "diffusion-models",
+    "inference-time-guidance",
+    "formal-specification",
+    "arxiv"
+  ],
+  "relevance_score": 9,
+  "score_reason": "文生视频时序控制与推理期引导，高度契合生成式AI方向",
+  "author": "Avishree Khare, Hideki Okamoto, Bardh Hoxha, Georgios Fainekos, Rajeev Alur",
+  "published_at": "Fri, 16 Oct 2026 00:00:00 -0400",
+  "fetched_at": "2026-10-16T13:06:53.831869+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "temporal-specification-guidance-for-text-to-video-generation"
+}

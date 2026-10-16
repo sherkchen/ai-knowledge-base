@@ -1,0 +1,34 @@
+{
+  "id": "rss-20261016-032",
+  "title": "EvolvingBrain: An Adaptive Skill System for Multi-modal Agents Self-Evolution in Open Worlds",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2610.20786",
+  "summary": "提出EvolvingBrain自适应技能系统，通过分层技能演化与状态感知执行，提升多模态智能体在开放世界中的自进化能力。",
+  "highlights": [
+    "分层技能自进化提取过程模式与问题模式，形成域、计划、动作/陷阱多粒度技能架构",
+    "状态感知自适应执行将长程交互总结为结构化抽象记忆，指导技能融合策略",
+    "在VAB-Minecraft和DiscoveryWorld上提升开放世界任务成功率并展现泛化能力"
+  ],
+  "tags": [
+    "agents",
+    "self-evolution",
+    "multi-modal",
+    "open-world",
+    "skill-learning",
+    "reinforcement-learning",
+    "memory",
+    "llm"
+  ],
+  "relevance_score": 10,
+  "score_reason": "涉及多模态智能体自进化、技能学习与开放世界任务，高度相关",
+  "author": "Runxuan Liu, Jingqi Shi, Baoxin Wang, Honghong Zhao, Haoyuan Xu, Yueqing Sun, Jiafeng Liang, Tao He, Dayong Wu, Qi Gu, Shijin Wang, Ming Liu, Bing Qin",
+  "published_at": "Fri, 16 Oct 2026 00:00:00 -0400",
+  "fetched_at": "2026-10-16T13:06:53.831847+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "evolvingbrain-an-adaptive-skill-system-for-multi-modal-agents-self-evolution-in-open-worlds"
+}

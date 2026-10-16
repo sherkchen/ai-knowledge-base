@@ -1,0 +1,34 @@
+{
+  "id": "rss-20261016-028",
+  "title": "L2G-SR: Learning to Guide LLM-based Symbolic Regression",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2610.20685",
+  "summary": "L2G-SR框架结合LLM与结构验证器，用树编辑距离引导符号回归搜索，在LLM-SRBench上实现SOTA。",
+  "highlights": [
+    "提出L2G-SR框架，用学习到的结构验证器引导LLM符号回归搜索",
+    "使用树编辑距离构建结构监督，处理交换算子与等价表达式",
+    "在LLM-SRBench上达到数值拟合、方程精度和TED的最优性能"
+  ],
+  "tags": [
+    "symbolic regression",
+    "llm",
+    "structural verifier",
+    "tree edit distance",
+    "search",
+    "framework",
+    "arxiv",
+    "machine learning"
+  ],
+  "relevance_score": 9,
+  "score_reason": "涉及LLM搜索与结构验证，属AI核心方法论文",
+  "author": "Letian Huang, Xiangyu Wang, Haowei Lin, Di He",
+  "published_at": "Fri, 16 Oct 2026 00:00:00 -0400",
+  "fetched_at": "2026-10-16T13:06:53.831805+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "l2g-sr-learning-to-guide-llm-based-symbolic-regression"
+}

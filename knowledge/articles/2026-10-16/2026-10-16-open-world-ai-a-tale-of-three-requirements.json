@@ -1,0 +1,33 @@
+{
+  "id": "rss-20261016-031",
+  "title": "Open-world AI: a Tale of Three Requirements",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2610.20782",
+  "summary": "开放世界AI需推理时学习、丰富表征和预测解耦；满足要求的语言模型随相关任务积累提升，否则退化。",
+  "highlights": [
+    "开放世界AI要求推理时学习，任务非预先已知",
+    "需丰富表征与预测解耦，对齐输入输出低维组",
+    "满足要求的模型随相关任务数据积累改进，否则退化"
+  ],
+  "tags": [
+    "open-world ai",
+    "llms",
+    "inference-time learning",
+    "representation learning",
+    "disentanglement",
+    "meta-learning",
+    "arxiv"
+  ],
+  "relevance_score": 10,
+  "score_reason": "论文直接探讨语言模型在开放世界中的学习与表征要求",
+  "author": "Jianyu Zhang, L\\'eon Bottou",
+  "published_at": "Fri, 16 Oct 2026 00:00:00 -0400",
+  "fetched_at": "2026-10-16T13:06:53.831838+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "open-world-ai-a-tale-of-three-requirements"
+}

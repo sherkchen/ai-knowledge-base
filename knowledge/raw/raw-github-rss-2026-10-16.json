@@ -1,0 +1,596 @@
+{
+  "sources": [
+    "github",
+    "rss"
+  ],
+  "collected_at": "2026-10-16T12:59:53.406683+00:00",
+  "total_count": 40,
+  "items": [
+    {
+      "title": "tianlinxu312/Everything-about-LLMs",
+      "source": "github",
+      "source_url": "https://github.com/tianlinxu312/Everything-about-LLMs",
+      "description": "A work in progress.  Trying to write about all interesting or necessary pieces in the current development of LLMs and generative AI.  Gradually adding more topics.  ",
+      "topics": [],
+      "stars": 198,
+      "language": "Jupyter Notebook",
+      "published_at": "2023-07-26T10:14:46Z",
+      "author": "tianlinxu312"
+    },
+    {
+      "title": "shibing624/ai-paper-analysis",
+      "source": "github",
+      "source_url": "https://github.com/shibing624/ai-paper-analysis",
+      "description": "Daily in-depth Chinese analyses of frontier AI research papers, including topics such as LLMs, agents, RAG, and RL. AI 前沿论文中文深度解读",
+      "topics": [
+        "ai-paper",
+        "ai-research",
+        "paper-analysis"
+      ],
+      "stars": 114,
+      "language": "Python",
+      "published_at": "2026-03-03T03:30:18Z",
+      "author": "shibing624"
+    },
+    {
+      "title": "nitefood/ai-bash",
+      "source": "github",
+      "source_url": "https://github.com/nitefood/ai-bash",
+      "description": "AI - a simple commandline local/remote LLM chat client. Supports any local or remote OpenAI-compatible API endpoint (GPT4o, Gemini, Grok, OpenRouter, Ollama, LM Studio and more), model and system prompt management, multiple conversations support, automatic topic identification and stdin piping (sending files to LLM for inspection)",
+      "topics": [
+        "ai",
+        "bash",
+        "chatbot",
+        "chatgpt",
+        "chatgpt-4",
+        "chatgpt-api",
+        "commandline",
+        "completions",
+        "conversational-ai",
+        "dalle2",
+        "gemini",
+        "gemini-api",
+        "gemini-pro",
+        "gpt-4",
+        "gpt-4o",
+        "grok-api",
+        "image-generation",
+        "openai-api",
+        "shell",
+        "terminal"
+      ],
+      "stars": 85,
+      "language": "Shell",
+      "published_at": "2023-03-13T00:31:40Z",
+      "author": "nitefood"
+    },
+    {
+      "title": "ruankie/ecrivai",
+      "source": "github",
+      "source_url": "https://github.com/ruankie/ecrivai",
+      "description": "Fully automated AI blog writer that uses LangChain and GPT type LLMs for topic selection and content generation",
+      "topics": [
+        "ai-blogger",
+        "ai-writer",
+        "autogpt",
+        "automation",
+        "blog-engine",
+        "blogging",
+        "chatgpt",
+        "gemini",
+        "gemini-api",
+        "generation",
+        "generative",
+        "generativeai",
+        "google-gemini",
+        "gpt",
+        "gpt-3",
+        "langchain",
+        "llm",
+        "openai",
+        "openai-api"
+      ],
+      "stars": 80,
+      "language": "Jupyter Notebook",
+      "published_at": "2023-01-28T11:14:50Z",
+      "author": "ruankie"
+    },
+    {
+      "title": "sinanuozdemir/oreilly-llm-rl-alignment",
+      "source": "github",
+      "source_url": "https://github.com/sinanuozdemir/oreilly-llm-rl-alignment",
+      "description": "This training offers an intensive exploration into the frontier of reinforcement learning techniques with large language models (LLMs). We will explore advanced topics such as Reinforcement Learning with Human Feedback (RLHF), Reinforcement Learning from AI Feedback (RLAIF), Reasoning LLMs, and demonstrate practical applications such as fine-tuning",
+      "topics": [
+        "agents",
+        "ai",
+        "deepseek",
+        "dpo",
+        "grpo",
+        "llama",
+        "ppo",
+        "qwen",
+        "reinforcement-learning",
+        "reward-modeling",
+        "rloo"
+      ],
+      "stars": 69,
+      "language": "Jupyter Notebook",
+      "published_at": "2023-08-10T16:41:46Z",
+      "author": "sinanuozdemir"
+    },
+    {
+      "title": "Md-Emon-Hasan/MediGenius",
+      "source": "github",
+      "source_url": "https://github.com/Md-Emon-Hasan/MediGenius",
+      "description": "AI-powered multi-agent medical assistant with a deterministic safety layer — crisis detection, refused-topic hard-stops, dosage grounding, and post-generation diagnosis verification running before and after every LLM call, backed by parallel RAG, Wikipedia, and Tavily retrieval with symptom and drug-question routing.",
+      "topics": [
+        "ai-agents",
+        "ai-agents-framework",
+        "ai-healthcare-assistant",
+        "clinical-assistant",
+        "doctor-ai",
+        "druginteractionsubagent",
+        "duckduckgo-search",
+        "fallback-architecture",
+        "generative-ai",
+        "healthcare-ai",
+        "healthcare-ai-assistant",
+        "knowledge-retrieval",
+        "langchain",
+        "langgraph-tools",
+        "llm-decision-graph",
+        "medical-chatbot",
+        "medicalsupervisoragent",
+        "multi-agent-systems",
+        "symptomanalysissubagent",
+        "tool-use-ai"
+      ],
+      "stars": 52,
+      "language": "Jupyter Notebook",
+      "published_at": "2025-04-30T17:17:17Z",
+      "author": "Md-Emon-Hasan"
+    },
+    {
+      "title": "SpreadSheets600/TidyTabs",
+      "source": "github",
+      "source_url": "https://github.com/SpreadSheets600/TidyTabs",
+      "description": "AI powered browser tab organization by topic, domain, and context using OpenRouter LLMS",
+      "topics": [
+        "chrome-extension",
+        "gemini",
+        "gemini-ai",
+        "gemini-api",
+        "open-router",
+        "tabs",
+        "tabs-management"
+      ],
+      "stars": 38,
+      "language": "JavaScript",
+      "published_at": "2026-01-15T06:08:30Z",
+      "author": "SpreadSheets600"
+    },
+    {
+      "title": "MADEVAL/AngleCraft",
+      "source": "github",
+      "source_url": "https://github.com/MADEVAL/AngleCraft",
+      "description": "Turn dry expert topics into high-engagement content with 7+2 journalistic angle types. An AI skill for any LLM, any niche, any language.",
+      "topics": [
+        "agent-skill",
+        "ai-skill",
+        "anglecraft",
+        "content-creation",
+        "content-marketing",
+        "content-strategy",
+        "copywriting",
+        "infotainment",
+        "llm",
+        "marketing",
+        "newsletter",
+        "prompt-engineering",
+        "social-media",
+        "storytelling"
+      ],
+      "stars": 31,
+      "language": null,
+      "published_at": "2026-06-27T10:33:05Z",
+      "author": "MADEVAL"
+    },
+    {
+      "title": "kael-bit/engram-rs",
+      "source": "github",
+      "source_url": "https://github.com/kael-bit/engram-rs",
+      "description": "Memory engine for AI agents — time axis (3-layer decay/promotion) + space axis (self-organizing topic tree). Hybrid search, LLM consolidation. Single Rust binary.",
+      "topics": [
+        "agents",
+        "ai",
+        "ai-agents",
+        "ai-memory",
+        "claudecode",
+        "mcp",
+        "mcp-server",
+        "openclaw",
+        "rust",
+        "sqlite"
+      ],
+      "stars": 28,
+      "language": "Rust",
+      "published_at": "2026-02-24T12:48:56Z",
+      "author": "kael-bit"
+    },
+    {
+      "title": "mchittineni/ultimate-ai-engineering-guide",
+      "source": "github",
+      "source_url": "https://github.com/mchittineni/ultimate-ai-engineering-guide",
+      "description": "100+ AI, Gen AI, LLM, Agentic AI, Forward Deployed Engineer (FDE), AI Systems Architect, Applied AI, LLMOps, AI Platform engineering interview questions across 10 topics - short answer, detail, worked example, and interview tips for each.",
+      "topics": [
+        "agentic-ai",
+        "ai-engineering",
+        "ai-platform",
+        "ai-systems-architect",
+        "forward-deployed-engineer",
+        "generative-ai",
+        "llm-engineering",
+        "llmops"
+      ],
+      "stars": 25,
+      "language": "Python",
+      "published_at": "2026-08-10T14:54:05Z",
+      "author": "mchittineni"
+    },
+    {
+      "title": "akshaymittal143/CloudyBot-DevOps-AI",
+      "source": "github",
+      "source_url": "https://github.com/akshaymittal143/CloudyBot-DevOps-AI",
+      "description": "Provide a conversational assistant that can answer DevOps-related questions. This helps demonstrate how large language models (LLMs) can be applied to real-world knowledge domains (in this case, cloud and DevOps topics). For students, it’s a fun, interactive example of AI services.",
+      "topics": [
+        "ai",
+        "chatbot",
+        "huggingface",
+        "openai",
+        "python"
+      ],
+      "stars": 15,
+      "language": "Python",
+      "published_at": "2025-04-16T02:07:17Z",
+      "author": "akshaymittal143"
+    },
+    {
+      "title": "ankitsharma-tech/Polyagent-Research-Intelligence",
+      "source": "github",
+      "source_url": "https://github.com/ankitsharma-tech/Polyagent-Research-Intelligence",
+      "description": "A modular, multi-agent AI research and report generation platform. Enter any topic, and PolyAgent Research Intelligence orchestrates multiple AI agents to retrieve literature, analyze data, and generate a polished report. Built for researchers and AI/ML engineers, leveraging LangChain, FastAPI, PostgreSQL, advanced LLMs, and a Next.js front-end.",
+      "topics": [
+        "ai-engineering",
+        "ai-research",
+        "faiss-vector-database",
+        "fastapi",
+        "grafana",
+        "langchain",
+        "llms",
+        "machine-learning",
+        "multi-agent-systems",
+        "nextjs",
+        "openrouter",
+        "postgresql",
+        "prometheus",
+        "report-generation",
+        "tailwindcss"
+      ],
+      "stars": 15,
+      "language": "TypeScript",
+      "published_at": "2025-09-24T15:52:17Z",
+      "author": "ankitsharma-tech"
+    },
+    {
+      "title": "BjornMelin/polyagent-research-intelligence",
+      "source": "github",
+      "source_url": "https://github.com/BjornMelin/polyagent-research-intelligence",
+      "description": "A modular, multi-agent AI research and report generation platform. Enter any topic, and PolyAgent Research Intelligence orchestrates multiple AI agents to retrieve literature, analyze data, and generate a polished report. Built for researchers and AI/ML engineers, leveraging LangChain, FastAPI, PostgreSQL, advanced LLMs, and a Next.js front-end.",
+      "topics": [
+        "ai-engineering",
+        "ai-research",
+        "faiss-vector-database",
+        "fastapi",
+        "grafana",
+        "langchain",
+        "llms",
+        "machine-learning",
+        "multi-agent-systems",
+        "nextjs",
+        "openrouter",
+        "postgresql",
+        "prometheus",
+        "report-generation",
+        "tailwindcss"
+      ],
+      "stars": 13,
+      "language": "TypeScript",
+      "published_at": "2025-01-19T19:06:19Z",
+      "author": "BjornMelin"
+    },
+    {
+      "title": "rasmurtech/DeepSeekDeepResearch",
+      "source": "github",
+      "source_url": "https://github.com/rasmurtech/DeepSeekDeepResearch",
+      "description": "DeepSeekDeepResearch is a Python-based AI assistant that leverages a local LLM (DeepSeek-R1:7b via Ollama), the Google Custom Search API, and asynchronous web scraping to automatically gather and refine information on any research topic. ",
+      "topics": [],
+      "stars": 9,
+      "language": "Python",
+      "published_at": "2025-02-06T19:20:55Z",
+      "author": "rasmurtech"
+    },
+    {
+      "title": "JacKaL37/TheHardProblem",
+      "source": "github",
+      "source_url": "https://github.com/JacKaL37/TheHardProblem",
+      "description": "Materials and notes for reading groups, discussions, and maybe a podcast on the topic of defining the edges of what it takes to be considered Conscious. The topic is going to get increasingly fraught as LLMs, other AI models, and agentic systems begin to adapt more and more of our cognitive capacities. We're just trying to do the research here.",
+      "topics": [],
+      "stars": 9,
+      "language": "HTML",
+      "published_at": "2024-08-20T20:19:59Z",
+      "author": "JacKaL37"
+    },
+    {
+      "title": "billy-enrizky/crewai-research-assistant",
+      "source": "github",
+      "source_url": "https://github.com/billy-enrizky/crewai-research-assistant",
+      "description": "The CrewAI Research Assistant is a powerful tool designed to help users explore any topic using AI Agents. Built with CrewAI, Exa, and Streamlit, this assistant supports multiple large language models (LLMs) and offers advanced answering capabilities through Exa. It visualizes the research process in real-time, generates structured research reports",
+      "topics": [
+        "ai",
+        "ai-agent",
+        "ai-agents",
+        "crewai",
+        "crewai-tools",
+        "exa-ai",
+        "groq-api",
+        "ollama-api",
+        "openai-api",
+        "research-agent",
+        "research-ai",
+        "research-paper",
+        "streamlit"
+      ],
+      "stars": 9,
+      "language": "Python",
+      "published_at": "2025-02-17T01:37:29Z",
+      "author": "billy-enrizky"
+    },
+    {
+      "title": "richer-richard/socratic-council",
+      "source": "github",
+      "source_url": "https://github.com/richer-richard/socratic-council",
+      "description": "Local-first desktop app: 16 AI agents from 8 LLM providers debate any topic — with live argument mapping, fact-check badges, and conflict detection.",
+      "topics": [
+        "agents",
+        "ai-agents",
+        "anthropic",
+        "argument-mapping",
+        "chatgpt",
+        "claude",
+        "debate",
+        "desktop-app",
+        "gemini",
+        "llm",
+        "llm-agent",
+        "local-first",
+        "multi-agent-systems",
+        "openai",
+        "react",
+        "rust",
+        "socratic-method",
+        "tauri",
+        "typescript"
+      ],
+      "stars": 8,
+      "language": "Rust",
+      "published_at": "2026-02-02T11:52:12Z",
+      "author": "richer-richard"
+    },
+    {
+      "title": "yushengzh/awesome-ML-for-quantum",
+      "source": "github",
+      "source_url": "https://github.com/yushengzh/awesome-ML-for-quantum",
+      "description": "This is a list of papers on the topic of how machine learning methods (including AI/LLM) are leveraged for specific tasks in quantum physics scenarios. (ML/AI/LLM for quantum science)",
+      "topics": [
+        "ai-for-quantum",
+        "ai-for-science",
+        "machine-learning",
+        "quantum-computing"
+      ],
+      "stars": 7,
+      "language": null,
+      "published_at": "2024-09-01T23:56:03Z",
+      "author": "yushengzh"
+    },
+    {
+      "title": "jfmaes/oss-ai-intel",
+      "source": "github",
+      "source_url": "https://github.com/jfmaes/oss-ai-intel",
+      "description": "Configurable, community-driven AI-landscape intelligence pipeline — collectors → dedupe → profile-scored ranking → one LLM analyst call → email brief, with 3-layer no-repetition memory. PR your own sources & topics.",
+      "topics": [],
+      "stars": 6,
+      "language": "Python",
+      "published_at": "2026-07-08T19:45:36Z",
+      "author": "jfmaes"
+    },
+    {
+      "title": "crabfeather/PaperLens-AI",
+      "source": "github",
+      "source_url": "https://github.com/crabfeather/PaperLens-AI",
+      "description": "PaperLens AI is a LLM-powered Python tool for summarizing and applying topic modeling on a large number of research paper PDFs completely for free using the Groq API.",
+      "topics": [
+        "ai",
+        "groq",
+        "pdf",
+        "python",
+        "research-paper",
+        "summarization",
+        "topic-modeling"
+      ],
+      "stars": 6,
+      "language": "Python",
+      "published_at": "2024-07-19T11:51:30Z",
+      "author": "crabfeather"
+    },
+    {
+      "title": "The World Won't Wait: Evaluating and Teaching Agents Under a Live Clock",
+      "source": "rss",
+      "source_url": "https://arxiv.org/abs/2610.20665",
+      "description": "arXiv:2610.20665v1 Announce Type: new \nAbstract: Large language model (LLM) agents can solve complex interactive tasks, yet reasoning and tool calls take time. In continuously changing environments, an otherwise correct action may arrive too late. We introduce RealtimeBench, with 180 tasks across six game types, to evaluate agents while games continue running during inference. Paired evaluations show that GPT-6.1-sol outperforms the faster Jev when games are paused, but falls behind when they keep running. We propose Two-Timescale Offline Recursive Self-Improvement (TORSI): a slow teacher studies failures and tests corrections in paused games between attempts, then writes reusable instructions for a fast student. The student acts without teacher calls during gameplay, and validation scores determine which updates are adopted. Two rounds raise Jev's average test score from 13.51 to 24.19 on a 0--100 progress scale, improving all six game types. The instructions also improve average scores for three other models without retuning. These findings point toward real-time intelligence: enabling powerful LLM agents to remain effective in a continuously changing world by organizing deliberation, learning, and action across timescales.",
+      "published_at": "Fri, 16 Oct 2026 00:00:00 -0400",
+      "author": "Ningxin Pan, Hanyu Li, Yeqing Shen, Ning Ding, Yehui Tang, Wentao Zhang"
+    },
+    {
+      "title": "Evaluating Model Capabilities After Benchmark Saturation",
+      "source": "rss",
+      "source_url": "https://arxiv.org/abs/2610.20667",
+      "description": "arXiv:2610.20667v1 Announce Type: new \nAbstract: Rapid advances in AI capabilities are causing benchmarks to saturate. Once several models approach perfect scores, a benchmark loses its power to differentiate between them, and with it its utility for informing AI safety cases and frontier policies. Yet benchmark items produce far more information than the scores we typically extract from them: a full transcript of how each model solved the task. We investigate whether these transcripts can be used to assess model capabilities even after benchmark scores have saturated. We simulate saturation retrospectively using historical benchmark and model releases, and test whether protocols that access only correctly solved transcripts from saturated benchmarks can predict capabilities measured on held-out, unsaturated items. We evaluate representative contemporary approaches for extracting information from model transcripts: pairwise judging, single-transcript absolute scoring, and predictions from deterministic transcript features or embeddings. We find that saturated transcripts retain capability information beyond benchmark accuracy. Amongst our evaluated protocols, pairwise judging performs best, reducing prediction error by 5.3 times compared to a baseline using only saturated benchmark scores. This capability-relevant information is distributed across transcript sections, but concentrated in specific channels of information such as reasoning and tool-calls. However, the predictive power of protocols does not always generalise across distribution shifts -- for example by underestimating the capabilities of the first reasoning models introduced in early 2025. Saturated benchmarks thus retain capability-predicting signal in their task transcripts, but extending the lifetime of existing benchmarks requires methods designed to extract these signals robustly.",
+      "published_at": "Fri, 16 Oct 2026 00:00:00 -0400",
+      "author": "Morio Hamada, Jehyeok Yeon, Matteo Migliarini, Justin Olive, Magda Dubois"
+    },
+    {
+      "title": "Value-Informed Schedule Trimming for Accelerated Sequential Monte Carlo Guidance in Discrete Diffusion",
+      "source": "rss",
+      "source_url": "https://arxiv.org/abs/2610.20669",
+      "description": "arXiv:2610.20669v1 Announce Type: new \nAbstract: Reward-guided discrete diffusion enables test-time alignment with downstream objectives, but applying Sequential Monte Carlo (SMC) guidance at every denoising step is computationally expensive. Active guidance steps require additional reward evaluations and, for gradient-based proposals, value-gradient computations. Sparse guidance reduces this cost by guiding only a subset of timesteps, but commonly used schedules are fixed heuristics whose effectiveness can vary substantially across tasks. We propose VISTA, a training-free method that automatically selects guided timesteps under a fixed budget. VISTA formulates sparse guidance as approximation of the ideal full-guidance probability path and derives an estimable upper bound on \\(\\ell_1\\) path deviation. Using value statistics collected from a small number of full-guidance warmup generations, VISTA optimizes the resulting empirical surrogate exactly via dynamic programming. The warmup generations can be retained as model outputs, and after schedule selection VISTA has the same per-generation guidance complexity as other sparse schedules with the same budget. Across text, biological sequence, and image generation tasks, VISTA discovers task-dependent schedules and outperforms hand-designed sparse schedules in most tested settings, while approaching or exceeding full-guidance performance on several task metrics. In toxic-text generation, for example, VISTA attains a 0.99 unique-toxic ratio compared with 1.00 for full guidance while reducing post-selection per-generation latency from 204.23 s to 38.16 s, a 5.35$\\times$ speedup.",
+      "published_at": "Fri, 16 Oct 2026 00:00:00 -0400",
+      "author": "Jaehyeon Kim, Ziseok Lee, Siyoung Choi, Kyungsu Kim"
+    },
+    {
+      "title": "AlphaDiana: A Measurement System for Agents in Verifiable Reasoning Tasks",
+      "source": "rss",
+      "source_url": "https://arxiv.org/abs/2610.20675",
+      "description": "arXiv:2610.20675v1 Announce Type: new \nAbstract: Agents pair reasoning models with harnesses that organize model calls, execute tools, load skill instructions, and retain history in memory. Understanding agent performance requires linking execution conditions to outcomes, behavior, and resource use. We introduce AlphaDiana, a measurement system with modular interfaces for datasets, agents, environments, and scorers. It preserves harness-native control loops while controlling file reuse and memory retention separately. AlphaDiana supports macro analyses of complete agents and micro interventions on agent components such as tools, skills, and memory under matched conditions. We study three open-source models and three open-source harnesses on five answer-based benchmarks, with two models also tested on two interactive benchmarks. We find that harnesses do not consistently improve the accuracy of reasoning: gains on questions unsolved by the model alone can be outweighed by losses on questions it answers correctly without tools. This inconsistency extends to component interventions: neither skill guidance nor retained history reliably improves accuracy. Behavior and output-token use must be assessed with correctness: low token entropy can accompany wrong answers, and less output per execution can mean more output tokens per correct answer when accuracy falls. AlphaDiana links answer correctness and execution status to traces and resource records for comparing agents and diagnosing failures under shared task and resource policies.",
+      "published_at": "Fri, 16 Oct 2026 00:00:00 -0400",
+      "author": "Zhanke Zhou, Zongze Li, Weikai Huang, Xuan Li, Chentao Cao, Xiao Feng, Xiangyu Lu, Jinbo Hu, Yi Xie, Nico Pelleriti, Shiyang Liu, Menghan Lu, Max Zimmer, Brando Miranda, Jiangchao Yao, Bo Liu, Sanmi Koyejo, Sebastian Pokutta, Bo Han"
+    },
+    {
+      "title": "When Correctness Feedback Erases Evidence: Phase-Separated Completeness Auditing in Verus",
+      "source": "rss",
+      "source_url": "https://arxiv.org/abs/2610.20676",
+      "description": "arXiv:2610.20676v1 Announce Type: new \nAbstract: Correctness feedback suppresses the very evidence that specification-completeness auditing is designed to uncover: programs that satisfy a written contract but violate intended behavior. We demonstrate this objective reversal on 12 Verus/Rust tasks across four model families under matched call budgets. Independent no-feedback discovery more than doubles certified-witness yield relative to IntentShield's corrective-feedback loop (59.0% versus 27.1%). A format-matched iterative control places the larger share of this gap in feedback content, not independent restarts. The advantage holds in every model family and survives parser repair. A separate phase-separated execution matches the aggregate yield without reusing responses; most certified witnesses also fail held-out cases. Preserving these witnesses delivers stronger specification repair: Phase-Revised contracts achieve 81.3% implementation success, versus 62.5% for IS-Revised, with Direct-Revised close behind. Both no-feedback witness sources substantially outperform weakened contracts. The effect does not reproduce in the available Dafny and Lean evaluations, establishing an empirical boundary around the studied Verus/Rust workflow. Completeness auditing and correctness repair have opposing immediate objectives. Preserve and certify the admitted failure before repairing it.",
+      "published_at": "Fri, 16 Oct 2026 00:00:00 -0400",
+      "author": "Adarsh Agrawal (Independent Researcher)"
+    },
+    {
+      "title": "Counterfactual Neighborhood Risk Fields: Evidence-Grounded Selective Safety for Vision-Language Models",
+      "source": "rss",
+      "source_url": "https://arxiv.org/abs/2610.20679",
+      "description": "arXiv:2610.20679v1 Announce Type: new \nAbstract: Representation-based safety defenses for vision-language models (VLMs) often learn to separate harmful from benign inputs, but separation alone does not establish what a risk score means or when it should be trusted. We introduce Counterfactual Neighborhood Risk Fields (CNRF), an evidence-grounded framework for selective VLM safety. CNRF constructs context-matched benign-harmful counterfactual pairs, uses their representation differences as capability-related risk directions, and estimates neighborhood support separately from risk. This separation prevents unfamiliarity from being conflated with harmfulness and enables selective intervention rather than blanket rejection. A victim-adaptive interface accommodates different safety observations across VLM architectures and routes selected requests for same-victim response review, which either releases acceptable candidates or produces constrained alternatives with reduced harmful capability. Across three VLMs and five multimodal jailbreak families, CNRF achieves 86.06-89.30% macro defense success rate while retaining substantial benign-task utility. Controlled experiments further show that query-matched references and preserved context-direction correspondence materially improve risk ranking in the low-false-positive regime. CNRF thus reframes representation-based VLM safety from learning harmfulness boundaries to constructing applicable evidence for selective risk decisions.",
+      "published_at": "Fri, 16 Oct 2026 00:00:00 -0400",
+      "author": "Tianshi Wang, Jingsong Wang, Fengling Li, Jingjing Li, Xin Li, Lei Zhu"
+    },
+    {
+      "title": "IneqAgent: Agentic Inequality Proving in Lean with Symbolic Computation",
+      "source": "rss",
+      "source_url": "https://arxiv.org/abs/2610.20681",
+      "description": "arXiv:2610.20681v1 Announce Type: new \nAbstract: Formal inequality proving requires mathematical reasoning and exact computation, often connected through intermediate lemmas and goal reformulations. We introduce IneqAgent, an agentic framework combining LLM reasoning with symbolic computation for inequality proving in Lean4. Lemma-level Monte Carlo Tree Search coordinates lemma construction, goal reformulation, and symbolic backend selection. Complementary sum-of-squares, Bernstein, and successive difference-substitution backends produce exact certificates for local Lean proof generation. The agent integrates these proofs with LLM-generated steps and uses Lean feedback to construct complete proofs checked against the original theorem statements. On four benchmarks, IneqAgent with DeepSeek-V4-Flash solves 175 of 186 problems (94.09%), achieving the highest overall success rate among the evaluated methods. Across four backbones, it achieves higher success rates at low LLM inference cost thresholds than Direct Agent using the same backbone, with lower mean inference costs over each method's successful runs. We also obtain Lean-verified strengthenings of Dittert's conjecture in dimensions four and five, and certify the Holens--Djokovic $(4,4)$ inequality, implying Merris's conjecture in dimension four.",
+      "published_at": "Fri, 16 Oct 2026 00:00:00 -0400",
+      "author": "Gaolei He, Jinhui Li, Ruobing Zuo, Xia Zeng, Zhengfeng Yang"
+    },
+    {
+      "title": "L2G-SR: Learning to Guide LLM-based Symbolic Regression",
+      "source": "rss",
+      "source_url": "https://arxiv.org/abs/2610.20685",
+      "description": "arXiv:2610.20685v1 Announce Type: new \nAbstract: Symbolic regression searches for an equation that explains observed data. Numerical error is commonly used to guide the search, but it alone can favor an accurate surrogate over a candidate with the right structure. We propose L2G-SR, a framework for LLM-based symbolic regression that guides search with a learned structural verifier. We construct structural supervision signal using tree edit distance (TED), accounting for commutative operators and alternative expression forms. A verifier first aligns numerical observations with the formulas, then learns to score a candidate's structural similarity to the target formula. At search time, the target formula is hidden and the verifier complements numerical error in parent selection. An analyst then uses verifier feedback and diagnostic tools to propose revisions, which a generator converts into refined expressions. On LLM-SRBench, L2G-SR achieves state-of-the-art numerical fit, equation level accuracy and TED across the evaluated LLM backbones and domains. L2G-SR demonstrates the value of learned structural guidance for LLM-based symbolic regression.",
+      "published_at": "Fri, 16 Oct 2026 00:00:00 -0400",
+      "author": "Letian Huang, Xiangyu Wang, Haowei Lin, Di He"
+    },
+    {
+      "title": "When Reality Outpaces Cognition: A New Scaling Principle for Reliable Intelligence",
+      "source": "rss",
+      "source_url": "https://arxiv.org/abs/2610.20764",
+      "description": "arXiv:2610.20764v1 Announce Type: new \nAbstract: This paper challenges the understanding capabilities of existing AI paradigms and emerging world models by asking a fundamental question: How quickly can reality change before an intelligent system can no longer reliably perceive, reason, and act? We formulate this as a theory- and model-agnostic challenge in which systems must infer reliable actions for increasingly distant future states across a growing observation--reality gap. We operationalize this challenge through the effective Speed of Coherent Cognition (\\(S_C^{\\mathrm{eff}}\\)), defined as the highest tested Speed of Reality (\\(S_R\\)) through which a system continuously satisfies a predefined behavioural reliability criterion from baseline. As a proof of concept, reinforcement-learning agents are trained at the baseline \\(S_R\\) and evaluated, without retraining, as \\(S_R\\) is increased by up to \\(50\\times\\) while computational resources remain fixed. We compare Transformer and gated-MLP baselines with \\(Co^4\\), an architecture inspired by cellular mechanisms implicated in conscious processing and awake thought. Across the tested scenarios, \\(Co^4\\) achieves substantially higher \\(S_C^{\\mathrm{eff}}\\) than the baselines, motivating \\(S_C^{\\mathrm{eff}}\\) as a new benchmark and the scaling of coherent cognition as a principle for reliable AI.",
+      "published_at": "Fri, 16 Oct 2026 00:00:00 -0400",
+      "author": "Ahsan Adeel, Talha Bin Riaz"
+    },
+    {
+      "title": "ARIA: Runtime Inspection and Amendment for Multi-Agent Systems",
+      "source": "rss",
+      "source_url": "https://arxiv.org/abs/2610.20780",
+      "description": "arXiv:2610.20780v1 Announce Type: new \nAbstract: In LLM-based multi-agent systems (MAS), a local mistake can propagate as other agents build on it, turning a correctable error into a failed task. Diagnosing completed runs or repeatedly re-executing them to search for corrections does not provide a learned policy for intervening while execution is still in progress. We present Agent Runtime Inspection and Amendment (ARIA), a framework for learning when and how to repair ongoing multi-agent executions. Our key intuition is to turn execution-verified repairs into reusable supervision, moving repair search into data construction and training so that a learned model can intervene at runtime without repeatedly testing alternatives. First, we collect over 24{,}000 successful and failed trajectories across four multi-agent frameworks, six benchmarks, and eight host models. From these trajectories, we construct the ARIA dataset, to our knowledge the first large-scale dataset pairing failed multi-agent trajectories with execution-verified repairs. It contains 3{,}953 verified repair pairs, each specifying what went wrong, where to intervene, and how execution should continue. Then, we develop the ARIA framework for MAS-agnostic runtime inspection and amendment, designed to integrate with any MAS that exposes execution trajectories and supports continuation replacement. Using verified repairs as training examples, we teach a compact model to recognize when intervention is needed and how to correct an ongoing run. The aim is to learn repair strategies that apply to related failures in new configurations, rather than merely reproduce individual corrections. Finally, the trained ARIA model demonstrates strong repair performance in both post-hoc and runtime settings, with generalization to unseen frameworks and host models. Our code is available at https://github.com/LabRAI/ARIA.",
+      "published_at": "Fri, 16 Oct 2026 00:00:00 -0400",
+      "author": "Bolin Shen, Yushun Dong"
+    },
+    {
+      "title": "Open-world AI: a Tale of Three Requirements",
+      "source": "rss",
+      "source_url": "https://arxiv.org/abs/2610.20782",
+      "description": "arXiv:2610.20782v1 Announce Type: new \nAbstract: The closed world asks AI for specialized competence and lets it manufacture the iid data its theory assumes: a fixed criterion licenses collecting examples until the task is covered. The open world asks for versatility --- taking up tasks a machine was not built for, from few examples and with little prior from a human designer --- and offers data that is grouped, not shuffled. Its tasks are not known in advance, so a machine must do inference-time learning (1st requirement). Modeling tasks as sharing latent factors and decomposing the training objective, we derive two more: a *rich representation*, retaining more than iid generalization requires, and a predictive disentanglement that aligns inputs and outputs into matched low-dimensional groups. The analysis further predicts the need for a consistent inner learner, and the benefit of long contexts spanning related tasks. We test these claims on language models up to 8B, asking whether a model has a property (qualitative) rather than how much it wins (quantitative). Models that meet the requirements improve as data from related tasks accumulates; the rest degrade, and neither scale nor layer-type interleaving repairs this.",
+      "published_at": "Fri, 16 Oct 2026 00:00:00 -0400",
+      "author": "Jianyu Zhang, L\\'eon Bottou"
+    },
+    {
+      "title": "EvolvingBrain: An Adaptive Skill System for Multi-modal Agents Self-Evolution in Open Worlds",
+      "source": "rss",
+      "source_url": "https://arxiv.org/abs/2610.20786",
+      "description": "arXiv:2610.20786v1 Announce Type: new \nAbstract: Multi-modal agents have made significant progress in interacting with open worlds. However, their ability to self-evolve remains limited. Supervised fine-tuning enables imitation but not active experience organization, while outcome-based reinforcement learning promotes exploration yet underuses intermediate trajectory information. Therefore, we propose EvolvingBrain, which uses an adaptive skill system as the brain for agent self-evolution, consisting of two following components. Stratified Skill Self-Evolution: extracts Procedural Patterns and Problematic Patterns from model-specific trajectories, summarizes experience by generating skills, and evolves through multiple interactions with the open world, ultimately forming a Stratified Skill Architecture consisting of Domain, Plan, and Action/Trap Skills, which provides the agent with a multi-granularity knowledge repository and a novel evolution approach. State-Aware Adaptive Execution: summarizes long-horizon interactions into Structured Abstractive Memory and uses it to guide the State-Aware Skill Fusion Strategy, enabling the agent to utilize knowledge according to its current state. Experiments on VAB-Minecraft and DiscoveryWorld demonstrate that EvolvingBrain improves success rates on open-world tasks and exhibits generalization capabilities. Our code is provided in the supplementary materials and will be publicly released in the camera-ready version.",
+      "published_at": "Fri, 16 Oct 2026 00:00:00 -0400",
+      "author": "Runxuan Liu, Jingqi Shi, Baoxin Wang, Honghong Zhao, Haoyuan Xu, Yueqing Sun, Jiafeng Liang, Tao He, Dayong Wu, Qi Gu, Shijin Wang, Ming Liu, Bing Qin"
+    },
+    {
+      "title": "When Reasoning Traces Conflict with Evidence: How Answer Configuration Shapes Evidence Following",
+      "source": "rss",
+      "source_url": "https://arxiv.org/abs/2610.20805",
+      "description": "arXiv:2610.20805v1 Announce Type: new \nAbstract: A reasoning trace retained at answer time plays two roles: it can raise accuracy, and it can compete with the current evidence when the two disagree. We disentangle these roles by crossing verified evidence versions with the traces generated from each and answering from the same traces and evidence under two configurations: continuation of the model's own thinking and a separate answer call. Across three model families (gpt-oss, Gemma4, Qwen3) on HotpotQA and MuSiQue, the separate call raises evidence-following over continuation by 29.9 to 60.6 points. On the same pairs, removing the trace lowers accuracy by similar amounts under both configurations. Yet continuation repeats the stale conclusion in most conflicts, and the separate call follows the current evidence far more often. Benefiting from a trace and deferring to it are therefore distinct properties. Further analyses show that the final line of a trace carries most of its value, gold evidence helps most before the trace is written, distractors weaken correction under a separate call, and renewed reasoning, unlike a verification instruction, follows the current evidence in most conflicts. Because trace deletion alone cannot reveal which source an answer follows, evaluations should report both properties together with the answer configuration.",
+      "published_at": "Fri, 16 Oct 2026 00:00:00 -0400",
+      "author": "Shaoang Li, Yanhang Shi, Jian Li"
+    },
+    {
+      "title": "A Self-Improving Agent that Grows its Own DSL: Oracle-Free Operator Induction for Exact Question Answering",
+      "source": "rss",
+      "source_url": "https://arxiv.org/abs/2610.20809",
+      "description": "arXiv:2610.20809v1 Announce Type: new \nAbstract: A self-improving agent has to decide which new skills to keep, and in practice it keeps whatever earns a high reward, convinces a judge model, or compresses its library, even when the skill is wrong. That is fine until the answers have to be exactly right: over a table of transactions, a total is either right or wrong. We ask a harder question: can an agent grow what it can compute with no reward, no judge, and no answer key, and still be exactly right? A single frozen model runs two nested loops over a small, exact domain-specific language (DSL). The inner loop answers new questions only when two independently written expressions agree on every record. The outer loop discovers its own missing capability and authors an operator for it, admitted only when an independent second implementation agrees and the result obeys a conservation law, all without ground truth. The inner loop roughly triples the answerable-question set, and the outer loop self-extends on disjoint starting sets, inventing operators outside the starting closure; a no-induction control answers none of the new questions. The admission rule is empirically sound: it rejects 138 of 138 buggy operator variants under an independent reference, even one written by a different model family, where the admit-if-it-runs, self-consistency, and compression signals the field relies on admit most of them. Unmodified, the same mechanism self-extends on two further domains with unrelated schemas, business-ledger and clinical-encounter question answering, growing their answerable sets more than tenfold and nearly twentyfold. The loop transfers across model families too: run with further proposers, the gate stays sound and independent families self-extend comparably, with only the induction yield tracking each proposer's DSL fluency.",
+      "published_at": "Fri, 16 Oct 2026 00:00:00 -0400",
+      "author": "Yun-Shiuan Chuang, Yirou Ge, Yixi Li, Yiming Bian, Zijie Pan, Jenna L. Ballard, Uma Kona, Linsey Pang, Prakhar Mehrotra"
+    },
+    {
+      "title": "Temporal Specification Guidance for Text-to-Video Generation",
+      "source": "rss",
+      "source_url": "https://arxiv.org/abs/2610.20822",
+      "description": "arXiv:2610.20822v1 Announce Type: new \nAbstract: Text-to-video models often generate the visual concepts requested in natural language prompts but fail to satisfy their intended ordering, timing, and persistence requirements. We propose representing these requirements as specifications in a formal Temporal Logic, and introduce Temporal Specification Guidance (TSG), a training-free inference-time framework that turns temporal specifications into executable objectives for guiding video generation during sampling. TSG scores traces of visual concept evidence using differentiable quantitative semantics and uses the score's gradients to construct a specification-guided denoising direction. We instantiate this framework with video-text attention traces, efficient differentiable scores for Metric Temporal Logic, and gradient-derived attention biases. This instantiation requires neither an external concept classifier nor backpropagation through the video transformer. Its attention-steered forward pass yields a denoising direction that augments classifier-free guidance (CFG). On a benchmark of 220 prompts spanning 11 categories of temporal constraints, including ordered object entry and state transitions, this instantiation improves specification satisfaction accuracy over CFG by 9.5-20 percentage points across five models, with minimal memory overhead. These results demonstrate the potential of temporal specifications and differentiable satisfaction objectives as a flexible interface for controlling video generation.",
+      "published_at": "Fri, 16 Oct 2026 00:00:00 -0400",
+      "author": "Avishree Khare, Hideki Okamoto, Bardh Hoxha, Georgios Fainekos, Rajeev Alur"
+    },
+    {
+      "title": "Confidence-Calibrated Inference Expansion for Evaluator-Guided Test-Time Reasoning",
+      "source": "rss",
+      "source_url": "https://arxiv.org/abs/2610.20836",
+      "description": "arXiv:2610.20836v1 Announce Type: new \nAbstract: Evaluator-guided reasoning presents a local control problem at every step: trust the current answer, return a fallback, or spend more inference. We formulate this choice as a compute-aware three-action controller, scoring terminal actions by predicted answer success and expansion by a rollout-based continuation-success surrogate, with compute cost priced explicitly. A local action-gap analysis characterizes when score errors can change a decision, while an expected regret bound accounts for errors along the realized expansion path. Guided by this analysis, we learn and calibrate action-specific confidence estimates, with local uncertainty penalties for ambiguous decisions. On held-out width expansion and revision tasks, the controller improves observed utility over calibration-selected fixed policies while reducing normalized online compute by about 30% and 16%, respectively. Across four Qwen3-8B seeds, compute is lower than fitted Q in both settings, while utility differences are small and mixed. The results frame evaluator-guided reasoning as resource allocation under uncertainty, rather than a uniformly stronger reasoner.",
+      "published_at": "Fri, 16 Oct 2026 00:00:00 -0400",
+      "author": "Weida Liang, Kenji Kawaguchi"
+    },
+    {
+      "title": "Evolving Together, Failing Apart: The Skill-Policy Co-evolution Trap in Self-Improving Agents",
+      "source": "rss",
+      "source_url": "https://arxiv.org/abs/2610.20845",
+      "description": "arXiv:2610.20845v1 Announce Type: new \nAbstract: Skill-policy co-evolution, in which an agent's policy model and its skill bank improve each other during training, is a promising paradigm for self-improving agents. Current evaluations score the co-evolved policy on the final bank it trained with (the delivered bank). After deployment, however, skills may be rewritten, added or removed more frequently than the policy model is retrained, leaving the policy to operate on a drifted skill bank that neither the training objective nor existing evaluation protocols address. In this paper, we first establish, through theoretical and empirical analysis, that the fragility hidden by this blind spot is not incidental. The acceptance rule these methods share (cooperative acceptance) ties a policy's competence to the bank it co-evolved with, leaving it fragile once skills drift, regardless of the implementation; empirically, sensitivity to skill drift grows as co-evolution training proceeds. We therefore introduce the CO-evolution Drift Audit (CODA), a deployment-oriented evaluation protocol that simulates skill drift and, alongside success rate under worst-case drift, introduces two new metrics: a consistency rate under meaning-preserving edits and a resistance rate to corrupted skills. Across four co-evolution methods and five benchmarks (six settings), worst-case success is 5-13 points below the peak measured for each delivered pair, erasing 52-93% of the delivered bank's gain over the no-skill baseline. CODA thus reframes the target of co-evolution, from peak performance on the co-evolved bank to the ability to harness skills however they evolve, and provides a shared standard against which future methods can be audited.",
+      "published_at": "Fri, 16 Oct 2026 00:00:00 -0400",
+      "author": "Yujie Feng, Xiaobin Wang, Jinluan Yang, Xiaonan Shi, Pengjun Xie, Philip S. Yu, Xiaoming Wu, Jieping Ye"
+    },
+    {
+      "title": "Anticipatory Commonsense with Moving Objects: An ASP-Based Framework for Predictive Reasoning with Interacting Trajectories",
+      "source": "rss",
+      "source_url": "https://arxiv.org/abs/2610.20867",
+      "description": "arXiv:2610.20867v1 Announce Type: new \nAbstract: We present a general declarative framework for anticipatory reasoning about interactive motion in complex dynamic environments. Our focus is on (explainable) anticipatory space-time mental model formation at a semantic level to heuristically guide low-level motion computation. Our method is hybrid, modular and elaboration tolerant integrating: 1) An ASP model characterising the dynamics of interactive motion trajectories; 2) Semantically-guided prediction for deriving `branching trajectory futures'; and 3) An energy-based {optimisation} model to evaluate, rank and filter anticipations. We evaluate with the Argoverse 2 benchmark, where each anticipated trajectory carries an explicit, inspectable event-level hypothesis, unlike end-to-end stochastic prediction.",
+      "published_at": "Fri, 16 Oct 2026 00:00:00 -0400",
+      "author": "Julius Monsen, Jakob Suchan, Mehul Bhatt"
+    },
+    {
+      "title": "A Multi-Tiered AI Accessibility Model (MAIAM): Proportionate Access and Capability Limits for Comprehensive Frontier AI Safety",
+      "source": "rss",
+      "source_url": "https://arxiv.org/abs/2610.20921",
+      "description": "arXiv:2610.20921v1 Announce Type: new \nAbstract: Most debate about releasing capable AI systems treats the choice as binary: keep the model behind an API, or publish the weights. That framing runs together two separate decisions. One is how capable a system may become. The other is who may obtain a given capability, and on what terms. This paper is about the second decision. We propose a Multi-Tiered AI Accessibility Model (MAIAM) that sorts access by purpose, safety, and capability instead of by release artifact. Tier 1, AI for Learning, is broadly accessible and deliberately capability-bounded. Tier 2, AI for Exploration, serves research and development under registration, identity, and usage controls that tighten as capability rises. Tier 3, Full-Scale Frontier AI, is available only through structured, recorded, and accountable access. The principle behind the tiers is that accessibility should be proportional to capability, safety, and risk. We show why publishing frontier-class weights forfeits every safety lever a developer has after release, and, using evidence that safety fine-tuning can be stripped from open weights for a few hundred dollars, why an evaluation of the base model says little about its derivatives. We give criteria for assigning a system to a tier along capability, autonomy, domain-consequence, and usage/safety axes, and combine MAIAM with the SAFE AI Operating Point into a two-part framework: a Capability Boundary that fixes the safety limits not to be crossed, and an Accessibility Boundary that fixes who may obtain a capability below that limit. Capability limits alone do not make AI safe; a tiered access regime administered by regulating bodies is also needed.",
+      "published_at": "Fri, 16 Oct 2026 00:00:00 -0400",
+      "author": "Chai K. Toh, Vasu Raj Jain"
+    },
+    {
+      "title": "Defining and Generating Compositional Structure",
+      "source": "rss",
+      "source_url": "https://arxiv.org/abs/2610.20922",
+      "description": "arXiv:2610.20922v1 Announce Type: new \nAbstract: Compositional structure is pervasive in nature and across scales: atoms combine into molecules, molecules into cells, and cells into organisms, while further compositional hierarchies appear within each level. More broadly, compositionality, the reuse and recombination of parts into novel structures, is a fundamental source of interesting complexity in both natural and artificial systems. Yet despite its importance, and despite our apparent ease in recognizing it, mathematical accounts capturing what we intuitively mean by compositional structure remain limited. Here, we fill this gap by formalizing a simple idea: compositional structure emerges when parts, considered together, reveal shared structure that is not captured when those parts are modeled separately. We express this idea using algorithmic information theory, the mathematics of information and compression, which provides a natural way to identify structure in arbitrary data without specifying in advance what that structure must look like. Applied across scales, our definition informs where and how compositional structure emerges within an object. Using tractable approximations, we then invert the framework to generate compositional objects: we specify the desired form of their compositional structure without prescribing their particular content, and optimize directly over strings and images. The resulting objects exhibit readily recognizable hierarchical reuse and part-whole organization, suggesting that the definition captures compositional structure rather than merely complexity, regularity, or shared information. Finally, we discuss implications for machine learning, including a new perspective on depth in neural architectures and principles for constructing compositional data curricula capable of supporting open-ended learning.",
+      "published_at": "Fri, 16 Oct 2026 00:00:00 -0400",
+      "author": "Eric Elmoznino, Tejas Kasetty, Blaise Ag\\\"uera y Arcas, Yoshua Bengio, Guillaume Lajoie"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "rss-20261016-033",
+  "title": "A Self-Improving Agent that Grows its Own DSL: Oracle-Free Operator Induction for Exact Question Answering",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2610.20809",
+  "summary": "自我改进智能体无需奖励、评判或答案，通过DSL双循环归纳算子，精确扩展问答能力。",
+  "highlights": [
+    "内循环通过两个独立表达式在全记录上一致才回答问题，可答集提升约三倍。",
+    "外循环发现缺失能力并归纳算子，仅当独立实现一致且满足守恒律才接纳。",
+    "方法在无关领域迁移，可答集增长十倍以上，并拒绝全部138个有缺陷算子变体。"
+  ],
+  "tags": [
+    "self-improving agent",
+    "dsl",
+    "operator induction",
+    "question answering",
+    "oracle-free",
+    "program synthesis",
+    "llm"
+  ],
+  "relevance_score": 10,
+  "score_reason": "研究自改进智能体与DSL精确问答，直接相关",
+  "author": "Yun-Shiuan Chuang, Yirou Ge, Yixi Li, Yiming Bian, Zijie Pan, Jenna L. Ballard, Uma Kona, Linsey Pang, Prakhar Mehrotra",
+  "published_at": "Fri, 16 Oct 2026 00:00:00 -0400",
+  "fetched_at": "2026-10-16T13:06:53.831858+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "a-self-improving-agent-that-grows-its-own-dsl-oracle-free-operator-induction-for-exact-question-answering"
+}

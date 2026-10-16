@@ -1,0 +1,34 @@
+{
+  "id": "rss-20261016-029",
+  "title": "When Reality Outpaces Cognition: A New Scaling Principle for Reliable Intelligence",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2610.20764",
+  "summary": "论文提出有效相干认知速度基准，衡量智能系统在现实加速变化下仍可靠感知、推理与行动的能力；Co^4架构显著超越Transformer和门控MLP。",
+  "highlights": [
+    "提出有效相干认知速度 S_C^eff，衡量系统在观察-现实差距扩大时的可靠行为。",
+    "强化学习智能体在不重训下面对最高50倍现实速度，并在固定计算资源下评估。",
+    "Co^4架构受细胞机制启发，显著超越Transformer与门控MLP基线。"
+  ],
+  "tags": [
+    "ai",
+    "world-models",
+    "reinforcement-learning",
+    "scaling",
+    "cognition",
+    "transformer",
+    "reliability",
+    "benchmark"
+  ],
+  "relevance_score": 10,
+  "score_reason": "直接探讨AI智能体在动态现实中的可靠性与新架构、新基准",
+  "author": "Ahsan Adeel, Talha Bin Riaz",
+  "published_at": "Fri, 16 Oct 2026 00:00:00 -0400",
+  "fetched_at": "2026-10-16T13:06:53.831814+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "when-reality-outpaces-cognition-a-new-scaling-principle-for-reliable-intelligence"
+}
