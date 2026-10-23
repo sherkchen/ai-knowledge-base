@@ -1,0 +1,34 @@
+{
+  "id": "rss-20261023-021",
+  "title": "Scaling in Games: Continued Pre-Training For Embodied Agents In Diverse Virtual Worlds",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2610.28698",
+  "summary": "研究在多样虚拟世界中对具身智能体持续预训练，分析数据量、多样性与模型规模影响，发现多样性助迁移但远域有限，需更丰富训练阶段。",
+  "highlights": [
+    "120个训练配置涵盖0.8B-27B模型、50-1600小时数据及多世界混合",
+    "数据量提升域内性能，多样性促进相关世界迁移，但远域增益有限",
+    "发现早期接口阶段和后期世界阶段，拟合经验缩放定律，并指出需更丰富训练阶段"
+  ],
+  "tags": [
+    "embodied agents",
+    "continued pre-training",
+    "virtual worlds",
+    "scaling laws",
+    "minecraft",
+    "multi-world",
+    "generalization",
+    "game ai"
+  ],
+  "relevance_score": 9,
+  "score_reason": "具身智能体持续预训练与缩放定律研究，核心AI主题",
+  "author": "Kuan Zhang, Yukun Chen, Zhihao Yang, Yue Su, Xiangnan Wu, Zirong Chen, Run Luo, Jinkun Hou, Tao Tan, Yinhe Zheng, Yiming Li",
+  "published_at": "Fri, 23 Oct 2026 00:00:00 -0400",
+  "fetched_at": "2026-10-23T13:07:37.416219+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "scaling-in-games-continued-pre-training-for-embodied-agents-in-diverse-virtual-worlds"
+}

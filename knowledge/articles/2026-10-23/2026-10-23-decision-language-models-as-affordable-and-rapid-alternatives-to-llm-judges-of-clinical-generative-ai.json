@@ -1,0 +1,34 @@
+{
+  "id": "rss-20261023-025",
+  "title": "Decision language models as affordable and rapid alternatives to LLM judges of clinical generative AI",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2610.28826",
+  "summary": "决策语言模型Jev作为临床生成式AI评估的廉价快速替代方案，在多项基准中匹配或超越多数LLM法官，成本低73-294倍，快7-57倍。",
+  "highlights": [
+    "Jev在118个儿科回答上与医生评分一致性Gwet's AC2 0.50，超过Claude Opus 5.5和GPT-6",
+    "在HealthBench Professional上，Jev与参考法官GPT-5.4在91%标准上持平",
+    "前沿LLM法官成本为Jev的73-294倍，耗时7-57倍"
+  ],
+  "tags": [
+    "decision language models",
+    "llm judge",
+    "clinical ai",
+    "generative ai",
+    "evaluation",
+    "healthcare",
+    "model efficiency",
+    "benchmark"
+  ],
+  "relevance_score": 9,
+  "score_reason": "涉及LLM评估、高效替代模型及医疗AI基准，相关度高",
+  "author": "Rotem Gershon, Seffi Cohen, Dean Ariel, Havatzelet Bilavsky-Yarden, Amiel Sberro, Shai Yitzhaki, Osnat Tausky, Naama Golan, Maayan Rabinovitch, Ariel Avraham Hasidim, Itay Arianu, Maya Dagan, Ran Balicer, Noa Dagan",
+  "published_at": "Fri, 23 Oct 2026 00:00:00 -0400",
+  "fetched_at": "2026-10-23T13:07:37.416273+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "decision-language-models-as-affordable-and-rapid-alternatives-to-llm-judges-of-clinical-generative-ai"
+}

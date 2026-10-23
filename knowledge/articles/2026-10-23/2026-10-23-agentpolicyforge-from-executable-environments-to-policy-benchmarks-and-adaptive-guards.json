@@ -1,0 +1,34 @@
+{
+  "id": "rss-20261023-036",
+  "title": "AgentPolicyForge: From Executable Environments to Policy Benchmarks and Adaptive Guards",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2610.28989",
+  "summary": "提出AgentPolicyForge框架，利用可执行环境构建PolicyGym基准并迭代训练策略守卫，显著降低攻击成功率。",
+  "highlights": [
+    "基于可执行环境自动构建策略合规与违规样例",
+    "PolicyGym含10个策略家族，698个训练场景和254个留出测试场景",
+    "训练守卫相比策略提示，攻击成功率相对降低40-44%"
+  ],
+  "tags": [
+    "agentpolicyforge",
+    "policy guard",
+    "llm agents",
+    "benchmark",
+    "tool calls",
+    "agent security",
+    "executable environments",
+    "policy enforcement"
+  ],
+  "relevance_score": 10,
+  "score_reason": "涉及LLM智能体策略守卫、基准构建与训练，高度相关",
+  "author": "Chao Shang, Wanyu Du, Yi Zhang, Sandesh Swamy",
+  "published_at": "Fri, 23 Oct 2026 00:00:00 -0400",
+  "fetched_at": "2026-10-23T13:07:37.416400+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "agentpolicyforge-from-executable-environments-to-policy-benchmarks-and-adaptive-guards"
+}

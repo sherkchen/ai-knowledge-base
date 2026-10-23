@@ -1,0 +1,34 @@
+{
+  "id": "github-20261023-018",
+  "title": "Ak-cybe/web-llm-attacks",
+  "source": "github_trending",
+  "source_url": "https://github.com/Ak-cybe/web-llm-attacks",
+  "summary": "面向Web LLM攻击的红队方法论，涵盖提示注入、Web安全、OWASP与智能体AI。",
+  "highlights": [
+    "提供针对Web LLM的综合性红队攻击方法",
+    "涵盖提示注入、Web安全与OWASP Top 10 for LLM",
+    "关注智能体AI与聊天机器人黑客攻击"
+  ],
+  "tags": [
+    "llm-security",
+    "prompt-injection",
+    "web-security",
+    "red-teaming",
+    "owasp",
+    "agentic-ai",
+    "ai-hacking",
+    "chatbot-hack"
+  ],
+  "relevance_score": 10,
+  "score_reason": "直接涉及LLM安全、提示注入和智能体攻击",
+  "author": "Ak-cybe",
+  "published_at": "2025-12-24T14:48:05Z",
+  "fetched_at": "2026-10-23T13:07:37.416185+00:00",
+  "status": "draft",
+  "category": "tool",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "ak-cybe-web-llm-attacks"
+}

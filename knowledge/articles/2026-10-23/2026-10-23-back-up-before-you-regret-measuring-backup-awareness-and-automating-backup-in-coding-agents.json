@@ -1,0 +1,33 @@
+{
+  "id": "rss-20261023-033",
+  "title": "Back Up Before You Regret: Measuring Backup Awareness and Automating Backup in Coding Agents",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2610.28934",
+  "summary": "研究提出RegretBench基准与BackUpper备份层，评估并自动提升编码智能体的备份意识，成本低至每任务0.014美元。",
+  "highlights": [
+    "在RegretBench中，前沿模型平均任务完成率86.1%，但后悔时刻前备份仅15.2%",
+    "BackUpper覆盖所有后悔操作，恢复状态与原状态平均相似度92.2%",
+    "备份成本每任务仅0.014美元，token用量比主智能体自备份基线少7倍"
+  ],
+  "tags": [
+    "coding agents",
+    "backup awareness",
+    "benchmark",
+    "llm",
+    "state restoration",
+    "agent safety",
+    "autonomous agents"
+  ],
+  "relevance_score": 9,
+  "score_reason": "涉及LLM编码智能体、基准测试与自动备份机制，高度相关",
+  "author": "Xu Li, Simon Yu, Minzhou Pan, Yiyou Sun, Zhaorun Chen, Bo Li, Weiyan Shi",
+  "published_at": "Fri, 23 Oct 2026 00:00:00 -0400",
+  "fetched_at": "2026-10-23T13:07:37.416366+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "back-up-before-you-regret-measuring-backup-awareness-and-automating-backup-in-coding-agents"
+}

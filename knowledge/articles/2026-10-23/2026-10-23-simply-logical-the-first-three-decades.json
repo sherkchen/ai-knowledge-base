@@ -1,0 +1,33 @@
+{
+  "id": "rss-20261023-031",
+  "title": "Simply Logical -- The First Three Decades",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2610.28912",
+  "summary": "《Simply Logical》Prolog教材三十年演变：从1994年磁盘版到全互动在线版，探讨技术对教育材料的影响。",
+  "highlights": [
+    "从1994年印刷+软盘版发展到全互动在线版",
+    "三位作者从作者与读者视角探讨技术对教育材料影响",
+    "介绍构建交互式Prolog教材的网络技术与作者工具包"
+  ],
+  "tags": [
+    "prolog",
+    "logic programming",
+    "education",
+    "interactive textbook",
+    "web technology",
+    "authoring toolkit",
+    "arxiv"
+  ],
+  "relevance_score": 5,
+  "score_reason": "涉及Prolog逻辑编程教育，与AI相关但非LLM/Agent前沿",
+  "author": "Peter Flach, Kacper Sokol, Jan Wielemaker",
+  "published_at": "Fri, 23 Oct 2026 00:00:00 -0400",
+  "fetched_at": "2026-10-23T13:07:37.416346+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "simply-logical-the-first-three-decades"
+}

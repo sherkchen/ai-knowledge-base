@@ -1,0 +1,33 @@
+{
+  "id": "rss-20261023-022",
+  "title": "SpecEvo: Speculative Evolution with Large Language Models for Cost-Efficient Scientific Discovery",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2610.28706",
+  "summary": "SpecEvo多LLM框架利用轻量模型并行推测与证据整合，前沿模型按需介入，在176项任务中降本最高80%。",
+  "highlights": [
+    "提出推测进化框架SpecEvo，协调轻量模型与前沿模型",
+    "通过Speculator、Advisor和Navigator持续整合搜索证据并干预",
+    "在176项任务中匹配或超越前沿基线，API成本降低80%"
+  ],
+  "tags": [
+    "speculative evolution",
+    "large language models",
+    "scientific discovery",
+    "multi-agent",
+    "cost-efficiency",
+    "evolutionary search",
+    "llm"
+  ],
+  "relevance_score": 9,
+  "score_reason": "直接涉及多LLM协同与成本优化，属于AI核心研究",
+  "author": "Ha Minh Hieu, Tongyao Zhu, Do Xuan Long, Min-Yen Kan",
+  "published_at": "Fri, 23 Oct 2026 00:00:00 -0400",
+  "fetched_at": "2026-10-23T13:07:37.416234+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "specevo-speculative-evolution-with-large-language-models-for-cost-efficient-scientific-discovery"
+}

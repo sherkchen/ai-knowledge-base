@@ -1,0 +1,34 @@
+{
+  "id": "rss-20261023-034",
+  "title": "Self-Improving Agents with World Model Predictive Paths",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2610.28945",
+  "summary": "提出基于世界模型预测路径的自改进智能体框架，结合MPPI多分支预测与经验记忆，提升决策性能",
+  "highlights": [
+    "借鉴MPPI控制，智能体每步生成多个候选动作并由世界模型预测结果比较",
+    "双分支经验记忆分别优化动作规划与世界模型预测，实现测试时自改进",
+    "在ALFWorld和ScienceWorld三个骨干模型上验证，性能显著提升"
+  ],
+  "tags": [
+    "llm agents",
+    "world model",
+    "self-improving agents",
+    "model predictive control",
+    "test-time adaptation",
+    "experience memory",
+    "alfworld",
+    "scienceworld"
+  ],
+  "relevance_score": 10,
+  "score_reason": "LLM智能体自改进与世界模型决策，核心智能体研究",
+  "author": "Haori Lu, Tianyu Gao, Yaoyao Liu, Yingying Li",
+  "published_at": "Fri, 23 Oct 2026 00:00:00 -0400",
+  "fetched_at": "2026-10-23T13:07:37.416380+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "self-improving-agents-with-world-model-predictive-paths"
+}

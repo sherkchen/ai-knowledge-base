@@ -1,0 +1,33 @@
+{
+  "id": "rss-20261023-027",
+  "title": "To Manipulate or Not: Opinion Dynamics in LLM Interactions",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2610.28875",
+  "summary": "研究LLM辩论中的观点动态，发现同模型互动缩小观点差距、跨模型扩大，说服指令未必提升影响力。",
+  "highlights": [
+    "构建LLM-LLM辩论框架，围绕气候归因话题追踪观点变化",
+    "同模型互动平均缩小观点差距，跨模型互动则会扩大",
+    "明确说服指令并不总能提升影响力，自报立场与对话行为有差异"
+  ],
+  "tags": [
+    "llm",
+    "opinion dynamics",
+    "persuasion",
+    "debate",
+    "multi-agent",
+    "conversational ai",
+    "alignment"
+  ],
+  "relevance_score": 9,
+  "score_reason": "直接研究LLM交互中的观点变化与说服，属于多智能体与对齐核心议题",
+  "author": "Mohammad Siahkamari, Phuoc Dat Nguyen, Stephen MacNeil",
+  "published_at": "Fri, 23 Oct 2026 00:00:00 -0400",
+  "fetched_at": "2026-10-23T13:07:37.416301+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "to-manipulate-or-not-opinion-dynamics-in-llm-interactions"
+}

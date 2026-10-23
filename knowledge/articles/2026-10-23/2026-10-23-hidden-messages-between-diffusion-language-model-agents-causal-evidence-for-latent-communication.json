@@ -1,0 +1,33 @@
+{
+  "id": "rss-20261023-029",
+  "title": "Hidden Messages Between Diffusion Language Model Agents: Causal Evidence for Latent Communication",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2610.28905",
+  "summary": "研究扩散语言模型智能体间通过连续隐状态传递隐藏消息，实验证明内容和时机影响接收方表现。",
+  "highlights": [
+    "发送方将去噪状态压缩为四个有符号稠密向量，接收方保留自身上下文与轨迹",
+    "移除或替换消息实验证明通信内容和通道对接收方有因果影响",
+    "单次晚期传输达87.8%，超过四次循环交换7个百分点，时机比次数更重要"
+  ],
+  "tags": [
+    "diffusion language models",
+    "multi-agent systems",
+    "latent communication",
+    "hidden messages",
+    "causal inference",
+    "llm agents",
+    "arxiv"
+  ],
+  "relevance_score": 10,
+  "score_reason": "直接研究扩散语言模型智能体的隐式通信机制，属于LLM/Agent核心课题",
+  "author": "Alan-Barsag Gazzaev, Alexey Gavrilov, Sergey Muravyov, Ilya Makarov",
+  "published_at": "Fri, 23 Oct 2026 00:00:00 -0400",
+  "fetched_at": "2026-10-23T13:07:37.416323+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "hidden-messages-between-diffusion-language-model-agents-causal-evidence-for-latent-communication"
+}

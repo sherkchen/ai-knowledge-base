@@ -1,0 +1,33 @@
+{
+  "id": "github-20261023-019",
+  "title": "jfmaes/oss-ai-intel",
+  "source": "github_trending",
+  "source_url": "https://github.com/jfmaes/oss-ai-intel",
+  "summary": "社区驱动的AI情报管道，采集去重评分后调用LLM生成邮件简报，含三层记忆防重复。",
+  "highlights": [
+    "可配置的AI领域情报采集管道，支持社区添加来源和主题",
+    "去重与画像评分排序后由一次LLM分析生成邮件简报",
+    "三层无重复记忆机制避免内容重复"
+  ],
+  "tags": [
+    "ai-intelligence",
+    "llm",
+    "pipeline",
+    "email-brief",
+    "deduplication",
+    "community-driven",
+    "python"
+  ],
+  "relevance_score": 9,
+  "score_reason": "直接使用LLM进行AI情报分析，主题高度相关",
+  "author": "jfmaes",
+  "published_at": "2026-07-08T19:45:36Z",
+  "fetched_at": "2026-10-23T13:07:37.416193+00:00",
+  "status": "draft",
+  "category": "tool",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "jfmaes-oss-ai-intel"
+}

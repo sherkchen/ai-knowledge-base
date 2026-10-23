@@ -1,0 +1,33 @@
+{
+  "id": "rss-20261023-032",
+  "title": "D-Skill: Distilling Teacher Knowledge through Agent Skills",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2610.28914",
+  "summary": "D-Skill框架将教师智能体能力蒸馏为自然语言技能文档，无需更新学生权重，可缩小75%-95%差距并降低推理成本。",
+  "highlights": [
+    "将教师行为优势提炼为可解释自然语言技能，无需访问学生权重或额外训练",
+    "离线分析配对轨迹构建技能，在SpreadsheetBench、ALFWorld和象棋中缩小75%-95%差距",
+    "学生推理成本比教师低5.7-8.3倍，且优于单轮SFT、可比多轮SFT"
+  ],
+  "tags": [
+    "agent",
+    "knowledge distillation",
+    "llm",
+    "natural language",
+    "skill learning",
+    "inference efficiency",
+    "black-box distillation"
+  ],
+  "relevance_score": 10,
+  "score_reason": "直接涉及LLM智能体蒸馏与推理效率优化",
+  "author": "Shuo Yuan, Dacheng Li, Joseph E. Gonzalez",
+  "published_at": "Fri, 23 Oct 2026 00:00:00 -0400",
+  "fetched_at": "2026-10-23T13:07:37.416355+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "d-skill-distilling-teacher-knowledge-through-agent-skills"
+}

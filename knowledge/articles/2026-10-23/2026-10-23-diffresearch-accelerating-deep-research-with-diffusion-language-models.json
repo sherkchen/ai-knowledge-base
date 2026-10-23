@@ -1,0 +1,33 @@
+{
+  "id": "rss-20261023-030",
+  "title": "DiffResearch: Accelerating Deep Research with Diffusion Language Models",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2610.28909",
+  "summary": "DiffResearch将扩散语言模型用于深度研究，端到端提速约6倍，并推出dFast分解模式，开源Apache-2.0。",
+  "highlights": [
+    "扩散语言模型替代自回归模型，深度研究端到端延迟降低约6倍",
+    "dFast分解模式读取中间去噪状态，分解速度中位数提升1.99倍且质量无损",
+    "在100项Deep Research Bench任务中，dFast在RACE评分中取得最佳综合成绩"
+  ],
+  "tags": [
+    "diffusion-language-models",
+    "deep-research",
+    "multi-agent",
+    "latency-optimization",
+    "agentic-framework",
+    "llm",
+    "open-source"
+  ],
+  "relevance_score": 10,
+  "score_reason": "核心聚焦LLM智能体与扩散模型加速，高度相关",
+  "author": "Alan-Barsag Gazzaev, Alexey Gavrilov, Mikhail Mozikov, Sergey Muravyov",
+  "published_at": "Fri, 23 Oct 2026 00:00:00 -0400",
+  "fetched_at": "2026-10-23T13:07:37.416335+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "diffresearch-accelerating-deep-research-with-diffusion-language-models"
+}

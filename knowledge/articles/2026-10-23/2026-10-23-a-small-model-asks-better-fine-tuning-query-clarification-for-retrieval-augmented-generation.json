@@ -1,0 +1,33 @@
+{
+  "id": "rss-20261023-020",
+  "title": "A Small Model Asks Better: Fine-Tuning Query Clarification for Retrieval-Augmented Generation",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2610.28686",
+  "summary": "轻量微调小模型提升RAG查询澄清，提出ClariEdge数据集，分类准确率达96.6%，超越大模型提示基线。",
+  "highlights": [
+    "提出ClariEdge数据集，约3900条含歧义查询与负例",
+    "轻量LoRA微调模型分类准确率达96.6%，超越多个大模型提示基线",
+    "硬负例对区分真歧义与可通过上下文消解的查询至关重要，可用于RAG预检索和后检索阶段"
+  ],
+  "tags": [
+    "retrieval-augmented generation",
+    "query clarification",
+    "lora",
+    "fine-tuning",
+    "dataset",
+    "rag",
+    "nlp"
+  ],
+  "relevance_score": 10,
+  "score_reason": "直接针对RAG查询澄清与LoRA微调，属于核心AI主题",
+  "author": "Lihong He, Lucian Popa, Marina Danilevsky",
+  "published_at": "Fri, 23 Oct 2026 00:00:00 -0400",
+  "fetched_at": "2026-10-23T13:07:37.416202+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "a-small-model-asks-better-fine-tuning-query-clarification-for-retrieval-augmented-generation"
+}

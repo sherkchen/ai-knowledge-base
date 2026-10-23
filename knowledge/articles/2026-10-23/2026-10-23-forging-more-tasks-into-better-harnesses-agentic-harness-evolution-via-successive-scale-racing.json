@@ -1,0 +1,34 @@
+{
+  "id": "rss-20261023-024",
+  "title": "Forging More Tasks into Better Harnesses: Agentic Harness Evolution via Successive Scale Racing",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2610.28815",
+  "summary": "提出SSR框架，通过自适应搜索最优证据组合与竞速机制，解决智能体进化中任务池扩大导致性能下降的问题，在多个基准取得SOTA。",
+  "highlights": [
+    "发现任务池扩大导致现有智能体进化方法性能下降的矛盾现象",
+    "提出Successive Scale Racing框架，自适应搜索最优证据组合",
+    "在三个基准六种配置中取得SOTA，任务池从40增至200时通过率升至68.3%，验证开销降60%"
+  ],
+  "tags": [
+    "agentic harness",
+    "llm agents",
+    "evolution",
+    "optimization",
+    "task selection",
+    "benchmark",
+    "scaling",
+    "arxiv"
+  ],
+  "relevance_score": 9,
+  "score_reason": "涉及智能体进化与LLM任务优化，高度相关",
+  "author": "Jingzhe Liu, Jiliang Tang, Tong Zhao, Neil Shah, Clark Mingxuan Ju",
+  "published_at": "Fri, 23 Oct 2026 00:00:00 -0400",
+  "fetched_at": "2026-10-23T13:07:37.416261+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "forging-more-tasks-into-better-harnesses-agentic-harness-evolution-via-successive-scale-racing"
+}
