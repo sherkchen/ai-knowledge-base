@@ -1,0 +1,34 @@
+{
+  "id": "rss-20261106-019",
+  "title": "University libraries are being swarmed by AI bots, putting public access at risk",
+  "source": "rss_feed",
+  "source_url": "https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287",
+  "summary": "大学图书馆正遭AI爬虫机器人大量访问，导致资源紧张，公众正常访问受到威胁。",
+  "highlights": [
+    "AI机器人涌入大学图书馆，造成服务延迟甚至不可用",
+    "数据抓取多用于大语言模型训练，引发公共资源公平访问担忧",
+    "图书馆需升级防护，区分人类读者与自动化流量"
+  ],
+  "tags": [
+    "ai bots",
+    "data scraping",
+    "university libraries",
+    "public access",
+    "llm training",
+    "web scraping",
+    "infrastructure",
+    "news"
+  ],
+  "relevance_score": 8,
+  "score_reason": "涉及AI爬虫与LLM数据抓取，对公共资源访问造成实际影响",
+  "author": "blakesterz",
+  "published_at": "Fri, 06 Nov 2026 14:13:09 +0000",
+  "fetched_at": "2026-11-06T15:44:45.190403+00:00",
+  "status": "draft",
+  "category": "news",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "university-libraries-are-being-swarmed-by-ai-bots-putting-public-access-at-risk"
+}

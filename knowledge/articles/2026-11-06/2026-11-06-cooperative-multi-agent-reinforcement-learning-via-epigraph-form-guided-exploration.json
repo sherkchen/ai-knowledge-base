@@ -1,0 +1,33 @@
+{
+  "id": "rss-20261106-030",
+  "title": "Cooperative Multi-Agent Reinforcement Learning via Epigraph-Form Guided Exploration",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2611.07066",
+  "summary": "提出EFXPLORER框架，通过epigraph重构约束探索，分离内在奖励与任务目标，提升多智能体协同。",
+  "highlights": [
+    "提出EFXPLORER约束探索框架，在保持任务性能的同时最大化探索目标",
+    "采用epigraph重构引入自适应探索预算，分离内在奖励与任务目标",
+    "基于后继距离的内在奖励促进长期探索，在SMAX、VMAS、MPE上优于基线"
+  ],
+  "tags": [
+    "multi-agent reinforcement learning",
+    "marl",
+    "exploration",
+    "intrinsic rewards",
+    "epigraph reformulation",
+    "cooperative ai",
+    "arxiv paper"
+  ],
+  "relevance_score": 9,
+  "score_reason": "涉及多智能体强化学习与探索机制，高度相关",
+  "author": "Sungil Son, Hoseong Jung, Dahyun Oh, H. Jin Kim",
+  "published_at": "Fri, 06 Nov 2026 00:00:00 -0500",
+  "fetched_at": "2026-11-06T15:44:45.190560+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "cooperative-multi-agent-reinforcement-learning-via-epigraph-form-guided-exploration"
+}

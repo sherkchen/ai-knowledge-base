@@ -1,0 +1,33 @@
+{
+  "id": "rss-20261106-036",
+  "title": "EnvOpt: Automated Optimization for Agent Environments",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2611.07372",
+  "summary": "EnvOpt提出优化LLM智能体静态环境，无需评分器即可自动端到端优化，大幅降低成本并提升通过率，可跨模型迁移。",
+  "highlights": [
+    "提出第三优化方向：对静态环境进行自动优化",
+    "在AutomationBench上Claude Haiku 4.5成本降72.7%，通过率提升14.34%",
+    "优化环境可跨模型和harness迁移，叠加Meta-Harness后成本再降83.4%"
+  ],
+  "tags": [
+    "llm-agent",
+    "environment-optimization",
+    "cost-reduction",
+    "automationbench",
+    "meta-harness",
+    "agent-environments",
+    "arxiv"
+  ],
+  "relevance_score": 10,
+  "score_reason": "直接研究LLM智能体环境优化，核心AI Agent主题",
+  "author": "Mingxuan Li, Huanzhi Mao, Qiuyang Mang, Hanchen Li, Joseph E. Gonzalez, Alex Dimakis",
+  "published_at": "Fri, 06 Nov 2026 00:00:00 -0500",
+  "fetched_at": "2026-11-06T15:44:45.190622+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "envopt-automated-optimization-for-agent-environments"
+}

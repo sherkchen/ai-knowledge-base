@@ -1,0 +1,34 @@
+{
+  "id": "rss-20261106-034",
+  "title": "Goal Revelation as a Bridge Between Information-Theoretic Empowerment and Capability-Based Human Power",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2611.07247",
+  "summary": "本文桥接信息论赋权与基于能力的人类权力，提出目标揭示下界与上界，并分析AI助手失效模式及监测方法。",
+  "highlights": [
+    "从个体权力经Fano不等式得到目标揭示下界B(s)，赋权构成上界",
+    "最大化赋权或目标揭示的助手可能被无关自由度或目标重标记误导",
+    "提出满意度下限，可从交互日志统计监测部署系统中用户保留的权力"
+  ],
+  "tags": [
+    "ai safety",
+    "empowerment",
+    "information theory",
+    "markov games",
+    "power",
+    "agents",
+    "mutual information",
+    "instrumental convergence"
+  ],
+  "relevance_score": 9,
+  "score_reason": "直接讨论AI智能体权力度量与安全，高度相关",
+  "author": "Jaime Ruiz-Serra, Tom\\'a\\v{s} Gaven\\v{c}iak, Jobst Heitzig",
+  "published_at": "Fri, 06 Nov 2026 00:00:00 -0500",
+  "fetched_at": "2026-11-06T15:44:45.190598+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "goal-revelation-as-a-bridge-between-information-theoretic-empowerment-and-capability-based-human-power"
+}

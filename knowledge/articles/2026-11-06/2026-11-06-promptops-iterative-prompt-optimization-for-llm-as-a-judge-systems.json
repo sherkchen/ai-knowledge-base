@@ -1,0 +1,34 @@
+{
+  "id": "rss-20261106-033",
+  "title": "PromptOps: Iterative Prompt Optimization for LLM-as-a-Judge Systems",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2611.07123",
+  "summary": "提出PromptOps框架，用于监测和迭代优化LLM-as-a-Judge系统中的提示词，解决评判漂移问题。",
+  "highlights": [
+    "将LLM评判器性能下降定义为评判漂移，并提出闭环维护框架PromptOps。",
+    "集成GEPA、SIMBA、Rubric Synthesis及模拟退火/TPE示例选择等五种优化方法。",
+    "实验表明迭代提示优化可恢复性能，但优化算法和更新时机需依赖具体场景。"
+  ],
+  "tags": [
+    "prompt optimization",
+    "llm-as-a-judge",
+    "promptops",
+    "iterative optimization",
+    "evaluation",
+    "calibration",
+    "llm",
+    "monitoring"
+  ],
+  "relevance_score": 9,
+  "score_reason": "直接研究LLM评判系统的提示词迭代优化与维护",
+  "author": "Sven Kleinkop, Tam\\'as Janusko, Ricardo Bochnia, Gunnar Hempel, Steffen Tomschke, J\\\"urgen Anke, Maik Thiele",
+  "published_at": "Fri, 06 Nov 2026 00:00:00 -0500",
+  "fetched_at": "2026-11-06T15:44:45.190588+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "promptops-iterative-prompt-optimization-for-llm-as-a-judge-systems"
+}

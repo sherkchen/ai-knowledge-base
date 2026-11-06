@@ -1,0 +1,33 @@
+{
+  "id": "rss-20261106-026",
+  "title": "Autonomous AI Agents Systematically Diverge From Human Preferences in Proof Formalization",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2611.06995",
+  "summary": "研究AI代理在Lean证明形式化中与人类偏好系统性偏离，分析关注差异及干预方向。",
+  "highlights": [
+    "AI代理比人类更倾向显式标记的缺口",
+    "对密集连接证明中心和复杂目标相对回避",
+    "对意外证明体有吸引但倾向正则化"
+  ],
+  "tags": [
+    "ai agents",
+    "proof formalization",
+    "lean",
+    "human-ai collaboration",
+    "automated theorem proving",
+    "preferences",
+    "mathematics"
+  ],
+  "relevance_score": 8,
+  "score_reason": "研究AI代理行为与人类偏好差异，属于代理对齐方向",
+  "author": "B\\'alint Gyevn\\'ar, Simon DeDeo",
+  "published_at": "Fri, 06 Nov 2026 00:00:00 -0500",
+  "fetched_at": "2026-11-06T15:44:45.190516+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "autonomous-ai-agents-systematically-diverge-from-human-preferences-in-proof-formalization"
+}

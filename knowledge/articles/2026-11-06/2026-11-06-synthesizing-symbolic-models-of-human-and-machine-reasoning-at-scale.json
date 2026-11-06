@@ -1,0 +1,33 @@
+{
+  "id": "rss-20261106-032",
+  "title": "Synthesizing symbolic models of human and machine reasoning at scale",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2611.07088",
+  "summary": "论文提出BCSS方法自动搜索可解释符号程序，复现人类与机器在推理任务中的行为，揭示双方简化与满意策略。",
+  "highlights": [
+    "提出行为条件符号合成(BCSS)自动搜索可验证复现行为的确定性符号程序",
+    "分析发现人类与机器均倾向过度简化、采用部分解释规则并错误推断特征依赖",
+    "推理努力可预测机器简化程度，指向人与机器共有的满意决策机制"
+  ],
+  "tags": [
+    "symbolic-models",
+    "program-synthesis",
+    "interpretability",
+    "human-reasoning",
+    "machine-reasoning",
+    "satisficing",
+    "cognitive-science"
+  ],
+  "relevance_score": 9,
+  "score_reason": "涉及人类与AI推理建模、可解释性、自动化符号合成，高度相关",
+  "author": "Solim LeGris, Philipp Mondorf, Jinran Jin, Akshay K. Jagadish, Brenden M. Lake, Todd M. Gureckis",
+  "published_at": "Fri, 06 Nov 2026 00:00:00 -0500",
+  "fetched_at": "2026-11-06T15:44:45.190579+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "synthesizing-symbolic-models-of-human-and-machine-reasoning-at-scale"
+}

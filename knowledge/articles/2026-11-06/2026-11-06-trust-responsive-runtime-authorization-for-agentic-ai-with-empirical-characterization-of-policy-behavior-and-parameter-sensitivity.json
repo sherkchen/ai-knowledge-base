@@ -1,0 +1,34 @@
+{
+  "id": "rss-20261106-027",
+  "title": "Trust Responsive Runtime Authorization for Agentic AI with Empirical Characterization of Policy Behavior and Parameter Sensitivity",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2611.06996",
+  "summary": "论文实证分析智能体运行时授权策略TRAP，基于授权就绪分数映射授权级别，发现其对突发退化限制快但恢复慢，授权优势依赖退化突发性。",
+  "highlights": [
+    "提出TRAP策略：将运行时信任、稳定性与风险加权为ARS，并映射到离散授权级别，采用非对称升级与限制规则。",
+    "在100条蒙特卡洛轨迹上对比静态、仅信任、仅风险和对称策略，TRAP在突发退化时立即限制且恢复更快，稳定性最高。",
+    "参数扫描显示恢复时间随升级边际和运行长度增加，TRAP的限制优势依赖退化突发性，渐变退化下可能保持过高权限。"
+  ],
+  "tags": [
+    "agentic-ai",
+    "runtime-authorization",
+    "trust-policy",
+    "monte-carlo",
+    "empirical-evaluation",
+    "safety",
+    "autonomous-agents",
+    "arxiv"
+  ],
+  "relevance_score": 8,
+  "score_reason": "直接探讨智能体运行时授权与安全策略，属AI Agent核心议题。",
+  "author": "Ahsan Habib Shihab, Imre Felde, Ramis Akhmedov, Stefan Gubo, Berik Sabdenaliyev, Madina Mansurova, Amir Mosavi",
+  "published_at": "Fri, 06 Nov 2026 00:00:00 -0500",
+  "fetched_at": "2026-11-06T15:44:45.190528+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "trust-responsive-runtime-authorization-for-agentic-ai-with-empirical-characterization-of-policy-behavior-and-parameter-sensitivity"
+}

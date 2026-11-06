@@ -1,0 +1,34 @@
+{
+  "id": "rss-20261106-024",
+  "title": "Resource-Efficient Reinforcement Learning Post-Training through Elastic Expert Parallelism",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2611.06984",
+  "summary": "提出FlexFloor系统，在MoE大模型强化学习后训练中动态调度专家并行与资源释放，提升响应生成吞吐52.74%。",
+  "highlights": [
+    "针对MoE模型RL后训练中专家占用导致约1/3计算时间被浪费的问题",
+    "FlexFloor联合响应调度与活跃worker组，渐进释放资源并保持专家可用",
+    "相比verl基线，单位占用计算时间生成token提高65.40%，吞吐提升52.74%"
+  ],
+  "tags": [
+    "reinforcement-learning",
+    "mixture-of-experts",
+    "post-training",
+    "large-language-models",
+    "expert-parallelism",
+    "resource-efficiency",
+    "throughput",
+    "flexfloor"
+  ],
+  "relevance_score": 10,
+  "score_reason": "涉及LLM强化学习后训练与MoE系统优化，高度相关",
+  "author": "Jia Wei, Ziyi Qiu, Yi Xu, Xuehai Qian",
+  "published_at": "Fri, 06 Nov 2026 00:00:00 -0500",
+  "fetched_at": "2026-11-06T15:44:45.190487+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "resource-efficient-reinforcement-learning-post-training-through-elastic-expert-parallelism"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "rss-20261106-022",
+  "title": "Formalizing inverse problems in the age of AI: possibilities, pitfalls, and an invitation",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2611.06962",
+  "summary": "AI代理将逆问题线性正则化理论自动形式化为Lean库AutoIP，人类仅需核对陈述，发现经典定理假设问题。",
+  "highlights": [
+    "构建AutoIP Lean库，由AI代理自动形式化逆问题理论",
+    "机器验证证明无误，风险在于形式陈述而非证明",
+    "发现教科书定理假设比声称更严格，邀请社区扩展"
+  ],
+  "tags": [
+    "ai agents",
+    "lean",
+    "formal verification",
+    "inverse problems",
+    "proof assistant",
+    "autoformalization",
+    "machine-checked proofs"
+  ],
+  "relevance_score": 8,
+  "score_reason": "涉及AI代理自动形式化数学，与AI应用高度相关",
+  "author": "Christian Clason, Tapio Helin, Medet Nursultanov, Lauri Oksanen",
+  "published_at": "Fri, 06 Nov 2026 00:00:00 -0500",
+  "fetched_at": "2026-11-06T15:44:45.190439+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "formalizing-inverse-problems-in-the-age-of-ai-possibilities-pitfalls-and-an-invitation"
+}

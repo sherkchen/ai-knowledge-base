@@ -1747,6 +1747,105 @@
       "fetched_at": "2026-10-30T14:49:41.573986+00:00"
     },
     {
+      "id": "github-20261106-001",
+      "title": "shibing624/ai-paper-analysis",
+      "category": "research",
+      "slug": "shibing624-ai-paper-analysis",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-11-06T15:44:45.188134+00:00"
+    },
+    {
+      "id": "github-20261106-004",
+      "title": "sinanuozdemir/oreilly-llm-rl-alignment",
+      "category": "other",
+      "slug": "sinanuozdemir-oreilly-llm-rl-alignment",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-11-06T15:44:45.190263+00:00"
+    },
+    {
+      "id": "github-20261106-005",
+      "title": "Md-Emon-Hasan/MediGenius",
+      "category": "tool",
+      "slug": "md-emon-hasan-medigenius",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-11-06T15:44:45.190273+00:00"
+    },
+    {
+      "id": "github-20261106-011",
+      "title": "ankitsharma-tech/Polyagent-Research-Intelligence",
+      "category": "tool",
+      "slug": "ankitsharma-tech-polyagent-research-intelligence",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-11-06T15:44:45.190340+00:00"
+    },
+    {
+      "id": "github-20261106-012",
+      "title": "BjornMelin/polyagent-research-intelligence",
+      "category": "tool",
+      "slug": "bjornmelin-polyagent-research-intelligence",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-11-06T15:44:45.190348+00:00"
+    },
+    {
+      "id": "github-20261106-013",
+      "title": "richer-richard/socratic-council",
+      "category": "tool",
+      "slug": "richer-richard-socratic-council",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-11-06T15:44:45.190356+00:00"
+    },
+    {
+      "id": "github-20261106-016",
+      "title": "billy-enrizky/crewai-research-assistant",
+      "category": "tool",
+      "slug": "billy-enrizky-crewai-research-assistant",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-11-06T15:44:45.190380+00:00"
+    },
+    {
+      "id": "rss-20261106-024",
+      "title": "Resource-Efficient Reinforcement Learning Post-Training through Elastic Expert Parallelism",
+      "category": "paper",
+      "slug": "resource-efficient-reinforcement-learning-post-training-through-elastic-expert-parallelism",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-11-06T15:44:45.190487+00:00"
+    },
+    {
+      "id": "rss-20261106-029",
+      "title": "Closed-Loop Agent Evaluation: Layered Measurement and Self-Calibration",
+      "category": "paper",
+      "slug": "closed-loop-agent-evaluation-layered-measurement-and-self-calibration",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-11-06T15:44:45.190551+00:00"
+    },
+    {
+      "id": "rss-20261106-036",
+      "title": "EnvOpt: Automated Optimization for Agent Environments",
+      "category": "paper",
+      "slug": "envopt-automated-optimization-for-agent-environments",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-11-06T15:44:45.190622+00:00"
+    },
+    {
+      "id": "rss-20261106-037",
+      "title": "FINCOSMOS: An Open-World Evaluation Paradigm for Agents in Finance",
+      "category": "paper",
+      "slug": "fincosmos-an-open-world-evaluation-paradigm-for-agents-in-finance",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-11-06T15:44:45.190631+00:00"
+    },
+    {
       "id": "github-20260616-001",
       "title": "nitefood/ai-bash",
       "category": "tool",
@@ -4276,6 +4375,132 @@
       "fetched_at": "2026-10-30T14:49:41.574051+00:00"
     },
     {
+      "id": "github-20261106-002",
+      "title": "nitefood/ai-bash",
+      "category": "tool",
+      "slug": "nitefood-ai-bash",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-11-06T15:44:45.190228+00:00"
+    },
+    {
+      "id": "github-20261106-008",
+      "title": "mchittineni/ultimate-ai-engineering-guide",
+      "category": "other",
+      "slug": "mchittineni-ultimate-ai-engineering-guide",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-11-06T15:44:45.190307+00:00"
+    },
+    {
+      "id": "github-20261106-009",
+      "title": "kael-bit/engram-rs",
+      "category": "tool",
+      "slug": "kael-bit-engram-rs",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-11-06T15:44:45.190320+00:00"
+    },
+    {
+      "id": "github-20261106-014",
+      "title": "rasmurtech/DeepSeekDeepResearch",
+      "category": "tool",
+      "slug": "rasmurtech-deepseekdeepresearch",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-11-06T15:44:45.190364+00:00"
+    },
+    {
+      "id": "github-20261106-017",
+      "title": "Ak-cybe/web-llm-attacks",
+      "category": "research",
+      "slug": "ak-cybe-web-llm-attacks",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-11-06T15:44:45.190387+00:00"
+    },
+    {
+      "id": "github-20261106-018",
+      "title": "c1t1zen1/markgitup-research-desk",
+      "category": "tool",
+      "slug": "c1t1zen1-markgitup-research-desk",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-11-06T15:44:45.190395+00:00"
+    },
+    {
+      "id": "rss-20261106-021",
+      "title": "AI for scientific discovery: How researchers use Claude",
+      "category": "research",
+      "slug": "ai-for-scientific-discovery-how-researchers-use-claude",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-11-06T15:44:45.190430+00:00"
+    },
+    {
+      "id": "rss-20261106-023",
+      "title": "KDASO: Knowledge-Data Dual-Driven Automated Skill Optimization for Liability Adjudication Tasks",
+      "category": "paper",
+      "slug": "kdaso-knowledge-data-dual-driven-automated-skill-optimization-for-liability-adjudication-tasks",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-11-06T15:44:45.190451+00:00"
+    },
+    {
+      "id": "rss-20261106-025",
+      "title": "The Two-Ledger Model: Transaction-Grain Cost Accounting for Multi-Agent AI Systems Across Clouds, Models, and Systems of Record",
+      "category": "paper",
+      "slug": "the-two-ledger-model-transaction-grain-cost-accounting-for-multi-agent-ai-systems-across-clouds-models-and-systems-of-record",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-11-06T15:44:45.190499+00:00"
+    },
+    {
+      "id": "rss-20261106-030",
+      "title": "Cooperative Multi-Agent Reinforcement Learning via Epigraph-Form Guided Exploration",
+      "category": "paper",
+      "slug": "cooperative-multi-agent-reinforcement-learning-via-epigraph-form-guided-exploration",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-11-06T15:44:45.190560+00:00"
+    },
+    {
+      "id": "rss-20261106-031",
+      "title": "When Verification Is Not Agreement: Cross-Agent LLM-to-Dafny Formalization",
+      "category": "paper",
+      "slug": "when-verification-is-not-agreement-cross-agent-llm-to-dafny-formalization",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-11-06T15:44:45.190569+00:00"
+    },
+    {
+      "id": "rss-20261106-032",
+      "title": "Synthesizing symbolic models of human and machine reasoning at scale",
+      "category": "paper",
+      "slug": "synthesizing-symbolic-models-of-human-and-machine-reasoning-at-scale",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-11-06T15:44:45.190579+00:00"
+    },
+    {
+      "id": "rss-20261106-033",
+      "title": "PromptOps: Iterative Prompt Optimization for LLM-as-a-Judge Systems",
+      "category": "paper",
+      "slug": "promptops-iterative-prompt-optimization-for-llm-as-a-judge-systems",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-11-06T15:44:45.190588+00:00"
+    },
+    {
+      "id": "rss-20261106-034",
+      "title": "Goal Revelation as a Bridge Between Information-Theoretic Empowerment and Capability-Based Human Power",
+      "category": "paper",
+      "slug": "goal-revelation-as-a-bridge-between-information-theoretic-empowerment-and-capability-based-human-power",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-11-06T15:44:45.190598+00:00"
+    },
+    {
       "id": "github-20260616-009",
       "title": "SukritiC/ai-mastery-hub",
       "category": "other",
@@ -5095,6 +5320,87 @@
       "fetched_at": "2026-10-30T14:49:41.574019+00:00"
     },
     {
+      "id": "github-20261106-003",
+      "title": "ruankie/ecrivai",
+      "category": "tool",
+      "slug": "ruankie-ecrivai",
+      "relevance_score": 8,
+      "status": "draft",
+      "fetched_at": "2026-11-06T15:44:45.190252+00:00"
+    },
+    {
+      "id": "github-20261106-006",
+      "title": "MADEVAL/AngleCraft",
+      "category": "tool",
+      "slug": "madeval-anglecraft",
+      "relevance_score": 8,
+      "status": "draft",
+      "fetched_at": "2026-11-06T15:44:45.190287+00:00"
+    },
+    {
+      "id": "github-20261106-007",
+      "title": "SpreadSheets600/TidyTabs",
+      "category": "tool",
+      "slug": "spreadsheets600-tidytabs",
+      "relevance_score": 8,
+      "status": "draft",
+      "fetched_at": "2026-11-06T15:44:45.190295+00:00"
+    },
+    {
+      "id": "github-20261106-010",
+      "title": "akshaymittal143/CloudyBot-DevOps-AI",
+      "category": "tool",
+      "slug": "akshaymittal143-cloudybot-devops-ai",
+      "relevance_score": 8,
+      "status": "draft",
+      "fetched_at": "2026-11-06T15:44:45.190332+00:00"
+    },
+    {
+      "id": "rss-20261106-019",
+      "title": "University libraries are being swarmed by AI bots, putting public access at risk",
+      "category": "news",
+      "slug": "university-libraries-are-being-swarmed-by-ai-bots-putting-public-access-at-risk",
+      "relevance_score": 8,
+      "status": "draft",
+      "fetched_at": "2026-11-06T15:44:45.190403+00:00"
+    },
+    {
+      "id": "rss-20261106-022",
+      "title": "Formalizing inverse problems in the age of AI: possibilities, pitfalls, and an invitation",
+      "category": "paper",
+      "slug": "formalizing-inverse-problems-in-the-age-of-ai-possibilities-pitfalls-and-an-invitation",
+      "relevance_score": 8,
+      "status": "draft",
+      "fetched_at": "2026-11-06T15:44:45.190439+00:00"
+    },
+    {
+      "id": "rss-20261106-026",
+      "title": "Autonomous AI Agents Systematically Diverge From Human Preferences in Proof Formalization",
+      "category": "paper",
+      "slug": "autonomous-ai-agents-systematically-diverge-from-human-preferences-in-proof-formalization",
+      "relevance_score": 8,
+      "status": "draft",
+      "fetched_at": "2026-11-06T15:44:45.190516+00:00"
+    },
+    {
+      "id": "rss-20261106-027",
+      "title": "Trust Responsive Runtime Authorization for Agentic AI with Empirical Characterization of Policy Behavior and Parameter Sensitivity",
+      "category": "paper",
+      "slug": "trust-responsive-runtime-authorization-for-agentic-ai-with-empirical-characterization-of-policy-behavior-and-parameter-sensitivity",
+      "relevance_score": 8,
+      "status": "draft",
+      "fetched_at": "2026-11-06T15:44:45.190528+00:00"
+    },
+    {
+      "id": "rss-20261106-028",
+      "title": "Adapting the Process of Adaptation: Darwinian, Lamarckian, and Agent-Directed Evolution in AI",
+      "category": "paper",
+      "slug": "adapting-the-process-of-adaptation-darwinian-lamarckian-and-agent-directed-evolution-in-ai",
+      "relevance_score": 8,
+      "status": "draft",
+      "fetched_at": "2026-11-06T15:44:45.190540+00:00"
+    },
+    {
       "id": "rss-20260616-023",
       "title": "Hyperdimensional computing for structured querying on tabular data embeddings",
       "category": "paper",
@@ -5347,6 +5653,24 @@
       "fetched_at": "2026-10-30T14:49:41.573959+00:00"
     },
     {
+      "id": "github-20261106-015",
+      "title": "JacKaL37/TheHardProblem",
+      "category": "research",
+      "slug": "jackal37-thehardproblem",
+      "relevance_score": 7,
+      "status": "draft",
+      "fetched_at": "2026-11-06T15:44:45.190371+00:00"
+    },
+    {
+      "id": "rss-20261106-020",
+      "title": "Mbodi AI (YC P25) Is Hiring Research and Robotic Engineers",
+      "category": "news",
+      "slug": "mbodi-ai-yc-p25-is-hiring-research-and-robotic-engineers",
+      "relevance_score": 7,
+      "status": "draft",
+      "fetched_at": "2026-11-06T15:44:45.190419+00:00"
+    },
+    {
       "id": "rss-20260703-016",
       "title": "Liva AI (YC S25) Is Hiring",
       "category": "other",
@@ -5363,6 +5687,15 @@
       "relevance_score": 6,
       "status": "draft",
       "fetched_at": "2026-07-24T10:21:47.826153+00:00"
+    },
+    {
+      "id": "rss-20261106-035",
+      "title": "Robust Ranking of Port Impacts from Impending Tropical Cyclones: A Two-Stage Recommendation System",
+      "category": "paper",
+      "slug": "robust-ranking-of-port-impacts-from-impending-tropical-cyclones-a-two-stage-recommendation-system",
+      "relevance_score": 6,
+      "status": "draft",
+      "fetched_at": "2026-11-06T15:44:45.190608+00:00"
     },
     {
       "id": "rss-20260616-015",
@@ -5401,6 +5734,6 @@
       "fetched_at": "2026-06-26T10:55:22.327694+00:00"
     }
   ],
-  "total_count": 600,
-  "updated_at": "2026-10-30T14:49:41.580459+00:00"
+  "total_count": 637,
+  "updated_at": "2026-11-06T15:44:45.202029+00:00"
 }

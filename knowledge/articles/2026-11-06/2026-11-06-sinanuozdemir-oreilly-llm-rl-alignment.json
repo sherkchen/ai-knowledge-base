@@ -1,0 +1,33 @@
+{
+  "id": "github-20261106-004",
+  "title": "sinanuozdemir/oreilly-llm-rl-alignment",
+  "source": "github_trending",
+  "source_url": "https://github.com/sinanuozdemir/oreilly-llm-rl-alignment",
+  "summary": "O'Reilly LLM强化学习与对齐培训，涵盖RLHF、RLAIF、推理LLM及微调实践。",
+  "highlights": [
+    "涵盖RLHF、RLAIF和推理LLM等前沿技术",
+    "包含DPO、GRPO、PPO等强化学习算法实践",
+    "使用Jupyter Notebook，支持Llama、Qwen、DeepSeek等模型"
+  ],
+  "tags": [
+    "reinforcement-learning",
+    "rlhf",
+    "rlaif",
+    "llm",
+    "fine-tuning",
+    "grpo",
+    "dpo"
+  ],
+  "relevance_score": 10,
+  "score_reason": "直接涉及LLM强化学习与对齐前沿技术",
+  "author": "sinanuozdemir",
+  "published_at": "2023-08-10T16:41:46Z",
+  "fetched_at": "2026-11-06T15:44:45.190263+00:00",
+  "status": "draft",
+  "category": "other",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "sinanuozdemir-oreilly-llm-rl-alignment"
+}

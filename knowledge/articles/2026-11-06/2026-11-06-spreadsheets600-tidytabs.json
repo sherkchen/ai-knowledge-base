@@ -1,0 +1,34 @@
+{
+  "id": "github-20261106-007",
+  "title": "SpreadSheets600/TidyTabs",
+  "source": "github_trending",
+  "source_url": "https://github.com/SpreadSheets600/TidyTabs",
+  "summary": "AI驱动的浏览器标签管理扩展，按主题、域名和上下文使用OpenRouter LLM自动整理标签。",
+  "highlights": [
+    "利用OpenRouter接入多种LLM，按主题、域名和上下文自动整理浏览器标签",
+    "Chrome扩展形式，集成Gemini API",
+    "轻量JavaScript实现，专注标签自动分类与管理"
+  ],
+  "tags": [
+    "chrome-extension",
+    "tabs",
+    "openrouter",
+    "gemini",
+    "llm",
+    "tab-management",
+    "browser-extension",
+    "ai"
+  ],
+  "relevance_score": 8,
+  "score_reason": "使用OpenRouter和Gemini的LLM应用，AI方向明确但偏工具应用",
+  "author": "SpreadSheets600",
+  "published_at": "2026-01-15T06:08:30Z",
+  "fetched_at": "2026-11-06T15:44:45.190295+00:00",
+  "status": "draft",
+  "category": "tool",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "spreadsheets600-tidytabs"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "rss-20261106-029",
+  "title": "Closed-Loop Agent Evaluation: Layered Measurement and Self-Calibration",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2611.07051",
+  "summary": "提出闭环智能体评估方法，分层测量证据与规则，自校准驱动改进。",
+  "highlights": [
+    "提出闭环评估，覆盖span、trace、conversation、engagement四层分析",
+    "通过Provenance和Adjudication认证证据与评估者，证据规则判断比整体评分更可靠",
+    "内环审计证据规则指标，外环回归检查驱动智能体改进"
+  ],
+  "tags": [
+    "agent evaluation",
+    "closed-loop",
+    "llm agents",
+    "self-calibration",
+    "provenance",
+    "adjudication",
+    "evaluation framework",
+    "arxiv"
+  ],
+  "relevance_score": 10,
+  "score_reason": "直接讨论AI智能体评估与自校准，高度相关",
+  "author": "Ruifeng Ren, Gun Ahn",
+  "published_at": "Fri, 06 Nov 2026 00:00:00 -0500",
+  "fetched_at": "2026-11-06T15:44:45.190551+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "closed-loop-agent-evaluation-layered-measurement-and-self-calibration"
+}

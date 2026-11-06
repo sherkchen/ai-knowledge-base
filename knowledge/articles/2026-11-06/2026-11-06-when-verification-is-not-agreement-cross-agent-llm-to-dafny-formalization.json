@@ -1,0 +1,34 @@
+{
+  "id": "rss-20261106-031",
+  "title": "When Verification Is Not Agreement: Cross-Agent LLM-to-Dafny Formalization",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2611.07073",
+  "summary": "论文研究LLM到Dafny形式化中跨智能体一致性，发现验证成功不等于独立推理一致，一致性低且受模型能力分配影响。",
+  "highlights": [
+    "同一模型独立复述协议一致性仅59.3%",
+    "GPT-4.1配置角色互换一致率从53.0%降至14.3%",
+    "弱实现者可调用规格谓词产生验证伪影，修正后一致率更低"
+  ],
+  "tags": [
+    "llm",
+    "formal verification",
+    "dafny",
+    "multi-agent",
+    "cross-agent",
+    "consistency",
+    "formalization",
+    "arxiv"
+  ],
+  "relevance_score": 9,
+  "score_reason": "研究多智能体LLM形式化验证与一致性问题，高度相关",
+  "author": "Priyanath Maji",
+  "published_at": "Fri, 06 Nov 2026 00:00:00 -0500",
+  "fetched_at": "2026-11-06T15:44:45.190569+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "when-verification-is-not-agreement-cross-agent-llm-to-dafny-formalization"
+}

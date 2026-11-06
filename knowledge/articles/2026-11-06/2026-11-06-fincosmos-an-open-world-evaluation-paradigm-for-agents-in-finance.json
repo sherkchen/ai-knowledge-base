@@ -1,0 +1,33 @@
+{
+  "id": "rss-20261106-037",
+  "title": "FINCOSMOS: An Open-World Evaluation Paradigm for Agents in Finance",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2611.07464",
+  "summary": "FINCOSMOS 是开放式金融智能体评估范式，模拟隐藏策略，要求联网获取数据、回测并验证，150 次会话无一通过程序检查。",
+  "highlights": [
+    "提出开放世界金融智能体评测范式 FINCOSMOS，不固定任务、数据和时间线",
+    "150 次会话中无一会话通过程序检查，暴露智能体静默失败",
+    "利用 FINCOSMOS 反馈，带持久记忆的智能体学会了全部十个任务"
+  ],
+  "tags": [
+    "finance",
+    "agents",
+    "evaluation",
+    "benchmark",
+    "llm",
+    "open-world",
+    "coding-agents"
+  ],
+  "relevance_score": 10,
+  "score_reason": "直接评测 LLM 金融智能体，涉及智能体、工具使用与验证",
+  "author": "Yupeng Cao, Xueqing Peng, Lingfei Qian, Haohang Li, Yangyang Yu, Anke Xu, Wenbo Cao, Yan Wang, Yuechen Jiang, Yuyan Wang, Zhuohan Xie, Yankai Chen, Zehan Li, Jimin Huang, Xue Liu, Jian-Yun Nie, Sophia Ananiadou",
+  "published_at": "Fri, 06 Nov 2026 00:00:00 -0500",
+  "fetched_at": "2026-11-06T15:44:45.190631+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "fincosmos-an-open-world-evaluation-paradigm-for-agents-in-finance"
+}

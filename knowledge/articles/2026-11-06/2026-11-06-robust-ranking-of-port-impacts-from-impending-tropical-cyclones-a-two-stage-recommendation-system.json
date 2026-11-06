@@ -1,0 +1,34 @@
+{
+  "id": "rss-20261106-035",
+  "title": "Robust Ranking of Port Impacts from Impending Tropical Cyclones: A Two-Stage Recommendation System",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2611.07296",
+  "summary": "研究用两阶段推荐系统对热带气旋影响港口进行排序，先检索候选港再排名影响天数，Wide&Deep表现最佳。",
+  "highlights": [
+    "两阶段推荐框架：先按登陆位置邻近检索候选港口，再排名影响天数",
+    "比较特征交互、树特征组合、显式特征交叉与嵌入",
+    "Wide&Deep排名一致性在Nicole和Ian分别比距离基线高85.5%和55.5%"
+  ],
+  "tags": [
+    "tropical cyclone",
+    "port ranking",
+    "recommendation system",
+    "wide and deep learning",
+    "embeddings",
+    "feature crosses",
+    "maritime risk",
+    "machine learning"
+  ],
+  "relevance_score": 6,
+  "score_reason": "应用机器学习排序，涉及嵌入与深度模型，但非LLM/Agent核心",
+  "author": "Chenchen Kuai, Shixuan Tang, Chaolun Ma, Xiaoqiang Kong, Xiubin Bruce Wang, Yunlong Zhang, Zihao Li",
+  "published_at": "Fri, 06 Nov 2026 00:00:00 -0500",
+  "fetched_at": "2026-11-06T15:44:45.190608+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "robust-ranking-of-port-impacts-from-impending-tropical-cyclones-a-two-stage-recommendation-system"
+}

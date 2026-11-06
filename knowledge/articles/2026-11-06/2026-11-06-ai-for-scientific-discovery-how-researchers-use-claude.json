@@ -1,0 +1,33 @@
+{
+  "id": "rss-20261106-021",
+  "title": "AI for scientific discovery: How researchers use Claude",
+  "source": "rss_feed",
+  "source_url": "https://www.anthropic.com/research/how-researchers-use-claude",
+  "summary": "Anthropic研究文章，介绍科研人员如何利用Claude进行科学发现。",
+  "highlights": [
+    "科研人员使用Claude加速科学发现",
+    "涵盖多个科研应用案例与方法",
+    "来自Anthropic官方研究内容"
+  ],
+  "tags": [
+    "anthropic",
+    "claude",
+    "llm",
+    "scientific-discovery",
+    "ai-for-science",
+    "research",
+    "case-studies"
+  ],
+  "relevance_score": 9,
+  "score_reason": "直接介绍Claude在科研中的应用，AI/LLM相关性高",
+  "author": "ersinesen",
+  "published_at": "Fri, 06 Nov 2026 09:13:30 +0000",
+  "fetched_at": "2026-11-06T15:44:45.190430+00:00",
+  "status": "draft",
+  "category": "research",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "ai-for-scientific-discovery-how-researchers-use-claude"
+}

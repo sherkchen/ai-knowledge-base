@@ -1,0 +1,32 @@
+{
+  "id": "rss-20261106-028",
+  "title": "Adapting the Process of Adaptation: Darwinian, Lamarckian, and Agent-Directed Evolution in AI",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2611.07048",
+  "summary": "本文提出理论框架比较达尔文、拉马克与智能体导向进化在AI中的适应速度，并指出评估目标错误会加速错误收敛，强调安全监管须跟上。",
+  "highlights": [
+    "提出比较达尔文、拉马克和智能体导向进化的理论框架",
+    "智能体导向进化适应更快，但评估目标错误会加速错误行为",
+    "强调独立评估与监督需跟上自主AI发展，保障安全"
+  ],
+  "tags": [
+    "ai safety",
+    "evolutionary algorithms",
+    "agent-directed evolution",
+    "recursive self-improvement",
+    "alignment",
+    "theoretical framework"
+  ],
+  "relevance_score": 8,
+  "score_reason": "涉及AI智能体自我进化与安全，主题高度相关",
+  "author": "Andrew W. Lo, Chaoyi Zhao",
+  "published_at": "Fri, 06 Nov 2026 00:00:00 -0500",
+  "fetched_at": "2026-11-06T15:44:45.190540+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "adapting-the-process-of-adaptation-darwinian-lamarckian-and-agent-directed-evolution-in-ai"
+}
