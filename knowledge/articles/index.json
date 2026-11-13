@@ -4501,6 +4501,114 @@
       "fetched_at": "2026-11-06T15:44:45.190598+00:00"
     },
     {
+      "id": "github-20261113-001",
+      "title": "tianlinxu312/Everything-about-LLMs",
+      "category": "research",
+      "slug": "tianlinxu312-everything-about-llms",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-11-13T15:55:00.694790+00:00"
+    },
+    {
+      "id": "github-20261113-002",
+      "title": "shibing624/ai-paper-analysis",
+      "category": "research",
+      "slug": "shibing624-ai-paper-analysis",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-11-13T15:55:00.696718+00:00"
+    },
+    {
+      "id": "github-20261113-004",
+      "title": "ruankie/ecrivai",
+      "category": "tool",
+      "slug": "ruankie-ecrivai",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-11-13T15:55:00.696750+00:00"
+    },
+    {
+      "id": "github-20261113-005",
+      "title": "sinanuozdemir/oreilly-llm-rl-alignment",
+      "category": "other",
+      "slug": "sinanuozdemir-oreilly-llm-rl-alignment",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-11-13T15:55:00.696762+00:00"
+    },
+    {
+      "id": "github-20261113-009",
+      "title": "mchittineni/ultimate-ai-engineering-guide",
+      "category": "other",
+      "slug": "mchittineni-ultimate-ai-engineering-guide",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-11-13T15:55:00.696805+00:00"
+    },
+    {
+      "id": "github-20261113-010",
+      "title": "kael-bit/engram-rs",
+      "category": "tool",
+      "slug": "kael-bit-engram-rs",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-11-13T15:55:00.696815+00:00"
+    },
+    {
+      "id": "github-20261113-012",
+      "title": "ankitsharma-tech/Polyagent-Research-Intelligence",
+      "category": "tool",
+      "slug": "ankitsharma-tech-polyagent-research-intelligence",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-11-13T15:55:00.696832+00:00"
+    },
+    {
+      "id": "github-20261113-013",
+      "title": "BjornMelin/polyagent-research-intelligence",
+      "category": "tool",
+      "slug": "bjornmelin-polyagent-research-intelligence",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-11-13T15:55:00.696866+00:00"
+    },
+    {
+      "id": "github-20261113-014",
+      "title": "richer-richard/socratic-council",
+      "category": "tool",
+      "slug": "richer-richard-socratic-council",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-11-13T15:55:00.696878+00:00"
+    },
+    {
+      "id": "github-20261113-015",
+      "title": "rasmurtech/DeepSeekDeepResearch",
+      "category": "tool",
+      "slug": "rasmurtech-deepseekdeepresearch",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-11-13T15:55:00.696893+00:00"
+    },
+    {
+      "id": "github-20261113-017",
+      "title": "billy-enrizky/crewai-research-assistant",
+      "category": "tool",
+      "slug": "billy-enrizky-crewai-research-assistant",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-11-13T15:55:00.696910+00:00"
+    },
+    {
+      "id": "github-20261113-018",
+      "title": "Ak-cybe/web-llm-attacks",
+      "category": "tool",
+      "slug": "ak-cybe-web-llm-attacks",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-11-13T15:55:00.696921+00:00"
+    },
+    {
       "id": "github-20260616-009",
       "title": "SukritiC/ai-mastery-hub",
       "category": "other",
@@ -5401,6 +5509,51 @@
       "fetched_at": "2026-11-06T15:44:45.190540+00:00"
     },
     {
+      "id": "github-20261113-003",
+      "title": "nitefood/ai-bash",
+      "category": "tool",
+      "slug": "nitefood-ai-bash",
+      "relevance_score": 8,
+      "status": "draft",
+      "fetched_at": "2026-11-13T15:55:00.696739+00:00"
+    },
+    {
+      "id": "github-20261113-006",
+      "title": "MADEVAL/AngleCraft",
+      "category": "tool",
+      "slug": "madeval-anglecraft",
+      "relevance_score": 8,
+      "status": "draft",
+      "fetched_at": "2026-11-13T15:55:00.696772+00:00"
+    },
+    {
+      "id": "github-20261113-007",
+      "title": "SpreadSheets600/TidyTabs",
+      "category": "tool",
+      "slug": "spreadsheets600-tidytabs",
+      "relevance_score": 8,
+      "status": "draft",
+      "fetched_at": "2026-11-13T15:55:00.696781+00:00"
+    },
+    {
+      "id": "github-20261113-008",
+      "title": "ythx-101/x-profile-analyzer",
+      "category": "tool",
+      "slug": "ythx-101-x-profile-analyzer",
+      "relevance_score": 8,
+      "status": "draft",
+      "fetched_at": "2026-11-13T15:55:00.696793+00:00"
+    },
+    {
+      "id": "github-20261113-016",
+      "title": "JacKaL37/TheHardProblem",
+      "category": "research",
+      "slug": "jackal37-thehardproblem",
+      "relevance_score": 8,
+      "status": "draft",
+      "fetched_at": "2026-11-13T15:55:00.696903+00:00"
+    },
+    {
       "id": "rss-20260616-023",
       "title": "Hyperdimensional computing for structured querying on tabular data embeddings",
       "category": "paper",
@@ -5671,6 +5824,15 @@
       "fetched_at": "2026-11-06T15:44:45.190419+00:00"
     },
     {
+      "id": "github-20261113-011",
+      "title": "akshaymittal143/CloudyBot-DevOps-AI",
+      "category": "tool",
+      "slug": "akshaymittal143-cloudybot-devops-ai",
+      "relevance_score": 7,
+      "status": "draft",
+      "fetched_at": "2026-11-13T15:55:00.696824+00:00"
+    },
+    {
       "id": "rss-20260703-016",
       "title": "Liva AI (YC S25) Is Hiring",
       "category": "other",
@@ -5734,6 +5896,6 @@
       "fetched_at": "2026-06-26T10:55:22.327694+00:00"
     }
   ],
-  "total_count": 637,
-  "updated_at": "2026-11-06T15:44:45.202029+00:00"
+  "total_count": 655,
+  "updated_at": "2026-11-13T15:55:00.702626+00:00"
 }
