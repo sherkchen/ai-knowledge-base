@@ -1,0 +1,34 @@
+{
+  "id": "rss-20261120-029",
+  "title": "VeriMath: Human-in-the-Loop Generation and Verification of Curriculum-Aligned Mathematics Assessment Items",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2611.23456",
+  "summary": "提出VeriMath人在环框架，生成符合课程标准的数学试题并自动验证与专家审核，在越南12年级案例中验证有效。",
+  "highlights": [
+    "提出VeriMath人机协同框架，锚定考试章节与认知层级生成数学题草稿",
+    "在越南12年级4555道数学题上评估，50项生成需求中94%通过验证器",
+    "盲审专家评估显示数学准确性与课程对齐度高，56.8%达到教师就绪标准"
+  ],
+  "tags": [
+    "educational-ai",
+    "human-in-the-loop",
+    "math-assessment",
+    "llm",
+    "automated-verification",
+    "curriculum-alignment",
+    "item-generation",
+    "arxiv"
+  ],
+  "relevance_score": 8,
+  "score_reason": "涉及LLM生成、自动验证与人在环的教育AI应用，相关度较高",
+  "author": "Quy P. Nguyen, Duong Q. Nguyen, Dinh P. T. Nguyen, Truong-Giang T. Le, Truong A. Bui, Vi H. Vo, Quang-Thinh Bui, My-Phuong Ngo, Trong N. Do, Thao P. Le, Phuc M. Nguyen, H. Nguyen-Xuan",
+  "published_at": "Fri, 20 Nov 2026 00:00:00 -0500",
+  "fetched_at": "2026-11-20T16:44:05.614710+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "verimath-human-in-the-loop-generation-and-verification-of-curriculum-aligned-mathematics-assessment-items"
+}

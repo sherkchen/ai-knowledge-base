@@ -1,0 +1,34 @@
+{
+  "id": "rss-20261120-025",
+  "title": "HardwareDx: A Foundational Graph Model System for Datacenter Machine Repairs",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2611.23398",
+  "summary": "HardwareDx是Google部署的图基础模型硬件诊断系统，可减少GPU/TPU停机时间并加速质检。",
+  "highlights": [
+    "基于图基础模型的AI驱动硬件诊断系统",
+    "在Google生产环境大规模部署",
+    "GPU/TPU停机时间减少18.3%/16.1%，质检时间缩短28.3%/25.1%"
+  ],
+  "tags": [
+    "graph foundation model",
+    "datacenter",
+    "hardware diagnosis",
+    "ai infrastructure",
+    "gpu",
+    "tpu",
+    "predictive maintenance",
+    "google"
+  ],
+  "relevance_score": 8,
+  "score_reason": "涉及图基础模型和AI基础设施，但非核心LLM/Agent",
+  "author": "Yuanlin Wen, Elan Markowitz, Zubo Gu, Sami Abu-El-Haija, Bryan Perozzi, Mikhail Galkin, Ali Parviz, Aayush Gupta, Venkata Chivukula, Griffin Hadfield, Aravind Akella, Daniel J. Frame, Vahab Mirrokni, Amin Vahdat",
+  "published_at": "Fri, 20 Nov 2026 00:00:00 -0500",
+  "fetched_at": "2026-11-20T16:44:05.614683+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "hardwaredx-a-foundational-graph-model-system-for-datacenter-machine-repairs"
+}

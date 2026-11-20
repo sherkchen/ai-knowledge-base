@@ -1,0 +1,33 @@
+{
+  "id": "rss-20261120-030",
+  "title": "GUARD: Stabilizing Recursive Self-Improvement with Regret Guidance",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2611.23476",
+  "summary": "GUARD框架通过遗憾引导和自适应规则蒸馏，稳定自主智能体递归自我改进，避免灾难性遗忘和记忆膨胀，降低token使用。",
+  "highlights": [
+    "提出无评分器遗憾引导的GUARD框架，实现无权重更新的持续自我改进。",
+    "通过预执行自检、方向性遗憾和Soft-HURT门控防止回归、技能遗忘和记忆膨胀。",
+    "在记忆、技能进化、连续任务流和领域推理基准上提升性能并大幅降低部署token使用。"
+  ],
+  "tags": [
+    "recursive self-improvement",
+    "regret guidance",
+    "autonomous agents",
+    "continual learning",
+    "non-regression",
+    "llm harness",
+    "memory"
+  ],
+  "relevance_score": 10,
+  "score_reason": "直接针对LLM智能体自我改进与防遗忘，高度相关。",
+  "author": "Minghe Zhang, Xuetao Kang, Yifei Ming, Yanfei Chen, Han Yu, Yufan Zhuang, Chen-Yu Lee",
+  "published_at": "Fri, 20 Nov 2026 00:00:00 -0500",
+  "fetched_at": "2026-11-20T16:44:05.614717+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "guard-stabilizing-recursive-self-improvement-with-regret-guidance"
+}

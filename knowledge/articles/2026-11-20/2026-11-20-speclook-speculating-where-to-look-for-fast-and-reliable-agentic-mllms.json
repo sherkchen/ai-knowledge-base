@@ -1,0 +1,34 @@
+{
+  "id": "rss-20261120-032",
+  "title": "SpecLook: Speculating Where to Look for Fast and Reliable Agentic MLLMs",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2611.23483",
+  "summary": "SpecLook提出免训练推测验证框架，通过推测智能体下一观察点，加速多模态LLM推理并评分可靠性。",
+  "highlights": [
+    "推测智能体下一观察而非答案，可验证、纠正并测试最终回答",
+    "三级框架：小模型起草瞥视并重答，不一致时大模型验证纠正并融合",
+    "无需工具循环，SpecLook及其Fast版在多个基准上精度更高，速度提升4.7至9.9倍"
+  ],
+  "tags": [
+    "speculook",
+    "agentic mllm",
+    "multimodal llm",
+    "speculative decoding",
+    "inference acceleration",
+    "reliability",
+    "tool use",
+    "vision-language model"
+  ],
+  "relevance_score": 10,
+  "score_reason": "直接针对Agentic MLLM推理加速与可靠性",
+  "author": "Xi Ding, Jiawei Zhang",
+  "published_at": "Fri, 20 Nov 2026 00:00:00 -0500",
+  "fetched_at": "2026-11-20T16:44:05.614730+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "speclook-speculating-where-to-look-for-fast-and-reliable-agentic-mllms"
+}

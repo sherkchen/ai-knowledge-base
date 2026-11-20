@@ -1,0 +1,34 @@
+{
+  "id": "rss-20261120-034",
+  "title": "GRAFT: Execution-Guided Genetic Recombination for Agent Design",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2611.23509",
+  "summary": "GRAFT利用执行证据引导遗传重组设计LLM智能体，在六项推理与编程任务中准确率达82.0%，超最强基线9.8个百分点。",
+  "highlights": [
+    "结合聚合适应度与父代执行证据，引导语义交叉与变异",
+    "复用成功和失败运行样本，无需额外任务执行或参考答案",
+    "在六项推理与编程任务中平均准确率82.0%，超最强基线9.8个百分点"
+  ],
+  "tags": [
+    "agent design",
+    "llm agents",
+    "evolutionary algorithm",
+    "genetic recombination",
+    "execution feedback",
+    "automated agent design",
+    "reasoning",
+    "programming"
+  ],
+  "relevance_score": 10,
+  "score_reason": "直接聚焦LLM智能体自动设计与进化优化方法",
+  "author": "Sevda Ebrahimi, Mohammed Saidul Islam, Xiaodan Zhu, Elham Dolatabadi",
+  "published_at": "Fri, 20 Nov 2026 00:00:00 -0500",
+  "fetched_at": "2026-11-20T16:44:05.614742+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "graft-execution-guided-genetic-recombination-for-agent-design"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "rss-20261120-024",
+  "title": "Where the Tokens Go: Heat, Entropy and Error in Agentic Coding",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2611.23375",
+  "summary": "提出软件热力学理论，将编码智能体令牌成本分为功与热，通过循环编码/解码实验测量软件温度、自由能及测试套件误差，为优化智能体提供新工具。",
+  "highlights": [
+    "提出软件热力学，将智能体生成令牌分为功和热，约80%成功运行令牌为热。",
+    "通过编码-逆编码循环实验定义软件温度，发现其随模型采样温度升高。",
+    "利用Jarzynski等式估计变更自由能，为分析优化编码智能体提供新视角。"
+  ],
+  "tags": [
+    "agentic coding",
+    "llm",
+    "tokens",
+    "thermodynamics",
+    "entropy",
+    "software engineering",
+    "evaluation",
+    "cost optimization"
+  ],
+  "relevance_score": 10,
+  "score_reason": "直接研究编码智能体令牌成本与热力学模型",
+  "author": "Al\\'an Aspuru-Guzik, Varinia Bernales",
+  "published_at": "Fri, 20 Nov 2026 00:00:00 -0500",
+  "fetched_at": "2026-11-20T16:44:05.614675+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "where-the-tokens-go-heat-entropy-and-error-in-agentic-coding"
+}

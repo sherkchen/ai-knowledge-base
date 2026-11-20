@@ -1,0 +1,34 @@
+{
+  "id": "rss-20261120-028",
+  "title": "LusoClin: A Synthetic Clinical Note Dataset for Medical Information Retrieval in European Portuguese",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2611.23454",
+  "summary": "LusoClin是欧洲葡萄牙语合成临床笔记数据集，用于医学信息检索，基于Llama 3.2生成并BERT标注。",
+  "highlights": [
+    "发布欧洲葡萄牙语合成临床笔记数据集LusoClin，保护隐私",
+    "使用Llama 3.2 3B指令模型微调生成临床笔记，并用BERT标注实体",
+    "评估效用、保真度、多样性和隐私，支持临床检索和领域适配"
+  ],
+  "tags": [
+    "synthetic data",
+    "clinical nlp",
+    "information retrieval",
+    "portuguese",
+    "llama",
+    "dataset",
+    "medical",
+    "low-resource"
+  ],
+  "relevance_score": 8,
+  "score_reason": "涉及LLM微调与临床NLP数据集构建",
+  "author": "Carla Teixeira Lopes, Daniel F\\'elix",
+  "published_at": "Fri, 20 Nov 2026 00:00:00 -0500",
+  "fetched_at": "2026-11-20T16:44:05.614703+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "lusoclin-a-synthetic-clinical-note-dataset-for-medical-information-retrieval-in-european-portuguese"
+}

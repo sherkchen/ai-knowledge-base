@@ -1,0 +1,34 @@
+{
+  "id": "rss-20261120-027",
+  "title": "Why Sub-4-Bit Vision CNNs Collapse and Where Mixed-Precision Recovery Stops",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2611.23445",
+  "summary": "研究亚4位量化视觉CNN精度崩溃机制，提出混合精度恢复策略并评估CPU部署权衡。",
+  "highlights": [
+    "崩溃呈非线性，集中在后期逐点投影与深度可分离层",
+    "保留不足5%关键层为8位精度可恢复92%精度损失",
+    "低比特存储减少但CPU位解包带来1.48至21.5倍减速"
+  ],
+  "tags": [
+    "quantization",
+    "mixed-precision",
+    "vision-cnn",
+    "efficient-deployment",
+    "resnet",
+    "efficientnet",
+    "imagenet",
+    "edge-computing"
+  ],
+  "relevance_score": 7,
+  "score_reason": "量化压缩与边缘部署属AI优化，但非LLM/Agent核心主题。",
+  "author": "Michael Schroeder",
+  "published_at": "Fri, 20 Nov 2026 00:00:00 -0500",
+  "fetched_at": "2026-11-20T16:44:05.614697+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "why-sub-4-bit-vision-cnns-collapse-and-where-mixed-precision-recovery-stops"
+}

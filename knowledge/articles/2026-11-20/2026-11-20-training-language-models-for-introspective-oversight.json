@@ -1,0 +1,34 @@
+{
+  "id": "rss-20261120-023",
+  "title": "Training Language Models for Introspective Oversight",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2611.23365",
+  "summary": "论文提出内省式监督，训练模型中的第三人称观察者角色回答助手行为问题，AUROC达0.907，优于诚实训练、转录监控和激活预言机。",
+  "highlights": [
+    "提出内省监督：训练独立的第三人称观察者角色，可验证地回答助手行为问题。",
+    "Qwen3.6-27B观察者在五项评估中平均AUROC达0.907，超过诚实训练、转录监控和激活预言机。",
+    "训练观察者使助手本身更易监控，所有基线方法在微调后的助手上平均都有提升。"
+  ],
+  "tags": [
+    "introspective oversight",
+    "language models",
+    "alignment",
+    "reward hacking",
+    "ai safety",
+    "interpretability",
+    "llm",
+    "monitoring"
+  ],
+  "relevance_score": 10,
+  "score_reason": "直接涉及LLM训练、对齐与监督机制",
+  "author": "Alex Lin Wang, Linus Yifeng Tang, Dami Choi, Neil Chowdhury",
+  "published_at": "Fri, 20 Nov 2026 00:00:00 -0500",
+  "fetched_at": "2026-11-20T16:44:05.614670+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "training-language-models-for-introspective-oversight"
+}

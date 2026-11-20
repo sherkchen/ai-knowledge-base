@@ -1,0 +1,34 @@
+{
+  "id": "rss-20261120-031",
+  "title": "Diagnostic Accuracy and Navigation Behavior of Vision-Language Model Agents Reading Emergency CT and MRI Examinations",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2611.23480",
+  "summary": "评估视觉语言模型智能体在急诊CT/MRI中的诊断准确性及导航行为，所有策略准确率远低于放射科医生。",
+  "highlights": [
+    "自由导航准确率最低32.6%，单次提供全部或关键切片最高约42.5%。",
+    "放射科医生准确率77.0%，显著高于自由导航模型的30.0%。",
+    "模型过早形成假设且很少纠正，错误首判后最终正确率仅12.4%，置信度虚高。"
+  ],
+  "tags": [
+    "vision-language-model",
+    "medical-imaging",
+    "agents",
+    "diagnostic-accuracy",
+    "llm-judge",
+    "navigation-behavior",
+    "radiology",
+    "emergency"
+  ],
+  "relevance_score": 10,
+  "score_reason": "直接评估VLM智能体在医学影像诊断中的表现，涉及LLM评判。",
+  "author": "Jonathan Lichtle, Aymen Meddeb, Antonin Birot, Ibrahima Niang, Lisa Gastaud, Riyad Hanafi, Sofiane Dujardin, Corentin Selomme, Guillaume Cachard, Aghiles Hamroun, Gr\\'egory Kuchcinski, Su Hwan Kim, Bastien Le Guellec",
+  "published_at": "Fri, 20 Nov 2026 00:00:00 -0500",
+  "fetched_at": "2026-11-20T16:44:05.614723+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "diagnostic-accuracy-and-navigation-behavior-of-vision-language-model-agents-reading-emergency-ct-and-mri-examinations"
+}

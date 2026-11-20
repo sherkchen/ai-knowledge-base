@@ -1,0 +1,33 @@
+{
+  "id": "rss-20261120-022",
+  "title": "Human-AI Mutualism Is Unstable under Capability Asymmetry",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2611.23322",
+  "summary": "人类与AI互利共生在能力不对称下不稳定，博弈模型显示无杠杆且未对齐时人类处境难保。",
+  "highlights": [
+    "博弈模型表明，人类若无杠杆，AI未对齐则无法保持原有福祉。",
+    "当AI目标贪得无厌，随能力增长所需对齐接近完美。",
+    "互利共生不能替代对齐，错位变体扩散时对齐难以持久。"
+  ],
+  "tags": [
+    "ai alignment",
+    "game theory",
+    "human-ai interaction",
+    "ai safety",
+    "capability asymmetry",
+    "mutualism",
+    "arxiv"
+  ],
+  "relevance_score": 9,
+  "score_reason": "直接讨论AI对齐与人类AI关系，高度相关",
+  "author": "Aydin Mohseni",
+  "published_at": "Fri, 20 Nov 2026 00:00:00 -0500",
+  "fetched_at": "2026-11-20T16:44:05.614663+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "human-ai-mutualism-is-unstable-under-capability-asymmetry"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "rss-20261120-037",
+  "title": "LProp: Propagating Latent Uncertainty through Evidence-Conditioned Belief Revision in LLM Agents",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2611.23564",
+  "summary": "LProp通过潜在表示传播LLM智能体中的不确定性，依据新证据修正信念，无需额外采样，在问答和数学推理中表现更优且推理token最少。",
+  "highlights": [
+    "提出潜在不确定性估计器，保留不确定性相关信息且避免冗长描述",
+    "LProp利用潜在表示和新证据修正继承答案分布，无需额外轨迹采样",
+    "在多项任务上优于基线，且八种传播设置中推理token使用最低"
+  ],
+  "tags": [
+    "latent uncertainty",
+    "uncertainty propagation",
+    "belief revision",
+    "llm agents",
+    "evidence conditioning",
+    "inference efficiency"
+  ],
+  "relevance_score": 9,
+  "score_reason": "提出LLM智能体不确定性传播与信念修正方法，直接相关。",
+  "author": "Kaiwen Shi, Zheyuan Zhang, Weixiang Sun, Han Bao, Colby Nelson, Yanfang Ye",
+  "published_at": "Fri, 20 Nov 2026 00:00:00 -0500",
+  "fetched_at": "2026-11-20T16:44:05.614761+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "lprop-propagating-latent-uncertainty-through-evidence-conditioned-belief-revision-in-llm-agents"
+}

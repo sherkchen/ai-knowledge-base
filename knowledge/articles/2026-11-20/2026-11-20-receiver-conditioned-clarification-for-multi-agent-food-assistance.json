@@ -1,0 +1,34 @@
+{
+  "id": "rss-20261120-038",
+  "title": "Receiver-Conditioned Clarification for Multi-Agent Food Assistance",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2611.23572",
+  "summary": "提出接收方条件澄清框架，解决多智能体食物援助中跨智能体不确定性丢失问题。",
+  "highlights": [
+    "提出接收方条件澄清框架，保持共享前提身份并重放一致性解释",
+    "澄清问题同时考虑决策变化与缺失支持，并联合评估后续交互",
+    "应用于多智能体食物援助中的资源导航、营养推理与供应规划"
+  ],
+  "tags": [
+    "multi-agent",
+    "clarification",
+    "uncertainty",
+    "food assistance",
+    "inference-time",
+    "agent handoff",
+    "planning",
+    "nutritional reasoning"
+  ],
+  "relevance_score": 8,
+  "score_reason": "多智能体澄清框架，核心涉及Agent协作与不确定性管理",
+  "author": "Kaiwen Shi, Zheyuan Zhang, Changzhi Liu, Han Bao, Yanfang Ye",
+  "published_at": "Fri, 20 Nov 2026 00:00:00 -0500",
+  "fetched_at": "2026-11-20T16:44:05.614768+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "receiver-conditioned-clarification-for-multi-agent-food-assistance"
+}

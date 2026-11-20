@@ -1,0 +1,34 @@
+{
+  "id": "rss-20261120-036",
+  "title": "FACET - Facet Aware Contrastive Embeddings for Traits- Big Five Estimation from Life Narratives",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2611.23560",
+  "summary": "提出三阶段框架，利用语言模型和心理语言学特征对比学习特质嵌入，注意力池化预测大五人格。",
+  "highlights": [
+    "分离编码文本与心理语言学特征，通过拼接或学习权重融合",
+    "对每个大五领域分解为对比训练的特质嵌入，再用注意力池化预测",
+    "在SPAN 1332人数据上AUC达0.740，Openness领域R²最高0.328"
+  ],
+  "tags": [
+    "personality prediction",
+    "contrastive learning",
+    "language models",
+    "psycholinguistics",
+    "attention pooling",
+    "big five",
+    "nlp",
+    "arxiv"
+  ],
+  "relevance_score": 7,
+  "score_reason": "涉及语言模型、对比学习与注意力机制，但应用领域较窄",
+  "author": "Balakrishnan Arumugam, Priyen Parekh, Mehak Gupta, Joshua Oltmanns",
+  "published_at": "Fri, 20 Nov 2026 00:00:00 -0500",
+  "fetched_at": "2026-11-20T16:44:05.614754+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "facet-facet-aware-contrastive-embeddings-for-traits-big-five-estimation-from-life-narratives"
+}

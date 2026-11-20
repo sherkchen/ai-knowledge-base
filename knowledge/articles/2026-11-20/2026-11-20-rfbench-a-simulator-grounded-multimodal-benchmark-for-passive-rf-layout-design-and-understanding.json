@@ -1,0 +1,34 @@
+{
+  "id": "rss-20261120-026",
+  "title": "RFBench: A Simulator-Grounded Multimodal Benchmark for Passive RF Layout Design and Understanding",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2611.23410",
+  "summary": "提出RFBench，含1万个无源射频布局及仿真数据，评估多模态模型在射频布局设计理解上的能力。",
+  "highlights": [
+    "包含10,000个经ADS Momentum仿真的平面布局及多模态表示",
+    "定义七项任务，覆盖布局生成、响应预测、诊断改进等",
+    "微调将结构有效性从0%提升至83.2%，响应预测误差显著改善"
+  ],
+  "tags": [
+    "rfbench",
+    "multimodal",
+    "benchmark",
+    "llm",
+    "radio-frequency",
+    "layout-generation",
+    "simulation",
+    "fine-tuning"
+  ],
+  "relevance_score": 8,
+  "score_reason": "直接评估多模态大模型在射频布局设计任务上的能力",
+  "author": "Jiarui Cui, Boxun Yan",
+  "published_at": "Fri, 20 Nov 2026 00:00:00 -0500",
+  "fetched_at": "2026-11-20T16:44:05.614689+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "rfbench-a-simulator-grounded-multimodal-benchmark-for-passive-rf-layout-design-and-understanding"
+}
