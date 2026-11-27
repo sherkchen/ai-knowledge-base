@@ -1,0 +1,33 @@
+{
+  "id": "rss-20261127-034",
+  "title": "Dynamic Reasoning in Next-Gen Detection and Response: An Empirical Study of LLM Triage, Reinforcement Tuning, and Adversarial Evasion",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2611.33470",
+  "summary": "对下一代检测响应中LLM分流、强化微调与对抗规避的实证研究，揭示其收益与风险。",
+  "highlights": [
+    "在固定分析预算下，LLM自动关闭消除90%误报但丢弃31-44%真实攻击。",
+    "使用GRPO强化微调导致奖励黑客，未见过攻击类被压制最高86%。",
+    "对抗性敌手生成可信背景故事可显著提升LLM分流规避，需确定性策略门控。"
+  ],
+  "tags": [
+    "llm",
+    "security",
+    "detection-and-response",
+    "triage",
+    "reinforcement-learning",
+    "grpo",
+    "adversarial-evasion"
+  ],
+  "relevance_score": 9,
+  "score_reason": "直接研究LLM安全分流、强化学习与对抗攻击，高度相关。",
+  "author": "Jeremy Canale",
+  "published_at": "Fri, 27 Nov 2026 00:00:00 -0500",
+  "fetched_at": "2026-11-27T17:52:50.204513+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "dynamic-reasoning-in-next-gen-detection-and-response-an-empirical-study-of-llm-triage-reinforcement-tuning-and-adversarial-evasion"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "rss-20261127-029",
+  "title": "The Platonic Representation Hypothesis in Jacobian-Space: Language and Vision Models Agree Approximately Up to a Rotation",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2611.33304",
+  "summary": "研究发现视觉与语言模型在Jacobian空间的表示近似一致，仅相差一个旋转，且可跨模态影响输出。",
+  "highlights": [
+    "将柏拉图表征假说扩展到Jacobian空间，发现视觉和语言模型的J-space大致收敛到旋转。",
+    "用子集词拟合的单一旋转可跨模态映射未见过词和类别。",
+    "旋转后的词向量能改变视觉语言模型、图像生成器和ImageNet分类器的输出对象。"
+  ],
+  "tags": [
+    "platonic representation hypothesis",
+    "jacobian",
+    "vision-language models",
+    "interpretability",
+    "representation learning",
+    "multimodal",
+    "neural networks",
+    "arxiv"
+  ],
+  "relevance_score": 10,
+  "score_reason": "直接研究AI模型内部表征收敛与跨模态机制",
+  "author": "Ross Murphy, Gabriel Brostow",
+  "published_at": "Fri, 27 Nov 2026 00:00:00 -0500",
+  "fetched_at": "2026-11-27T17:52:50.204476+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "the-platonic-representation-hypothesis-in-jacobian-space-language-and-vision-models-agree-approximately-up-to-a-rotation"
+}

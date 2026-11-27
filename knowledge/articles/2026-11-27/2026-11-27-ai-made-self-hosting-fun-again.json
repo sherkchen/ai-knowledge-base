@@ -1,0 +1,33 @@
+{
+  "id": "rss-20261127-022",
+  "title": "AI made self-hosting fun again",
+  "source": "rss_feed",
+  "source_url": "https://janlukas.blog/posts/ai-self-hosting",
+  "summary": "AI 让自托管再次变得有趣，探讨本地运行模型与工具的趋势。",
+  "highlights": [
+    "自托管 AI 工具降低使用门槛",
+    "本地模型与开源生态推动自我托管复兴",
+    "Hacker News 社区热议自托管 AI 实践"
+  ],
+  "tags": [
+    "self-hosting",
+    "ai",
+    "llm",
+    "open-source",
+    "local-models",
+    "homelab",
+    "self-hosted"
+  ],
+  "relevance_score": 8,
+  "score_reason": "涉及本地LLM与自托管AI工具，相关度高",
+  "author": "jlelse",
+  "published_at": "Thu, 26 Nov 2026 21:47:45 +0000",
+  "fetched_at": "2026-11-27T17:52:50.204422+00:00",
+  "status": "draft",
+  "category": "news",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "ai-made-self-hosting-fun-again"
+}

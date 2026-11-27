@@ -1,0 +1,34 @@
+{
+  "id": "rss-20261127-025",
+  "title": "AutoformBench: A Lean Formalization Benchmark for Advanced Mathematics",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2611.33165",
+  "summary": "AutoformBench是包含341个Lean 4形式化任务的基准，评估AI智能体构建定义和引理证明高级数学的能力。",
+  "highlights": [
+    "包含341个Lean 4形式化任务，源自24个高级数学来源。",
+    "评估智能体从非正式证明构建缺失定义、中间引理和支撑设施的能力。",
+    "前沿模型表现比较显示难点在于构建形式化基础设施而非数学领域。"
+  ],
+  "tags": [
+    "autoformbench",
+    "lean4",
+    "formalization",
+    "benchmark",
+    "theorem-proving",
+    "ai-agents",
+    "mathlib",
+    "frontier-models"
+  ],
+  "relevance_score": 9,
+  "score_reason": "直接评估AI智能体的数学形式化与定理证明能力",
+  "author": "Charles Arnal, Ahmad Rammal, Niket Patel, Fabian Gloeckle, Bartosz Piotrowski, Amaury Hayat, Julia Kempe, R\\'emi Munos, Vivien Cabannes",
+  "published_at": "Fri, 27 Nov 2026 00:00:00 -0500",
+  "fetched_at": "2026-11-27T17:52:50.204448+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "autoformbench-a-lean-formalization-benchmark-for-advanced-mathematics"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "rss-20261127-027",
+  "title": "What, Who, and When: Structured Harm Assessment for Mental Health Safety via Short Reasoning",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2611.33263",
+  "summary": "论文提出结构化心理健康伤害评估分类法，训练MindGuard2防护模型，以低延迟高准确率检测LLM心理健康支持中的风险。",
+  "highlights": [
+    "提出临床基础的三维伤害分类法：什么伤害、涉及谁、何时发生",
+    "训练35B-A3B推理防护模型MindGuard2，准确率媲美GLM-5.3且延迟降低约10倍",
+    "发布SOTA安全护栏模型及合成对话和基准标注"
+  ],
+  "tags": [
+    "mental health",
+    "llm safety",
+    "guard model",
+    "taxonomy",
+    "reinforcement learning",
+    "reasoning",
+    "synthetic data",
+    "arxiv"
+  ],
+  "relevance_score": 10,
+  "score_reason": "直接涉及LLM安全护栏、推理训练与模型发布",
+  "author": "Catarina Botelho, Ant\\'onio Farinhas, John Mendon\\c{c}a, Areti Vassilopoulos, In\\^es Gon\\c{c}alves, Maya D'Eon, Hugo Pitorro, Laura Cabello, Carrie Spadine, Nuno M. Guerreiro, Ricardo Rei",
+  "published_at": "Fri, 27 Nov 2026 00:00:00 -0500",
+  "fetched_at": "2026-11-27T17:52:50.204461+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "what-who-and-when-structured-harm-assessment-for-mental-health-safety-via-short-reasoning"
+}

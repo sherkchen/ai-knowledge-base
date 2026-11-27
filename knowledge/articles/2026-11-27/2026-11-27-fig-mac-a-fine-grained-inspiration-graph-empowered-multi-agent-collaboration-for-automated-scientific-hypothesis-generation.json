@@ -1,0 +1,34 @@
+{
+  "id": "rss-20261127-038",
+  "title": "FIG-MAC: A Fine-grained Inspiration Graph Empowered Multi-Agent Collaboration for Automated Scientific Hypothesis Generation",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2611.33563",
+  "summary": "提出FIG-MAC框架，结合细粒度灵感图与多智能体协作，用于LLM自动科研假设生成。",
+  "highlights": [
+    "构建细粒度灵感图，实现结构化知识表示与可溯源推理路径",
+    "本体引导混合推理，结合向量搜索丰富语义证据",
+    "角色专业化多智能体闭环：假设生成、筛选与验证"
+  ],
+  "tags": [
+    "multi-agent",
+    "llm",
+    "scientific hypothesis generation",
+    "knowledge graph",
+    "agent collaboration",
+    "reasoning",
+    "framework",
+    "arxiv"
+  ],
+  "relevance_score": 10,
+  "score_reason": "涉及LLM多智能体协作与知识推理，高度相关",
+  "author": "Siyuan Chen, Yuping Gao, Tai Huang, Yuling Zhou, Dongyu Su, Tongguan Wang",
+  "published_at": "Fri, 27 Nov 2026 00:00:00 -0500",
+  "fetched_at": "2026-11-27T17:52:50.204538+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "fig-mac-a-fine-grained-inspiration-graph-empowered-multi-agent-collaboration-for-automated-scientific-hypothesis-generation"
+}

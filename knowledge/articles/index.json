@@ -1927,6 +1927,96 @@
       "fetched_at": "2026-11-20T16:44:05.614742+00:00"
     },
     {
+      "id": "github-20261127-001",
+      "title": "tianlinxu312/Everything-about-LLMs",
+      "category": "other",
+      "slug": "tianlinxu312-everything-about-llms",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-11-27T17:52:50.203254+00:00"
+    },
+    {
+      "id": "github-20261127-005",
+      "title": "sinanuozdemir/oreilly-llm-rl-alignment",
+      "category": "research",
+      "slug": "sinanuozdemir-oreilly-llm-rl-alignment",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-11-27T17:52:50.204322+00:00"
+    },
+    {
+      "id": "github-20261127-011",
+      "title": "kael-bit/engram-rs",
+      "category": "tool",
+      "slug": "kael-bit-engram-rs",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-11-27T17:52:50.204363+00:00"
+    },
+    {
+      "id": "github-20261127-015",
+      "title": "richer-richard/socratic-council",
+      "category": "tool",
+      "slug": "richer-richard-socratic-council",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-11-27T17:52:50.204385+00:00"
+    },
+    {
+      "id": "rss-20261127-027",
+      "title": "What, Who, and When: Structured Harm Assessment for Mental Health Safety via Short Reasoning",
+      "category": "paper",
+      "slug": "what-who-and-when-structured-harm-assessment-for-mental-health-safety-via-short-reasoning",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-11-27T17:52:50.204461+00:00"
+    },
+    {
+      "id": "rss-20261127-029",
+      "title": "The Platonic Representation Hypothesis in Jacobian-Space: Language and Vision Models Agree Approximately Up to a Rotation",
+      "category": "paper",
+      "slug": "the-platonic-representation-hypothesis-in-jacobian-space-language-and-vision-models-agree-approximately-up-to-a-rotation",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-11-27T17:52:50.204476+00:00"
+    },
+    {
+      "id": "rss-20261127-032",
+      "title": "Partial Routing: Trace-Tuned Delegation for Resource-Efficient Agentic Workflows",
+      "category": "paper",
+      "slug": "partial-routing-trace-tuned-delegation-for-resource-efficient-agentic-workflows",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-11-27T17:52:50.204497+00:00"
+    },
+    {
+      "id": "rss-20261127-035",
+      "title": "CA-RAG: Constraint-Aligned Retrieval for Structurally Faithful Long-Form Generation",
+      "category": "paper",
+      "slug": "ca-rag-constraint-aligned-retrieval-for-structurally-faithful-long-form-generation",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-11-27T17:52:50.204521+00:00"
+    },
+    {
+      "id": "rss-20261127-036",
+      "title": "Learning to Reason in Real-Time",
+      "category": "paper",
+      "slug": "learning-to-reason-in-real-time",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-11-27T17:52:50.204527+00:00"
+    },
+    {
+      "id": "rss-20261127-038",
+      "title": "FIG-MAC: A Fine-grained Inspiration Graph Empowered Multi-Agent Collaboration for Automated Scientific Hypothesis Generation",
+      "category": "paper",
+      "slug": "fig-mac-a-fine-grained-inspiration-graph-empowered-multi-agent-collaboration-for-automated-scientific-hypothesis-generation",
+      "relevance_score": 10,
+      "status": "draft",
+      "fetched_at": "2026-11-27T17:52:50.204538+00:00"
+    },
+    {
       "id": "github-20260616-001",
       "title": "nitefood/ai-bash",
       "category": "tool",
@@ -4807,6 +4897,195 @@
       "fetched_at": "2026-11-20T16:44:05.614773+00:00"
     },
     {
+      "id": "github-20261127-002",
+      "title": "shibing624/ai-paper-analysis",
+      "category": "research",
+      "slug": "shibing624-ai-paper-analysis",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-11-27T17:52:50.204295+00:00"
+    },
+    {
+      "id": "github-20261127-003",
+      "title": "nitefood/ai-bash",
+      "category": "tool",
+      "slug": "nitefood-ai-bash",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-11-27T17:52:50.204307+00:00"
+    },
+    {
+      "id": "github-20261127-004",
+      "title": "ruankie/ecrivai",
+      "category": "tool",
+      "slug": "ruankie-ecrivai",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-11-27T17:52:50.204317+00:00"
+    },
+    {
+      "id": "github-20261127-007",
+      "title": "Md-Emon-Hasan/MediGenius",
+      "category": "tool",
+      "slug": "md-emon-hasan-medigenius",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-11-27T17:52:50.204334+00:00"
+    },
+    {
+      "id": "github-20261127-009",
+      "title": "mchittineni/ultimate-ai-engineering-guide",
+      "category": "other",
+      "slug": "mchittineni-ultimate-ai-engineering-guide",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-11-27T17:52:50.204351+00:00"
+    },
+    {
+      "id": "github-20261127-010",
+      "title": "ythx-101/x-profile-analyzer",
+      "category": "tool",
+      "slug": "ythx-101-x-profile-analyzer",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-11-27T17:52:50.204358+00:00"
+    },
+    {
+      "id": "github-20261127-013",
+      "title": "ankitsharma-tech/Polyagent-Research-Intelligence",
+      "category": "tool",
+      "slug": "ankitsharma-tech-polyagent-research-intelligence",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-11-27T17:52:50.204374+00:00"
+    },
+    {
+      "id": "github-20261127-014",
+      "title": "BjornMelin/polyagent-research-intelligence",
+      "category": "tool",
+      "slug": "bjornmelin-polyagent-research-intelligence",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-11-27T17:52:50.204381+00:00"
+    },
+    {
+      "id": "github-20261127-016",
+      "title": "rasmurtech/DeepSeekDeepResearch",
+      "category": "tool",
+      "slug": "rasmurtech-deepseekdeepresearch",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-11-27T17:52:50.204390+00:00"
+    },
+    {
+      "id": "github-20261127-018",
+      "title": "billy-enrizky/crewai-research-assistant",
+      "category": "tool",
+      "slug": "billy-enrizky-crewai-research-assistant",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-11-27T17:52:50.204400+00:00"
+    },
+    {
+      "id": "github-20261127-019",
+      "title": "c1t1zen1/markgitup-research-desk",
+      "category": "tool",
+      "slug": "c1t1zen1-markgitup-research-desk",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-11-27T17:52:50.204405+00:00"
+    },
+    {
+      "id": "github-20261127-020",
+      "title": "Cashcoin123/Cashcoin123",
+      "category": "other",
+      "slug": "cashcoin123-cashcoin123",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-11-27T17:52:50.204410+00:00"
+    },
+    {
+      "id": "rss-20261127-021",
+      "title": "Group chat where your AI talks behind your back",
+      "category": "tool",
+      "slug": "group-chat-where-your-ai-talks-behind-your-back",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-11-27T17:52:50.204415+00:00"
+    },
+    {
+      "id": "rss-20261127-023",
+      "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
+      "category": "news",
+      "slug": "google-will-make-ai-agents-use-its-mcp-servers-the-gmail-one-can-t-send-email",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-11-27T17:52:50.204428+00:00"
+    },
+    {
+      "id": "rss-20261127-024",
+      "title": "Constraint-Aware Test-Time Scoring for LLM and VLM Candidate Selection",
+      "category": "paper",
+      "slug": "constraint-aware-test-time-scoring-for-llm-and-vlm-candidate-selection",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-11-27T17:52:50.204441+00:00"
+    },
+    {
+      "id": "rss-20261127-025",
+      "title": "AutoformBench: A Lean Formalization Benchmark for Advanced Mathematics",
+      "category": "paper",
+      "slug": "autoformbench-a-lean-formalization-benchmark-for-advanced-mathematics",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-11-27T17:52:50.204448+00:00"
+    },
+    {
+      "id": "rss-20261127-028",
+      "title": "Certify What You Plant: Shortcut-Free Proof Depth in Logical Reasoning Data",
+      "category": "paper",
+      "slug": "certify-what-you-plant-shortcut-free-proof-depth-in-logical-reasoning-data",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-11-27T17:52:50.204469+00:00"
+    },
+    {
+      "id": "rss-20261127-031",
+      "title": "Confidence scores for gated automation of large language models",
+      "category": "paper",
+      "slug": "confidence-scores-for-gated-automation-of-large-language-models",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-11-27T17:52:50.204491+00:00"
+    },
+    {
+      "id": "rss-20261127-034",
+      "title": "Dynamic Reasoning in Next-Gen Detection and Response: An Empirical Study of LLM Triage, Reinforcement Tuning, and Adversarial Evasion",
+      "category": "paper",
+      "slug": "dynamic-reasoning-in-next-gen-detection-and-response-an-empirical-study-of-llm-triage-reinforcement-tuning-and-adversarial-evasion",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-11-27T17:52:50.204513+00:00"
+    },
+    {
+      "id": "rss-20261127-037",
+      "title": "PeerReveal: Learning to Generalize in AI Peer Review Detection",
+      "category": "paper",
+      "slug": "peerreveal-learning-to-generalize-in-ai-peer-review-detection",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-11-27T17:52:50.204533+00:00"
+    },
+    {
+      "id": "rss-20261127-039",
+      "title": "Aligned Machine: A Benchmark for Evaluating Multimodal Embedding Similarity via Human Comparative Judgements",
+      "category": "paper",
+      "slug": "aligned-machine-a-benchmark-for-evaluating-multimodal-embedding-similarity-via-human-comparative-judgements",
+      "relevance_score": 9,
+      "status": "draft",
+      "fetched_at": "2026-11-27T17:52:50.204546+00:00"
+    },
+    {
       "id": "github-20260616-009",
       "title": "SukritiC/ai-mastery-hub",
       "category": "other",
@@ -5860,6 +6139,69 @@
       "fetched_at": "2026-11-20T16:44:05.614768+00:00"
     },
     {
+      "id": "github-20261127-006",
+      "title": "MADEVAL/AngleCraft",
+      "category": "tool",
+      "slug": "madeval-anglecraft",
+      "relevance_score": 8,
+      "status": "draft",
+      "fetched_at": "2026-11-27T17:52:50.204329+00:00"
+    },
+    {
+      "id": "github-20261127-008",
+      "title": "SpreadSheets600/TidyTabs",
+      "category": "tool",
+      "slug": "spreadsheets600-tidytabs",
+      "relevance_score": 8,
+      "status": "draft",
+      "fetched_at": "2026-11-27T17:52:50.204342+00:00"
+    },
+    {
+      "id": "github-20261127-012",
+      "title": "akshaymittal143/CloudyBot-DevOps-AI",
+      "category": "tool",
+      "slug": "akshaymittal143-cloudybot-devops-ai",
+      "relevance_score": 8,
+      "status": "draft",
+      "fetched_at": "2026-11-27T17:52:50.204368+00:00"
+    },
+    {
+      "id": "rss-20261127-022",
+      "title": "AI made self-hosting fun again",
+      "category": "news",
+      "slug": "ai-made-self-hosting-fun-again",
+      "relevance_score": 8,
+      "status": "draft",
+      "fetched_at": "2026-11-27T17:52:50.204422+00:00"
+    },
+    {
+      "id": "rss-20261127-026",
+      "title": "General-Purpose Decision Models for AI Configuration Tuning",
+      "category": "paper",
+      "slug": "general-purpose-decision-models-for-ai-configuration-tuning",
+      "relevance_score": 8,
+      "status": "draft",
+      "fetched_at": "2026-11-27T17:52:50.204455+00:00"
+    },
+    {
+      "id": "rss-20261127-030",
+      "title": "Brand Recall and Category Accuracy in Language Models: An Audit of 1,000 B2B SaaS Brands",
+      "category": "paper",
+      "slug": "brand-recall-and-category-accuracy-in-language-models-an-audit-of-1-000-b2b-saas-brands",
+      "relevance_score": 8,
+      "status": "draft",
+      "fetched_at": "2026-11-27T17:52:50.204484+00:00"
+    },
+    {
+      "id": "rss-20261127-033",
+      "title": "Collaborative Language Models for Semantic IoT Data Processing: Validation through Zero-Shot Human Activity Recognition",
+      "category": "paper",
+      "slug": "collaborative-language-models-for-semantic-iot-data-processing-validation-through-zero-shot-human-activity-recognition",
+      "relevance_score": 8,
+      "status": "draft",
+      "fetched_at": "2026-11-27T17:52:50.204504+00:00"
+    },
+    {
       "id": "rss-20260616-023",
       "title": "Hyperdimensional computing for structured querying on tabular data embeddings",
       "category": "paper",
@@ -6175,6 +6517,15 @@
       "fetched_at": "2026-11-20T16:44:05.614754+00:00"
     },
     {
+      "id": "github-20261127-017",
+      "title": "JacKaL37/TheHardProblem",
+      "category": "research",
+      "slug": "jackal37-thehardproblem",
+      "relevance_score": 7,
+      "status": "draft",
+      "fetched_at": "2026-11-27T17:52:50.204395+00:00"
+    },
+    {
       "id": "rss-20260703-016",
       "title": "Liva AI (YC S25) Is Hiring",
       "category": "other",
@@ -6247,6 +6598,6 @@
       "fetched_at": "2026-06-26T10:55:22.327694+00:00"
     }
   ],
-  "total_count": 694,
-  "updated_at": "2026-11-20T16:44:05.619466+00:00"
+  "total_count": 733,
+  "updated_at": "2026-11-27T17:52:50.210776+00:00"
 }

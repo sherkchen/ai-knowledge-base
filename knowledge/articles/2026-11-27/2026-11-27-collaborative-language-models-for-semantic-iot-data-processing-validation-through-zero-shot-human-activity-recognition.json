@@ -1,0 +1,33 @@
+{
+  "id": "rss-20261127-033",
+  "title": "Collaborative Language Models for Semantic IoT Data Processing: Validation through Zero-Shot Human Activity Recognition",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2611.33411",
+  "summary": "论文研究协作语言模型用于物联网语义数据处理与零样本人类活动识别，提出五阶段工作流，发现协作结构比模型数量更重要。",
+  "highlights": [
+    "提出五阶段语义抽象工作流，将低层传感器观测转化为高层事件标签",
+    "在CASAS Aruba数据集评估11种配置，宏F1达0.643",
+    "协作结构和任务分解比单纯增加模型数量更重要，通用SLM可能降低性能"
+  ],
+  "tags": [
+    "collaborative language models",
+    "iot",
+    "semantic abstraction",
+    "zero-shot",
+    "human activity recognition",
+    "process mining",
+    "small language models"
+  ],
+  "relevance_score": 8,
+  "score_reason": "涉及LLM协作与零样本语义处理，贴近Agent方向",
+  "author": "Mohsen Shirali, Kean Ooi, Anna Knab, Mohammadreza Fani Sani, Estefania Serral",
+  "published_at": "Fri, 27 Nov 2026 00:00:00 -0500",
+  "fetched_at": "2026-11-27T17:52:50.204504+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "collaborative-language-models-for-semantic-iot-data-processing-validation-through-zero-shot-human-activity-recognition"
+}

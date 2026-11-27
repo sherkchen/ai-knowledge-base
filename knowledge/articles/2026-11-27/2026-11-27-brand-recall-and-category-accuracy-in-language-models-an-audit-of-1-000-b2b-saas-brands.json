@@ -1,0 +1,34 @@
+{
+  "id": "rss-20261127-030",
+  "title": "Brand Recall and Category Accuracy in Language Models: An Audit of 1,000 B2B SaaS Brands",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2611.33322",
+  "summary": "审计1000个B2B SaaS品牌，衡量语言模型品牌回忆与类别准确性，发现回忆率51.0%、错误率19.8%，建议分开报告。",
+  "highlights": [
+    "对1000个B2B SaaS品牌在333个产品类别中评估品牌回忆与分类准确性",
+    "Gemma 4 12B类别提示召回510个品牌（51.0%），981个排名中错误率19.8%",
+    "四代Gemma回忆率从39.8%升至51.0%，情感表示与客户评分几乎无线性相关"
+  ],
+  "tags": [
+    "language models",
+    "brand recall",
+    "category accuracy",
+    "b2b saas",
+    "gemma",
+    "evaluation",
+    "benchmark",
+    "llm audit"
+  ],
+  "relevance_score": 8,
+  "score_reason": "直接评估LLM品牌知识与分类能力，属于模型审计研究",
+  "author": "Ben Moore",
+  "published_at": "Fri, 27 Nov 2026 00:00:00 -0500",
+  "fetched_at": "2026-11-27T17:52:50.204484+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "brand-recall-and-category-accuracy-in-language-models-an-audit-of-1-000-b2b-saas-brands"
+}

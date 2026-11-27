@@ -1,0 +1,34 @@
+{
+  "id": "rss-20261127-031",
+  "title": "Confidence scores for gated automation of large language models",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2611.33394",
+  "summary": "研究训练置信度评分模型预测LLM答案正确性，实现自动响应与人工复核路由，提升智能体安全自动化。",
+  "highlights": [
+    "提出线性置信度头，基于冻结LLM末层隐藏状态预测答案正确性。",
+    "文本元模型支持闭源模型，置信度头在多个基线上表现最佳。",
+    "方法可扩展到安全与合规门控，但跨数据集迁移性有限。"
+  ],
+  "tags": [
+    "llm",
+    "confidence scores",
+    "ai agents",
+    "automation",
+    "supervised learning",
+    "uncertainty estimation",
+    "gating",
+    "arxiv"
+  ],
+  "relevance_score": 9,
+  "score_reason": "直接涉及LLM智能体决策自动化与置信度评估",
+  "author": "Luiz G. A. Alves, Aaron Vermeersch",
+  "published_at": "Fri, 27 Nov 2026 00:00:00 -0500",
+  "fetched_at": "2026-11-27T17:52:50.204491+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "confidence-scores-for-gated-automation-of-large-language-models"
+}

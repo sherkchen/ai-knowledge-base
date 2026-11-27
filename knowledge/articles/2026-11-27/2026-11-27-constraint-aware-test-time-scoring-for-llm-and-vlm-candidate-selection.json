@@ -1,0 +1,34 @@
+{
+  "id": "rss-20261127-024",
+  "title": "Constraint-Aware Test-Time Scoring for LLM and VLM Candidate Selection",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2611.33161",
+  "summary": "提出约束感知测试时评分框架，结合硬检查与软评分选择LLM/VLM候选，消融显示硬检查加候选比较是主要增益来源。",
+  "highlights": [
+    "框架由起草模型、配置模型和评分模型组成，为每个候选生成综合评分",
+    "在CWEval、LIBERO、LiveCodeBench、HotpotQA四个任务上验证候选选择效果",
+    "消融实验表明硬检查与候选比较是性能提升主因，软检查配置无显著增益"
+  ],
+  "tags": [
+    "llm",
+    "vlm",
+    "candidate selection",
+    "test-time scoring",
+    "constraint checking",
+    "code generation",
+    "safety",
+    "ablation"
+  ],
+  "relevance_score": 9,
+  "score_reason": "直接研究LLM/VLM候选选择与测试时评分，相关性高",
+  "author": "Rangarajan Ramesh, Yongchao Huang",
+  "published_at": "Fri, 27 Nov 2026 00:00:00 -0500",
+  "fetched_at": "2026-11-27T17:52:50.204441+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "constraint-aware-test-time-scoring-for-llm-and-vlm-candidate-selection"
+}

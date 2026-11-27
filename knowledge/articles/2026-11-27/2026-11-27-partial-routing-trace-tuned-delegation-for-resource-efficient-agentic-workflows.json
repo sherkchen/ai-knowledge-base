@@ -1,0 +1,34 @@
+{
+  "id": "rss-20261127-032",
+  "title": "Partial Routing: Trace-Tuned Delegation for Resource-Efficient Agentic Workflows",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2611.33402",
+  "summary": "提出部分路由，引导前沿模型将合适子任务委托给廉价模型，提升智能体任务性能并降低成本。",
+  "highlights": [
+    "部分路由让前沿模型在执行中委托子任务给廉价模型，无需训练",
+    "基于历史运行识别子任务并测量质量与成本，用参数δ控制委托量",
+    "在ViBench和Terminal-Bench上性能超越单独前沿模型及任务级路由，成本更低"
+  ],
+  "tags": [
+    "partial routing",
+    "model routing",
+    "ai agents",
+    "resource efficiency",
+    "delegation",
+    "llm",
+    "cost optimization",
+    "agentic workflows"
+  ],
+  "relevance_score": 10,
+  "score_reason": "直接涉及智能体工作流、LLM模型路由与成本优化，高度相关",
+  "author": "Siddharth Arya, Kshitij Jain",
+  "published_at": "Fri, 27 Nov 2026 00:00:00 -0500",
+  "fetched_at": "2026-11-27T17:52:50.204497+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "partial-routing-trace-tuned-delegation-for-resource-efficient-agentic-workflows"
+}

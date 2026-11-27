@@ -1,0 +1,33 @@
+{
+  "id": "rss-20261127-023",
+  "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
+  "source": "rss_feed",
+  "source_url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
+  "summary": "谷歌将让AI代理使用其MCP服务器，但Gmail的MCP服务器目前无法发送邮件，引发关注。",
+  "highlights": [
+    "谷歌推动AI代理使用Workspace MCP服务器",
+    "Gmail MCP服务器目前无法发送邮件，功能受限",
+    "引发社区对MCP生态与权限边界的讨论"
+  ],
+  "tags": [
+    "google",
+    "mcp",
+    "ai-agents",
+    "gmail",
+    "workspace",
+    "model-context-protocol",
+    "llm"
+  ],
+  "relevance_score": 9,
+  "score_reason": "直接涉及AI代理与MCP协议集成，相关度高",
+  "author": "ritzaco",
+  "published_at": "Thu, 26 Nov 2026 09:44:23 +0000",
+  "fetched_at": "2026-11-27T17:52:50.204428+00:00",
+  "status": "draft",
+  "category": "news",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "google-will-make-ai-agents-use-its-mcp-servers-the-gmail-one-can-t-send-email"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "rss-20261127-021",
+  "title": "Group chat where your AI talks behind your back",
+  "source": "rss_feed",
+  "source_url": "https://construct22.com/",
+  "summary": "AI群聊工具，AI可在用户背后私下交流讨论",
+  "highlights": [
+    "创建多个AI角色进行群聊互动",
+    "AI会私下讨论用户，模拟背后议论",
+    "引发对AI社交行为的关注与思考"
+  ],
+  "tags": [
+    "ai",
+    "group-chat",
+    "agents",
+    "simulation",
+    "chatbot",
+    "social-dynamics",
+    "llm",
+    "tool"
+  ],
+  "relevance_score": 9,
+  "score_reason": "涉及多AI角色群聊与社交模拟，高度相关",
+  "author": "utiiiD",
+  "published_at": "Fri, 27 Nov 2026 06:44:34 +0000",
+  "fetched_at": "2026-11-27T17:52:50.204415+00:00",
+  "status": "draft",
+  "category": "tool",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "group-chat-where-your-ai-talks-behind-your-back"
+}

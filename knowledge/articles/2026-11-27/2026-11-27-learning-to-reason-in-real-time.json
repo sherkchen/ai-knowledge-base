@@ -1,0 +1,33 @@
+{
+  "id": "rss-20261127-036",
+  "title": "Learning to Reason in Real-Time",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2611.33513",
+  "summary": "论文提出实时推理训练(RRT)，教智能体在实时环境中平衡思考与行动，在Frogger和Snake中奖励大幅提升。",
+  "highlights": [
+    "提出实时推理训练(RRT)及其三类标准技术",
+    "包括使用实时数据、行动与观察解耦、时间课程学习",
+    "在Frogger和Snake任务中奖励比基线平均提升33%-55%"
+  ],
+  "tags": [
+    "real-time reasoning",
+    "ai agents",
+    "reinforcement learning",
+    "decision making",
+    "curriculum learning",
+    "time constraints",
+    "paper"
+  ],
+  "relevance_score": 10,
+  "score_reason": "直接涉及AI智能体实时推理与训练，主题高度相关",
+  "author": "Xavier Schneider, Benjamin Schneider, Sun Sun, Olga Vechtomova, Victor Zhong",
+  "published_at": "Fri, 27 Nov 2026 00:00:00 -0500",
+  "fetched_at": "2026-11-27T17:52:50.204527+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "learning-to-reason-in-real-time"
+}

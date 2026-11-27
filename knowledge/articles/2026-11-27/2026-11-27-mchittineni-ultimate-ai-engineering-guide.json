@@ -1,0 +1,34 @@
+{
+  "id": "github-20261127-009",
+  "title": "mchittineni/ultimate-ai-engineering-guide",
+  "source": "github_trending",
+  "source_url": "https://github.com/mchittineni/ultimate-ai-engineering-guide",
+  "summary": "涵盖200+ AI、GenAI、LLM、智能体等面试题，含答案、示例与技巧。",
+  "highlights": [
+    "覆盖10大主题200+面试题，涉及GenAI、LLM、Agentic AI等",
+    "每题含简洁答案、深入解析、实战示例和面试技巧",
+    "面向FDE、AI系统架构师、LLMOps等岗位"
+  ],
+  "tags": [
+    "ai-engineering",
+    "llmops",
+    "agentic-ai",
+    "generative-ai",
+    "interview-questions",
+    "llm",
+    "forward-deployed-engineer",
+    "ai-platform"
+  ],
+  "relevance_score": 9,
+  "score_reason": "直接覆盖LLM、智能体、LLMOps等AI工程主题",
+  "author": "mchittineni",
+  "published_at": "2026-08-10T14:54:05Z",
+  "fetched_at": "2026-11-27T17:52:50.204351+00:00",
+  "status": "draft",
+  "category": "other",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "mchittineni-ultimate-ai-engineering-guide"
+}

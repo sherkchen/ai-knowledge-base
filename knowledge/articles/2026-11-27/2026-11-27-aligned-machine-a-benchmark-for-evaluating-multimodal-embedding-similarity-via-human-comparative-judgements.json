@@ -1,0 +1,33 @@
+{
+  "id": "rss-20261127-039",
+  "title": "Aligned Machine: A Benchmark for Evaluating Multimodal Embedding Similarity via Human Comparative Judgements",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2611.33594",
+  "summary": "论文提出Aligned Machine平台和HASB基准，通过人类比较判断评估多模态嵌入相似度与人类语义一致性，发现文本模型对齐优于多模态。",
+  "highlights": [
+    "构建互动平台与HASB基准，收集人类成对比较判断",
+    "评估12种嵌入模型，发现仅部分对齐人类语义",
+    "文本模型对齐度高于多模态；图文比较对齐较弱"
+  ],
+  "tags": [
+    "embedding",
+    "multimodal",
+    "benchmark",
+    "human-alignment",
+    "similarity",
+    "evaluation",
+    "arxiv"
+  ],
+  "relevance_score": 9,
+  "score_reason": "嵌入模型人类对齐评估，属AI核心方向",
+  "author": "Jiechen Li, Hannah Groos, Brinnae Bent",
+  "published_at": "Fri, 27 Nov 2026 00:00:00 -0500",
+  "fetched_at": "2026-11-27T17:52:50.204546+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "aligned-machine-a-benchmark-for-evaluating-multimodal-embedding-similarity-via-human-comparative-judgements"
+}

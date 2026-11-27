@@ -1,0 +1,33 @@
+{
+  "id": "rss-20261127-026",
+  "title": "General-Purpose Decision Models for AI Configuration Tuning",
+  "source": "rss_feed",
+  "source_url": "https://arxiv.org/abs/2611.33190",
+  "summary": "研究通用决策模型Jev用于AI配置调优，优化和预测多数不及传统方法，区域引导可提升质量但需权衡成本。",
+  "highlights": [
+    "通用决策模型Jev作为优化器和性能预测器，在多数任务中不及传统方法。",
+    "在区域引导角色中，Jev可找到比原生调优器更低困惑度的配置。",
+    "研究给出决策角色选择、保留传统预测器及平衡质量与成本的建议。"
+  ],
+  "tags": [
+    "ai configuration tuning",
+    "decision models",
+    "llm",
+    "optimizer",
+    "performance prediction",
+    "hyperparameter optimization",
+    "arxiv"
+  ],
+  "relevance_score": 8,
+  "score_reason": "涉及AI调优与LLM对比，直接相关但非核心Agent研究。",
+  "author": "Jingzhi Gong, Jie M. Zhang",
+  "published_at": "Fri, 27 Nov 2026 00:00:00 -0500",
+  "fetched_at": "2026-11-27T17:52:50.204455+00:00",
+  "status": "draft",
+  "category": "paper",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "general-purpose-decision-models-for-ai-configuration-tuning"
+}

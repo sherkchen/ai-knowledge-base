@@ -1,0 +1,34 @@
+{
+  "id": "github-20261127-010",
+  "title": "ythx-101/x-profile-analyzer",
+  "source": "github_trending",
+  "source_url": "https://github.com/ythx-101/x-profile-analyzer",
+  "summary": "AI推特用户画像分析工具，无需API密钥，通过Nitter+Camofox抓取推文，用MiniMax等LLM生成十维人格报告",
+  "highlights": [
+    "无需X API密钥或登录，通过Nitter+Camofox获取公开推文",
+    "使用MiniMax或任意OpenAI兼容LLM生成10维用户画像报告",
+    "分析主题、风格、动机、活跃热力图等多维度特征"
+  ],
+  "tags": [
+    "persona-analysis",
+    "twitter",
+    "llm",
+    "minimax",
+    "nitter",
+    "no-api-key",
+    "openai-compatible",
+    "ai-agent"
+  ],
+  "relevance_score": 9,
+  "score_reason": "LLM驱动用户画像分析，结合AI代理与免API抓取",
+  "author": "ythx-101",
+  "published_at": "2026-02-19T03:49:30Z",
+  "fetched_at": "2026-11-27T17:52:50.204358+00:00",
+  "status": "draft",
+  "category": "tool",
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "slug": "ythx-101-x-profile-analyzer"
+}
